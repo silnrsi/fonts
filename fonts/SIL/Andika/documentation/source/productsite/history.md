@@ -1,0 +1,225 @@
+
+### 2 July 2021 (SIL WSTech Team) Andika version 6.001
+
+- Reverted font Postscript name to that used in v5 and earlier to avoid problems with unrecognized fonts when opening older documents.
+
+### 29 Jun 2021 (SIL WSTech Team) Andika version 6.000
+
+***Note that this is a major upgrade that may cause document reflow as some glyphs widths have changed and some features have been removed.***
+
+#### Removed
+
+- **Removed DSIGs added in version 5.000.** These have now been removed to reflect current best practice font development guidance. Adobe InDesign will complain that fonts cannot be found if a document last saved with version 5.000 is opened with version 5.960 or later installed. It will be necessary to find/replace the fonts in the document using the command in the Type menu. Please also look over the document carefully to note any places where changes in the fonts have affected letterforms or spacing.
+
+- **Graphite has been removed.** Application and OS support for OpenType has greatly improved, so the need for Graphite in this font family is greatly reduced. *If this affects you, and you find that OpenType does not provide sufficient support for your needs, please contact us right away.*  
+
+- Removed the *Show Invisibles* feature.
+
+- Removed support for nine-level pitch contours. These will be replaced by a standalone pitch contours font in the future.
+
+#### Added
+
+Characters added to support Unicode versions 7.0-13.0, including feature support (e.g. small caps) where appropriate:
+
+- U+03D1 GREEK THETA SYMBOL
+- U+03F4 GREEK CAPITAL THETA SYMBOL
+- U+1AB0 COMBINING DOUBLED CIRCUMFLEX ACCENT
+- U+1AB1 COMBINING DIAERESIS-RING
+- U+1AB2 COMBINING INFINITY
+- U+1AB3 COMBINING DOWNWARDS ARROW
+- U+1AB4 COMBINING TRIPLE DOT
+- U+1AB5 COMBINING X-X BELOW
+- U+1AB6 COMBINING WIGGLY LINE BELOW
+- U+1AB7 COMBINING OPEN MARK BELOW
+- U+1AB8 COMBINING DOUBLE OPEN MARK BELOW
+- U+1AB9 COMBINING LIGHT CENTRALIZATION STROKE BELOW
+- U+1ABA COMBINING STRONG CENTRALIZATION STROKE BELOW
+- U+1DF5 COMBINING UP TACK ABOVE
+- U+203B REFERENCE MARK
+- U+20BE LARI SIGN
+- U+20BF BITCOIN SIGN
+- U+27E8 MATHEMATICAL LEFT ANGLE BRACKET
+- U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET
+- U+2E13 DOTTED OBELOS
+- U+2E14 DOWNWARDS ANCORA
+- U+2E17 DOUBLE OBLIQUE HYPHEN
+- U+2E22 TOP LEFT HALF BRACKET
+- U+2E23 TOP RIGHT HALF BRACKET
+- U+2E24 BOTTOM LEFT HALF BRACKET
+- U+2E25 BOTTOM RIGHT HALF BRACKET
+- U+A78F LATIN LETTER SINOLOGICAL DOT
+- U+A7AE LATIN CAPITAL LETTER SMALL CAPITAL I
+- U+A7AF LATIN LETTER SMALL CAPITAL Q
+- U+A7B3 LATIN CAPITAL LETTER CHI
+- U+A7B4 LATIN CAPITAL LETTER BETA
+- U+A7B5 LATIN SMALL LETTER BETA
+- U+A7B6 LATIN CAPITAL LETTER OMEGA
+- U+A7B7 LATIN SMALL LETTER OMEGA
+- U+A7B8 LATIN CAPITAL LETTER U WITH STROKE
+- U+A7B9 LATIN SMALL LETTER U WITH STROKE
+- U+AB30 LATIN SMALL LETTER BARRED ALPHA
+- U+AB53 LATIN SMALL LETTER CHI
+- U+AB5C MODIFIER LETTER SMALL HENG
+- U+AB5E MODIFIER LETTER SMALL L WITH MIDDLE TILDE
+- U+F26E CAPITAL RAMS HORN (in SIL PUA)
+
+#### New
+
+- First release that uses a UFO-based design and production workflow
+    - All sources are in open formats
+    - Build toolkit and workflow is completely open-source
+    - See https://silnrsi.github.io/silfontdev/en-US/Introduction.html
+
+- New weights previously only available in the Andika New Basic fonts. The new weights may not be identical in metrics or form to the Basic fonts, though care has been taken to minimize differences.
+
+- Web fonts are provided in both WOFF and WOFF2 formats
+
+- Applied new hinting techniques to try to improve screen rendering on Windows
+
+- All-new documentation in HTML and PDF formats
+
+- Features for controlling literacy forms of a and g separately
+    - Double-story a alternates (ss13)
+    - Double-story g alternates (ss14)
+
+- Feature to support side-by-side rendering of U+0300 plus U+0301
+    - Kayan diacritics (cv79)
+
+- Added feature to provide alternate form of capital J with top serif (cv35)
+
+- Tone letter features (cv91 & cv92) now supported through OpenType
+
+- Made many basic or common glyphs interpolation-compatible. There is no current plan to make all of Andika interpolatable, although please let us know if this is a feature that would be helpful to you.
+
+#### Fixes
+
+- Fixed some small capital correspondences, including added support for clicks
+
+- Fixed problems with spacing of tone letters
+
+- Improved miscellaneous anchor positions, including the position of diacritics below glyphs with macrons below (e.g. U+1E0F LATIN SMALL LETTER D WITH LINE BELOW)
+
+- Improved position of diacritics for superscripts and modifier letters (including cedilla, ogonek, rhotic hook)
+
+- Fixes and improvements to various glyphs:
+    - U+00E6 LATIN SMALL LETTER AE (made single-story in italic)
+    - U+01E5 LATIN SMALL LETTER G WITH STROKE (bar position on single-story variant)
+    - U+026D LATIN SMALL LETTER L WITH RETROFLEX HOOK (form)
+    - U+026E LATIN SMALL LETTER EZH
+    - U+02D6 MODIFIER LETTER PLUS SIGN (size)
+    - U+02DF MODIFIER LETTER CROSS ACCENT (size)
+    - U+0306 COMBINING BREVE (improved position for Cyrillic)
+    - U+0312 COMBINING TURNED COMMA ABOVE (increased size)
+    - U+0313 COMBINING COMMA ABOVE (increased size)
+    - U+031A COMBINING LEFT ANGLE ABOVE (spacing)
+    - U+0326 COMBINING COMMA BELOW (increased size)
+    - U+033B COMBINING SQUARE BELOW (more rectangular)
+    - U+04E0 CYRILLIC CAPITAL LETTER ABKHASIAN DZE (form)
+    - U+1D15 LATIN LETTER SMALL CAPITAL OU (form)
+    - U+1D3B MODIFIER LETTER CAPITAL REVERSED N (form)
+    - U+1D77 LATIN SMALL LETTER TURNED G (position)
+    - U+1D78 MODIFIER LETTER CYRILLIC EN (form)
+    - U+1DA9 MODIFIER LETTER SMALL L WITH RETROFLEX HOOK (form)
+    - U+2008 PUNCTUATION SPACE (made width consistent)
+    - U+A76A LATIN CAPITAL LETTER ET
+    - U+A76B LATIN SMALL LETTER ET
+    - U+A76C LATIN CAPITAL LETTER IS
+    - U+A76D LATIN SMALL LETTER IS
+    - U+A778 LATIN SMALL LETTER UM (spacing)
+    - U+A77F LATIN SMALL LETTER TURNED INSULAR G (position)
+    - U+A78E LATIN SMALL LETTER L WITH RETROFLEX HOOK AND BELT (form)
+    - U+A7F8 MODIFIER LETTER CAPITAL H WITH STROKE (form)
+
+#### Known issues
+
+- There is no support for TypeTuner or TypeTuner Web. We hope to add that support soon.
+
+- There are no regional subsets. Please contact us if these are a priority for you and describe how you use them. We are reassessing whether to provide these subsets. With current web technology and WOFF2 compression most uses can be met equally well with the full fonts.
+
+### 27 Oct 2014 (SIL NRSI team) Andika Regular version 5.000
+- Added Stylistic Sets to the font for OpenType support 
+	of previously Graphite-only features
+- Added Character Variants to the font for OpenType support 
+	of previously Graphite-only features
+- Added Serbian feature when Serbian language is turned on
+- Added hook D variant feature (for U+018A/U+0257)
+- Removed "Show deprecated PUA" feature
+- Removed "Romanian-style diacritics" feature 
+  (because glyphs are now encoded)
+- Removed "Diacritic selection" feature
+- Added U+039E, U+03BC, U+03C6 and U+03C9 in the Greek and Coptic block
+- Added U+0528..U+052F in the Cyrillic Supplement block
+- Added U+2041 in the General Punctuation block
+- Added U+2095..U+209C in the Superscripts and Subscripts block
+- Added U+20B6..U+20BD in the Currency Symbols block
+- Added U+210C, U+2113, U+2117, U+212D, U+2135, U+214F in the 
+  Letterlike Symbols block
+- Added U+2150..U+2152 and U+2189 in the Number Forms block
+- Added U+2226, U+2234..U+2235, U+2262, U+2282..U+2287 in the 
+  Mathematical Operators block
+- Added U+2640, U+2642, U+266D, U+266F in the Miscellaneous Symbols block
+- Added U+27E8..U+27E9 in the Miscellaneous Mathematical Symbols-A block
+- Added U+2C7E..U+2C7F in the Latin Extended-C block
+- Added U+2C88 in the Coptic block
+- Added U+2E00..U+2E0D, U+2E3A..U+2E3B in the Supplemental 
+  Punctuation block
+- Added U+A736..U+A73F, U+A742..U+A74D, U+A750..U+A787, U+A790..U+A7AD, 
+  U+A7B0..U+A7B1, U+A7F7..U+A7FA in the Latin Extended-D block. 
+  These were also added to relevant features.
+- Added U+A92E in the Kayah Li block (to support the Kayah Li language 
+  when using the Roman script)
+- Added U+AB64..U+AB65 in the Latin Extended-E block
+- Added U+1D40C, U+1D504..U+1D505, U+1D50A, U+1D50E..U+1D50F, U+1D514, 
+  U+1D516..U+1D517, U+1D519 in the Mathematical Alphanumeric Symbols block
+- Added PUA characters U+F26C (curl J) and U+F26D (left-hook b)
+- Characters in our PUA that were added to Unicode have had their 
+  codepoints updated:
+  F1AD>A7F9, F266>A78E, F26B>A78D, F32C>0526, F32D>0527, F17B>1DFD, F209>2C70
+- These PUA characters were deprecated (now white on black glyphs): 
+  U+F17B, U+F1AD, U+F209, U+F247, U+F248, U+F266, U+F26B, U+F32C, U+F32D
+- Deleted U+0149 as it is officially deprecated in Unicode
+- Added support for shorter macrons under narrow letters (i,l,r,t).
+  (This only works for Graphite or using precomposed characters in OpenType.)
+- Made it possible for saltillo characters (U+A78B and U+A78C) to "carry" 
+  diacritics
+- Improved design of U+A722..U+A725 and U+A78D
+- Refactored all cedilla positioning
+- Removal of unneeded duplicate glyphs (because of improvements in smart 
+  font code)
+- Bug fix in Graphite code to allow for simultaneous selection of Vietnamese 
+  alternates and Small Caps
+- Bug fix in Graphite code to allow for simultaneous selection of Ogonek 
+  alternates and Small Caps
+- Version number bumped up to match other SIL Roman fonts
+- Optimized Graphite code for faster processing of plain ASCII text
+- Subscript and Superscript parentheses, minus, plus and equals were raised.
+	Metrics were not changed.
+- Modified U+0452 to have a descender
+- Changed postscript names for U+0218 and U+0219
+- Changed postscript names for U+2203, U+232A and U+2329
+- Changed design of U+A728 to use lowercase ezh form
+- Added space to right of U+201E to make it equal to that of U+201A
+- Made U+005C Reverse Solidus an actual reverse of U+002F Solidus
+- "Hide tone contour staves" feature now works with single tonebar
+- Changed U+1D44 and U+0250 to be double-story rather than single-story
+- Allowed combining marks to render properly with U+02D0
+
+### 1 Aug 2012 (SIL NRSI team) Andika Regular version 1.004
+- Changed Graphite feature identifiers from integers to 4-character 
+  alphanumeric tags (no other changes)
+
+### 12 Sep 2011 (SIL NRSI team) Andika Regular version 1.002
+- Removed the VDMX table and changed the version number.
+
+### 8 Jul 2011 (SIL NRSI team) Andika Regular version 1.000
+- Released under SIL Open Font License.
+
+### 2 May 2008 (SIL NRSI team) Andika Basic Regular version 1.0
+- Released under SIL Open Font License.
+
+### 19 Jan 2007 (SIL NRSI team) Andika Design Review version 0.001
+- Released under Open Font License. Five new fonts containing
+  revisions of some glyphs and different combinations of others.
+
+### 7 Aug 2006 (SIL NRSI team) Andika Design Review version 0.001
+- Released under Open Font License.
