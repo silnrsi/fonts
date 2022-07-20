@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo "-----Rebuilding test documents..."
+
+echo "     >>> HTML (documentation/)"
+
+echo "     > Andika"
+pandoc -s -f markdown-smart --template assets/testtemplate.html Andika/test_main.md -o Andika/test_main.html
+
+echo "-----Completed!"
