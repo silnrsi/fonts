@@ -1,6 +1,6 @@
 ---
-title: Andika - Webfont Test
-gfhref: "https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+title: Andika - Webfont Test (Ext)
+gfhref: "https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&subset=latin-ext,cyrillic-ext,vietnamese"
 ---
 
 ## Scripts (UDHR 26)

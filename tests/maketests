@@ -6,5 +6,6 @@ echo "     >>> HTML (documentation/)"
 
 echo "     > Andika"
 pandoc -s -f markdown-smart --template assets/testtemplate.html Andika/test_main.md -o Andika/test_main.html
+pandoc -s -f markdown-smart --template assets/testtemplate.html Andika/test_ext.md -o Andika/test_ext.html
 
 echo "-----Completed!"
