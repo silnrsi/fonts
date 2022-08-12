@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="An example of using SIL fonts on your web page via Google fonts">
+	<meta name="author" content="NRSI, SIL International: scripts.sil.org">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+@font-face {
+    font-family: Andika-F;
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/SIL/Andika/web/Andika-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: Andika-F;
+    font-weight: normal;
+    font-style: italic;
+    src: url("https://fonts.languagetechnology.org/fonts/SIL/Andika/web/Andika-Italic.woff2") format("woff2");
+}
+@font-face {
+    font-family: Andika-F;
+    font-weight: bold;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/SIL/Andika/web/Andika-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: Andika-F;
+    font-weight: bold;
+    font-style: italic;
+    src: url("https://fonts.languagetechnology.org/fonts/SIL/Andika/web/Andika-BoldItalic.woff2") format("woff2");
+}
+@font-face {
+    font-family: Andika-P;
+    font-weight: normal;
+    font-style: normal;
+    src: url("../../fonts/SIL/Andika/web/Andika-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: Andika-P;
+    font-weight: normal;
+    font-style: italic;
+    src: url("../../fonts/SIL/Andika/web/Andika-Italic.woff2") format("woff2");
+}
+@font-face {
+    font-family: Andika-P;
+    font-weight: bold;
+    font-style: normal;
+    src: url("../../fonts/SIL/Andika/web/Andika-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: Andika-P;
+    font-weight: bold;
+    font-style: italic;
+    src: url("../../fonts/SIL/Andika/web/Andika-BoldItalic.woff2") format("woff2");
+}
+body {
+    font-family: serif;
+    font-size: 14px;
+}
+.AndGF {
+    font-family: 'Andika', serif;
+    font-size: 22px;
+}
+.AndF {
+    font-family: 'Andika-F', serif;
+    font-size: 22px;
+}
+.AndP {
+    font-family: 'Andika-P', serif;
+    font-size: 22px;
+}
+</style>
+</head>
+<body>
+    <h1>Webfont test</h1>
+
+    <h2>Latin</h2>
+    
+    <h3>UDHR #26 Vietnamese language</h3>
+    <h4>Regular Path-Referenced</h4>
+    <div>
+    <p><span class="AndP">Mọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít nhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ thuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên tắc công bằng cho bất cứ ai có đủ khả năng.</span></p>
+    </div>
+    <h4>Regular FLO</h4>
+    <div>
+    <p><span class="AndF">Mọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít nhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ thuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên tắc công bằng cho bất cứ ai có đủ khả năng.</span></p>
+    </div>
+    <h4>Regular GF</h4>
+    <div>
+    <p><span class="AndGF">Mọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít nhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ thuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên tắc công bằng cho bất cứ ai có đủ khả năng.</span></p>
+    </div>
+    <h4>lang=vi Path-Referenced</h4>
+    <div>
+    <p><span class="AndP" lang="vi">Mọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít nhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ thuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên tắc công bằng cho bất cứ ai có đủ khả năng.</span></p>
+    </div>
+    <h4>lang=vi FLO</h4>
+    <div>
+    <p><span class="AndF" lang="vi">Mọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít nhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ thuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên tắc công bằng cho bất cứ ai có đủ khả năng.</span></p>
+    </div>
+    <h4>lang=vi GF</h4>
+    <div>
+    <p><span class="AndGF" lang="vi">Mọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít nhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ thuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên tắc công bằng cho bất cứ ai có đủ khả năng.</span></p>
+    </div>
+    <h4>style="font-feature-settings: 'cv75' 1" Path-Referenced</h4>
+    <div>
+    <p><span class="AndP" style="font-feature-settings: 'cv75' 1">Mọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít nhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ thuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên tắc công bằng cho bất cứ ai có đủ khả năng.</span></p>
+    </div>
+    <h4>style="font-feature-settings: 'cv75' 1" FLO</h4>
+    <div>
+    <p><span class="AndF" style="font-feature-settings: 'cv75' 1">Mọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít nhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ thuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên tắc công bằng cho bất cứ ai có đủ khả năng.</span></p>
+    </div>
+    <h4>style="font-feature-settings: 'cv75' 1" GF</h4>
+    <div>
+    <p><span class="AndGF" style="font-feature-settings: 'cv75' 1">Mọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít nhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ thuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên tắc công bằng cho bất cứ ai có đủ khả năng.</span></p>
+    </div>
+    
+    <h2>Cyrillic</h2>
+    
+    <h3>UDHR #26 Macedonian language</h3>
+    <h4>Italic Path-Referenced</h4>
+    <div>
+    <p><span class="AndP"><em>Секој има право на образование. Образованието ќе биде бесплатно, барем на ниво на основно образование. Основното образование ќе биде задолжително. Техничкото и стручното образование ќе бидат општо достапни, а пристапот кон високото образование ќе биде достапно за сите врз основа на заслужените оценки.</em></span></p>
+    </div>
+    <h4>Italic FLO</h4>
+    <div>
+    <p><span class="AndF"><em>Секој има право на образование. Образованието ќе биде бесплатно, барем на ниво на основно образование. Основното образование ќе биде задолжително. Техничкото и стручното образование ќе бидат општо достапни, а пристапот кон високото образование ќе биде достапно за сите врз основа на заслужените оценки.</em></span></p>
+    </div>
+    <h4>Italic GF</h4>
+    <div>
+    <p><span class="AndGF"><em>Секој има право на образование. Образованието ќе биде бесплатно, барем на ниво на основно образование. Основното образование ќе биде задолжително. Техничкото и стручното образование ќе бидат општо достапни, а пристапот кон високото образование ќе биде достапно за сите врз основа на заслужените оценки.</em></span></p>
+    </div>
+    <h4>Italic lang=mk Path-Referenced</h4>
+    <div>
+    <p><span class="AndP" lang="mk"><em>Секој има право на образование. Образованието ќе биде бесплатно, барем на ниво на основно образование. Основното образование ќе биде задолжително. Техничкото и стручното образование ќе бидат општо достапни, а пристапот кон високото образование ќе биде достапно за сите врз основа на заслужените оценки.</em></span></p>
+    </div>
+    <h4>Italic lang=mk FLO</h4>
+    <div>
+    <p><span class="AndF" lang="mk"><em>Секој има право на образование. Образованието ќе биде бесплатно, барем на ниво на основно образование. Основното образование ќе биде задолжително. Техничкото и стручното образование ќе бидат општо достапни, а пристапот кон високото образование ќе биде достапно за сите врз основа на заслужените оценки.</em></span></p>
+    </div>
+    <h4>Italic lang=mk GF</h4>
+    <div>
+    <p><span class="AndGF" lang="mk"><em>Секој има право на образование. Образованието ќе биде бесплатно, барем на ниво на основно образование. Основното образование ќе биде задолжително. Техничкото и стручното образование ќе бидат општо достапни, а пристапот кон високото образование ќе биде достапно за сите врз основа на заслужените оценки.</em></span></p>
+    </div>
+    <h4>Italic style="font-feature-settings: 'cv84' 1" Path-Referenced</h4>
+    <div>
+    <p><span class="AndP" style="font-feature-settings: 'cv84' 1"><em>Секој има право на образование. Образованието ќе биде бесплатно, барем на ниво на основно образование. Основното образование ќе биде задолжително. Техничкото и стручното образование ќе бидат општо достапни, а пристапот кон високото образование ќе биде достапно за сите врз основа на заслужените оценки.</em></span></p>
+    </div>
+    <h4>Italic style="font-feature-settings: 'cv84' 1" FLO</h4>
+    <div>
+    <p><span class="AndF" style="font-feature-settings: 'cv84' 1"><em>Секој има право на образование. Образованието ќе биде бесплатно, барем на ниво на основно образование. Основното образование ќе биде задолжително. Техничкото и стручното образование ќе бидат општо достапни, а пристапот кон високото образование ќе биде достапно за сите врз основа на заслужените оценки.</em></span></p>
+    </div>
+    <h4>Italic style="font-feature-settings: 'cv84' 1" GF</h4>
+    <div>
+    <p><span class="AndGF" style="font-feature-settings: 'cv84' 1"><em>Секој има право на образование. Образованието ќе биде бесплатно, барем на ниво на основно образование. Основното образование ќе биде задолжително. Техничкото и стручното образование ќе бидат општо достапни, а пристапот кон високото образование ќе биде достапно за сите врз основа на заслужените оценки.</em></span></p>
+    </div>
+        
+</body>
+</html>
