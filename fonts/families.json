@@ -1,0 +1,66 @@
+{ 
+  "fontfamilyID": "andika",
+  "family": "AndikaL",
+  "site": "https://software.sil.org/andika",
+  "package": "https://software.sil.org/downloads/r/andika/Andika-6.101.zip",
+  "filesroot": "sil/andika/",
+  "files": {
+             "Andika-Regular.ttf": {"format": "ttf", "wght": 400, "ital": 0},
+             "web/Andika-Regular.woff": {"format": "woff", "wght": 400, "ital": 0},
+             "web/Andika-Regular.woff2": {"format": "woff2", "wght": 400.0, "ital": 0},
+	         "Andika-Bold.ttf": {"format": "ttf", "wght": 700, "ital": 0},
+             "web/Andika-Bold.woff": {"format": "woff", "wght": 700.0, "ital": 0},
+             "web/Andika-Bold.woff2": {"format": "woff2", "wght": 700.0, "ital": 0},
+             "Andika-Italic.ttf": {"format": "ttf", "wght": 400.0, "ital": 1},
+             "web/Andika-Italic.woff": {"format": "woff", "wght": 400.0, "ital": 1},
+             "web/Andika-Italic.woff2": {"format": "woff2", "wght": 400.0, "ital": 1},
+             "Andika-BoldItalic.ttf": {"format": "ttf", "wght": 700.0, "ital": 1},
+             "web/Andika-BoldItalic.woff": {"format": "woff", "wght": 700.0, "ital": 1},
+             "web/Andika-BoldItalic.woff2": {"format": "woff2", "wght": 700.0, "ital": 1}
+  },
+  "defaultttf": "Andika-Regular.ttf",
+  "defaultwoff": "web/Andika-Regular.woff",
+  "defaultwoff2": "web/Andika-Regular.woff2",
+  "version": "6.101",
+  "status": "current",
+  "source": "SIL",
+  "googlefonts": {
+                    "defaulthref": "",
+                    "fullhref": "",
+                    "version": "6.101",
+                    "notes": "",
+   }
+}
+{ 
+  "fontfamilyID": "charissil",
+  "family": "Charis SIL",
+  "site": "https://software.sil.org/charis",
+  "package": "https://software.sil.org/downloads/r/charis/CharisSIL-6.101.zip",
+  "filesroot": "sil/charissil/",
+  "files": {
+             "CharisSIL-Regular.ttf": {"format": "ttf", "wght": 400, "ital": 0},
+             "web/CharisSIL-Regular.woff": {"format": "woff", "wght": 400, "ital": 0},
+             "web/CharisSIL-Regular.woff2": {"format": "woff2", "wght": 400.0, "ital": 0},
+	         "CharisSIL-Bold.ttf": {"format": "ttf", "wght": 700, "ital": 0},
+             "web/CharisSIL-Bold.woff": {"format": "woff", "wght": 700.0, "ital": 0},
+             "web/CharisSIL-Bold.woff2": {"format": "woff2", "wght": 700.0, "ital": 0},
+             "CharisSIL-Italic.ttf": {"format": "ttf", "wght": 400.0, "ital": 1},
+             "web/CharisSIL-Italic.woff": {"format": "woff", "wght": 400.0, "ital": 1},
+             "web/CharisSIL-Italic.woff2": {"format": "woff2", "wght": 400.0, "ital": 1},
+             "CharisSIL-BoldItalic.ttf": {"format": "ttf", "wght": 700.0, "ital": 1},
+             "web/CharisSIL-BoldItalic.woff": {"format": "woff", "wght": 700.0, "ital": 1},
+             "web/CharisSIL-BoldItalic.woff2": {"format": "woff2", "wght": 700.0, "ital": 1}
+  },
+  "defaultttf": "CharisSIL-Regular.ttf",
+  "defaultwoff": "web/CharisSIL-Regular.woff",
+  "defaultwoff2": "web/CharisSIL-Regular.woff2",
+  "version": "6.101",
+  "status": "current",
+  "source": "SIL",
+  "googlefonts": {
+                    "defaulthref": "",
+                    "fullhref": "",
+                    "version": "6.101",
+                    "notes": "",
+   }
+}
