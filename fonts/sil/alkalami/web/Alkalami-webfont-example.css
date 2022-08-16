@@ -1,0 +1,56 @@
+/*
+Alkalami-webfont-example.css
+This file is part of Alkalami font family (http://software.sil.org/alkalami)
+and is Copyright (c) 2015-2022 SIL International (http://www.sil.org/),
+with Reserved Font Names "Alkalami" and "SIL". This Font Software is licensed
+under the SIL Open Font License, Version 1.1. You should have received a copy
+of the license along with this Font Software. If this is not the case, go to
+(http://scripts.sil.org/OFL) for all the details including a FAQ.
+*/
+
+/* use Alkalami - Regular in .woff format */
+@font-face {
+  font-family: AlkalamiRW;
+  src: url(Alkalami-Regular.woff2);
+}
+
+/* set body to use Alkalami in .woff format */
+body {
+  font-family: AlkalamiRW, sans-serif; text-align: left;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+
+h1 {
+  font-family: AlkalamiRW, sans-serif; text-align: left; font-size: 230%;
+}
+h2 {
+  font-family: AlkalamiRW, sans-serif; text-align: left;font-size: 220%;
+}
+h2 {
+  font-family: AlkalamiRW, sans-serif; text-align: left;font-size: 200%;
+}
+.rtl {
+  font-family: AlkalamiRW, sans-serif; font-size: 200%; direction: rtl; text-align: right;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}	
+.rtll {
+  font-family: AlkalamiRW, sans-serif; font-size: 200%; direction: rtl; text-align: right;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}	
+
+.ss02 {
+  font-family: AlkalamiRW;
+  font-feature-settings: "ss02";
+  -moz-font-feature-settings: "ss02";
+  -webkit-font-feature-settings: "ss02";
+  font-size: 200%; direction: rtl; text-align: right;
+}
+.ss0209 {
+  font-family: AlkalamiRW; 
+  font-feature-settings: "ss09" 1, "ss02" 1;
+  -moz-font-feature-settings: "ss09" 1, "ss02" 1;
+  -webkit-font-feature-settings: "ss09" 1, "ss02" 1;
+  font-size: 200%; direction: rtl; text-align: right;
+}
+
+	
