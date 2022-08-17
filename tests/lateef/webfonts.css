@@ -1,0 +1,39 @@
+@font-face {
+    font-family: LPR;
+    font-weight: normal;
+    font-style: normal;
+    src: url("../../fonts/sil/lateef/web/Lateef-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR;
+    font-weight: bold;
+    font-style: normal;
+    src: url("../../fonts/sil/lateef/web/Lateef-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/lateef/web/Lateef-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: bold;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/lateef/web/Lateef-Bold.woff2") format("woff2");
+}
+.lpr {
+    font-family: 'LPR', sans-serif;
+    font-size: 22px;
+    direction: rtl;
+}
+.gf {
+    font-family: 'Lateef', sans-serif;
+    font-size: 22px;
+    direction: rtl;
+}
+.flo {
+    font-family: 'FLO', sans-serif;
+    font-size: 22px;
+    direction: rtl;
+}

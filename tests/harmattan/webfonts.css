@@ -1,0 +1,39 @@
+@font-face {
+    font-family: LPR;
+    font-weight: normal;
+    font-style: normal;
+    src: url("../../fonts/sil/harmattan/web/Harmattan-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: LPR;
+    font-weight: bold;
+    font-style: normal;
+    src: url("../../fonts/sil/harmattan/web/Harmattan-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/harmattan/web/Harmattan-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: bold;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/harmattan/web/Harmattan-Bold.woff") format("woff");
+}
+.lpr {
+    font-family: 'LPR', sans-serif;
+    font-size: 22px;
+    direction: rtl;
+}
+.gf {
+    font-family: 'Harmattan', sans-serif;
+    font-size: 22px;
+    direction: rtl;
+}
+.flo {
+    font-family: 'FLO', sans-serif;
+    font-size: 22px;
+    direction: rtl;
+}

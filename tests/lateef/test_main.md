@@ -1,6 +1,6 @@
 ---
-title: Scheherazade New - Webfont Test
-gfhref: "https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;700&display=swap"
+title: Lateef - Webfont Test
+gfhref: "https://fonts.googleapis.com/css2?family=Lateef&display=swap"
 ---
 
 ## Scripts (UDHR 26)
@@ -20,12 +20,27 @@ FLO Arabic (Wolof) | <span class='flo'>نِتْ ڪُ نࣹ اَمْ نَ سَݧ�
 
 Source/Style/Weight | Sample
 ------- | -------------------------:
+LPR ExtraLight 300 | <span class='lpr' style='font-weight: 300'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+LPR Light 350 | <span class='lpr' style='font-weight: 350'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
 LPR Regular 400 | <span class='lpr' style='font-weight: 400'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+LPR Medium 500 | <span class='lpr' style='font-weight: 500'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+LPR SemiBold 600 | <span class='lpr' style='font-weight: 600'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
 LPR Bold 700 | <span class='lpr' style='font-weight: 700'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+LPR ExtraBold 800 | <span class='lpr' style='font-weight: 800'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+GF ExtraLight 300 | <span class='gf' style='font-weight: 300'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+GF Light 350 | <span class='gf' style='font-weight: 350'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
 GF Regular 400 | <span class='gf' style='font-weight: 400'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+GF Medium 500 | <span class='gf' style='font-weight: 500'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+GF SemiBold 600 | <span class='gf' style='font-weight: 600'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
 GF Bold 700 | <span class='gf' style='font-weight: 700'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+GF ExtraBold 800 | <span class='gf' style='font-weight: 800'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+FLO ExtraLight 300 | <span class='flo' style='font-weight: 300'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+FLO Light 350 | <span class='flo' style='font-weight: 350'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
 FLO Regular 400 | <span class='flo' style='font-weight: 400'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+FLO Medium 500 | <span class='flo' style='font-weight: 500'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+FLO SemiBold 600 | <span class='flo' style='font-weight: 600'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
 FLO Bold 700 | <span class='flo' style='font-weight: 700'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
+FLO ExtraBold 800 | <span class='flo' style='font-weight: 800'>أَبْجَدْ هَوَّزْ حُطِّي كَلِمَنْ سَعْفَصْ قَرْشَتْ ثَخَّذْ ضَغَّظْ.</span>
 
 ## Default behavior
 
@@ -61,24 +76,10 @@ FLO Sindhi ('sd') | <span class='flo' lang='sd'>ئ ئئئ ج ججج دبد م م
 LPR Urdu ('ur') | <span class='lpr' lang='ur'>ئ ئئئ ج ججج دبد م ممم ه ههه بِّ بُ ببٗ ،؛ ۴۶۷</span>
 GF Urdu ('ur')  | <span class='gf' lang='ur'>ئ ئئئ ج ججج دبد م ممم ه ههه بِّ بُ ببٗ ،؛ ۴۶۷</span>
 FLO Urdu ('ur') | <span class='flo' lang='ur'>ئ ئئئ ج ججج دبد م ممم ه ههه بِّ بُ ببٗ ،؛ ۴۶۷</span>
-LPR Wolof ('wo') | <span class='lpr' lang='wo'>ئ ئئئ ج ججج دبد م ممم ه ههه بِّ بُ ببٗ ،؛ ۴۶۷</span>
-GF Wolof ('wo')  | <span class='gf' lang='wo'>ئ ئئئ ج ججج دبد م ممم ه ههه بِّ بُ ببٗ ،؛ ۴۶۷</span>
-FLO Wolof ('wo') | <span class='flo' lang='wo'>ئ ئئئ ج ججج دبد م ممم ه ههه بِّ بُ ببٗ ،؛ ۴۶۷</span>
 
 ## User-selectable features (complete)
 
 ### Character Variants
-
-<!--- SH cv12 dal x062F x0628 x062F x0020 x0630 x0628 x0630 x0020 x0688 x0628 x0688 x0020 x0689 x0628 x0689 x0020 x068a x0628 x068a x0020 x068b x0628 x068b x0020 x068c x0628 x068c x0020 x068d x0628 x068d x0020 x068e x0628 x068e x0020 x068f x0628 x068f x0020 x0690 x0628 x0690 x0020 x06ee x0628 x06ee x0020 x0759 x0628 x0759 x0020 x075a x0628 x075a x0020 x08AE x0628 x08AE x0020 -->
-
-Source/Language | Test sequences
-- | -------------------------:
-LPR default | <span class='lpr'>دبد ذبذ ڈبڈ ډبډ ڊبڊ ڋبڋ ڌبڌ ڍبڍ ڎبڎ ڏبڏ ڐبڐ ۮبۮ ݙبݙ ݚبݚ ࢮبࢮ </span>
-GF default  | <span class='gf'>دبد ذبذ ڈبڈ ډبډ ڊبڊ ڋبڋ ڌبڌ ڍبڍ ڎبڎ ڏبڏ ڐبڐ ۮبۮ ݙبݙ ݚبݚ ࢮبࢮ </span>
-FLO default | <span class='flo'>دبد ذبذ ڈبڈ ډبډ ڊبڊ ڋبڋ ڌبڌ ڍبڍ ڎبڎ ڏبڏ ڐبڐ ۮبۮ ݙبݙ ݚبݚ ࢮبࢮ </span>
-LPR 'cv12' | <span class='lpr' style='font-feature-settings: "cv12" 1'>دبد ذبذ ڈبڈ ډبډ ڊبڊ ڋبڋ ڌبڌ ڍبڍ ڎبڎ ڏبڏ ڐبڐ ۮبۮ ݙبݙ ݚبݚ ࢮبࢮ </span>
-GF 'cv12'  | <span class='gf' style='font-feature-settings: "cv12" 1'>دبد ذبذ ڈبڈ ډبډ ڊبڊ ڋبڋ ڌبڌ ڍبڍ ڎبڎ ڏبڏ ڐبڐ ۮبۮ ݙبݙ ݚبݚ ࢮبࢮ </span>
-FLO 'cv12' | <span class='flo' style='font-feature-settings: "cv12" 1'>دبد ذبذ ڈبڈ ډبډ ڊبڊ ڋبڋ ڌبڌ ڍبڍ ڎبڎ ڏبڏ ڐبڐ ۮبۮ ݙبݙ ݚبݚ ࢮبࢮ </span>
 
 <!--- SHL cv44 meem x0645 x0020 x0645 x0645 x0645 x0020 x0765 x0020 x0765 x0765 x0765 x0020 x0766 x0020 x0766 x0766 x0766 x0020 x08a7 x0020 x08a7 x08a7 x08a7 x0020 -->
 
@@ -130,17 +131,6 @@ LPR 'cv54' | <span class='lpr' style='font-feature-settings: "cv54" 1'>ئ ئئئ
 GF 'cv54'  | <span class='gf' style='font-feature-settings: "cv54" 1'>ئ ئئئ</span>
 FLO 'cv54' | <span class='flo' style='font-feature-settings: "cv54" 1'>ئ ئئئ</span>
 
-<!--- SH cv60 maddah x0622 x0628 x0622  -->
-
-Source/Language | Test sequences
-- | -------------------------:
-LPR default | <span class='lpr'>آبآ</span>
-GF default  | <span class='gf'>آبآ</span>
-FLO default | <span class='flo'>آبآ</span>
-LPR 'cv60' | <span class='lpr' style='font-feature-settings: "cv60" 1'>آبآ</span>
-GF 'cv60'  | <span class='gf' style='font-feature-settings: "cv60" 1'>آبآ</span>
-FLO 'cv60' | <span class='flo' style='font-feature-settings: "cv60" 1'>آبآ</span>
-
 <!--- SHL cv62 kasra shadda x0628 x0650 x0651  -->
 
 Source/Language | Test sequences
@@ -177,17 +167,6 @@ LPR 'cv72' | <span class='lpr' style='font-feature-settings: "cv72" 1'>بٌ</spa
 GF 'cv72'  | <span class='gf' style='font-feature-settings: "cv72" 1'>بٌ</span>
 FLO 'cv72' | <span class='flo' style='font-feature-settings: "cv72" 1'>بٌ</span>
 
-<!--- SH cv74 inverted dammatan x0628 x0657  -->
-
-Source/Language | Test sequences
-- | -------------------------:
-LPR default | <span class='lpr'>بٗ</span>
-GF default  | <span class='gf'>بٗ</span>
-FLO default | <span class='flo'>بٗ</span>
-LPR 'cv74' | <span class='lpr' style='font-feature-settings: "cv74" 1'>بٗ</span>
-GF 'cv74'  | <span class='gf' style='font-feature-settings: "cv74" 1'>بٗ</span>
-FLO 'cv74' | <span class='flo' style='font-feature-settings: "cv74" 1'>بٗ</span>
-
 <!--- SHL cv76 superscript alef x0649 x0670  -->
 
 Source/Language | Test sequences
@@ -195,9 +174,9 @@ Source/Language | Test sequences
 LPR default | <span class='lpr'>ىٰ</span>
 GF default  | <span class='gf'>ىٰ</span>
 FLO default | <span class='flo'>ىٰ</span>
-LPR 'cv76' | <span class='lpr' style='font-feature-settings: "cv76" 1'>ىٰ</span>
-GF 'cv76'  | <span class='gf' style='font-feature-settings: "cv76" 1'>ىٰ</span>
-FLO 'cv76' | <span class='flo' style='font-feature-settings: "cv76" 1'>ىٰ</span>
+LPR 'cv76=2' | <span class='lpr' style='font-feature-settings: "cv76" 2'>ىٰ</span>
+GF 'cv76=2'  | <span class='gf' style='font-feature-settings: "cv76" 2'>ىٰ</span>
+FLO 'cv76=2' | <span class='flo' style='font-feature-settings: "cv76" 2'>ىٰ</span>
 
 <!--- SHL cv78 sukun x0628 x0652  -->
 
@@ -226,18 +205,6 @@ FLO 'cv80=1' | <span class='flo' style='font-feature-settings: "cv80" 1'>۝١٢<
 LPR 'cv80=2' | <span class='lpr' style='font-feature-settings: "cv80" 2'>۝١٢</span>
 GF 'cv80=2'  | <span class='gf' style='font-feature-settings: "cv80" 2'>۝١٢</span>
 FLO 'cv80=2' | <span class='flo' style='font-feature-settings: "cv80" 2'>۝١٢</span>
-
-<!--- S cv81 honorifics xFD40 xFD41 xFD42 xFD43 xFD44 xFD45 xFD46 xFD47 xFD48 xFD49 xFD4A xFD4B xFD4C xFD4D xFD4E xFD4F xFDCF xFDFA xFDFB xFDFD xFDFF xFDFF  -->
-
-Source/Language | Test sequences
-- | -------------------------:
-LPR default | <span class='lpr'>﵀﵁﵂﵃﵄﵅﵆﵇﵈﵉﵊﵋﵌﵍﵎﵏﷏ﷺﷻ﷽﷿﷿</span>
-GF default  | <span class='gf'>﵀﵁﵂﵃﵄﵅﵆﵇﵈﵉﵊﵋﵌﵍﵎﵏﷏ﷺﷻ﷽﷿﷿</span>
-FLO default | <span class='flo'>﵀﵁﵂﵃﵄﵅﵆﵇﵈﵉﵊﵋﵌﵍﵎﵏﷏ﷺﷻ﷽﷿﷿</span>
-LPR 'cv81=1' | <span class='lpr' style='font-feature-settings: "cv81" 1'>﵀﵁﵂﵃﵄﵅﵆﵇﵈﵉﵊﵋﵌﵍﵎﵏﷏ﷺﷻ﷽﷿﷿</span>
-GF 'cv81=1'  | <span class='gf' style='font-feature-settings: "cv81" 1'>﵀﵁﵂﵃﵄﵅﵆﵇﵈﵉﵊﵋﵌﵍﵎﵏﷏ﷺﷻ﷽﷿﷿</span>
-FLO 'cv81=1' | <span class='flo' style='font-feature-settings: "cv81" 1'>﵀﵁﵂﵃﵄﵅﵆﵇﵈﵉﵊﵋﵌﵍﵎﵏﷏ﷺﷻ﷽﷿﷿</span>
-
 
 <!--- SHL cv82 eastern digits x06F4 x06f6 x06f7  -->
 
