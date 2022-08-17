@@ -1,6 +1,6 @@
 { 
   "fontfamilyID": "andika",
-  "family": "AndikaL",
+  "family": "Andika",
   "site": "https://software.sil.org/andika",
   "package": "https://software.sil.org/downloads/r/andika/Andika-6.101.zip",
   "filesroot": "sil/andika/",
@@ -64,5 +64,4 @@
                     "notes": "",
    }
 }
-{}
-{}
+
