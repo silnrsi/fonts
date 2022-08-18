@@ -20,4 +20,8 @@ pandoc -s -f markdown-smart --template assets/testtemplate.html lateef/test_main
 echo "     > Scheherazade New"
 pandoc -s -f markdown-smart --template assets/testtemplate.html scheherazadenew/test_main.md -o scheherazadenew/test_main.html
 
+echo "     > Mingzat"
+pandoc -s -f markdown-smart --template assets/testtemplate.html mingzat/test_main.md -o mingzat/test_main.html
+
+
 echo "-----Completed!"

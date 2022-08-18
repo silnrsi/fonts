@@ -1,0 +1,25 @@
+@font-face {
+    font-family: LPR;
+    font-weight: normal;
+    font-style: normal;
+    src: url("../../fonts/sil/mingzat/web/Mingzat-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/mingzat/web/Mingzat-Regular.woff2") format("woff2");
+}
+
+.lpr {
+    font-family: 'LPR', serif;
+    font-size: 22px;
+}
+.gf {
+    font-family: 'Mingzat', serif;
+    font-size: 22px;
+}
+.flo {
+    font-family: 'FLO', serif;
+    font-size: 22px;
+}
