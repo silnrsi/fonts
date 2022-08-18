@@ -1,0 +1,42 @@
+/*
+Mingzat-webfont-example.css
+This file is part of Mingzat font family (http://software.sil.org/mingzat).
+Lepcha glyph design Copyright (c) 2001, GlavyFonts and 
+Copyright (c) 2006 Athinkra, LLC (http://www.athinkra.com)
+with Reserved Font Name "JG Lepcha".
+
+OpenType and Graphite code Copyright (c) 2010-2021, SIL
+International (http://www.sil.org/) with Reserved Font Name "Mingzat".
+
+Latin glyph design Copyright (c) 1994-2019, SIL International
+(http://www.sil.org/), with Reserved Font Names 'SIL' and 'Sophia'.
+This Font Software is licensed
+under the SIL Open Font License, Version 1.1. You should have received a copy
+of the license along with this Font Software. If this is not the case, go to
+(http://scripts.sil.org/OFL) for all the details including a FAQ.
+*/
+
+/* use Mingzat - Regular in .woff format */
+@font-face {
+  font-family: MingzatW;
+  src: url(Mingzat-Regular.woff2);
+}
+
+/* set body to use Mingzat in .ttf format */
+body {
+  font-family: MingzatW, serif;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+
+/* remove bold styling from heading */
+h1 {
+  font-weight: normal;	
+}
+
+h2 {
+  font-family: "Times New Roman"; font-size:30px; color: Blue;
+}
+
+h3 {
+  font-family: "Times New Roman"; font-size:20px; color: Blue;	
+}
