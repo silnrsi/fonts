@@ -8,4 +8,16 @@ echo "     > Andika"
 pandoc -s -f markdown-smart --template assets/testtemplate.html Andika/test_main.md -o Andika/test_main.html
 pandoc -s -f markdown-smart --template assets/testtemplate.html Andika/test_ext.md -o Andika/test_ext.html
 
+echo "     > Alkalami"
+pandoc -s -f markdown-smart --template assets/testtemplate.html alkalami/test_main.md -o alkalami/test_main.html
+
+echo "     > Harmattan"
+pandoc -s -f markdown-smart --template assets/testtemplate.html harmattan/test_main.md -o harmattan/test_main.html
+
+echo "     > Lateef"
+pandoc -s -f markdown-smart --template assets/testtemplate.html lateef/test_main.md -o lateef/test_main.html
+
+echo "     > Scheherazade New"
+pandoc -s -f markdown-smart --template assets/testtemplate.html scheherazadenew/test_main.md -o scheherazadenew/test_main.html
+
 echo "-----Completed!"

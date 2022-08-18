@@ -25,15 +25,16 @@
 .lpr {
     font-family: 'LPR', sans-serif;
     font-size: 22px;
-    direction: rtl;
 }
 .gf {
     font-family: 'Scheherazade New', sans-serif;
     font-size: 22px;
-    direction: rtl;
 }
 .flo {
     font-family: 'FLO', sans-serif;
     font-size: 22px;
-    direction: rtl;
+}
+
+body {
+    text-align: start;
 }
