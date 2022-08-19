@@ -1,4 +1,4 @@
-{ 
+[{ 
   "fontfamilyID": "andika",
   "family": "Andika",
   "site": "https://software.sil.org/andika",
@@ -28,9 +28,9 @@
                     "defaulthref": "",
                     "fullhref": "",
                     "version": "6.101",
-                    "notes": "",
+                    "notes": ""
    }
-}
+},
 { 
   "fontfamilyID": "charissil",
   "family": "Charis SIL",
@@ -61,7 +61,7 @@
                     "defaulthref": "",
                     "fullhref": "",
                     "version": "6.101",
-                    "notes": "",
+                    "notes": ""
    }
-}
+}]
 
