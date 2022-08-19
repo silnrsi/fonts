@@ -1,0 +1,56 @@
+#!/usr/bin/python3
+
+import argparse, os, json
+from functools import lru_cache
+from subprocess import check_output
+
+def normalize(families):
+    for k, v in families.items():
+        if 'filesroot' in v:
+            v['filesroot'] = v['filesroot'].rstrip('/')
+    return families
+
+@lru_cache()
+def getcurrsha():
+    res = check_output(["git", "log", "-1", "--pretty=format:%h"]).decode('utf-8')
+    return res.strip()
+
+parser = argparse.ArgumentParser()
+parser.add_argument("inoutfile",help="families,json file to update")
+parser.add_argument("-i","--indir",help="Root of input directory tree to process")
+parser.add_argument("-d","--dir",action="append",default=[],help="Single directory to process (can be repeated) relative to indir")
+args = parser.parse_args()
+
+inoutdir = os.path.dirname(args.inoutfile)
+dirs = []
+if not len(args.dir) and args.indir is not None:
+    for dp, dn, fn in os.walk(args.indir):
+        for a in ('font', ''):
+            f = a + 'manifest.json'
+            if f in fn:
+                dirs.append((dp, f))
+
+with open(args.inoutfile) as inf:
+    data = json.load(inf)
+
+for d, f in dirs:
+    fmpath = os.path.join(d, f)
+    fid = os.path.split(d)[-1]
+    with open(fmpath, encoding="utf-8") as inf:
+        fmdat = json.load(inf)
+    currdat = data.setdefault(fid, {})
+    currver = currdat.get('version', None)
+    newver = fmdat.get('version', None)
+    currsha = currdat.get("sha", None)
+    if currver != newver:
+        if currsha is not None:
+            currdat.setdefault('versions', {})[currver] = currsha
+    if currsha is None:
+        fmdat['sha'] = getcurrsha()
+    currdat.update(fmdat)
+    data[fid] = currdat
+
+data = normalize(data)
+
+with open(args.inoutfile, "w", encoding="utf-8") as outf:
+    json.dump(data, outf, ensure_ascii=False, sort_keys=True, indent=2)
