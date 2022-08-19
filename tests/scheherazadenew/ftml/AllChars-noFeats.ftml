@@ -4,7 +4,6 @@
   <head>
     <comment>All characters in USV order</comment>
     <fontscale>200</fontscale>
-    <fontsrc label="Repo">url(../../../fonts/sil/scheherazadenew/ScheherazadeNew-Regular.ttf)</fontsrc>
     <fontsrc label="FLO">url(https://fonts.languagetechnology.org/fonts/sil/scheherazadenew/web/ScheherazadeNew-Regular.woff2)</fontsrc>
     <fontsrc label="GF">url(https://fonts.googleapis.com/css?family=Scheherazade+New)</fontsrc>
     <styles>
@@ -2233,7 +2232,15 @@
     </test>
     <test label="U+2018">
       <comment>quoteleft</comment>
-      <string>\u002018 \u002019 \u00201A \u00201B \u00201C \u00201D \u00201E \u00201F \u002020 \u002021 \u002022</string>
+      <string>\u002018 \u002019 \u00201A</string>
+    </test>
+    <test label="U+201C">
+      <comment>quotedblleft</comment>
+      <string>\u00201C \u00201D \u00201E</string>
+    </test>
+    <test label="U+2020">
+      <comment>dagger</comment>
+      <string>\u002020 \u002021 \u002022</string>
     </test>
     <test label="U+2026">
       <comment>ellipsis</comment>
