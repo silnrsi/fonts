@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../assets/ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontscale>250</fontscale>
+    <fontsrc label="FLO">url(https://fonts.languagetechnology.org/fonts/sil/alkalami/web/Alkalami-Regular.woff2)</fontsrc>
+    <fontsrc label="GF">url(https://fonts.googleapis.com/css?family=Alkalami)</fontsrc>
+    <styles>
+      <style feats="'ss02' 1" name="ss02_1"/>
+      <style feats="'ss02' 1, 'ss03' 1" name="ss02_1_ss03_1"/>
+      <style feats="'ss03' 1" name="ss03_1"/>
+    </styles>
+    <title>Subtending Marks (GF)</title>
+  </head>
+  <testgroup background="#f0f0f0" label="Rendering Check">
+    <test label="check">
+      <string>RenderingUnknown</string>
+    </test>
+  </testgroup>
+  <testgroup label="Group">
+    <test label="U+0600 latn">
+      <comment>number-ar</comment>
+      <string>\u000628\u000600\u000645 \u0006002 \u00060022 \u000600222 \u00060012</string>
+    </test>
+    <test label="U+06DD latn">
+      <comment>endofayah-ar</comment>
+      <string>\u000628\u0006DD\u000645 \u0006DD2 \u0006DD22 \u0006DD222 \u0006DD12</string>
+    </test>
+    <test label="U+06DD latn" stylename="ss03_1">
+      <comment>endofayah-ar</comment>
+      <string>\u000628\u0006DD\u000645 \u0006DD2 \u0006DD22 \u0006DD222 \u0006DD12</string>
+    </test>
+    <test label="U+06DD latn" stylename="ss02_1">
+      <comment>endofayah-ar</comment>
+      <string>\u000628\u0006DD\u000645 \u0006DD2 \u0006DD22 \u0006DD222 \u0006DD12</string>
+    </test>
+    <test label="U+06DD latn" stylename="ss02_1_ss03_1">
+      <comment>endofayah-ar</comment>
+      <string>\u000628\u0006DD\u000645 \u0006DD2 \u0006DD22 \u0006DD222 \u0006DD12</string>
+    </test>
+    <test label="U+0600 arab">
+      <comment>number-ar</comment>
+      <string>\u000628\u000600\u000645 \u000600\u000668 \u000600\u000668\u000668 \u000600\u000668\u000668\u000668 \u000600\u000661\u000662</string>
+    </test>
+    <test label="U+06DD arab">
+      <comment>endofayah-ar</comment>
+      <string>\u000628\u0006DD\u000645 \u0006DD\u000668 \u0006DD\u000668\u000668 \u0006DD\u000668\u000668\u000668 \u0006DD\u000661\u000662</string>
+    </test>
+    <test label="U+06DD arab" stylename="ss03_1">
+      <comment>endofayah-ar</comment>
+      <string>\u000628\u0006DD\u000645 \u0006DD\u000668 \u0006DD\u000668\u000668 \u0006DD\u000668\u000668\u000668 \u0006DD\u000661\u000662</string>
+    </test>
+    <test label="U+06DD arab" stylename="ss02_1">
+      <comment>endofayah-ar</comment>
+      <string>\u000628\u0006DD\u000645 \u0006DD\u000668 \u0006DD\u000668\u000668 \u0006DD\u000668\u000668\u000668 \u0006DD\u000661\u000662</string>
+    </test>
+    <test label="U+06DD arab" stylename="ss02_1_ss03_1">
+      <comment>endofayah-ar</comment>
+      <string>\u000628\u0006DD\u000645 \u0006DD\u000668 \u0006DD\u000668\u000668 \u0006DD\u000668\u000668\u000668 \u0006DD\u000661\u000662</string>
+    </test>
+    <test label="Vert alignment" rtl="True">
+      <string>\u0006002 \u0640 \u0006012 \u0640 \u0006022 \u0640 \u0006032 \u0640 \u0006042 \u0640 \u0006052 \u0640 \u0006DD2</string>
+    </test>
+  </testgroup>
+</ftml>
