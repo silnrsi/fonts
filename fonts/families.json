@@ -1,69 +1,113 @@
-{ 
-"andika": {
-  "fontfamilyID": "andika",
-  "family": "Andika",
-  "site": "https://software.sil.org/andika",
-  "package": "https://software.sil.org/downloads/r/andika/Andika-6.101.zip",
-  "filesroot": "sil/andika/",
-  "files": {
-             "Andika-Regular.ttf": {"format": "ttf", "wght": 400, "ital": 0},
-             "web/Andika-Regular.woff": {"format": "woff", "wght": 400, "ital": 0},
-             "web/Andika-Regular.woff2": {"format": "woff2", "wght": 400.0, "ital": 0},
-	         "Andika-Bold.ttf": {"format": "ttf", "wght": 700, "ital": 0},
-             "web/Andika-Bold.woff": {"format": "woff", "wght": 700.0, "ital": 0},
-             "web/Andika-Bold.woff2": {"format": "woff2", "wght": 700.0, "ital": 0},
-             "Andika-Italic.ttf": {"format": "ttf", "wght": 400.0, "ital": 1},
-             "web/Andika-Italic.woff": {"format": "woff", "wght": 400.0, "ital": 1},
-             "web/Andika-Italic.woff2": {"format": "woff2", "wght": 400.0, "ital": 1},
-             "Andika-BoldItalic.ttf": {"format": "ttf", "wght": 700.0, "ital": 1},
-             "web/Andika-BoldItalic.woff": {"format": "woff", "wght": 700.0, "ital": 1},
-             "web/Andika-BoldItalic.woff2": {"format": "woff2", "wght": 700.0, "ital": 1}
-  },
-  "defaultttf": "Andika-Regular.ttf",
-  "defaultwoff": "web/Andika-Regular.woff",
-  "defaultwoff2": "web/Andika-Regular.woff2",
-  "version": "6.101",
-  "status": "current",
-  "source": "SIL",
-  "googlefonts": {
-                    "defaulthref": "",
-                    "fullhref": "",
-                    "version": "6.101",
-                    "notes": ""
-   }
+{
+"alkalami": {
+    "family": "Alkalami",
+    "files": {
+        "Alkalami-Regular.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 400.0 },
+        "web/Alkalami-Regular.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 400.0 },
+        "web/Alkalami-Regular.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 400.0 }
 },
-"charissil": { 
-  "fontfamilyID": "charissil",
-  "family": "Charis SIL",
-  "site": "https://software.sil.org/charis",
-  "package": "https://software.sil.org/downloads/r/charis/CharisSIL-6.101.zip",
-  "filesroot": "sil/charissil/",
-  "files": {
-             "CharisSIL-Regular.ttf": {"format": "ttf", "wght": 400, "ital": 0},
-             "web/CharisSIL-Regular.woff": {"format": "woff", "wght": 400, "ital": 0},
-             "web/CharisSIL-Regular.woff2": {"format": "woff2", "wght": 400.0, "ital": 0},
-	         "CharisSIL-Bold.ttf": {"format": "ttf", "wght": 700, "ital": 0},
-             "web/CharisSIL-Bold.woff": {"format": "woff", "wght": 700.0, "ital": 0},
-             "web/CharisSIL-Bold.woff2": {"format": "woff2", "wght": 700.0, "ital": 0},
-             "CharisSIL-Italic.ttf": {"format": "ttf", "wght": 400.0, "ital": 1},
-             "web/CharisSIL-Italic.woff": {"format": "woff", "wght": 400.0, "ital": 1},
-             "web/CharisSIL-Italic.woff2": {"format": "woff2", "wght": 400.0, "ital": 1},
-             "CharisSIL-BoldItalic.ttf": {"format": "ttf", "wght": 700.0, "ital": 1},
-             "web/CharisSIL-BoldItalic.woff": {"format": "woff", "wght": 700.0, "ital": 1},
-             "web/CharisSIL-BoldItalic.woff2": {"format": "woff2", "wght": 700.0, "ital": 1}
-  },
-  "defaultttf": "CharisSIL-Regular.ttf",
-  "defaultwoff": "web/CharisSIL-Regular.woff",
-  "defaultwoff2": "web/CharisSIL-Regular.woff2",
-  "version": "6.101",
-  "status": "current",
-  "source": "SIL",
-  "googlefonts": {
-                    "defaulthref": "",
-                    "fullhref": "",
-                    "version": "6.101",
-                    "notes": ""
-   }
+    "version": "2.000"
+},
+"andika": {
+    "defaultttf": "Andika-Regular.ttf",
+    "defaultwoff": "web/Andika-Regular.woff",
+    "defaultwoff2": "web/Andika-Regular.woff2",
+    "family": "Andika",
+    "files": {
+        "Andika-Bold.ttf": { "format": "ttf", "ital": 0, "wght": 700 },
+        "Andika-BoldItalic.ttf": { "format": "ttf", "ital": 1, "wght": 700.0 },
+        "Andika-Italic.ttf": { "format": "ttf", "ital": 1, "wght": 400.0 },
+        "Andika-Regular.ttf": { "format": "ttf", "ital": 0, "wght": 400 },
+        "web/Andika-Bold.woff": { "format": "woff", "ital": 0, "wght": 700.0 },
+        "web/Andika-Bold.woff2": { "format": "woff2", "ital": 0, "wght": 700.0 },
+        "web/Andika-BoldItalic.woff": { "format": "woff", "ital": 1, "wght": 700.0 },
+        "web/Andika-BoldItalic.woff2": { "format": "woff2", "ital": 1, "wght": 700.0 },
+        "web/Andika-Italic.woff": { "format": "woff", "ital": 1, "wght": 400.0 },
+        "web/Andika-Italic.woff2": { "format": "woff2", "ital": 1, "wght": 400.0 },
+        "web/Andika-Regular.woff": { "format": "woff", "ital": 0, "wght": 400 },
+        "web/Andika-Regular.woff2": { "format": "woff2", "ital": 0, "wght": 400.0 }
+},
+    "filesroot": "sil/andika",
+    "fontfamilyID": "andika",
+    "googlefonts": {
+        "defaulthref": "",
+        "fullhref": "",
+        "notes": "",
+        "version": "6.101"
+    },
+    "package": "https://software.sil.org/downloads/r/andika/Andika-6.101.zip",
+    "site": "https://software.sil.org/andika",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.101"
+},
+"charissil": {
+    "defaultttf": "CharisSIL-Regular.ttf",
+    "defaultwoff": "web/CharisSIL-Regular.woff",
+    "defaultwoff2": "web/CharisSIL-Regular.woff2",
+    "family": "Charis SIL",
+    "files": {
+        "CharisSIL-Bold.ttf": { "format": "ttf", "ital": 0, "wght": 700 },
+        "CharisSIL-BoldItalic.ttf": { "format": "ttf", "ital": 1, "wght": 700.0 },
+        "CharisSIL-Italic.ttf": { "format": "ttf", "ital": 1, "wght": 400.0 },
+        "CharisSIL-Regular.ttf": { "format": "ttf", "ital": 0, "wght": 400 },
+        "web/CharisSIL-Bold.woff": { "format": "woff", "ital": 0, "wght": 700.0 },
+        "web/CharisSIL-Bold.woff2": { "format": "woff2", "ital": 0, "wght": 700.0 },
+        "web/CharisSIL-BoldItalic.woff": { "format": "woff", "ital": 1, "wght": 700.0 },
+        "web/CharisSIL-BoldItalic.woff2": { "format": "woff2", "ital": 1, "wght": 700.0 },
+        "web/CharisSIL-Italic.woff": { "format": "woff", "ital": 1, "wght": 400.0 },
+        "web/CharisSIL-Italic.woff2": { "format": "woff2", "ital": 1, "wght": 400.0 },
+        "web/CharisSIL-Regular.woff": { "format": "woff", "ital": 0, "wght": 400 },
+        "web/CharisSIL-Regular.woff2": { "format": "woff2", "ital": 0, "wght": 400.0 }
+},
+    "filesroot": "sil/charissil",
+    "fontfamilyID": "charissil",
+    "googlefonts": {
+        "defaulthref": "",
+        "fullhref": "",
+        "notes": "",
+        "version": "6.101"
+    },
+    "package": "https://software.sil.org/downloads/r/charis/CharisSIL-6.101.zip",
+    "site": "https://software.sil.org/charis",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.101"
+},
+"lateef": {
+    "family": "Lateef ExtraBold",
+    "files": {
+        "Lateef-Bold.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 700.0 },
+        "Lateef-ExtraBold.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 800.0 },
+        "Lateef-ExtraLight.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 300.0 },
+        "Lateef-Light.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 350.0 },
+        "Lateef-Medium.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 500.0 },
+        "Lateef-Regular.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 400.0 },
+        "Lateef-SemiBold.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 600.0 },
+        "web/Lateef-Bold.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 700.0 },
+        "web/Lateef-Bold.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 700.0 },
+        "web/Lateef-ExtraBold.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 800.0 },
+        "web/Lateef-ExtraBold.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 800.0 },
+        "web/Lateef-ExtraLight.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 300.0 },
+        "web/Lateef-ExtraLight.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 300.0 },
+        "web/Lateef-Light.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 350.0 },
+        "web/Lateef-Light.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 350.0 },
+        "web/Lateef-Medium.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 500.0 },
+        "web/Lateef-Medium.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 500.0 },
+        "web/Lateef-Regular.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 400.0 },
+        "web/Lateef-Regular.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 400.0 },
+        "web/Lateef-SemiBold.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 600.0 },
+        "web/Lateef-SemiBold.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 600.0 }
+},
+    "version": "2.000"
+},
+"mingzat": {
+    "family": "Mingzat",
+    "files": {
+        "Mingzat-Regular.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 400.0 },
+        "web/Mingzat-Regular.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 400.0 },
+        "web/Mingzat-Regular.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 400.0 }
+},
+    "version": "1.100"
 }
 }
-
