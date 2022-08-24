@@ -16,6 +16,23 @@ def normalize(families):
                 del d['family']
         if 'family' not in v and family is not None:
             v['family'] = family
+        # Ensure version fields are floats
+        for a in ('version', 'googlefonts/version'):
+            b = a.split("/")
+            curr = v
+            for ck in b[:-1]:
+                if ck not in curr:
+                    break
+                curr = curr[ck]
+            else:
+                val = curr[b[-1]]
+                try:
+                    curr[b[-1]] = float(val)
+                except ValueError:
+                    print('Could not convert {}: "{}" to a float in {}'.format(a, val, k))
+        # can't have top level altfamily and files fields together
+        if 'altfamily' in v and 'files' in v:
+            print("Files mismatched in {}. Unexpected family level altfamily encountered".format(k))
     return families
 
 @lru_cache()
@@ -34,11 +51,10 @@ def prettydict(data, indent, ink, oneline=False, oneliners=None):
             val = json.dumps(v, ensure_ascii=False)
         res.append(line + val + ",")
     res[-1] = res[-1][:-1]
-    res.append(("" if oneline else indent[:-4]) + "}")
+    res.append(("" if thisoneline else indent[:-4]) + "}")
     return (" " if thisoneline else "\n").join(res)
         
 def prettyout(data, outf):
-    print(data)
     outf.write(prettydict(data, "", None, oneliners=["files"]))
 
 parser = argparse.ArgumentParser()

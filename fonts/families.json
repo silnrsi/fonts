@@ -5,8 +5,8 @@
         "Alkalami-Regular.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 400.0 },
         "web/Alkalami-Regular.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 400.0 },
         "web/Alkalami-Regular.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 400.0 }
-},
-    "version": "2.000"
+    },
+    "version": 2.0
 },
 "andika": {
     "defaultttf": "Andika-Regular.ttf",
@@ -26,20 +26,20 @@
         "web/Andika-Italic.woff2": { "format": "woff2", "ital": 1, "wght": 400.0 },
         "web/Andika-Regular.woff": { "format": "woff", "ital": 0, "wght": 400 },
         "web/Andika-Regular.woff2": { "format": "woff2", "ital": 0, "wght": 400.0 }
-},
+    },
     "filesroot": "sil/andika",
     "fontfamilyID": "andika",
     "googlefonts": {
         "defaulthref": "",
         "fullhref": "",
         "notes": "",
-        "version": "6.101"
+        "version": 6.101
     },
     "package": "https://software.sil.org/downloads/r/andika/Andika-6.101.zip",
     "site": "https://software.sil.org/andika",
     "source": "SIL",
     "status": "current",
-    "version": "6.101"
+    "version": 6.101
 },
 "charissil": {
     "defaultttf": "CharisSIL-Regular.ttf",
@@ -59,20 +59,20 @@
         "web/CharisSIL-Italic.woff2": { "format": "woff2", "ital": 1, "wght": 400.0 },
         "web/CharisSIL-Regular.woff": { "format": "woff", "ital": 0, "wght": 400 },
         "web/CharisSIL-Regular.woff2": { "format": "woff2", "ital": 0, "wght": 400.0 }
-},
+    },
     "filesroot": "sil/charissil",
     "fontfamilyID": "charissil",
     "googlefonts": {
         "defaulthref": "",
         "fullhref": "",
         "notes": "",
-        "version": "6.101"
+        "version": 6.101
     },
     "package": "https://software.sil.org/downloads/r/charis/CharisSIL-6.101.zip",
     "site": "https://software.sil.org/charis",
     "source": "SIL",
     "status": "current",
-    "version": "6.101"
+    "version": 6.101
 },
 "lateef": {
     "family": "Lateef ExtraBold",
@@ -98,8 +98,8 @@
         "web/Lateef-Regular.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 400.0 },
         "web/Lateef-SemiBold.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 600.0 },
         "web/Lateef-SemiBold.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 600.0 }
-},
-    "version": "2.000"
+    },
+    "version": 2.0
 },
 "mingzat": {
     "family": "Mingzat",
@@ -107,7 +107,7 @@
         "Mingzat-Regular.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 400.0 },
         "web/Mingzat-Regular.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 400.0 },
         "web/Mingzat-Regular.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 400.0 }
-},
-    "version": "1.100"
+    },
+    "version": 1.1
 }
 }
