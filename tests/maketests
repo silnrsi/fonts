@@ -26,5 +26,8 @@ pandoc -s -f markdown-smart --template assets/testtemplate.html scheherazadenew/
 echo "     > Mingzat"
 pandoc -s -f markdown-smart --template assets/testtemplate.html mingzat/test_main.md -o mingzat/test_main.html
 
+echo "     > Nuosu SIL"
+pandoc -s -f markdown-smart --template assets/testtemplate.html nuosusil/test_main.md -o nuosusil/test_main.html
+
 
 echo "-----Completed!"

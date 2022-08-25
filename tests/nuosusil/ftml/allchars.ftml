@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../assets/ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <comment>Background colors: light orange: includes a character from Unicode version 14.0 or later; light red: a character is missing from UFO; light green: a character is new in this version of the font</comment>
+    <fontscale>200</fontscale>
+    <fontsrc label="LPR">url(../../../fonts/sil/nuosusil/NuosuSIL-Regular.ttf)</fontsrc>
+    <fontsrc label="GF">url(https://fonts.googleapis.com/css?family=Nuosu+SIL)</fontsrc>
+    <fontsrc label="FLO">url(https://fonts.languagetechnology.org/fonts/sil/nuosusil/web/NuosuSIL-Regular.woff2)</fontsrc>
+    <title>AllChars auto</title>
+  </head>
+  <testgroup label="Encoded characters">
+    <test label="U+0020">
+      <comment>space</comment>
+      <string>\u00F130 \u00F131 ! " # $ % &amp; ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; &lt; = &gt; ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~</string>
+    </test>
+    <test label="U+00A0">
+      <comment>uni00A0</comment>
+      <string>\u00F130\u0000A0\u00F131 \u0000A1 \u0000A2 \u0000A3 \u0000A4 \u0000A5 \u0000A6 \u0000A7 \u0000A8 \u0000A9 \u0000AA \u0000AB \u0000AC \u0000AD \u0000AE \u0000AF \u0000B0 \u0000B1 \u0000B2 \u0000B3 \u0000B4 \u0000B5 \u0000B6 \u0000B7 \u0000B8 \u0000B9 \u0000BA \u0000BB \u0000BC \u0000BD \u0000BE \u0000BF \u0000C0 \u0000C1 \u0000C2 \u0000C3 \u0000C4 \u0000C5 \u0000C6 \u0000C7 \u0000C8 \u0000C9 \u0000CA \u0000CB \u0000CC \u0000CD \u0000CE \u0000CF \u0000D0 \u0000D1 \u0000D2 \u0000D3 \u0000D4 \u0000D5 \u0000D6 \u0000D7 \u0000D8 \u0000D9 \u0000DA \u0000DB \u0000DC \u0000DD \u0000DE \u0000DF \u0000E0 \u0000E1 \u0000E2 \u0000E3 \u0000E4 \u0000E5 \u0000E6 \u0000E7 \u0000E8 \u0000E9 \u0000EA \u0000EB \u0000EC \u0000ED \u0000EE \u0000EF \u0000F0 \u0000F1 \u0000F2 \u0000F3 \u0000F4 \u0000F5 \u0000F6 \u0000F7 \u0000F8 \u0000F9 \u0000FA \u0000FB \u0000FC \u0000FD \u0000FE \u0000FF</string>
+    </test>
+    <test label="U+0131">
+      <comment>dotlessi</comment>
+      <string>\u000131</string>
+    </test>
+    <test label="U+0152">
+      <comment>OE</comment>
+      <string>\u000152 \u000153</string>
+    </test>
+    <test label="U+0160">
+      <comment>Scaron</comment>
+      <string>\u000160 \u000161</string>
+    </test>
+    <test label="U+0178">
+      <comment>Ydieresis</comment>
+      <string>\u000178</string>
+    </test>
+    <test label="U+017D">
+      <comment>Zcaron</comment>
+      <string>\u00017D \u00017E</string>
+    </test>
+    <test label="U+0192">
+      <comment>florin</comment>
+      <string>\u000192</string>
+    </test>
+    <test label="U+02C6">
+      <comment>circumflex</comment>
+      <string>\u0002C6 \u0002C7</string>
+    </test>
+    <test label="U+02D0">
+      <comment>uni02D0</comment>
+      <string>\u0002D0</string>
+    </test>
+    <test label="U+02D8">
+      <comment>breve</comment>
+      <string>\u0002D8 \u0002D9 \u0002DA \u0002DB \u0002DC \u0002DD</string>
+    </test>
+    <test label="U+034F">
+      <comment>uni034F</comment>
+      <string>\u0025CC\u00034F</string>
+    </test>
+    <test label="U+03C0">
+      <comment>pi</comment>
+      <string>\u0003C0</string>
+    </test>
+    <test label="U+2000">
+      <comment>uni2000</comment>
+      <string>\u00F130\u002000\u00F131 \u00F130\u002001\u00F131 \u00F130\u002002\u00F131 \u00F130\u002003\u00F131 \u00F130\u002004\u00F131 \u00F130\u002005\u00F131 \u00F130\u002006\u00F131 \u00F130\u002007\u00F131 \u00F130\u002008\u00F131 \u00F130\u002009\u00F131 \u00F130\u00200A\u00F131 \u00200B \u00200C \u00200D</string>
+    </test>
+    <test label="U+2010">
+      <comment>uni2010</comment>
+      <string>\u002010 \u002011 \u002012 \u002013 \u002014 \u002015</string>
+    </test>
+    <test label="U+2018">
+      <comment>quoteleft</comment>
+      <string>\u002018 \u002019 \u00201A</string>
+    </test>
+    <test label="U+201C">
+      <comment>quotedblleft</comment>
+      <string>\u00201C \u00201D \u00201E</string>
+    </test>
+    <test label="U+2020">
+      <comment>dagger</comment>
+      <string>\u002020 \u002021 \u002022</string>
+    </test>
+    <test label="U+2026">
+      <comment>ellipsis</comment>
+      <string>\u002026 \u002027 \u00F130\u002028\u00F131 \u00F130\u002029\u00F131</string>
+    </test>
+    <test label="U+202F">
+      <comment>uni202F</comment>
+      <string>\u00F130\u00202F\u00F131 \u002030</string>
+    </test>
+    <test label="U+2039">
+      <comment>guilsinglleft</comment>
+      <string>\u002039 \u00203A</string>
+    </test>
+    <test label="U+2044">
+      <comment>fraction</comment>
+      <string>\u002044</string>
+    </test>
+    <test label="U+2060">
+      <comment>uni2060</comment>
+      <string>\u002060</string>
+    </test>
+    <test label="U+2074">
+      <comment>uni2074</comment>
+      <string>\u002074 \u002075 \u002076 \u002077</string>
+    </test>
+    <test label="U+2088">
+      <comment>uni2088</comment>
+      <string>\u002088</string>
+    </test>
+    <test label="U+2099">
+      <comment>uni2099</comment>
+      <string>\u002099</string>
+    </test>
+    <test label="U+20AC">
+      <comment>Euro</comment>
+      <string>\u0020AC</string>
+    </test>
+    <test label="U+2122">
+      <comment>trademark</comment>
+      <string>\u002122</string>
+    </test>
+    <test label="U+2126">
+      <comment>Omega</comment>
+      <string>\u002126</string>
+    </test>
+    <test label="U+2202">
+      <comment>partialdiff</comment>
+      <string>\u002202</string>
+    </test>
+    <test label="U+2206">
+      <comment>Delta</comment>
+      <string>\u002206</string>
+    </test>
+    <test label="U+220F">
+      <comment>product</comment>
+      <string>\u00220F</string>
+    </test>
+    <test label="U+2211">
+      <comment>summation</comment>
+      <string>\u002211 \u002212</string>
+    </test>
+    <test label="U+2215">
+      <comment>uni2215</comment>
+      <string>\u002215</string>
+    </test>
+    <test label="U+2219">
+      <comment>uni2219</comment>
+      <string>\u002219 \u00221A</string>
+    </test>
+    <test label="U+221E">
+      <comment>infinity</comment>
+      <string>\u00221E</string>
+    </test>
+    <test label="U+222B">
+      <comment>integral</comment>
+      <string>\u00222B</string>
+    </test>
+    <test label="U+2248">
+      <comment>approxequal</comment>
+      <string>\u002248</string>
+    </test>
+    <test label="U+2260">
+      <comment>notequal</comment>
+      <string>\u002260</string>
+    </test>
+    <test label="U+2264">
+      <comment>lessequal</comment>
+      <string>\u002264 \u002265</string>
+    </test>
+    <test label="U+2423">
+      <comment>uni2423</comment>
+      <string>\u002423</string>
+    </test>
+    <test label="U+2460">
+      <comment>uni2460</comment>
+      <string>\u002460 \u002461 \u002462 \u002463 \u002464 \u002465 \u002466 \u002467 \u002468 \u002469 \u00246A \u00246B \u00246C \u00246D \u00246E \u00246F \u002470 \u002471 \u002472 \u002473</string>
+    </test>
+    <test label="U+25CA">
+      <comment>lozenge</comment>
+      <string>\u0025CA</string>
+    </test>
+    <test label="U+25CC">
+      <comment>uni25CC</comment>
+      <string>\u0025CC</string>
+    </test>
+    <test label="U+2776">
+      <comment>uni2776</comment>
+      <string>\u002776 \u002777 \u002778 \u002779 \u00277A \u00277B \u00277C \u00277D \u00277E \u00277F</string>
+    </test>
+    <test label="U+3000">
+      <comment>uni3000</comment>
+      <string>\u00F130\u003000\u00F131 \u003001 \u003002 \u003003</string>
+    </test>
+    <test label="U+3008">
+      <comment>uni3008</comment>
+      <string>\u003008 \u003009 \u00300A \u00300B \u00300C \u00300D \u00300E \u00300F \u003010 \u003011 \u003012 \u003013 \u003014 \u003015 \u003016 \u003017</string>
+    </test>
+    <test label="U+30FB">
+      <comment>uni30FB</comment>
+      <string>\u0030FB</string>
+    </test>
+    <test label="U+A000">
+      <comment>uniA000</comment>
+      <string>\u00A000 \u00A001 \u00A002 \u00A003 \u00A004 \u00A005 \u00A006 \u00A007 \u00A008 \u00A009 \u00A00A \u00A00B \u00A00C \u00A00D \u00A00E \u00A00F \u00A010 \u00A011 \u00A012 \u00A013 \u00A014 \u00A015 \u00A016 \u00A017 \u00A018 \u00A019 \u00A01A \u00A01B \u00A01C \u00A01D \u00A01E \u00A01F \u00A020 \u00A021 \u00A022 \u00A023 \u00A024 \u00A025 \u00A026 \u00A027 \u00A028 \u00A029 \u00A02A \u00A02B \u00A02C \u00A02D \u00A02E \u00A02F \u00A030 \u00A031 \u00A032 \u00A033 \u00A034 \u00A035 \u00A036 \u00A037 \u00A038 \u00A039 \u00A03A \u00A03B \u00A03C \u00A03D \u00A03E \u00A03F \u00A040 \u00A041 \u00A042 \u00A043 \u00A044 \u00A045 \u00A046 \u00A047 \u00A048 \u00A049 \u00A04A \u00A04B \u00A04C \u00A04D \u00A04E \u00A04F \u00A050 \u00A051 \u00A052 \u00A053 \u00A054 \u00A055 \u00A056 \u00A057 \u00A058 \u00A059 \u00A05A \u00A05B \u00A05C \u00A05D \u00A05E \u00A05F \u00A060 \u00A061 \u00A062 \u00A063 \u00A064 \u00A065 \u00A066 \u00A067 \u00A068 \u00A069 \u00A06A \u00A06B \u00A06C \u00A06D \u00A06E \u00A06F \u00A070 \u00A071 \u00A072 \u00A073 \u00A074 \u00A075 \u00A076 \u00A077 \u00A078 \u00A079 \u00A07A \u00A07B \u00A07C \u00A07D \u00A07E \u00A07F \u00A080 \u00A081 \u00A082 \u00A083 \u00A084 \u00A085 \u00A086 \u00A087 \u00A088 \u00A089 \u00A08A \u00A08B \u00A08C \u00A08D \u00A08E \u00A08F \u00A090 \u00A091 \u00A092 \u00A093 \u00A094 \u00A095 \u00A096 \u00A097 \u00A098 \u00A099 \u00A09A \u00A09B \u00A09C \u00A09D \u00A09E \u00A09F \u00A0A0 \u00A0A1 \u00A0A2 \u00A0A3 \u00A0A4 \u00A0A5 \u00A0A6 \u00A0A7 \u00A0A8 \u00A0A9 \u00A0AA \u00A0AB \u00A0AC \u00A0AD \u00A0AE \u00A0AF \u00A0B0 \u00A0B1 \u00A0B2 \u00A0B3 \u00A0B4 \u00A0B5 \u00A0B6 \u00A0B7 \u00A0B8 \u00A0B9 \u00A0BA \u00A0BB \u00A0BC \u00A0BD \u00A0BE \u00A0BF \u00A0C0 \u00A0C1 \u00A0C2 \u00A0C3 \u00A0C4 \u00A0C5 \u00A0C6 \u00A0C7 \u00A0C8 \u00A0C9 \u00A0CA \u00A0CB \u00A0CC \u00A0CD \u00A0CE \u00A0CF \u00A0D0 \u00A0D1 \u00A0D2 \u00A0D3 \u00A0D4 \u00A0D5 \u00A0D6 \u00A0D7 \u00A0D8 \u00A0D9 \u00A0DA \u00A0DB \u00A0DC \u00A0DD \u00A0DE \u00A0DF \u00A0E0 \u00A0E1 \u00A0E2 \u00A0E3 \u00A0E4 \u00A0E5 \u00A0E6 \u00A0E7 \u00A0E8 \u00A0E9 \u00A0EA \u00A0EB \u00A0EC \u00A0ED \u00A0EE \u00A0EF \u00A0F0 \u00A0F1 \u00A0F2 \u00A0F3 \u00A0F4 \u00A0F5 \u00A0F6 \u00A0F7 \u00A0F8 \u00A0F9 \u00A0FA \u00A0FB \u00A0FC \u00A0FD \u00A0FE \u00A0FF \u00A100 \u00A101 \u00A102 \u00A103 \u00A104 \u00A105 \u00A106 \u00A107 \u00A108 \u00A109 \u00A10A \u00A10B \u00A10C \u00A10D \u00A10E \u00A10F \u00A110 \u00A111 \u00A112 \u00A113 \u00A114 \u00A115 \u00A116 \u00A117 \u00A118 \u00A119 \u00A11A \u00A11B \u00A11C \u00A11D \u00A11E \u00A11F \u00A120 \u00A121 \u00A122 \u00A123 \u00A124 \u00A125 \u00A126 \u00A127 \u00A128 \u00A129 \u00A12A \u00A12B \u00A12C \u00A12D \u00A12E \u00A12F \u00A130 \u00A131 \u00A132 \u00A133 \u00A134 \u00A135 \u00A136 \u00A137 \u00A138 \u00A139 \u00A13A \u00A13B \u00A13C \u00A13D \u00A13E \u00A13F \u00A140 \u00A141 \u00A142 \u00A143 \u00A144 \u00A145 \u00A146 \u00A147 \u00A148 \u00A149 \u00A14A \u00A14B \u00A14C \u00A14D \u00A14E \u00A14F \u00A150 \u00A151 \u00A152 \u00A153 \u00A154 \u00A155 \u00A156 \u00A157 \u00A158 \u00A159 \u00A15A \u00A15B \u00A15C \u00A15D \u00A15E \u00A15F \u00A160 \u00A161 \u00A162 \u00A163 \u00A164 \u00A165 \u00A166 \u00A167 \u00A168 \u00A169 \u00A16A \u00A16B \u00A16C \u00A16D \u00A16E \u00A16F \u00A170 \u00A171 \u00A172 \u00A173 \u00A174 \u00A175 \u00A176 \u00A177 \u00A178 \u00A179 \u00A17A \u00A17B \u00A17C \u00A17D \u00A17E \u00A17F \u00A180 \u00A181 \u00A182 \u00A183 \u00A184 \u00A185 \u00A186 \u00A187 \u00A188 \u00A189 \u00A18A \u00A18B \u00A18C \u00A18D \u00A18E \u00A18F \u00A190 \u00A191 \u00A192 \u00A193 \u00A194 \u00A195 \u00A196 \u00A197 \u00A198 \u00A199 \u00A19A \u00A19B \u00A19C \u00A19D \u00A19E \u00A19F \u00A1A0 \u00A1A1 \u00A1A2 \u00A1A3 \u00A1A4 \u00A1A5 \u00A1A6 \u00A1A7 \u00A1A8 \u00A1A9 \u00A1AA \u00A1AB \u00A1AC \u00A1AD \u00A1AE \u00A1AF \u00A1B0 \u00A1B1 \u00A1B2 \u00A1B3 \u00A1B4 \u00A1B5 \u00A1B6 \u00A1B7 \u00A1B8 \u00A1B9 \u00A1BA \u00A1BB \u00A1BC \u00A1BD \u00A1BE \u00A1BF \u00A1C0 \u00A1C1 \u00A1C2 \u00A1C3 \u00A1C4 \u00A1C5 \u00A1C6 \u00A1C7 \u00A1C8 \u00A1C9 \u00A1CA \u00A1CB \u00A1CC \u00A1CD \u00A1CE \u00A1CF \u00A1D0 \u00A1D1 \u00A1D2 \u00A1D3 \u00A1D4 \u00A1D5 \u00A1D6 \u00A1D7 \u00A1D8 \u00A1D9 \u00A1DA \u00A1DB \u00A1DC \u00A1DD \u00A1DE \u00A1DF \u00A1E0 \u00A1E1 \u00A1E2 \u00A1E3 \u00A1E4 \u00A1E5 \u00A1E6 \u00A1E7 \u00A1E8 \u00A1E9 \u00A1EA \u00A1EB \u00A1EC \u00A1ED \u00A1EE \u00A1EF \u00A1F0 \u00A1F1 \u00A1F2 \u00A1F3 \u00A1F4 \u00A1F5 \u00A1F6 \u00A1F7 \u00A1F8 \u00A1F9 \u00A1FA \u00A1FB \u00A1FC \u00A1FD \u00A1FE \u00A1FF \u00A200 \u00A201 \u00A202 \u00A203 \u00A204 \u00A205 \u00A206 \u00A207 \u00A208 \u00A209 \u00A20A \u00A20B \u00A20C \u00A20D \u00A20E \u00A20F \u00A210 \u00A211 \u00A212 \u00A213 \u00A214 \u00A215 \u00A216 \u00A217 \u00A218 \u00A219 \u00A21A \u00A21B \u00A21C \u00A21D \u00A21E \u00A21F \u00A220 \u00A221 \u00A222 \u00A223 \u00A224 \u00A225 \u00A226 \u00A227 \u00A228 \u00A229 \u00A22A \u00A22B \u00A22C \u00A22D \u00A22E \u00A22F \u00A230 \u00A231 \u00A232 \u00A233 \u00A234 \u00A235 \u00A236 \u00A237 \u00A238 \u00A239 \u00A23A \u00A23B \u00A23C \u00A23D \u00A23E \u00A23F \u00A240 \u00A241 \u00A242 \u00A243 \u00A244 \u00A245 \u00A246 \u00A247 \u00A248 \u00A249 \u00A24A \u00A24B \u00A24C \u00A24D \u00A24E \u00A24F \u00A250 \u00A251 \u00A252 \u00A253 \u00A254 \u00A255 \u00A256 \u00A257 \u00A258 \u00A259 \u00A25A \u00A25B \u00A25C \u00A25D \u00A25E \u00A25F \u00A260 \u00A261 \u00A262 \u00A263 \u00A264 \u00A265 \u00A266 \u00A267 \u00A268 \u00A269 \u00A26A \u00A26B \u00A26C \u00A26D \u00A26E \u00A26F \u00A270 \u00A271 \u00A272 \u00A273 \u00A274 \u00A275 \u00A276 \u00A277 \u00A278 \u00A279 \u00A27A \u00A27B \u00A27C \u00A27D \u00A27E \u00A27F \u00A280 \u00A281 \u00A282 \u00A283 \u00A284 \u00A285 \u00A286 \u00A287 \u00A288 \u00A289 \u00A28A \u00A28B \u00A28C \u00A28D \u00A28E \u00A28F \u00A290 \u00A291 \u00A292 \u00A293 \u00A294 \u00A295 \u00A296 \u00A297 \u00A298 \u00A299 \u00A29A \u00A29B \u00A29C \u00A29D \u00A29E \u00A29F \u00A2A0 \u00A2A1 \u00A2A2 \u00A2A3 \u00A2A4 \u00A2A5 \u00A2A6 \u00A2A7 \u00A2A8 \u00A2A9 \u00A2AA \u00A2AB \u00A2AC \u00A2AD \u00A2AE \u00A2AF \u00A2B0 \u00A2B1 \u00A2B2 \u00A2B3 \u00A2B4 \u00A2B5 \u00A2B6 \u00A2B7 \u00A2B8 \u00A2B9 \u00A2BA \u00A2BB \u00A2BC \u00A2BD \u00A2BE \u00A2BF \u00A2C0 \u00A2C1 \u00A2C2 \u00A2C3 \u00A2C4 \u00A2C5 \u00A2C6 \u00A2C7 \u00A2C8 \u00A2C9 \u00A2CA \u00A2CB \u00A2CC \u00A2CD \u00A2CE \u00A2CF \u00A2D0 \u00A2D1 \u00A2D2 \u00A2D3 \u00A2D4 \u00A2D5 \u00A2D6 \u00A2D7 \u00A2D8 \u00A2D9 \u00A2DA \u00A2DB \u00A2DC \u00A2DD \u00A2DE \u00A2DF \u00A2E0 \u00A2E1 \u00A2E2 \u00A2E3 \u00A2E4 \u00A2E5 \u00A2E6 \u00A2E7 \u00A2E8 \u00A2E9 \u00A2EA \u00A2EB \u00A2EC \u00A2ED \u00A2EE \u00A2EF \u00A2F0 \u00A2F1 \u00A2F2 \u00A2F3 \u00A2F4 \u00A2F5 \u00A2F6 \u00A2F7 \u00A2F8 \u00A2F9 \u00A2FA \u00A2FB \u00A2FC \u00A2FD \u00A2FE \u00A2FF \u00A300 \u00A301 \u00A302 \u00A303 \u00A304 \u00A305 \u00A306 \u00A307 \u00A308 \u00A309 \u00A30A \u00A30B \u00A30C \u00A30D \u00A30E \u00A30F \u00A310 \u00A311 \u00A312 \u00A313 \u00A314 \u00A315 \u00A316 \u00A317 \u00A318 \u00A319 \u00A31A \u00A31B \u00A31C \u00A31D \u00A31E \u00A31F \u00A320 \u00A321 \u00A322 \u00A323 \u00A324 \u00A325 \u00A326 \u00A327 \u00A328 \u00A329 \u00A32A \u00A32B \u00A32C \u00A32D \u00A32E \u00A32F \u00A330 \u00A331 \u00A332 \u00A333 \u00A334 \u00A335 \u00A336 \u00A337 \u00A338 \u00A339 \u00A33A \u00A33B \u00A33C \u00A33D \u00A33E \u00A33F \u00A340 \u00A341 \u00A342 \u00A343 \u00A344 \u00A345 \u00A346 \u00A347 \u00A348 \u00A349 \u00A34A \u00A34B \u00A34C \u00A34D \u00A34E \u00A34F \u00A350 \u00A351 \u00A352 \u00A353 \u00A354 \u00A355 \u00A356 \u00A357 \u00A358 \u00A359 \u00A35A \u00A35B \u00A35C \u00A35D \u00A35E \u00A35F \u00A360 \u00A361 \u00A362 \u00A363 \u00A364 \u00A365 \u00A366 \u00A367 \u00A368 \u00A369 \u00A36A \u00A36B \u00A36C \u00A36D \u00A36E \u00A36F \u00A370 \u00A371 \u00A372 \u00A373 \u00A374 \u00A375 \u00A376 \u00A377 \u00A378 \u00A379 \u00A37A \u00A37B \u00A37C \u00A37D \u00A37E \u00A37F \u00A380 \u00A381 \u00A382 \u00A383 \u00A384 \u00A385 \u00A386 \u00A387 \u00A388 \u00A389 \u00A38A \u00A38B \u00A38C \u00A38D \u00A38E \u00A38F \u00A390 \u00A391 \u00A392 \u00A393 \u00A394 \u00A395 \u00A396 \u00A397 \u00A398 \u00A399 \u00A39A \u00A39B \u00A39C \u00A39D \u00A39E \u00A39F \u00A3A0 \u00A3A1 \u00A3A2 \u00A3A3 \u00A3A4 \u00A3A5 \u00A3A6 \u00A3A7 \u00A3A8 \u00A3A9 \u00A3AA \u00A3AB \u00A3AC \u00A3AD \u00A3AE \u00A3AF \u00A3B0 \u00A3B1 \u00A3B2 \u00A3B3 \u00A3B4 \u00A3B5 \u00A3B6 \u00A3B7 \u00A3B8 \u00A3B9 \u00A3BA \u00A3BB \u00A3BC \u00A3BD \u00A3BE \u00A3BF \u00A3C0 \u00A3C1 \u00A3C2 \u00A3C3 \u00A3C4 \u00A3C5 \u00A3C6 \u00A3C7 \u00A3C8 \u00A3C9 \u00A3CA \u00A3CB \u00A3CC \u00A3CD \u00A3CE \u00A3CF \u00A3D0 \u00A3D1 \u00A3D2 \u00A3D3 \u00A3D4 \u00A3D5 \u00A3D6 \u00A3D7 \u00A3D8 \u00A3D9 \u00A3DA \u00A3DB \u00A3DC \u00A3DD \u00A3DE \u00A3DF \u00A3E0 \u00A3E1 \u00A3E2 \u00A3E3 \u00A3E4 \u00A3E5 \u00A3E6 \u00A3E7 \u00A3E8 \u00A3E9 \u00A3EA \u00A3EB \u00A3EC \u00A3ED \u00A3EE \u00A3EF \u00A3F0 \u00A3F1 \u00A3F2 \u00A3F3 \u00A3F4 \u00A3F5 \u00A3F6 \u00A3F7 \u00A3F8 \u00A3F9 \u00A3FA \u00A3FB \u00A3FC \u00A3FD \u00A3FE \u00A3FF \u00A400 \u00A401 \u00A402 \u00A403 \u00A404 \u00A405 \u00A406 \u00A407 \u00A408 \u00A409 \u00A40A \u00A40B \u00A40C \u00A40D \u00A40E \u00A40F \u00A410 \u00A411 \u00A412 \u00A413 \u00A414 \u00A415 \u00A416 \u00A417 \u00A418 \u00A419 \u00A41A \u00A41B \u00A41C \u00A41D \u00A41E \u00A41F \u00A420 \u00A421 \u00A422 \u00A423 \u00A424 \u00A425 \u00A426 \u00A427 \u00A428 \u00A429 \u00A42A \u00A42B \u00A42C \u00A42D \u00A42E \u00A42F \u00A430 \u00A431 \u00A432 \u00A433 \u00A434 \u00A435 \u00A436 \u00A437 \u00A438 \u00A439 \u00A43A \u00A43B \u00A43C \u00A43D \u00A43E \u00A43F \u00A440 \u00A441 \u00A442 \u00A443 \u00A444 \u00A445 \u00A446 \u00A447 \u00A448 \u00A449 \u00A44A \u00A44B \u00A44C \u00A44D \u00A44E \u00A44F \u00A450 \u00A451 \u00A452 \u00A453 \u00A454 \u00A455 \u00A456 \u00A457 \u00A458 \u00A459 \u00A45A \u00A45B \u00A45C \u00A45D \u00A45E \u00A45F \u00A460 \u00A461 \u00A462 \u00A463 \u00A464 \u00A465 \u00A466 \u00A467 \u00A468 \u00A469 \u00A46A \u00A46B \u00A46C \u00A46D \u00A46E \u00A46F \u00A470 \u00A471 \u00A472 \u00A473 \u00A474 \u00A475 \u00A476 \u00A477 \u00A478 \u00A479 \u00A47A \u00A47B \u00A47C \u00A47D \u00A47E \u00A47F \u00A480 \u00A481 \u00A482 \u00A483 \u00A484 \u00A485 \u00A486 \u00A487 \u00A488 \u00A489 \u00A48A \u00A48B \u00A48C</string>
+    </test>
+    <test label="U+A490">
+      <comment>uniA490</comment>
+      <string>\u00A490 \u00A491 \u00A492 \u00A493 \u00A494 \u00A495 \u00A496 \u00A497 \u00A498 \u00A499 \u00A49A \u00A49B \u00A49C \u00A49D \u00A49E \u00A49F \u00A4A0 \u00A4A1 \u00A4A2 \u00A4A3 \u00A4A4 \u00A4A5 \u00A4A6 \u00A4A7 \u00A4A8 \u00A4A9 \u00A4AA \u00A4AB \u00A4AC \u00A4AD \u00A4AE \u00A4AF \u00A4B0 \u00A4B1 \u00A4B2 \u00A4B3 \u00A4B4 \u00A4B5 \u00A4B6 \u00A4B7 \u00A4B8 \u00A4B9 \u00A4BA \u00A4BB \u00A4BC \u00A4BD \u00A4BE \u00A4BF \u00A4C0 \u00A4C1 \u00A4C2 \u00A4C3 \u00A4C4 \u00A4C5 \u00A4C6</string>
+    </test>
+    <test label="U+F130">
+      <comment>uniF130</comment>
+      <string>\u00F130 \u00F131</string>
+    </test>
+    <test label="U+FB01">
+      <comment>uniFB01</comment>
+      <string>\u00FB01 \u00FB02</string>
+    </test>
+    <test label="U+FE00">
+      <comment>uniFE00</comment>
+      <string>\u0025CC\u00FE00 \u0025CC\u00FE01 \u0025CC\u00FE02 \u0025CC\u00FE03 \u0025CC\u00FE04 \u0025CC\u00FE05 \u0025CC\u00FE06 \u0025CC\u00FE07 \u0025CC\u00FE08 \u0025CC\u00FE09 \u0025CC\u00FE0A \u0025CC\u00FE0B \u0025CC\u00FE0C \u0025CC\u00FE0D \u0025CC\u00FE0E \u0025CC\u00FE0F</string>
+    </test>
+    <test label="U+FEFF">
+      <comment>uniFEFF</comment>
+      <string>\u00FEFF</string>
+    </test>
+    <test label="U+FF01">
+      <comment>uniFF01</comment>
+      <string>\u00FF01 \u00FF02</string>
+    </test>
+    <test label="U+FF08">
+      <comment>uniFF08</comment>
+      <string>\u00FF08 \u00FF09</string>
+    </test>
+    <test label="U+FF0C">
+      <comment>uniFF0C</comment>
+      <string>\u00FF0C</string>
+    </test>
+    <test label="U+FF0E">
+      <comment>uniFF0E</comment>
+      <string>\u00FF0E \u00FF0F</string>
+    </test>
+    <test label="U+FF1A">
+      <comment>uniFF1A</comment>
+      <string>\u00FF1A \u00FF1B</string>
+    </test>
+    <test label="U+FF3B">
+      <comment>uniFF3B</comment>
+      <string>\u00FF3B</string>
+    </test>
+    <test label="U+FF3D">
+      <comment>uniFF3D</comment>
+      <string>\u00FF3D</string>
+    </test>
+    <test label="U+FF5B">
+      <comment>uniFF5B</comment>
+      <string>\u00FF5B \u00FF5C \u00FF5D \u00FF5E</string>
+    </test>
+    <test label="U+FFFC">
+      <comment>uniFFFC</comment>
+      <string>\u00FFFC \u00FFFD</string>
+    </test>
+  </testgroup>
+</ftml>

@@ -1,0 +1,25 @@
+@font-face {
+    font-family: LPR;
+    font-weight: normal;
+    font-style: normal;
+    src: url("../../fonts/sil/nuosusil/NuosuSIL-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/nuosusil/NuosuSIL-Regular.ttf") format("truetype");
+}
+
+.lpr {
+    font-family: 'LPR', serif;
+    font-size: 22px;
+}
+.gf {
+    font-family: 'NuosuSIL', serif;
+    font-size: 22px;
+}
+.flo {
+    font-family: 'FLO', serif;
+    font-size: 22px;
+}
