@@ -1,0 +1,48 @@
+/*
+Ruwudu-webfont-example.css
+This file is part of Ruwudu font family (http://software.sil.org/ruwudu)
+and is Copyright (c) 2015-2022 SIL International (http://www.sil.org/),
+with Reserved Font Names "Ruwudu" and "SIL". This Font Software is licensed
+under the SIL Open Font License, Version 1.1. You should have received a copy
+of the license along with this Font Software. If this is not the case, go to
+(http://scripts.sil.org/OFL) for all the details including a FAQ.
+*/
+
+/* use Ruwudu - Regular in .woff format */
+@font-face {
+  font-family: RuwuduRW;
+  src: url(Ruwudu-Regular.woff2);
+}
+
+
+/* set body to use Ruwudu in .woff format */
+body {
+  font-family: RuwuduRW, sans-serif; text-align: left;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+
+h1 {
+  font-family: RuwuduRW, sans-serif; text-align: left; font-size: 230%;
+}
+h2 {
+  font-family: RuwuduRW, sans-serif; text-align: left;font-size: 220%;
+}
+h2 {
+  font-family: RuwuduRW, sans-serif; text-align: left;font-size: 200%;
+}
+.rtl {
+  font-family: RuwuduRW, sans-serif; font-size: 200%; direction: rtl; text-align: right;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}	
+.rtll {
+  font-family: RuwuduLW, sans-serif; font-size: 200%; direction: rtl; text-align: right;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}	
+.ss02 {
+  font-family: RuwuduRW;
+  font-feature-settings: "ss02";
+  -moz-font-feature-settings: "ss02";
+  -webkit-font-feature-settings: "ss02";
+  font-size: 200%; direction: rtl; text-align: right;
+}
+	

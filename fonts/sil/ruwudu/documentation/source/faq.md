@@ -1,0 +1,41 @@
+---
+title: Ruwudu - Frequently Asked Questions
+fontversion: 2.000
+---
+
+Many questions can be answered by consulting the following FAQ pages. Here are a few sample questions answered in each FAQ:
+
+- [SIL fonts in general](http://software.sil.org/fonts/faq)
+    - *How can I type...?*
+    - *How can I use font features?*
+    - *Will you add support for character...?*
+    - *Will you add support for script...?*
+    - *WIll you help me...?*
+
+- [The SIL Open Font License (OFL-FAQ)](https://scripts.sil.org/OFL-FAQ_web)
+    - *Can I use this font for...?*
+    - *Can I modify the font and then include it in...*
+    - *If I use the font on a web page do I have to include an acknowledgement?*
+    - The full OFL-FAQ.txt is also included in the font package.
+
+A generic FAQ for all of our Arabic scripts fonts can be found here: [Arabic Fonts - FAQ](http://software.sil.org/arabicfonts/support/faq/). FAQ's specific to Ruwudu are found below.
+
+#### *Where does the name Ruwudu come from?*
+
+Ruwudu is the Manga word for "writing". This style of writing is used by the Manga people in Niger, West Africa. 
+
+#### *I used **Alkalami Light** which included a hacked encoding. What are the codepoints I should convert from and to?*
+
+If you used **Alkalami Light**, we made some decisions which were unfortunately not Unicode compliant. Since the initial release of that font, many of these non Unicode compliant characters have been added to Unicode. You will need to re-encode some characters to be fully Unicode compliant. A chart which includes the list of characters is found at the bottom of the [Font Features](features.md) page.
+
+These non Unicode compliant solutions were removed in v2.000 of **Ruwudu**.
+
+
+#### *What characters are included with this release?*
+
+See [Character Set Support](charset.md) for the full listing.
+
+#### *I notice that Ruwudu is missing a number of characters that I would like. Will you add these?*
+
+It is impossible for us to add every glyph that every person desires, but we do place a high priority on adding complete coverage of all the characters defined in Unicode for this Kano style of Arabic script use (excluding the Arabic Presentation Forms blocks, which are not recommended for normal use). You can send us your requests, but please understand that we are unlikely to add symbols where the user base is very small, unless they have been accepted into Unicode.
+
