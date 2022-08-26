@@ -1,0 +1,29 @@
+@font-face {
+    font-family: LPR;
+    font-weight: normal;
+    font-style: normal;
+    src: url("../../fonts/sil/ruwudu/web/Ruwudu-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-Regular.woff2") format("woff2");
+}
+
+.lpr {
+    font-family: 'LPR', sans-serif;
+    font-size: 22px;
+}
+.gf {
+    font-family: 'Ruwudu', sans-serif;
+    font-size: 22px;
+}
+.flo {
+    font-family: 'FLO', sans-serif;
+    font-size: 22px;
+}
+
+body {
+    text-align: start;
+}
