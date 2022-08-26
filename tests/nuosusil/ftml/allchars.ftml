@@ -6,7 +6,7 @@
     <fontscale>200</fontscale>
     <fontsrc label="LPR">url(../../../fonts/sil/nuosusil/NuosuSIL-Regular.ttf)</fontsrc>
     <fontsrc label="GF">url(https://fonts.googleapis.com/css?family=Nuosu+SIL)</fontsrc>
-    <fontsrc label="FLO">url(https://fonts.languagetechnology.org/fonts/sil/nuosusil/web/NuosuSIL-Regular.woff2)</fontsrc>
+    <fontsrc label="FLO">url(https://fonts.languagetechnology.org/fonts/sil/nuosusil/NuosuSIL-Regular.ttf)</fontsrc>
     <title>AllChars auto</title>
   </head>
   <testgroup label="Encoded characters">
