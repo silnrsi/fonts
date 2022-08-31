@@ -277,3 +277,13 @@ FLO default | <span class='flo'>،؛</span>
 LPR 'cv84' | <span class='lpr' style='font-feature-settings: "cv84" 1'>،؛</span>
 GF 'cv84'  | <span class='gf' style='font-feature-settings: "cv84" 1'>،؛</span>
 FLO 'cv84' | <span class='flo' style='font-feature-settings: "cv84" 1'>،؛</span>
+
+## Character support
+
+<!--- Unicode 14.0  -->
+
+Source/Language | Test sequences
+- | -------------------------:
+LPR default | <span class='lpr'>لࡰ ࣈࣇ࣓ب</span>
+GF default  | <span class='gf'>لࡰ ࣈࣇ࣓ب</span>
+FLO default | <span class='flo'>لࡰ ࣈࣇ࣓ب</span>
