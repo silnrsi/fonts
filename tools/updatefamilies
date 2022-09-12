@@ -4,36 +4,60 @@ import argparse, os, json
 from functools import lru_cache
 from subprocess import check_output
 
-def normalize(families):
-    for k, v in families.items():
-        family = None
-        if 'filesroot' in v:
-            v['filesroot'] = v['filesroot'].rstrip('/')
-        # Remove family field from manifest information
-        for f, d in v.get('files', {}).items():
-            if 'family' in d:
-                family = d['family']
-                del d['family']
-        if 'family' not in v and family is not None:
-            v['family'] = family
-        # Ensure version fields are floats
-        for a in ('version', 'googlefonts/version'):
-            b = a.split("/")
-            curr = v
-            for ck in b[:-1]:
-                if ck not in curr:
-                    break
-                curr = curr[ck]
-            else:
-                val = curr[b[-1]]
-                try:
-                    curr[b[-1]] = float(val)
-                except ValueError:
-                    print('Could not convert {}: "{}" to a float in {}'.format(a, val, k))
-        # can't have top level altfamily and files fields together
-        if 'altfamily' in v and 'files' in v:
-            print("Files mismatched in {}. Unexpected family level altfamily encountered".format(k))
-    return families
+baseurl = "https://github.com/silnrsi/fonts/raw/main/fonts"
+
+def build(fmdat, currdat, k):
+    return build_v02(fmdat, currdat, k)
+
+def build_v02(fmdat, v, k):
+    if fmdat is None:
+        fmdat = v.get('files', {})
+    filesroot = ""
+    if 'filesroot' in v:
+        filesroot = v['filesroot']
+        del v['filesroot']
+    hosturl = baseurl
+    flourl = None
+    if 'hosturl' in v:
+        hosturl = v['hosturl']
+        del v['hosturl']
+    else:
+        flourl = os.path.join('https://fonts.languagetechnology.org/fonts', filesroot).rstrip("/")
+    family = None
+    files = {}
+    for f, d in fmdat.items():
+        if 'family' in d:
+            family = d['family']
+            del d['family']
+        newk = os.path.basename(f)
+        curr = {}
+        files[newk] = curr
+        curr['fontpath'] = f if filesroot == "" else os.path.join(filesroot, f)
+        if flourl is not None:
+            curr['flourl'] = os.path.join(flourl, filesroot, f)
+        curr['hosturl'] = os.path.join(hosturl, filesroot, f)
+        curr.update(d)
+    v['files'] = files
+    if 'family' not in v and family is not None:
+        v['family'] = family
+    # Ensure version fields are floats
+    for a in ('version', 'googlefonts/version'):
+        b = a.split("/")
+        curr = v
+        for ck in b[:-1]:
+            if ck not in curr:
+                break
+            curr = curr[ck]
+        else:
+            val = curr[b[-1]]
+            try:
+                curr[b[-1]] = float(val)
+            except ValueError:
+                print('Could not convert {}: "{}" to a float in {}'.format(a, val, k))
+    # can't have top level altfamily and files fields together
+    if 'altfamily' in v and 'files' in v:
+        print("Files mismatched in {}. Unexpected family level altfamily encountered".format(k))
+    return v
 
 @lru_cache()
 def getcurrsha():
@@ -58,13 +82,13 @@ def prettyout(data, outf):
     outf.write(prettydict(data, "", None, oneliners=["files"]))
 
 parser = argparse.ArgumentParser()
-parser.add_argument("inoutfile",help="families,json file to update")
+parser.add_argument("infile",help="basis families.json")
+parser.add_argument("outfile",help="families.json to output")
 parser.add_argument("-i","--indir",help="Root of input directory tree to process")
 parser.add_argument("-d","--dir",action="append",default=[],help="Single directory to process (can be repeated) relative to indir")
-parser.add_argument("-S","--addshas",action="store_true",help="Add versioning sha information")
 args = parser.parse_args()
 
-inoutdir = os.path.dirname(args.inoutfile)
+inoutdir = os.path.dirname(args.infile)
 dirs = []
 if not len(args.dir) and args.indir is not None:
     for dp, dn, fn in os.walk(args.indir):
@@ -73,9 +97,10 @@ if not len(args.dir) and args.indir is not None:
             if f in fn:
                 dirs.append((dp, f))
 
-with open(args.inoutfile) as inf:
+with open(args.infile) as inf:
     data = json.load(inf)
 
+results = {}
 for d, f in dirs:
     fmpath = os.path.join(d, f)
     fid = os.path.split(d)[-1].lower().replace(" ", "")
@@ -87,19 +112,11 @@ for d, f in dirs:
         if k not in data:
             print(f"Entry for {k} missing. It's probably new")
             data[k] = {}
-        currdat = data[k]
-        if args.addshas:
-            currver = currdat.get('version', None)
-            newver = fmdat.get('version', None)
-            currsha = currdat.get("sha", None)
-            if currver != newver:
-                if currsha is not None:
-                    currdat.setdefault('versions', {})[currver] = currsha
-            if currsha is None:
-                fmdat['sha'] = getcurrsha()
-        currdat.update(v)
+        results[k] = build(v['files'], data[k], k)
+for k, v in data.items():
+    if k in results:
+        continue
+    results[k] = build(None, data[k], k)
 
-data = normalize(data)
-
-with open(args.inoutfile, "w", encoding="utf-8") as outf:
-    prettyout(data, outf)
+with open(args.outfile, "w", encoding="utf-8") as outf:
+    prettyout(results, outf)
