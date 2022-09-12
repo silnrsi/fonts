@@ -8,20 +8,6 @@
     "defaultwoff": "web/Andika-Regular.woff",
     "defaultwoff2": "web/Andika-Regular.woff2",
     "family": "Andika",
-    "files": {
-        "Andika-Bold.ttf": { "format": "ttf", "ital": 0, "wght": 700 },
-        "Andika-BoldItalic.ttf": { "format": "ttf", "ital": 1, "wght": 700.0 },
-        "Andika-Italic.ttf": { "format": "ttf", "ital": 1, "wght": 400.0 },
-        "Andika-Regular.ttf": { "format": "ttf", "ital": 0, "wght": 400 },
-        "web/Andika-Bold.woff": { "format": "woff", "ital": 0, "wght": 700.0 },
-        "web/Andika-Bold.woff2": { "format": "woff2", "ital": 0, "wght": 700.0 },
-        "web/Andika-BoldItalic.woff": { "format": "woff", "ital": 1, "wght": 700.0 },
-        "web/Andika-BoldItalic.woff2": { "format": "woff2", "ital": 1, "wght": 700.0 },
-        "web/Andika-Italic.woff": { "format": "woff", "ital": 1, "wght": 400.0 },
-        "web/Andika-Italic.woff2": { "format": "woff2", "ital": 1, "wght": 400.0 },
-        "web/Andika-Regular.woff": { "format": "woff", "ital": 0, "wght": 400 },
-        "web/Andika-Regular.woff2": { "format": "woff2", "ital": 0, "wght": 400.0 }
-    },
     "filesroot": "sil/andika",
     "fontfamilyID": "andika",
     "googlefonts": {
@@ -70,7 +56,7 @@
     "version": 6.101
 },
 "lateef": {
-    "family": "Lateef ExtraBold",
+    "family": "Lateef",
     "version": 2.0
 },
 "mingzat": {
