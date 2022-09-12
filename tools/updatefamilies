@@ -10,36 +10,55 @@ def build(fmdat, currdat, k):
     return build_v02(fmdat, currdat, k)
 
 def build_v02(fmdat, v, k):
+    hosturl = baseurl
     if fmdat is None:
         fmdat = v.get('files', {})
+        hosturl = None
+    elif 'status' not in v:
+        v['status'] = 'current'
+    if 'fontfamilyId' in v:
+        ffid = v['fontFamilyId']
+        del v['fontFamilyId']
+        v['familyid'] = ffid
+    else:
+        v['familyid'] = k
     filesroot = ""
     if 'filesroot' in v:
         filesroot = v['filesroot']
         del v['filesroot']
-    hosturl = baseurl
     flourl = None
     if 'hosturl' in v:
         hosturl = v['hosturl']
         del v['hosturl']
-    else:
+    elif hosturl == baseurl:
         flourl = os.path.join('https://fonts.languagetechnology.org/fonts', filesroot).rstrip("/")
     family = None
     files = {}
+    tracking = {}
     for f, d in fmdat.items():
         if 'family' in d:
             family = d['family']
             del d['family']
         newk = os.path.basename(f)
+        tracking.setdefault(os.path.splitext(newk)[1], []).append(newk)
         curr = {}
         files[newk] = curr
         curr['fontpath'] = f if filesroot == "" else os.path.join(filesroot, f)
         if flourl is not None:
             curr['flourl'] = os.path.join(flourl, filesroot, f)
-        curr['hosturl'] = os.path.join(hosturl, filesroot, f)
+        if hosturl is not None:
+            curr['url'] = os.path.join(hosturl, filesroot, f)
         curr.update(d)
     v['files'] = files
+    for e, l in tracking.items():
+        key = "default{}".format(e[1:])
+        if key not in v and len(l) == 1:
+            v[key] = l[0]
     if 'family' not in v and family is not None:
         v['family'] = family
+    v['downloadmethod'] = 'default'
+    if hosturl is None:
+        v['downloadmethod'] = 'none' if 'package' not in v else 'package'
     # Ensure version fields are floats
     for a in ('version', 'googlefonts/version'):
         b = a.split("/")

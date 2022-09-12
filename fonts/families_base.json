@@ -1,11 +1,6 @@
 {
 "alkalami": {
     "family": "Alkalami",
-    "files": {
-        "Alkalami-Regular.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 400.0 },
-        "web/Alkalami-Regular.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 400.0 },
-        "web/Alkalami-Regular.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 400.0 }
-    },
     "version": 2.0
 },
 "andika": {
@@ -76,47 +71,14 @@
 },
 "lateef": {
     "family": "Lateef ExtraBold",
-    "files": {
-        "Lateef-Bold.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 700.0 },
-        "Lateef-ExtraBold.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 800.0 },
-        "Lateef-ExtraLight.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 300.0 },
-        "Lateef-Light.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 350.0 },
-        "Lateef-Medium.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 500.0 },
-        "Lateef-Regular.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 400.0 },
-        "Lateef-SemiBold.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 600.0 },
-        "web/Lateef-Bold.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 700.0 },
-        "web/Lateef-Bold.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 700.0 },
-        "web/Lateef-ExtraBold.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 800.0 },
-        "web/Lateef-ExtraBold.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 800.0 },
-        "web/Lateef-ExtraLight.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 300.0 },
-        "web/Lateef-ExtraLight.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 300.0 },
-        "web/Lateef-Light.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 350.0 },
-        "web/Lateef-Light.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 350.0 },
-        "web/Lateef-Medium.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 500.0 },
-        "web/Lateef-Medium.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 500.0 },
-        "web/Lateef-Regular.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 400.0 },
-        "web/Lateef-Regular.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 400.0 },
-        "web/Lateef-SemiBold.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 600.0 },
-        "web/Lateef-SemiBold.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 600.0 }
-    },
     "version": 2.0
 },
 "mingzat": {
     "family": "Mingzat",
-    "files": {
-        "Mingzat-Regular.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 400.0 },
-        "web/Mingzat-Regular.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 400.0 },
-        "web/Mingzat-Regular.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 400.0 }
-    },
     "version": 1.1
 },
 "ruwudu": {
     "family": "Ruwudu",
-    "files": {
-        "Ruwudu-Regular.ttf": { "XXXX": 0.0, "format": "ttf", "wdth": 100.0, "wght": 400.0 },
-        "web/Ruwudu-Regular.woff": { "XXXX": 0.0, "format": "woff", "wdth": 100.0, "wght": 400.0 },
-        "web/Ruwudu-Regular.woff2": { "XXXX": 0.0, "format": "woff2", "wdth": 100.0, "wght": 400.0 }
-    },
     "version": 2.0
 }
 }
