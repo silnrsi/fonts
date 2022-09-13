@@ -35,5 +35,8 @@ pandoc -s -f markdown-smart --template assets/testtemplate.html mingzat/test_mai
 echo "     > Nuosu SIL"
 pandoc -s -f markdown-smart --template assets/testtemplate.html nuosusil/test_main.md -o nuosusil/test_main.html
 
+echo "     > Tai Heritage Pro"
+pandoc -s -f markdown-smart --template assets/testtemplate.html taiheritagepro/test_main.md -o taiheritagepro/test_main.html
+
 
 echo "-----Completed!"
