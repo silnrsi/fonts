@@ -1,0 +1,122 @@
+@font-face {
+    font-family: LPR;
+    font-weight: normal;
+    font-style: normal;
+    src: url("../../fonts/sil/gentiumplus/web/GentiumPlus-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR;
+    font-weight: normal;
+    font-style: italic;
+    src: url("../../fonts/sil/gentiumplus/web/GentiumPlus-Italic.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR;
+    font-weight: bold;
+    font-style: normal;
+    src: url("../../fonts/sil/gentiumplus/web/GentiumPlus-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR;
+    font-weight: bold;
+    font-style: italic;
+    src: url("../../fonts/sil/gentiumplus/web/GentiumPlus-BoldItalic.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/gentiumplus/web/GentiumPlus-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: normal;
+    font-style: italic;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/gentiumplus/web/GentiumPlus-Italic.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: bold;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/gentiumplus/web/GentiumPlus-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: bold;
+    font-style: italic;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/gentiumplus/web/GentiumPlus-BoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: LPR-Book;
+    font-weight: normal;
+    font-style: normal;
+    src: url("../../fonts/sil/gentiumplus/web/GentiumBookPlus-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR-Book;
+    font-weight: normal;
+    font-style: italic;
+    src: url("../../fonts/sil/gentiumplus/web/GentiumBookPlus-Italic.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR-Book;
+    font-weight: bold;
+    font-style: normal;
+    src: url("../../fonts/sil/gentiumplus/web/GentiumBookPlus-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR-Book;
+    font-weight: bold;
+    font-style: italic;
+    src: url("../../fonts/sil/gentiumplus/web/GentiumBookPlus-BoldItalic.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO-Book;
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/gentiumplus/web/GentiumBookPlus-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO-Book;
+    font-weight: normal;
+    font-style: italic;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/gentiumplus/web/GentiumBookPlus-Italic.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO-Book;
+    font-weight: bold;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/gentiumplus/web/GentiumBookPlus-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO-Book;
+    font-weight: bold;
+    font-style: italic;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/gentiumplus/web/GentiumBookPlus-BoldItalic.woff2") format("woff2");
+}
+
+.lpr {
+    font-family: 'LPR', sans-serif;
+    font-size: 22px;
+}
+.gf {
+    font-family: 'Gentium Plus', sans-serif;
+    font-size: 22px;
+}
+.flo {
+    font-family: 'FLO', sans-serif;
+    font-size: 22px;
+}
+.lpr-book {
+    font-family: 'LPR-Book', sans-serif;
+    font-size: 22px;
+}
+.gf-book {
+    font-family: 'Gentium Book Plus', sans-serif;
+    font-size: 22px;
+}
+.flo-book {
+    font-family: 'FLO-Book', sans-serif;
+    font-size: 22px;
+}

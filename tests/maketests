@@ -17,23 +17,31 @@ pandoc -s -f markdown-smart --template assets/testtemplate.html alkalami/test_ma
 echo "     > Awami Nastaliq"
 pandoc -s -f markdown-smart --template assets/testtemplate.html awaminastaliq/test_main.md -o awaminastaliq/test_main.html
 
+echo "     > Charis SIL"
+pandoc -s -f markdown-smart --template assets/testtemplate.html charissil/test_main.md -o charissil/test_main.html
+pandoc -s -f markdown-smart --template assets/testtemplate.html charissil/test_ext.md -o charissil/test_ext.html
+
+echo "     > Gentium Plus"
+pandoc -s -f markdown-smart --template assets/testtemplate.html gentiumplus/test_main.md -o gentiumplus/test_main.html
+pandoc -s -f markdown-smart --template assets/testtemplate.html gentiumplus/test_ext.md -o gentiumplus/test_ext.html
+
 echo "     > Harmattan"
 pandoc -s -f markdown-smart --template assets/testtemplate.html harmattan/test_main.md -o harmattan/test_main.html
 
 echo "     > Lateef"
 pandoc -s -f markdown-smart --template assets/testtemplate.html lateef/test_main.md -o lateef/test_main.html
 
-echo "     > Ruwudu"
-pandoc -s -f markdown-smart --template assets/testtemplate.html ruwudu/test_main.md -o ruwudu/test_main.html
-
-echo "     > Scheherazade New"
-pandoc -s -f markdown-smart --template assets/testtemplate.html scheherazadenew/test_main.md -o scheherazadenew/test_main.html
-
 echo "     > Mingzat"
 pandoc -s -f markdown-smart --template assets/testtemplate.html mingzat/test_main.md -o mingzat/test_main.html
 
 echo "     > Nuosu SIL"
 pandoc -s -f markdown-smart --template assets/testtemplate.html nuosusil/test_main.md -o nuosusil/test_main.html
+
+echo "     > Ruwudu"
+pandoc -s -f markdown-smart --template assets/testtemplate.html ruwudu/test_main.md -o ruwudu/test_main.html
+
+echo "     > Scheherazade New"
+pandoc -s -f markdown-smart --template assets/testtemplate.html scheherazadenew/test_main.md -o scheherazadenew/test_main.html
 
 echo "     > Tai Heritage Pro"
 pandoc -s -f markdown-smart --template assets/testtemplate.html taiheritagepro/test_main.md -o taiheritagepro/test_main.html
