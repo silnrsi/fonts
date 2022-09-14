@@ -29,7 +29,7 @@ FLO Bold 700 | <span class='flo' style='font-weight: 700'>ꪁꪫꪱꪣ ꪜꪱꪫ
 
 ### Vowel Position
 
-Source/Language | Test sequences
+Source/Language | Test sequences (see position of combining marks)
 - | -------------------------
 LPR default | <span class='lpr'>ꪊꪾꪚ ꪕꪳ꪿ꪉ</span>
 GF default  | <span class='gf'>ꪊꪾꪚ ꪕꪳ꪿ꪉ</span>
@@ -44,7 +44,7 @@ FLO 'vowp=2' | <span class='flo' style='font-feature-settings: "vowp" 2'>ꪊꪾ�
 
 ### Low CO Alternate (rotated)
 
-Source/Language | Test sequences
+Source/Language | Test sequences (see first character)
 - | -------------------------
 LPR default | <span class='lpr'>ꪊꪾꪚ ꪕꪳ꪿ꪉ</span>
 GF default  | <span class='gf'>ꪊꪾꪚ ꪕꪳ꪿ꪉ</span>
@@ -56,7 +56,7 @@ FLO 'lcoa=1' | <span class='flo' style='font-feature-settings: "lcoa" 1'>ꪊꪾ�
 
 ### High TO Alternate (with tail)
 
-Source/Language | Test sequences
+Source/Language | Test sequences (see last character)
 - | -------------------------
 LPR default | <span class='lpr'>ꪼꪕ</span>
 GF default  | <span class='gf'>ꪼꪕ</span>
@@ -78,7 +78,7 @@ FLO 'hpho=1' | <span class='flo' style='font-feature-settings: "hpho" 1'>ꪟꪸ<
 
 ### AUE Alternate (fancy)
 
-Source/Language | Test sequences
+Source/Language | Test sequences (see first character)
 - | -------------------------
 LPR default | <span class='lpr'>ꪻꪬ꫁</span>
 GF default  | <span class='gf'>ꪻꪬ꫁</span>
@@ -152,15 +152,25 @@ LPR default | <span class='lpr'>ƒ Ơ ơ Ư ư</span>
 GF default  | <span class='gf'>ƒ Ơ ơ Ư ư</span>
 FLO default | <span class='flo'>ƒ Ơ ơ Ư ư</span>
 
+### Latin Extended Additional:
+
+<!--- x1EA0 x1EA1 x1EA2 x1EA3 x1EA4 x1EA5 x1EA6 x1EA7 x1EA8 x1EA9 x1EAA x1EAB x1EAC x1EAD x1EAE x1EAF x1EB0 x1EB1 x1EB2 x1EB3 x1EB4 x1EB5 x1EB6 x1EB7 x1EB8 x1EB9 x1EBA x1EBB x1EBC x1EBD x1EBE x1EBF x1EC0 x1EC1 x1EC2 x1EC4 x1EC5 x1EC6 x1EC7 x1EC8 x1EC9 x1ECA x1ECB x1ECC x1ECD x1ECE x1ECF x1ED0 x1ED1 x1ED2 x1ED3 x1ED4 x1ED5 x1ED6 x1ED7 x1ED8 x1ED9 x1EDA x1EDB x1EDC x1EDD x1EDE x1EDF x1EE0 x1EE1 x1EE2 x1EE3 x1EE4 x1EE5 x1EE6 x1EE7 x1EE8 x1EE9 x1EEA x1EEB x1EEC x1EED x1EEE x1EEF x1EF0 x1EF1 -->
+
+Source/Language | Test sequences
+- | -------------------------
+LPR default | <span class='lpr'>Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự</span>
+GF default  | <span class='gf'>Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự</span>
+FLO default | <span class='flo'>Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự</span>
+
 ### Spacing Modifier Letters:
 
 <!--- x02C6 x02C7 x02C8 x02C9 x02CA x02CB x02D0 x02D8 x02D9 x02DA x02DB x02DC -->
 
 Source/Language | Test sequences
 - | -------------------------
-LPR default | <span class='lpr'>ˆˇˈˉˊˋː˘˙˚˛˜</span>
-GF default  | <span class='gf'>ˆˇˈˉˊˋː˘˙˚˛˜</span>
-FLO default | <span class='flo'>ˆˇˈˉˊˋː˘˙˚˛˜</span>
+LPR default | <span class='lpr'>ˆ ˇ ˈ ˉ ˊ ˋ ː ˘ ˙ ˚ ˛ ˜</span>
+GF default  | <span class='gf'>ˆ ˇ ˈ ˉ ˊ ˋ ː ˘ ˙ ˚ ˛ ˜</span>
+FLO default | <span class='flo'>ˆ ˇ ˈ ˉ ˊ ˋ ː ˘ ˙ ˚ ˛ ˜</span>
 
 ### Combining Diacritical Marks:
 
@@ -184,6 +194,7 @@ FLO default | <span class='flo'>π</span>
 
 ### Thai:
 
+_Because GF doesn't include this in the subset, it does not use the glyph from the font_
 <!--- x0E3F -->
 
 Source/Language | Test sequences
@@ -191,16 +202,6 @@ Source/Language | Test sequences
 LPR default | <span class='lpr'>฿</span>
 GF default  | <span class='gf'>฿</span>
 FLO default | <span class='flo'>฿</span>
-
-### Latin Extended Additional:
-
-<!--- x1EA0 x1EA1 x1EA2 x1EA3 x1EA4 x1EA5 x1EA6 x1EA7 x1EA8 x1EA9 x1EAA x1EAB x1EAC x1EAD x1EAE x1EAF x1EB0 x1EB1 x1EB2 x1EB3 x1EB4 x1EB5 x1EB6 x1EB7 x1EB8 x1EB9 x1EBA x1EBB x1EBC x1EBD x1EBE x1EBF x1EC0 x1EC1 x1EC2 x1EC4 x1EC5 x1EC6 x1EC7 x1EC8 x1EC9 x1ECA x1ECB x1ECC x1ECD x1ECE x1ECF x1ED0 x1ED1 x1ED2 x1ED3 x1ED4 x1ED5 x1ED6 x1ED7 x1ED8 x1ED9 x1EDA x1EDB x1EDC x1EDD x1EDE x1EDF x1EE0 x1EE1 x1EE2 x1EE3 x1EE4 x1EE5 x1EE6 x1EE7 x1EE8 x1EE9 x1EEA x1EEB x1EEC x1EED x1EEE x1EEF x1EF0 x1EF1 -->
-
-Source/Language | Test sequences
-- | -------------------------
-LPR default | <span class='lpr'>ẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰự</span>
-GF default  | <span class='gf'>ẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰự</span>
-FLO default | <span class='flo'>ẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰự</span>
 
 ### General Punctuation:
 
