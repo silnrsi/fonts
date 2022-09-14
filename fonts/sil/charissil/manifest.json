@@ -1,0 +1,14 @@
+{"files":{
+        "CharisSIL-Bold.ttf": { "format": "ttf", "ital": 0, "wght": 700 },
+        "CharisSIL-BoldItalic.ttf": { "format": "ttf", "ital": 1, "wght": 700.0 },
+        "CharisSIL-Italic.ttf": { "format": "ttf", "ital": 1, "wght": 400.0 },
+        "CharisSIL-Regular.ttf": { "format": "ttf", "ital": 0, "wght": 400 },
+        "web/CharisSIL-Bold.woff": { "format": "woff", "ital": 0, "wght": 700.0 },
+        "web/CharisSIL-Bold.woff2": { "format": "woff2", "ital": 0, "wght": 700.0 },
+        "web/CharisSIL-BoldItalic.woff": { "format": "woff", "ital": 1, "wght": 700.0 },
+        "web/CharisSIL-BoldItalic.woff2": { "format": "woff2", "ital": 1, "wght": 700.0 },
+        "web/CharisSIL-Italic.woff": { "format": "woff", "ital": 1, "wght": 400.0 },
+        "web/CharisSIL-Italic.woff2": { "format": "woff2", "ital": 1, "wght": 400.0 },
+        "web/CharisSIL-Regular.woff": { "format": "woff", "ital": 0, "wght": 400 },
+        "web/CharisSIL-Regular.woff2": { "format": "woff2", "ital": 0, "wght": 400.0 }
+}}
