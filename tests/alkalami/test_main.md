@@ -1,6 +1,6 @@
 ---
 title: Alkalami - Webfont Test
-gfhref: "https://fonts.googleapis.com/css2?family=Alkalami:wght@400&display=swap"
+gfhref: "https://fonts.googleapis.com/css2?family=Alkalami&display=swap"
 ---
 
 ## Scripts (UDHR 26)
