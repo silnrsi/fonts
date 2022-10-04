@@ -1,0 +1,39 @@
+FONTLOG
+Payap Lanna
+===========
+
+This file provides detailed information on the Payap Lanna Font Software. This information should be distributed along with the Payap Lanna and any derivative works.
+
+## About this project
+
+This project is intended to provide a free and open font family for all current languages and writing systems that use Tai Tham script of Northern Thailand. This font supports the Tai Tham script plus a range of useful Latin characters.
+
+The design is inspired by, but not based on, the CR Udom fonts designed by Charin Jamjitt. It has been produced with help from [Payap's Linguistics Institute](http://li.payap.ac.th).
+
+## ChangeLog
+
+### 25 August 2022 (SIL WSTech Team) Payap Lanna version 1.000
+
+First official release.
+
+## Information for developers and contributors
+
+We welcome other developers who wish to get involved in supporting and enhancing these fonts or who want to modify them.
+
+SIL’s fonts are licensed according to the terms of the SIL Open Font License (https://scripts.sil.org/OFL). The OFL allows the fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. For details see the OFL.txt and OFL-FAQ.txt files in the package.
+
+Full sources are included in this package. For information on the source formats or how the fonts are built see documentation/developer.html.
+
+## Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Martin Hosken, Becca Spalinger 
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/payaplanna/
+D: SIL designers and font engineers
+
+The Payap Lanna project is maintained by SIL International, a global, faith-based nonprofit that works with local communities around the world to develop language solutions that expand possibilities for a better life.
+
+For more information or support please visit:
+https://software.sil.org/payaplanna/

@@ -1,0 +1,24 @@
+/*
+PayapLanna-webfont-example.html
+PayapLanna
+This file is part of Payap Lanna font family (https://software.sil.org/payaplanna/).
+
+Copyright (c) 2019-2022, SIL International (http://www.sil.org/),
+with Reserved Font Names "Payap".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+
+/* use Payap Lanna - Regular in .woff2 format */
+@font-face {
+  font-family: PayapLannaW;
+  src: url(PayapLanna-Regular.woff2);
+}
+
+/* set body to use PayapLanna in .woff2 format */
+body {
+  font-family: PayapLannaW, sans-serif;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
