@@ -1,0 +1,28 @@
+/*
+GalatiaSIL-WOFF-metadata.html
+Galatia SIL v2.1
+This file is part of Galatia SIL font family (http://scripts.sil.org/andika)
+and is Copyright (c) 1995-2015, SIL International (http://scripts.sil.org/)
+with Reserved Font Names "Galatia" and "SIL". You should have received a 
+copy of the license along with this Font Software. If this is not the case, 
+go to (http://scripts.sil.org/OFL) for all the details including a FAQ.
+*/
+
+/* use Galatia SIL - Regular in .woff format */
+@font-face {
+  font-family: GalatiaSILW;
+  src: url(GalSILR.woff);
+}
+
+/* set body to use Galatia SIL in .woff format */
+body {
+  font-family: GalatiaSILW, sans-serif;
+    /* fall back to sans-serif so that it's really obvious if the fonts don't load */
+}
+/* remove bold styling from heading */
+h1 {
+  font-weight: normal;	
+}
+h2 {
+  font-weight: normal;	
+}

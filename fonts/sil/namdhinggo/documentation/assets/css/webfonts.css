@@ -1,0 +1,17 @@
+/*
+This file is from the Namdhinggo project (https://software.sil.org/namdhinggo/).
+Copyright (c) 2002-2022 SIL International (http://www.sil.org/),
+with Reserved Font Name "Namdhinggo" and "SIL".
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+*/
+@font-face {
+    font-family: Namdhinggo-R;
+    src: url("../../../web/Namdhinggo-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: Namdhinggo-B;
+    src: url("../../../web/Namdhinggo-Bold.woff2") format("woff2");
+}
+
+.namdhinggo-R { font-family: Namdhinggo-R; }
+.namdhinggo-B { font-family: Namdhinggo-B; }

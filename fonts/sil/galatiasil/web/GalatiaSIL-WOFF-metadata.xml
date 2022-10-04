@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+GalatiaSIL-WOFF-metadata.html
+Galatia SIL v2.1
+This file is part of Galatia SIL font family (http://scripts.sil.org/andika)
+and is Copyright (c) 1995-2015, SIL International (http://scripts.sil.org/)
+with Reserved Font Names "Galatia" and "SIL". You should have received a 
+copy of the license along with this Font Software. If this is not the case, 
+go to (http://scripts.sil.org/OFL) for all the details including a FAQ.
+-->
+<metadata version="1.0">
+    <uniqueid id="org.sil.fonts.galatiasil.2.100" />
+    <vendor name="SIL International" url="http://scripts.sil.org" />
+    <credits>
+
+        <credit
+            name="Victor Gaultney"
+            url="http://scripts.sil.org/"
+            role="SIL designer and font engineer" />
+    </credits>
+    <description>
+        <text lang="en">
+      The Galatia SIL fonts contain most of the symbols defined in Unicode
+      3.1 for Latin-1, Greek (excluding Coptic), Macintosh Character Set (US
+      Roman), and 850WE/Latin-1 and are supplied in Regular and Bold
+      weights.
+
+      Two fonts from this typeface family are included in this release:
+
+           * Galatia SIL Regular
+           * Galatia SIL Bold
+
+      There are no OpenType tables in this font. Thus, there is no automatic
+      formation of the final sigma.
+
+      More detail on the font can be seen at
+      http://scripts.sil.org/GalatiaSIL.
+
+
+      ChangeLog
+      ----------
+      (This should list both major and minor changes, most recent first.)
+
+          13 Jul 2009 Version 2.1
+          - rereleased with fixed Mac license string
+          
+          12 Jun 2009 Version 2.1 OFL release of Galatia SIL.
+          - released under OFL
+          - 'vdmx' table recalculated because of errors in the font
+            causing some Java[tm] applications on some Windows machines to 
+            not display glyphs in Galatia SIL
+          
+          30 Jun 2005 Version 2.0.1
+          - 'hhea' table of the two TrueType fonts has been modified, 
+            because an error in the metrics specified there could cause 
+            some software, particularly some packages running on Linux, 
+            to crash or otherwise perform incorrectly.
+          
+          5 Oct 2002 Version 2.0
+          - reencoded for Unicode
+          - name changed to "Galatia SIL" to reflect new SIL 
+            font naming conventions
+          - added:
+          	03D7	GREEK KAI SYMBOL
+          	03F3	GREEK LETTER YOT
+          	03F4	GREEK CAPITAL THETA SYMBOL
+          	Combining Diacritics
+          	Latin-1 (MS Windows CP 1252)
+          - revised:
+          	03DD	GREEK SMALL LETTER DIGAMMA
+          		Shape changed to more standard form
+          		f-like shape retained as potential presentation form
+          	0384	GREEK TONOS
+          		Redesigned to add slight tilt toward right
+          		Old shapes not retained
+          		(note: this affects all monotonic composites)
+          	period, colon, semicolon, greek question mark all enlarged
+          - full release (including keyboard files) is aimed at Windows users
+          - Mac OS X users can also use the fonts, but no keyboard utility is included
+          
+          1995 - SIL Galatia created
+          - a custom-encoded font
+
+		</text>
+    </description>
+    <license url="http://scripts.sil.org/OFL"
+             id="org.sil.ofl.1.1">
+        <text lang="en">
+			Copyright (c) 1995-2015, SIL International (http://scripts.sil.org/)
+			with Reserved Font Names "Galatia" and "SIL".
+      
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.
+      This license is copied below, and is also available with a FAQ at:
+      http://scripts.sil.org/OFL
+      
+      
+      -----------------------------------------------------------
+      SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+      -----------------------------------------------------------
+      
+      PREAMBLE
+      The goals of the Open Font License (OFL) are to stimulate worldwide
+      development of collaborative font projects, to support the font creation
+      efforts of academic and linguistic communities, and to provide a free and
+      open framework in which fonts may be shared and improved in partnership
+      with others.
+      
+      The OFL allows the licensed fonts to be used, studied, modified and
+      redistributed freely as long as they are not sold by themselves. The
+      fonts, including any derivative works, can be bundled, embedded, 
+      redistributed and/or sold with any software provided that any reserved
+      names are not used by derivative works. The fonts and derivatives,
+      however, cannot be released under any other type of license. The
+      requirement for fonts to remain under this license does not apply
+      to any document created using the fonts or their derivatives.
+      
+      DEFINITIONS
+      "Font Software" refers to the set of files released by the Copyright
+      Holder(s) under this license and clearly marked as such. This may
+      include source files, build scripts and documentation.
+      
+      "Reserved Font Name" refers to any names specified as such after the
+      copyright statement(s).
+      
+      "Original Version" refers to the collection of Font Software components as
+      distributed by the Copyright Holder(s).
+      
+      "Modified Version" refers to any derivative made by adding to, deleting,
+      or substituting -- in part or in whole -- any of the components of the
+      Original Version, by changing formats or by porting the Font Software to a
+      new environment.
+      
+      "Author" refers to any designer, engineer, programmer, technical
+      writer or other person who contributed to the Font Software.
+      
+      PERMISSION &amp; CONDITIONS
+      Permission is hereby granted, free of charge, to any person obtaining
+      a copy of the Font Software, to use, study, copy, merge, embed, modify,
+      redistribute, and sell modified and unmodified copies of the Font
+      Software, subject to the following conditions:
+      
+      1) Neither the Font Software nor any of its individual components,
+      in Original or Modified Versions, may be sold by itself.
+      
+      2) Original or Modified Versions of the Font Software may be bundled,
+      redistributed and/or sold with any software, provided that each copy
+      contains the above copyright notice and this license. These can be
+      included either as stand-alone text files, human-readable headers or
+      in the appropriate machine-readable metadata fields within text or
+      binary files as long as those fields can be easily viewed by the user.
+      
+      3) No Modified Version of the Font Software may use the Reserved Font
+      Name(s) unless explicit written permission is granted by the corresponding
+      Copyright Holder. This restriction only applies to the primary font name as
+      presented to the users.
+      
+      4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+      Software shall not be used to promote, endorse or advertise any
+      Modified Version, except to acknowledge the contribution(s) of the
+      Copyright Holder(s) and the Author(s) or with their explicit written
+      permission.
+      
+      5) The Font Software, modified or unmodified, in part or in whole,
+      must be distributed entirely under this license, and must not be
+      distributed under any other license. The requirement for fonts to
+      remain under this license does not apply to any document created
+      using the Font Software.
+      
+      TERMINATION
+      This license becomes null and void if any of the above conditions are
+      not met.
+      
+      DISCLAIMER
+      THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+      EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+      MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+      OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+      COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+      INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+      DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+      FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+      OTHER DEALINGS IN THE FONT SOFTWARE.
+      		</text>
+    </license>
+    <copyright>
+        <text lang="en">Copyright (c) 1995-2015, SIL International (http://www.sil.org/)</text>
+    </copyright>
+</metadata>

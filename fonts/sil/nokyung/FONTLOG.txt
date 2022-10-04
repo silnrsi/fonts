@@ -1,0 +1,76 @@
+FONTLOG
+Nokyung font for the New Tai Lue script
+========================================
+
+This file provides detailed information on the Nokyung font software.
+This information should be distributed along with the Nokyung font and any derivative works.
+
+
+Basic Font Information
+----------------------
+
+Nokyung is a Unicode font for the New Tai Lue script.
+Font sources are published in the repository and a smith open workflow is used for building, testing and releasing.
+
+
+ChangeLog
+----------
+
+2017-05-05 (SIL Non-Roman Script Initiative) 1.490 (test release)
+- Completed the Bold weight
+- Revised some Regular glyphs - note that due to slight width changes documents may reflow!
+- Added WOFF versions
+- Intended for development and testing
+
+2016-01-28 (SIL Non-Roman Script Initiative) 1.302
+- Small documentation adjustments
+- Removed 'SIL' as a Reserved Font Name
+- More work on Bold (but still not finished)
+- Unencoded dotted circle (U+25CC) to work around a Windows 7 problem
+
+2015-06-02 (SIL Non-Roman Script Initiative) 1.300
+- Increased default line metrics
+- Changed descender design
+- Revised all punctuation
+- Regular only
+- Should still be considered experimental
+
+2015-04-03 (SIL Non-Roman Script Initiative) 1.200
+- First release based on Github project
+- Regular only
+- Should still be considered experimental
+
+
+Acknowledgements
+----------------
+(Here is where contributors can be acknowledged. If you make modifications be sure to add your name (N), email (E), web-address (W) and description (D).
+
+This list is in alphabetical order.
+
+
+N: Victor Gaultney
+E: fonts@sil.org
+W: http://scripts.sil.org/
+D: Designer
+
+N: Martin Hosken
+E: ...
+W: http://scripts.sil.org/
+D: Script engineer
+
+N: Annie Olsen
+E: ...
+W: http://scripts.sil.org/
+D: Designer
+
+N: Julie Remington
+E: ...
+W: http://scripts.sil.org/
+D: Designer
+
+N: Nicolas Spalinger
+E: ...
+W: http://scripts.sil.org/
+D: Script engineer
+
+For more information send an e-mail to <fonts@sil.org>
