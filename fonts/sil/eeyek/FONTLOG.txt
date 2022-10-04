@@ -1,0 +1,39 @@
+-----
+FONTLOG for the Eeyek font
+
+This file provides detailed information on the Eeyek Font Software. This information should be distributed along with the Eeyek font and any derivative works.
+
+Basic Font Information
+
+Eeyek is a Unicode font for the Meetei Mayek script.
+
+Special permission has been granted to SIL to use the Reserved Font Name "Eeyek" for this project.
+
+ChangeLog
+
+13 Dec 2019 (SIL WSTech Team) Eeyek version 2.000
+- Rebuilt from new workflow
+- Joining underline glyph changed to underline previous and following glyphs
+- Question mark (U+003F) reencoded as U+AAF1 MEETEI MAYEK AHANG KHUDAM, and replaced with Latin question mark
+- Added U+ABE2 MEETEI MAYEK LETTER I LONSUM
+- Glyphs added: FULL STOP (U+002E), other basic Latin glyphs
+
+2 Dec 2019 (original authors) Eeyek version 1.000
+- First OFL release based on Eeyek Unicode font
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D).
+
+N: Pravabati Chingangbam
+D: Designer of original Eeyek glyphs
+
+N: Tabish
+E: tabishq@gmail.com
+W: http://tabish.freeshell.org/eeyek/
+D: Designer of original Eeyek glyphs
+
+N: SIL font designers and engineers
+E: http://scripts.sil.org/support
+W: http://scripts.sil.org/
+D: Latin glyphs, revisions, and engineering support

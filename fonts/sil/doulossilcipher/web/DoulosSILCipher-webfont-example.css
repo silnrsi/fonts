@@ -1,0 +1,44 @@
+/*
+DoulosSILCipher-webfont-example.css
+DoulosSILCipher v1.020
+This file is part of Doulos SIL Cipher font family (http://scripts.sil.org/CipherMusic)
+and is Copyright (c) 1994-2014 SIL International (http://www.sil.org/),
+with Reserved Font Names "Doulos" and "SIL". This Font Software is licensed
+under the SIL Open Font License, Version 1.1. You should have received a copy
+of the license along with this Font Software. If this is not the case, go to
+(http://scripts.sil.org/OFL) for all the details including a FAQ.
+*/
+
+/* use Doulos SIL Cipher - Regular in .woff format */
+@font-face {
+  font-family: Cipher;
+  src: url(DoulosSILCipher-R.woff);
+}
+
+/* set body to use Doulos SIL Cipher in .woff format */
+body {
+  font-family: Cipher, Arial;
+  font-size: 12pt;
+    /* fall back to sans-serif so that it's really obvious if the fonts don't load */
+}
+h1 {
+  font-family: Arial;
+  font-weight: bold;	
+  font-size: 16pt
+}
+h2 {
+  font-family: Arial;
+  font-weight: bold;	
+  font-size: 14pt
+}
+kep {
+  font-family: Cipher, sans-serif;
+  font-size: 20pt;
+    /* fall back to serif so that it's really obvious if the fonts don't load */
+}
+/* Chinese */
+jianpu {
+  font-weight: normal;	
+  font-size: 20pt;
+  -moz-font-feature-settings: "slur" 2;
+}
