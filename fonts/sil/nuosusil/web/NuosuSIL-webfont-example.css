@@ -1,0 +1,22 @@
+/*
+This file is from the Nuosu SIL project (https://software.sil.org/nuosu/).
+Copyright (c) 1999-2022 SIL International (http://www.sil.org/),
+with Reserved Font Name "SIL".
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+*/
+
+@font-face {
+  font-family: NuosuSIL-R;
+  src: url(NuosuSIL-Regular.woff2);
+}
+
+/* set body font */
+body {
+  font-family: NuosuSIL-R, sans-serif;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+
+/* remove bold styling from heading */
+h1 {
+  font-weight: normal;
+}

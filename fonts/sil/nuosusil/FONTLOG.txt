@@ -6,11 +6,10 @@ This file provides detailed information on the Nuosu SIL font.
 This information should be distributed along with the Nuosu SIL font and
 any derivative works.
 
+## About this project
 
-Basic Font Information
-----------------------
-
-Nuoso SIL (originally SIL Yi) was developed in 2000 as a single Unicode
+This project provides a free and open font for the Yi script.
+Nuosu SIL (originally SIL Yi) was developed in 2000 as a single Unicode
 font for the standardized Yi script used by a large ethnic group in
 southwestern China.
 
@@ -27,36 +26,33 @@ The direction of writing and reading was standardized as left-to-right.
 Punctuation symbols were borrowed from Chinese, and a diacritic was
 incorporated into the system to mark one of the tones.
 
-One font is included in this release:
+## ChangeLog
 
-	* Nuosu SIL Regular
-
-SIL International is the creator of the Nuosu SIL fonts.
-
-
-ChangeLog
----------
 (This should list both major and minor changes, most recent first.)
 
-21 Oct 2020 Version 2.200
+### 14 Sep 2022 Version 2.300
+- Fixed character U+FF02 by changing encoding to U+FF1F, and then redrawing U+FF02
+- New punctuation characters U+3018..U+301B, U+FF0D, U+FF61..U+FF65
+- Outlines cleaned up to remove cutouts
+
+### 21 Oct 2020 Version 2.200
 - Build changed to use UFO+designspace workflow
 - Corrected shape of U+300D and U+300F
 - Add more Latin characters from Doulos SIL at 104%
 
-9 July 2009 Version 2.1.1
+### 9 July 2009 Version 2.1.1
 
-8 December 2008 Version 2.001
+### 8 December 2008 Version 2.001
 - Name changed to Nuosu SIL
 
-19 April 2007 Version 1.2 OFL release.
+### 19 April 2007 Version 1.2 OFL release.
 
-September 2002 Keyman keyboard released
+### September 2002 Keyman keyboard released
 
-10 April 2000 Version 1.1 released.
+### 10 April 2000 Version 1.1 released.
 
+## Information for Contributors
 
-Information for Contributors
-----------------------------
 We welcome contributions to this font project, such as new glyphs, enhanced
 smart font code, or bug fixes. The best way to begin the process is to file an
 issue in the Github project (https://github.com/silnrsi/font-nuosu/issues)
@@ -73,18 +69,20 @@ submit the required form, please visit the CLA information page
 (https://software.sil.org/fontcla).
 
 
-Acknowledgements
-----------------
-(Here is where contributors can be acknowledged. If you make
-modifications be sure to add your name (N), email (E), web-address (W)
-and description (D). This list is sorted by last name in alphabetical order.)
+## Acknowledgements
+
+(Here is where contributors can be acknowledged.
+If you make modifications be sure to add your name (N), email (E), web-address (W) and description (D).
+This list is sorted by last name in alphabetical order.)
 
 N: Peter Constable, Alex Kotlar, Peter Martin, Bobby de Vos
-E: fonts@sil.org
+E: https://software.sil.org/nuosu/#contact
 W: https://software.sil.org/nuosu/
 D: SIL font engineers and designers
 
-The Nuosu SIL project is maintained by SIL International.
+The Nuosu SIL project is maintained by SIL International, a global,
+faith-based nonprofit that works with local communities around the world
+to develop language solutions that expand possibilities for a better life.
 
-For more information please visit the Nuosu SIL page on SIL International's
-Computers and Writing systems website: https://software.sil.org/nuosu/
+For more information or support please visit:
+https://software.sil.org/nuosu/
