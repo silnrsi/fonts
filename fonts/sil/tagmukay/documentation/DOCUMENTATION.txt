@@ -1,0 +1,20 @@
+DOCUMENTATION
+Tagmukay
+========================
+
+This file describes the documentation files included with the Tagmukay font. 
+This information should be distributed along with the Tagmukay font and any 
+derivative works.
+
+The Tagmukay-Glyphs.odt file shows all the glyphs in the font. It is the 
+source file for the pdf.
+
+The Tagmukay-Glyphs.pdf file shows all the glyphs in the font.
+
+The Tagmukay-SmartFontFeatures.odt file documents the Graphite and OpenType
+features in the font. It contains instructions how to access the user-selectable 
+features for Graphite and OpenType. It is the source file for the pdf.
+
+The Tagmukay-SmartFontFeatures.pdf file documents the Graphite and OpenType
+features in the font. It contains instructions how to access the user-selectable 
+features for Graphite and OpenType.

@@ -1,0 +1,27 @@
+/*
+Tagmukay-webfont-example.css
+Tagmukay v2
+
+This file is part of Tagmukay font family (http://software.sil.org/tagmukay)
+and is Copyright (c) 2017 SIL International (http://www.sil.org/),
+with Reserved Font Names "Tagmukay" and "SIL". This Font Software is licensed
+under the SIL Open Font License, Version 1.1. You should have received a copy
+of the license along with this Font Software. If this is not the case, go to
+(http://scripts.sil.org/OFL) for all the details including a FAQ.
+*/
+
+
+/* use Tagmukay - Regular in .woff format */
+@font-face {
+  font-family: TagmukayW-R;
+  src: url(Tagmukay-Regular.woff);
+}
+
+/* set body to use Tagmukay in WOFF format */
+body {
+  font-family: TagmukayW-R, sans-serif;
+    /* fall back to sans-serif so that it's really obvious if the fonts don't load */
+}
+
+
+
