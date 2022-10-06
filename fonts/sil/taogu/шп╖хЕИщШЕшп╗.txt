@@ -1,0 +1,22 @@
+﻿Shimenkan（石门坎）
+
+Shimenkan 字体集支持各种使用伯格里苗文的书写系统，共有八套针对不同语言族群特别需要的字体包：
+
+- Salaowu - [ywqa] Nasu 黑彝文
+- Sapushan - [hmd] A-Hmao 大花苗老苗文
+- Shimenkan Guifan -  [hmdd] 大花苗规范苗文
+- Shimenkan GSM -  [ygp] Gepo 白彝文
+- Shimenkan MAS - [sfm] 小花苗文
+- Shimenkan MGS - [hmz] Hmong Shua 歪梳苗文
+- Shimenkan Zonghe - [yna] Aluo 干彝文
+- Taogu - [lpo] Lipo 东傈僳文
+
+拉丁字形源自经由 OFL 许可的 Source Sans Pro 字体集（https://github.com/adobe-fonts/source-sans-pro）。苗文字形的设计与拉丁字形融合，同时保持苗文书写系统的特征。本字体项目由 Miao Unicode 项目（https://github.com/phjamr/MiaoUnicode）启发，但并不以其为基础。
+
+有关字体安装及使用的资讯，详见 "字体使用说明.pdf"。
+
+有关版权及许可的资讯，包括所有保留字体名称，详见 "OFL.txt"。
+
+有关修改本字体集及再发行的资讯，详见 “OFL-FAQ.txt”。
+
+有关本字体项目的详情，包括修改记录及鸣谢，见 “FONTLOG.txt”。
