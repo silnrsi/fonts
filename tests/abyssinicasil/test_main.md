@@ -1,6 +1,6 @@
 ---
 title: Abyssinica SIL - Webfont Test
-gfhref: "https://fonts.googleapis.com/css2?family=AbyssinicaSIL&display=swap"
+gfhref: "https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap"
 ---
 
 ## Scripts (UDHR 26)
@@ -447,4 +447,17 @@ FLO  'cv85'  | <span class='flo' style='font-feature-settings: "cv85" 1'>ቍ ኵ
 
 ## Character support
 
-(to be added)
+Source/Language | Test sequences
+- | -------------------------
+LPR default | <span class='lpr'>ሀሁሂሃሄህሆሇጐ፝᎐᎑ⶀⶁꬁꬂጠ፞ጠ፟ጠ፝</span>
+GF default | <span class='gf'>ሀሁሂሃሄህሆሇጐ፝᎐᎑ⶀⶁꬁꬂጠ፞ጠ፟ጠ፝</span>
+FLO default | <span class='flo'>ሀሁሂሃሄህሆሇጐ፝᎐᎑ⶀⶁꬁꬂጠ፞ጠ፟ጠ፝</span>
+
+## Kerning support
+
+Source/Language | Test sequences
+- | -------------------------
+LPR default | <span class='lpr'>ሊብ ሊች ሊጭ ሊፋ ሊገ ሊጊ ሊግ ሊኸ ሊኹ ሊኺ ሊኻ ሊኽ ሊኾ ሊሚ ሊማ </span>
+GF default | <span class='gf'>ሊብ ሊች ሊጭ ሊፋ ሊገ ሊጊ ሊግ ሊኸ ሊኹ ሊኺ ሊኻ ሊኽ ሊኾ ሊሚ ሊማ </span>
+FLO default | <span class='flo'>ሊብ ሊች ሊጭ ሊፋ ሊገ ሊጊ ሊግ ሊኸ ሊኹ ሊኺ ሊኻ ሊኽ ሊኾ ሊሚ ሊማ </span>
+
