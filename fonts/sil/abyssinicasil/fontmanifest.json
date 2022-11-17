@@ -1,0 +1,16 @@
+{
+"abyssinicasil": {
+    "defaults": {
+        "ttf": "AbyssinicaSIL-Regular.ttf",
+        "woff": "AbyssinicaSIL-Regular.woff",
+        "woff2": "AbyssinicaSIL-Regular.woff2"
+    },
+    "family": "Abyssinica SIL",
+    "files": {
+        "AbyssinicaSIL-Regular.ttf": { "axes": { "ital": 0 }, "packagepath": "AbyssinicaSIL-Regular.ttf" },
+        "AbyssinicaSIL-Regular.woff": { "axes": { "ital": 0 }, "packagepath": "web/AbyssinicaSIL-Regular.woff" },
+        "AbyssinicaSIL-Regular.woff2": { "axes": { "ital": 0 }, "packagepath": "web/AbyssinicaSIL-Regular.woff2" }
+    },
+    "version": "2.200"
+}
+}
