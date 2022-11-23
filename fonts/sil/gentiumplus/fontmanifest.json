@@ -1,0 +1,25 @@
+{
+"gentiumplus": {
+    "defaults": {
+        "ttf": "GentiumPlus-Regular.ttf",
+        "woff": "GentiumPlus-Regular.woff",
+        "woff2": "GentiumPlus-Regular.woff2"
+    },
+    "family": "Gentium Plus",
+    "files": {
+        "GentiumPlus-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlus-Bold.ttf" },
+        "GentiumPlus-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/GentiumPlus-Bold.woff" },
+        "GentiumPlus-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/GentiumPlus-Bold.woff2" },
+        "GentiumPlus-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlus-BoldItalic.ttf" },
+        "GentiumPlus-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/GentiumPlus-BoldItalic.woff" },
+        "GentiumPlus-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/GentiumPlus-BoldItalic.woff2" },
+        "GentiumPlus-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlus-Italic.ttf" },
+        "GentiumPlus-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/GentiumPlus-Italic.woff" },
+        "GentiumPlus-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/GentiumPlus-Italic.woff2" },
+        "GentiumPlus-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlus-Regular.ttf" },
+        "GentiumPlus-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/GentiumPlus-Regular.woff" },
+        "GentiumPlus-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/GentiumPlus-Regular.woff2" }
+    },
+    "version": "6.101"
+}
+}

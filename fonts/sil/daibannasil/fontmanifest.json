@@ -1,0 +1,43 @@
+{
+"daibannasil": {
+    "defaults": {
+        "ttf": "DaiBannaSIL-Regular.ttf",
+        "woff": "DaiBannaSIL-Regular.woff",
+        "woff2": "DaiBannaSIL-Regular.woff2"
+    },
+    "family": "Dai Banna SIL",
+    "files": {
+        "DaiBannaSIL-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-Bold.ttf" },
+        "DaiBannaSIL-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/DaiBannaSIL-Bold.woff" },
+        "DaiBannaSIL-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/DaiBannaSIL-Bold.woff2" },
+        "DaiBannaSIL-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-BoldItalic.ttf" },
+        "DaiBannaSIL-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/DaiBannaSIL-BoldItalic.woff" },
+        "DaiBannaSIL-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/DaiBannaSIL-BoldItalic.woff2" },
+        "DaiBannaSIL-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-Italic.ttf" },
+        "DaiBannaSIL-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/DaiBannaSIL-Italic.woff" },
+        "DaiBannaSIL-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/DaiBannaSIL-Italic.woff2" },
+        "DaiBannaSIL-Light.ttf": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "DaiBannaSIL-Light.ttf" },
+        "DaiBannaSIL-Light.woff": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/DaiBannaSIL-Light.woff" },
+        "DaiBannaSIL-Light.woff2": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/DaiBannaSIL-Light.woff2" },
+        "DaiBannaSIL-LightItalic.ttf": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 1, "wght": 300.0 }, "packagepath": "DaiBannaSIL-LightItalic.ttf" },
+        "DaiBannaSIL-LightItalic.woff": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 1, "wght": 300.0 }, "packagepath": "web/DaiBannaSIL-LightItalic.woff" },
+        "DaiBannaSIL-LightItalic.woff2": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 1, "wght": 300.0 }, "packagepath": "web/DaiBannaSIL-LightItalic.woff2" },
+        "DaiBannaSIL-Medium.ttf": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "DaiBannaSIL-Medium.ttf" },
+        "DaiBannaSIL-Medium.woff": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/DaiBannaSIL-Medium.woff" },
+        "DaiBannaSIL-Medium.woff2": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/DaiBannaSIL-Medium.woff2" },
+        "DaiBannaSIL-MediumItalic.ttf": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "DaiBannaSIL-MediumItalic.ttf" },
+        "DaiBannaSIL-MediumItalic.woff": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/DaiBannaSIL-MediumItalic.woff" },
+        "DaiBannaSIL-MediumItalic.woff2": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/DaiBannaSIL-MediumItalic.woff2" },
+        "DaiBannaSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-Regular.ttf" },
+        "DaiBannaSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/DaiBannaSIL-Regular.woff" },
+        "DaiBannaSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/DaiBannaSIL-Regular.woff2" },
+        "DaiBannaSIL-SemiBold.ttf": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "DaiBannaSIL-SemiBold.ttf" },
+        "DaiBannaSIL-SemiBold.woff": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/DaiBannaSIL-SemiBold.woff" },
+        "DaiBannaSIL-SemiBold.woff2": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/DaiBannaSIL-SemiBold.woff2" },
+        "DaiBannaSIL-SemiBoldItalic.ttf": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "DaiBannaSIL-SemiBoldItalic.ttf" },
+        "DaiBannaSIL-SemiBoldItalic.woff": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/DaiBannaSIL-SemiBoldItalic.woff" },
+        "DaiBannaSIL-SemiBoldItalic.woff2": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/DaiBannaSIL-SemiBoldItalic.woff2" }
+    },
+    "version": "4.000"
+}
+}

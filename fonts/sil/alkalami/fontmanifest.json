@@ -1,0 +1,16 @@
+{
+"alkalami": {
+    "defaults": {
+        "ttf": "Alkalami-Regular.ttf",
+        "woff": "Alkalami-Regular.woff",
+        "woff2": "Alkalami-Regular.woff2"
+    },
+    "family": "Alkalami",
+    "files": {
+        "Alkalami-Regular.ttf": { "axes": { "ital": 0 }, "packagepath": "Alkalami-Regular.ttf" },
+        "Alkalami-Regular.woff": { "axes": { "ital": 0 }, "packagepath": "web/Alkalami-Regular.woff" },
+        "Alkalami-Regular.woff2": { "axes": { "ital": 0 }, "packagepath": "web/Alkalami-Regular.woff2" }
+    },
+    "version": "2.000"
+}
+}

@@ -1,0 +1,16 @@
+{
+"harmattan": {
+    "defaults": {
+        "ttf": "Harmattan-Regular.ttf",
+        "woff": "Harmattan-Regular.woff"
+    },
+    "family": "Harmattan",
+    "files": {
+        "Harmattan-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Harmattan-Bold.ttf" },
+        "Harmattan-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Harmattan-Bold.woff" },
+        "Harmattan-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Harmattan-Regular.ttf" },
+        "Harmattan-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Harmattan-Regular.woff" }
+    },
+    "version": "2.000"
+}
+}

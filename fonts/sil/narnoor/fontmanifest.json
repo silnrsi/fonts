@@ -1,0 +1,14 @@
+{
+"narnoor": {
+    "defaults": {
+        "ttf": "Narnoor-Regular.ttf",
+        "woff": "Narnoor-Regular.woff"
+    },
+    "family": "Narnoor",
+    "files": {
+        "Narnoor-Regular.ttf": { "axes": { "ital": 0 }, "packagepath": "Narnoor-Regular.ttf" },
+        "Narnoor-Regular.woff": { "axes": { "ital": 0 }, "packagepath": "web/Narnoor-Regular.woff" }
+    },
+    "version": "1.000"
+}
+}

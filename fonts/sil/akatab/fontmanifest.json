@@ -1,0 +1,16 @@
+{
+"akatab": {
+    "defaults": {
+        "ttf": "Akatab-Regular.ttf",
+        "woff": "Akatab-Regular.woff"
+    },
+    "family": "Akatab",
+    "files": {
+        "Akatab-Bold.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "Akatab-Bold.ttf" },
+        "Akatab-Bold.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "web/Akatab-Bold.woff" },
+        "Akatab-Regular.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "Akatab-Regular.ttf" },
+        "Akatab-Regular.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/Akatab-Regular.woff" }
+    },
+    "version": "2.000"
+}
+}

@@ -1,0 +1,28 @@
+{
+"awaminastaliq": {
+    "defaults": {
+        "ttf": "AwamiNastaliq-Regular.ttf",
+        "woff": "AwamiNastaliq-Regular.woff",
+        "woff2": "AwamiNastaliq-Regular.woff2"
+    },
+    "family": "Awami Nastaliq",
+    "files": {
+        "AwamiNastaliq-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AwamiNastaliq-Bold.ttf" },
+        "AwamiNastaliq-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/AwamiNastaliq-Bold.woff" },
+        "AwamiNastaliq-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/AwamiNastaliq-Bold.woff2" },
+        "AwamiNastaliq-ExtraBold.ttf": { "altfamily": "Awami Nastaliq ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "AwamiNastaliq-ExtraBold.ttf" },
+        "AwamiNastaliq-ExtraBold.woff": { "altfamily": "Awami Nastaliq ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/AwamiNastaliq-ExtraBold.woff" },
+        "AwamiNastaliq-ExtraBold.woff2": { "altfamily": "Awami Nastaliq ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/AwamiNastaliq-ExtraBold.woff2" },
+        "AwamiNastaliq-Medium.ttf": { "altfamily": "Awami Nastaliq Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "AwamiNastaliq-Medium.ttf" },
+        "AwamiNastaliq-Medium.woff": { "altfamily": "Awami Nastaliq Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/AwamiNastaliq-Medium.woff" },
+        "AwamiNastaliq-Medium.woff2": { "altfamily": "Awami Nastaliq Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/AwamiNastaliq-Medium.woff2" },
+        "AwamiNastaliq-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AwamiNastaliq-Regular.ttf" },
+        "AwamiNastaliq-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/AwamiNastaliq-Regular.woff" },
+        "AwamiNastaliq-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/AwamiNastaliq-Regular.woff2" },
+        "AwamiNastaliq-SemiBold.ttf": { "altfamily": "Awami Nastaliq SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "AwamiNastaliq-SemiBold.ttf" },
+        "AwamiNastaliq-SemiBold.woff": { "altfamily": "Awami Nastaliq SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/AwamiNastaliq-SemiBold.woff" },
+        "AwamiNastaliq-SemiBold.woff2": { "altfamily": "Awami Nastaliq SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/AwamiNastaliq-SemiBold.woff2" }
+    },
+    "version": "3.000"
+}
+}

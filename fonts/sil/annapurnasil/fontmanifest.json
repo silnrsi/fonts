@@ -1,0 +1,16 @@
+{
+"annapurnasil": {
+    "defaults": {
+        "ttf": "AnnapurnaSIL-Regular.ttf",
+        "woff": "AnnapurnaSIL-Regular.woff"
+    },
+    "family": "Annapurna SIL",
+    "files": {
+        "AnnapurnaSIL-Bold.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "AnnapurnaSIL-Bold.ttf" },
+        "AnnapurnaSIL-Bold.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "web/AnnapurnaSIL-Bold.woff" },
+        "AnnapurnaSIL-Regular.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "AnnapurnaSIL-Regular.ttf" },
+        "AnnapurnaSIL-Regular.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/AnnapurnaSIL-Regular.woff" }
+    },
+    "version": "1.204"
+}
+}

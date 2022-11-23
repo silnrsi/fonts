@@ -1,0 +1,28 @@
+{
+"namdhinggo": {
+    "defaults": {
+        "ttf": "Namdhinggo-Regular.ttf",
+        "woff": "Namdhinggo-Regular.woff",
+        "woff2": "Namdhinggo-Regular.woff2"
+    },
+    "family": "Namdhinggo",
+    "files": {
+        "Namdhinggo-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Namdhinggo-Bold.ttf" },
+        "Namdhinggo-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Namdhinggo-Bold.woff" },
+        "Namdhinggo-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Namdhinggo-Bold.woff2" },
+        "Namdhinggo-ExtraBold.ttf": { "altfamily": "Namdhinggo ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "Namdhinggo-ExtraBold.ttf" },
+        "Namdhinggo-ExtraBold.woff": { "altfamily": "Namdhinggo ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Namdhinggo-ExtraBold.woff" },
+        "Namdhinggo-ExtraBold.woff2": { "altfamily": "Namdhinggo ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Namdhinggo-ExtraBold.woff2" },
+        "Namdhinggo-Medium.ttf": { "altfamily": "Namdhinggo Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Namdhinggo-Medium.ttf" },
+        "Namdhinggo-Medium.woff": { "altfamily": "Namdhinggo Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Namdhinggo-Medium.woff" },
+        "Namdhinggo-Medium.woff2": { "altfamily": "Namdhinggo Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Namdhinggo-Medium.woff2" },
+        "Namdhinggo-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Namdhinggo-Regular.ttf" },
+        "Namdhinggo-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Namdhinggo-Regular.woff" },
+        "Namdhinggo-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Namdhinggo-Regular.woff2" },
+        "Namdhinggo-SemiBold.ttf": { "altfamily": "Namdhinggo SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Namdhinggo-SemiBold.ttf" },
+        "Namdhinggo-SemiBold.woff": { "altfamily": "Namdhinggo SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Namdhinggo-SemiBold.woff" },
+        "Namdhinggo-SemiBold.woff2": { "altfamily": "Namdhinggo SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Namdhinggo-SemiBold.woff2" }
+    },
+    "version": "3.000"
+}
+}

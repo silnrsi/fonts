@@ -1,0 +1,16 @@
+{
+"nuosusil": {
+    "defaults": {
+        "ttf": "NuosuSIL-Regular.ttf",
+        "woff": "NuosuSIL-Regular.woff",
+        "woff2": "NuosuSIL-Regular.woff2"
+    },
+    "family": "Nuosu SIL",
+    "files": {
+        "NuosuSIL-Regular.ttf": { "axes": { "ital": 0 }, "packagepath": "NuosuSIL-Regular.ttf" },
+        "NuosuSIL-Regular.woff": { "axes": { "ital": 0 }, "packagepath": "web/NuosuSIL-Regular.woff" },
+        "NuosuSIL-Regular.woff2": { "axes": { "ital": 0 }, "packagepath": "web/NuosuSIL-Regular.woff2" }
+    },
+    "version": "2.300"
+}
+}

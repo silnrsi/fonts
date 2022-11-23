@@ -1,0 +1,16 @@
+{
+"nokyung": {
+    "defaults": {
+        "ttf": "Nokyung-Regular.ttf",
+        "woff": "Nokyung-Regular.woff"
+    },
+    "family": "Nokyung",
+    "files": {
+        "Nokyung-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Nokyung-Bold.ttf" },
+        "Nokyung-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Nokyung-Bold.woff" },
+        "Nokyung-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Nokyung-Regular.ttf" },
+        "Nokyung-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Nokyung-Regular.woff" }
+    },
+    "version": "1.490"
+}
+}

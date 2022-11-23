@@ -1,0 +1,34 @@
+{
+"lateef": {
+    "defaults": {
+        "ttf": "Lateef-Regular.ttf",
+        "woff": "Lateef-Regular.woff",
+        "woff2": "Lateef-Regular.woff2"
+    },
+    "family": "Lateef",
+    "files": {
+        "Lateef-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Lateef-Bold.ttf" },
+        "Lateef-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Lateef-Bold.woff" },
+        "Lateef-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Lateef-Bold.woff2" },
+        "Lateef-ExtraBold.ttf": { "altfamily": "Lateef ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "Lateef-ExtraBold.ttf" },
+        "Lateef-ExtraBold.woff": { "altfamily": "Lateef ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Lateef-ExtraBold.woff" },
+        "Lateef-ExtraBold.woff2": { "altfamily": "Lateef ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Lateef-ExtraBold.woff2" },
+        "Lateef-ExtraLight.ttf": { "altfamily": "Lateef ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "Lateef-ExtraLight.ttf" },
+        "Lateef-ExtraLight.woff": { "altfamily": "Lateef ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "web/Lateef-ExtraLight.woff" },
+        "Lateef-ExtraLight.woff2": { "altfamily": "Lateef ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "web/Lateef-ExtraLight.woff2" },
+        "Lateef-Light.ttf": { "altfamily": "Lateef Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Lateef-Light.ttf" },
+        "Lateef-Light.woff": { "altfamily": "Lateef Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/Lateef-Light.woff" },
+        "Lateef-Light.woff2": { "altfamily": "Lateef Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/Lateef-Light.woff2" },
+        "Lateef-Medium.ttf": { "altfamily": "Lateef Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Lateef-Medium.ttf" },
+        "Lateef-Medium.woff": { "altfamily": "Lateef Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Lateef-Medium.woff" },
+        "Lateef-Medium.woff2": { "altfamily": "Lateef Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Lateef-Medium.woff2" },
+        "Lateef-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Lateef-Regular.ttf" },
+        "Lateef-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Lateef-Regular.woff" },
+        "Lateef-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Lateef-Regular.woff2" },
+        "Lateef-SemiBold.ttf": { "altfamily": "Lateef SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Lateef-SemiBold.ttf" },
+        "Lateef-SemiBold.woff": { "altfamily": "Lateef SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Lateef-SemiBold.woff" },
+        "Lateef-SemiBold.woff2": { "altfamily": "Lateef SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Lateef-SemiBold.woff2" }
+    },
+    "version": "2.000"
+}
+}

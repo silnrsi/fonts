@@ -1,0 +1,16 @@
+{
+"mingzat": {
+    "defaults": {
+        "ttf": "Mingzat-Regular.ttf",
+        "woff": "Mingzat-Regular.woff",
+        "woff2": "Mingzat-Regular.woff2"
+    },
+    "family": "Mingzat",
+    "files": {
+        "Mingzat-Regular.ttf": { "axes": { "ital": 0 }, "packagepath": "Mingzat-Regular.ttf" },
+        "Mingzat-Regular.woff": { "axes": { "ital": 0 }, "packagepath": "web/Mingzat-Regular.woff" },
+        "Mingzat-Regular.woff2": { "axes": { "ital": 0 }, "packagepath": "web/Mingzat-Regular.woff2" }
+    },
+    "version": "1.100"
+}
+}
