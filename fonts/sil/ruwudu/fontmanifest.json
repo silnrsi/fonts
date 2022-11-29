@@ -1,0 +1,16 @@
+{
+"ruwudu": {
+    "defaults": {
+        "ttf": "Ruwudu-Regular.ttf",
+        "woff": "Ruwudu-Regular.woff",
+        "woff2": "Ruwudu-Regular.woff2"
+    },
+    "family": "Ruwudu",
+    "files": {
+        "Ruwudu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Ruwudu-Regular.ttf" },
+        "Ruwudu-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Ruwudu-Regular.woff" },
+        "Ruwudu-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Ruwudu-Regular.woff2" }
+    },
+    "version": "2.000"
+}
+}

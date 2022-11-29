@@ -1,0 +1,19 @@
+{
+"payaplanna": {
+    "defaults": {
+        "ttf": "PayapLanna-Regular.ttf",
+        "woff": "PayapLanna-Regular.woff",
+        "woff2": "PayapLanna-Regular.woff2"
+    },
+    "family": "Payap Lanna",
+    "files": {
+        "PayapLanna-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "PayapLanna-Bold.ttf" },
+        "PayapLanna-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/PayapLanna-Bold.woff" },
+        "PayapLanna-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/PayapLanna-Bold.woff2" },
+        "PayapLanna-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "PayapLanna-Regular.ttf" },
+        "PayapLanna-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/PayapLanna-Regular.woff" },
+        "PayapLanna-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/PayapLanna-Regular.woff2" }
+    },
+    "version": "1.000"
+}
+}
