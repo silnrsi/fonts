@@ -1,145 +1,527 @@
 {
-"alkalami": {
-    "defaultttf": "Alkalami-Regular.ttf",
-    "defaultwoff": "Alkalami-Regular.woff",
-    "defaultwoff2": "Alkalami-Regular.woff2",
-    "downloadmethod": "default",
-    "family": "Alkalami",
-    "familyid": "alkalami",
-    "files": {
-        "Alkalami-Regular.ttf": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/Alkalami-Regular.ttf", "fontpath": "Alkalami-Regular.ttf", "format": "ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/Alkalami-Regular.ttf", "wdth": 100.0, "wght": 400.0 },
-        "Alkalami-Regular.woff": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/web/Alkalami-Regular.woff", "fontpath": "web/Alkalami-Regular.woff", "format": "woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Alkalami-Regular.woff", "wdth": 100.0, "wght": 400.0 },
-        "Alkalami-Regular.woff2": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/web/Alkalami-Regular.woff2", "fontpath": "web/Alkalami-Regular.woff2", "format": "woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Alkalami-Regular.woff2", "wdth": 100.0, "wght": 400.0 }
+"akatab": {
+    "defaults": {
+        "ttf": "Akatab-Regular.ttf",
+        "woff": "Akatab-Regular.woff"
     },
+    "distributable": true,
+    "family": "Akatab",
+    "familyid": "akatab",
+    "files": {
+        "Akatab-Bold.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "Akatab-Bold.ttf" },
+        "Akatab-Bold.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "web/Akatab-Bold.woff" },
+        "Akatab-Regular.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "Akatab-Regular.ttf" },
+        "Akatab-Regular.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/Akatab-Regular.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/akatab/Akatab-2.000.zip",
+    "siteurl": "https://software.sil.org/akatab/",
+    "source": "SIL",
     "status": "current",
-    "version": 2.0
+    "version": "2.000"
 },
 "andika": {
-    "defaultttf": "Andika-Regular.ttf",
-    "defaultwoff": "web/Andika-Regular.woff",
-    "defaultwoff2": "web/Andika-Regular.woff2",
-    "downloadmethod": "default",
+    "defaults": {
+        "ttf": "Andika-Regular.ttf",
+        "woff": "Andika-Regular.woff",
+        "woff2": "Andika-Regular.woff2"
+    },
+    "distributable": true,
     "family": "Andika",
     "familyid": "andika",
     "files": {
-        "Andika-Bold.ttf": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/Andika-Bold.ttf", "fontpath": "Andika-Bold.ttf", "format": "ttf", "ital": 0, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/Andika-Bold.ttf", "wght": 700 },
-        "Andika-Bold.woff": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/web/Andika-Bold.woff", "fontpath": "web/Andika-Bold.woff", "format": "woff", "ital": 0, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/web/Andika-Bold.woff", "wght": 700.0 },
-        "Andika-Bold.woff2": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/web/Andika-Bold.woff2", "fontpath": "web/Andika-Bold.woff2", "format": "woff2", "ital": 0, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/web/Andika-Bold.woff2", "wght": 700.0 },
-        "Andika-BoldItalic.ttf": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/Andika-BoldItalic.ttf", "fontpath": "Andika-BoldItalic.ttf", "format": "ttf", "ital": 1, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/Andika-BoldItalic.ttf", "wght": 700.0 },
-        "Andika-BoldItalic.woff": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/web/Andika-BoldItalic.woff", "fontpath": "web/Andika-BoldItalic.woff", "format": "woff", "ital": 1, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/web/Andika-BoldItalic.woff", "wght": 700.0 },
-        "Andika-BoldItalic.woff2": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/web/Andika-BoldItalic.woff2", "fontpath": "web/Andika-BoldItalic.woff2", "format": "woff2", "ital": 1, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/web/Andika-BoldItalic.woff2", "wght": 700.0 },
-        "Andika-Italic.ttf": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/Andika-Italic.ttf", "fontpath": "Andika-Italic.ttf", "format": "ttf", "ital": 1, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/Andika-Italic.ttf", "wght": 400.0 },
-        "Andika-Italic.woff": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/web/Andika-Italic.woff", "fontpath": "web/Andika-Italic.woff", "format": "woff", "ital": 1, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/web/Andika-Italic.woff", "wght": 400.0 },
-        "Andika-Italic.woff2": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/web/Andika-Italic.woff2", "fontpath": "web/Andika-Italic.woff2", "format": "woff2", "ital": 1, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/web/Andika-Italic.woff2", "wght": 400.0 },
-        "Andika-Regular.ttf": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/Andika-Regular.ttf", "fontpath": "Andika-Regular.ttf", "format": "ttf", "ital": 0, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/Andika-Regular.ttf", "wght": 400 },
-        "Andika-Regular.woff": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/web/Andika-Regular.woff", "fontpath": "web/Andika-Regular.woff", "format": "woff", "ital": 0, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/web/Andika-Regular.woff", "wght": 400 },
-        "Andika-Regular.woff2": { "flourl": "https://fonts.languagetechnology.org/fonts/sil/andika/sil/andika/web/Andika-Regular.woff2", "fontpath": "web/Andika-Regular.woff2", "format": "woff2", "ital": 0, "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andika/web/Andika-Regular.woff2", "wght": 400.0 }
+        "Andika-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Andika-Bold.ttf" },
+        "Andika-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Andika-Bold.woff" },
+        "Andika-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Andika-Bold.woff2" },
+        "Andika-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "Andika-BoldItalic.ttf" },
+        "Andika-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/Andika-BoldItalic.woff" },
+        "Andika-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/Andika-BoldItalic.woff2" },
+        "Andika-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "Andika-Italic.ttf" },
+        "Andika-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/Andika-Italic.woff" },
+        "Andika-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/Andika-Italic.woff2" },
+        "Andika-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Andika-Regular.ttf" },
+        "Andika-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Andika-Regular.woff" },
+        "Andika-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Andika-Regular.woff2" }
     },
-    "fontfamilyID": "andika",
-    "googlefonts": {
-        "defaulthref": "",
-        "fullhref": "",
-        "notes": "",
-        "version": 6.101
-    },
-    "package": "https://software.sil.org/downloads/r/andika/Andika-6.101.zip",
-    "site": "https://software.sil.org/andika",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/andika/Andika-6.101.zip",
+    "siteurl": "https://software.sil.org/andika/",
     "source": "SIL",
     "status": "current",
-    "version": 6.101
+    "version": "6.101"
+},
+"angsananew": {
+    "distributable": false,
+    "fallback": "sarabun",
+    "family": "Angsana New",
+    "familyid": "angsananew",
+    "license": "proprietary",
+    "source": "Microsoft"
+},
+"annapurnasil": {
+    "defaults": {
+        "ttf": "AnnapurnaSIL-Regular.ttf",
+        "woff": "AnnapurnaSIL-Regular.woff"
+    },
+    "distributable": true,
+    "family": "Annapurna SIL",
+    "familyid": "annapurnasil",
+    "files": {
+        "AnnapurnaSIL-Bold.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "AnnapurnaSIL-Bold.ttf" },
+        "AnnapurnaSIL-Bold.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "web/AnnapurnaSIL-Bold.woff" },
+        "AnnapurnaSIL-Regular.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "AnnapurnaSIL-Regular.ttf" },
+        "AnnapurnaSIL-Regular.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/AnnapurnaSIL-Regular.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/annapurna/AnnapurnaSIL-1.204.zip",
+    "siteurl": "https://software.sil.org/annapurna/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.204"
+},
+"annapurnasilnepal": {
+    "defaults": {
+        "ttf": "AnnapurnaSIL-Nepal-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "annapurnasil",
+    "family": "Annapurna SIL",
+    "familyid": "annapurnasilnepal",
+    "files": {
+        "AnnapurnaSIL-Nepal-Bold.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "AnnapurnaSIL-Nepal-Bold.ttf" },
+        "AnnapurnaSIL-Nepal-Regular.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "AnnapurnaSIL-Nepal-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/annapurna/AnnapurnaSIL-Nepal-1.204.zip",
+    "siteurl": "https://software.sil.org/annapurna/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.204"
+},
+"awaminastaliq": {
+    "defaults": {
+        "ttf": "AwamiNastaliq-Regular.ttf",
+        "woff": "AwamiNastaliq-Regular.woff",
+        "woff2": "AwamiNastaliq-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Awami Nastaliq",
+    "familyid": "awaminastaliq",
+    "files": {
+        "AwamiNastaliq-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AwamiNastaliq-Bold.ttf" },
+        "AwamiNastaliq-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/AwamiNastaliq-Bold.woff" },
+        "AwamiNastaliq-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/AwamiNastaliq-Bold.woff2" },
+        "AwamiNastaliq-ExtraBold.ttf": { "altfamily": "Awami Nastaliq ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "AwamiNastaliq-ExtraBold.ttf" },
+        "AwamiNastaliq-ExtraBold.woff": { "altfamily": "Awami Nastaliq ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/AwamiNastaliq-ExtraBold.woff" },
+        "AwamiNastaliq-ExtraBold.woff2": { "altfamily": "Awami Nastaliq ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/AwamiNastaliq-ExtraBold.woff2" },
+        "AwamiNastaliq-Medium.ttf": { "altfamily": "Awami Nastaliq Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "AwamiNastaliq-Medium.ttf" },
+        "AwamiNastaliq-Medium.woff": { "altfamily": "Awami Nastaliq Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/AwamiNastaliq-Medium.woff" },
+        "AwamiNastaliq-Medium.woff2": { "altfamily": "Awami Nastaliq Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/AwamiNastaliq-Medium.woff2" },
+        "AwamiNastaliq-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AwamiNastaliq-Regular.ttf" },
+        "AwamiNastaliq-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/AwamiNastaliq-Regular.woff" },
+        "AwamiNastaliq-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/AwamiNastaliq-Regular.woff2" },
+        "AwamiNastaliq-SemiBold.ttf": { "altfamily": "Awami Nastaliq SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "AwamiNastaliq-SemiBold.ttf" },
+        "AwamiNastaliq-SemiBold.woff": { "altfamily": "Awami Nastaliq SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/AwamiNastaliq-SemiBold.woff" },
+        "AwamiNastaliq-SemiBold.woff2": { "altfamily": "Awami Nastaliq SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/AwamiNastaliq-SemiBold.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/awami/AwamiNastaliq-3.000.zip",
+    "siteurl": "https://software.sil.org/awami/",
+    "source": "SIL",
+    "status": "current",
+    "version": "3.000"
 },
 "charissil": {
-    "defaultttf": "CharisSIL-Regular.ttf",
-    "defaultwoff": "web/CharisSIL-Regular.woff",
-    "defaultwoff2": "web/CharisSIL-Regular.woff2",
-    "downloadmethod": "package",
+    "defaults": {
+        "ttf": "CharisSIL-Regular.ttf",
+        "woff": "CharisSIL-Regular.woff",
+        "woff2": "CharisSIL-Regular.woff2"
+    },
+    "distributable": true,
     "family": "Charis SIL",
     "familyid": "charissil",
     "files": {
-        "CharisSIL-Bold.ttf": { "fontpath": "CharisSIL-Bold.ttf", "format": "ttf", "ital": 0, "wght": 700 },
-        "CharisSIL-Bold.woff": { "fontpath": "web/CharisSIL-Bold.woff", "format": "woff", "ital": 0, "wght": 700.0 },
-        "CharisSIL-Bold.woff2": { "fontpath": "web/CharisSIL-Bold.woff2", "format": "woff2", "ital": 0, "wght": 700.0 },
-        "CharisSIL-BoldItalic.ttf": { "fontpath": "CharisSIL-BoldItalic.ttf", "format": "ttf", "ital": 1, "wght": 700.0 },
-        "CharisSIL-BoldItalic.woff": { "fontpath": "web/CharisSIL-BoldItalic.woff", "format": "woff", "ital": 1, "wght": 700.0 },
-        "CharisSIL-BoldItalic.woff2": { "fontpath": "web/CharisSIL-BoldItalic.woff2", "format": "woff2", "ital": 1, "wght": 700.0 },
-        "CharisSIL-Italic.ttf": { "fontpath": "CharisSIL-Italic.ttf", "format": "ttf", "ital": 1, "wght": 400.0 },
-        "CharisSIL-Italic.woff": { "fontpath": "web/CharisSIL-Italic.woff", "format": "woff", "ital": 1, "wght": 400.0 },
-        "CharisSIL-Italic.woff2": { "fontpath": "web/CharisSIL-Italic.woff2", "format": "woff2", "ital": 1, "wght": 400.0 },
-        "CharisSIL-Regular.ttf": { "fontpath": "CharisSIL-Regular.ttf", "format": "ttf", "ital": 0, "wght": 400 },
-        "CharisSIL-Regular.woff": { "fontpath": "web/CharisSIL-Regular.woff", "format": "woff", "ital": 0, "wght": 400 },
-        "CharisSIL-Regular.woff2": { "fontpath": "web/CharisSIL-Regular.woff2", "format": "woff2", "ital": 0, "wght": 400.0 }
+        "CharisSIL-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "CharisSIL-Bold.ttf" },
+        "CharisSIL-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/CharisSIL-Bold.woff" },
+        "CharisSIL-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/CharisSIL-Bold.woff2" },
+        "CharisSIL-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "CharisSIL-BoldItalic.ttf" },
+        "CharisSIL-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/CharisSIL-BoldItalic.woff" },
+        "CharisSIL-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/CharisSIL-BoldItalic.woff2" },
+        "CharisSIL-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "CharisSIL-Italic.ttf" },
+        "CharisSIL-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/CharisSIL-Italic.woff" },
+        "CharisSIL-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/CharisSIL-Italic.woff2" },
+        "CharisSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSIL-Regular.ttf" },
+        "CharisSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/CharisSIL-Regular.woff" },
+        "CharisSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/CharisSIL-Regular.woff2" }
     },
-    "fontfamilyID": "charissil",
-    "googlefonts": {
-        "defaulthref": "",
-        "fullhref": "",
-        "notes": "",
-        "version": 6.101
-    },
-    "package": "https://software.sil.org/downloads/r/charis/CharisSIL-6.101.zip",
-    "site": "https://software.sil.org/charis",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/charis/CharisSIL-6.101.zip",
+    "siteurl": "https://software.sil.org/charis/",
     "source": "SIL",
     "status": "current",
-    "version": 6.101
+    "version": "6.101"
+},
+"daibannasil": {
+    "defaults": {
+        "ttf": "DaiBannaSIL-Regular.ttf",
+        "woff": "DaiBannaSIL-Regular.woff",
+        "woff2": "DaiBannaSIL-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Dai Banna SIL",
+    "familyid": "daibannasil",
+    "files": {
+        "DaiBannaSIL-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-Bold.ttf" },
+        "DaiBannaSIL-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/DaiBannaSIL-Bold.woff" },
+        "DaiBannaSIL-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/DaiBannaSIL-Bold.woff2" },
+        "DaiBannaSIL-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-BoldItalic.ttf" },
+        "DaiBannaSIL-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/DaiBannaSIL-BoldItalic.woff" },
+        "DaiBannaSIL-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/DaiBannaSIL-BoldItalic.woff2" },
+        "DaiBannaSIL-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-Italic.ttf" },
+        "DaiBannaSIL-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/DaiBannaSIL-Italic.woff" },
+        "DaiBannaSIL-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/DaiBannaSIL-Italic.woff2" },
+        "DaiBannaSIL-Light.ttf": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "DaiBannaSIL-Light.ttf" },
+        "DaiBannaSIL-Light.woff": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/DaiBannaSIL-Light.woff" },
+        "DaiBannaSIL-Light.woff2": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/DaiBannaSIL-Light.woff2" },
+        "DaiBannaSIL-LightItalic.ttf": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 1, "wght": 300.0 }, "packagepath": "DaiBannaSIL-LightItalic.ttf" },
+        "DaiBannaSIL-LightItalic.woff": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 1, "wght": 300.0 }, "packagepath": "web/DaiBannaSIL-LightItalic.woff" },
+        "DaiBannaSIL-LightItalic.woff2": { "altfamily": "Dai Banna SIL Light", "axes": { "ital": 1, "wght": 300.0 }, "packagepath": "web/DaiBannaSIL-LightItalic.woff2" },
+        "DaiBannaSIL-Medium.ttf": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "DaiBannaSIL-Medium.ttf" },
+        "DaiBannaSIL-Medium.woff": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/DaiBannaSIL-Medium.woff" },
+        "DaiBannaSIL-Medium.woff2": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/DaiBannaSIL-Medium.woff2" },
+        "DaiBannaSIL-MediumItalic.ttf": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "DaiBannaSIL-MediumItalic.ttf" },
+        "DaiBannaSIL-MediumItalic.woff": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/DaiBannaSIL-MediumItalic.woff" },
+        "DaiBannaSIL-MediumItalic.woff2": { "altfamily": "Dai Banna SIL Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/DaiBannaSIL-MediumItalic.woff2" },
+        "DaiBannaSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-Regular.ttf" },
+        "DaiBannaSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/DaiBannaSIL-Regular.woff" },
+        "DaiBannaSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/DaiBannaSIL-Regular.woff2" },
+        "DaiBannaSIL-SemiBold.ttf": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "DaiBannaSIL-SemiBold.ttf" },
+        "DaiBannaSIL-SemiBold.woff": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/DaiBannaSIL-SemiBold.woff" },
+        "DaiBannaSIL-SemiBold.woff2": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/DaiBannaSIL-SemiBold.woff2" },
+        "DaiBannaSIL-SemiBoldItalic.ttf": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "DaiBannaSIL-SemiBoldItalic.ttf" },
+        "DaiBannaSIL-SemiBoldItalic.woff": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/DaiBannaSIL-SemiBoldItalic.woff" },
+        "DaiBannaSIL-SemiBoldItalic.woff2": { "altfamily": "Dai Banna SIL SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/DaiBannaSIL-SemiBoldItalic.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/daibanna/DaiBannaSIL-4.000.zip",
+    "siteurl": "https://software.sil.org/daibanna/",
+    "source": "SIL",
+    "status": "current",
+    "version": "4.000"
+},
+"gentiumbookplus": {
+    "defaults": {
+        "ttf": "GentiumBookPlus-Regular.ttf",
+        "woff": "GentiumBookPlus-Regular.woff",
+        "woff2": "GentiumBookPlus-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Gentium Book Plus",
+    "familyid": "gentiumbookplus",
+    "files": {
+        "GentiumBookPlus-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumBookPlus-Bold.ttf" },
+        "GentiumBookPlus-Bold.woff": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/GentiumBookPlus-Bold.woff" },
+        "GentiumBookPlus-Bold.woff2": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/GentiumBookPlus-Bold.woff2" },
+        "GentiumBookPlus-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumBookPlus-BoldItalic.ttf" },
+        "GentiumBookPlus-BoldItalic.woff": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "web/GentiumBookPlus-BoldItalic.woff" },
+        "GentiumBookPlus-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "web/GentiumBookPlus-BoldItalic.woff2" },
+        "GentiumBookPlus-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumBookPlus-Italic.ttf" },
+        "GentiumBookPlus-Italic.woff": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/GentiumBookPlus-Italic.woff" },
+        "GentiumBookPlus-Italic.woff2": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/GentiumBookPlus-Italic.woff2" },
+        "GentiumBookPlus-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumBookPlus-Regular.ttf" },
+        "GentiumBookPlus-Regular.woff": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/GentiumBookPlus-Regular.woff" },
+        "GentiumBookPlus-Regular.woff2": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/GentiumBookPlus-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/gentium/GentiumPlus-6.101.zip",
+    "siteurl": "https://software.sil.org/gentium/",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.101"
+},
+"gentiumplus": {
+    "defaults": {
+        "ttf": "GentiumPlus-Regular.ttf",
+        "woff": "GentiumPlus-Regular.woff",
+        "woff2": "GentiumPlus-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Gentium Plus",
+    "familyid": "gentiumplus",
+    "files": {
+        "GentiumPlus-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlus-Bold.ttf" },
+        "GentiumPlus-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/GentiumPlus-Bold.woff" },
+        "GentiumPlus-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/GentiumPlus-Bold.woff2" },
+        "GentiumPlus-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlus-BoldItalic.ttf" },
+        "GentiumPlus-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/GentiumPlus-BoldItalic.woff" },
+        "GentiumPlus-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/GentiumPlus-BoldItalic.woff2" },
+        "GentiumPlus-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlus-Italic.ttf" },
+        "GentiumPlus-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/GentiumPlus-Italic.woff" },
+        "GentiumPlus-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/GentiumPlus-Italic.woff2" },
+        "GentiumPlus-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlus-Regular.ttf" },
+        "GentiumPlus-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/GentiumPlus-Regular.woff" },
+        "GentiumPlus-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/GentiumPlus-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/gentium/GentiumPlus-6.101.zip",
+    "siteurl": "https://software.sil.org/gentium/",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.101"
+},
+"harmattan": {
+    "defaults": {
+        "ttf": "Harmattan-Regular.ttf",
+        "woff": "Harmattan-Regular.woff"
+    },
+    "distributable": true,
+    "family": "Harmattan",
+    "familyid": "harmattan",
+    "files": {
+        "Harmattan-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Harmattan-Bold.ttf" },
+        "Harmattan-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Harmattan-Bold.woff" },
+        "Harmattan-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Harmattan-Regular.ttf" },
+        "Harmattan-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Harmattan-Regular.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/harmattan/Harmattan-2.000.zip",
+    "siteurl": "https://software.sil.org/harmattan/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.000"
+},
+"japasansoriya": {
+    "defaults": {
+        "ttf": "JapaSansOriya-Regular.ttf",
+        "woff": "JapaSansOriya-Regular.woff",
+        "woff2": "JapaSansOriya-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Japa Sans Oriya",
+    "familyid": "japasansoriya",
+    "files": {
+        "JapaSansOriya-Bold.ttf": { "axes": { "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "JapaSansOriya-Bold.ttf" },
+        "JapaSansOriya-Bold.woff": { "axes": { "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "woff/JapaSansOriya-Bold.woff" },
+        "JapaSansOriya-Bold.woff2": { "axes": { "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "woff/JapaSansOriya-Bold.woff2" },
+        "JapaSansOriya-Regular.ttf": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "JapaSansOriya-Regular.ttf" },
+        "JapaSansOriya-Regular.woff": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "woff/JapaSansOriya-Regular.woff" },
+        "JapaSansOriya-Regular.woff2": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "woff/JapaSansOriya-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/silnrsi/font-japa-sans-oriya/releases/download/v2.100/JapaSansOriya-2.100.zip",
+    "siteurl": "https://github.com/silnrsi/font-japa-sans-oriya",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.100"
 },
 "lateef": {
-    "downloadmethod": "default",
+    "defaults": {
+        "ttf": "Lateef-Regular.ttf",
+        "woff": "Lateef-Regular.woff",
+        "woff2": "Lateef-Regular.woff2"
+    },
+    "distributable": true,
     "family": "Lateef",
     "familyid": "lateef",
     "files": {
-        "Lateef-Bold.ttf": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/Lateef-Bold.ttf", "fontpath": "Lateef-Bold.ttf", "format": "ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/Lateef-Bold.ttf", "wdth": 100.0, "wght": 700.0 },
-        "Lateef-Bold.woff": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-Bold.woff", "fontpath": "web/Lateef-Bold.woff", "format": "woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-Bold.woff", "wdth": 100.0, "wght": 700.0 },
-        "Lateef-Bold.woff2": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-Bold.woff2", "fontpath": "web/Lateef-Bold.woff2", "format": "woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-Bold.woff2", "wdth": 100.0, "wght": 700.0 },
-        "Lateef-ExtraBold.ttf": { "XXXX": 0.0, "altfamily": "Lateef ExtraBold", "flourl": "https://fonts.languagetechnology.org/fonts/Lateef-ExtraBold.ttf", "fontpath": "Lateef-ExtraBold.ttf", "format": "ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/Lateef-ExtraBold.ttf", "wdth": 100.0, "wght": 800.0 },
-        "Lateef-ExtraBold.woff": { "XXXX": 0.0, "altfamily": "Lateef ExtraBold", "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-ExtraBold.woff", "fontpath": "web/Lateef-ExtraBold.woff", "format": "woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-ExtraBold.woff", "wdth": 100.0, "wght": 800.0 },
-        "Lateef-ExtraBold.woff2": { "XXXX": 0.0, "altfamily": "Lateef ExtraBold", "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-ExtraBold.woff2", "fontpath": "web/Lateef-ExtraBold.woff2", "format": "woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-ExtraBold.woff2", "wdth": 100.0, "wght": 800.0 },
-        "Lateef-ExtraLight.ttf": { "XXXX": 0.0, "altfamily": "Lateef ExtraLight", "flourl": "https://fonts.languagetechnology.org/fonts/Lateef-ExtraLight.ttf", "fontpath": "Lateef-ExtraLight.ttf", "format": "ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/Lateef-ExtraLight.ttf", "wdth": 100.0, "wght": 300.0 },
-        "Lateef-ExtraLight.woff": { "XXXX": 0.0, "altfamily": "Lateef ExtraLight", "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-ExtraLight.woff", "fontpath": "web/Lateef-ExtraLight.woff", "format": "woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-ExtraLight.woff", "wdth": 100.0, "wght": 300.0 },
-        "Lateef-ExtraLight.woff2": { "XXXX": 0.0, "altfamily": "Lateef ExtraLight", "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-ExtraLight.woff2", "fontpath": "web/Lateef-ExtraLight.woff2", "format": "woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-ExtraLight.woff2", "wdth": 100.0, "wght": 300.0 },
-        "Lateef-Light.ttf": { "XXXX": 0.0, "altfamily": "Lateef Light", "flourl": "https://fonts.languagetechnology.org/fonts/Lateef-Light.ttf", "fontpath": "Lateef-Light.ttf", "format": "ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/Lateef-Light.ttf", "wdth": 100.0, "wght": 350.0 },
-        "Lateef-Light.woff": { "XXXX": 0.0, "altfamily": "Lateef Light", "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-Light.woff", "fontpath": "web/Lateef-Light.woff", "format": "woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-Light.woff", "wdth": 100.0, "wght": 350.0 },
-        "Lateef-Light.woff2": { "XXXX": 0.0, "altfamily": "Lateef Light", "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-Light.woff2", "fontpath": "web/Lateef-Light.woff2", "format": "woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-Light.woff2", "wdth": 100.0, "wght": 350.0 },
-        "Lateef-Medium.ttf": { "XXXX": 0.0, "altfamily": "Lateef Medium", "flourl": "https://fonts.languagetechnology.org/fonts/Lateef-Medium.ttf", "fontpath": "Lateef-Medium.ttf", "format": "ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/Lateef-Medium.ttf", "wdth": 100.0, "wght": 500.0 },
-        "Lateef-Medium.woff": { "XXXX": 0.0, "altfamily": "Lateef Medium", "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-Medium.woff", "fontpath": "web/Lateef-Medium.woff", "format": "woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-Medium.woff", "wdth": 100.0, "wght": 500.0 },
-        "Lateef-Medium.woff2": { "XXXX": 0.0, "altfamily": "Lateef Medium", "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-Medium.woff2", "fontpath": "web/Lateef-Medium.woff2", "format": "woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-Medium.woff2", "wdth": 100.0, "wght": 500.0 },
-        "Lateef-Regular.ttf": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/Lateef-Regular.ttf", "fontpath": "Lateef-Regular.ttf", "format": "ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/Lateef-Regular.ttf", "wdth": 100.0, "wght": 400.0 },
-        "Lateef-Regular.woff": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-Regular.woff", "fontpath": "web/Lateef-Regular.woff", "format": "woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-Regular.woff", "wdth": 100.0, "wght": 400.0 },
-        "Lateef-Regular.woff2": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-Regular.woff2", "fontpath": "web/Lateef-Regular.woff2", "format": "woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-Regular.woff2", "wdth": 100.0, "wght": 400.0 },
-        "Lateef-SemiBold.ttf": { "XXXX": 0.0, "altfamily": "Lateef SemiBold", "flourl": "https://fonts.languagetechnology.org/fonts/Lateef-SemiBold.ttf", "fontpath": "Lateef-SemiBold.ttf", "format": "ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/Lateef-SemiBold.ttf", "wdth": 100.0, "wght": 600.0 },
-        "Lateef-SemiBold.woff": { "XXXX": 0.0, "altfamily": "Lateef SemiBold", "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-SemiBold.woff", "fontpath": "web/Lateef-SemiBold.woff", "format": "woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-SemiBold.woff", "wdth": 100.0, "wght": 600.0 },
-        "Lateef-SemiBold.woff2": { "XXXX": 0.0, "altfamily": "Lateef SemiBold", "flourl": "https://fonts.languagetechnology.org/fonts/web/Lateef-SemiBold.woff2", "fontpath": "web/Lateef-SemiBold.woff2", "format": "woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Lateef-SemiBold.woff2", "wdth": 100.0, "wght": 600.0 }
+        "Lateef-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Lateef-Bold.ttf" },
+        "Lateef-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Lateef-Bold.woff" },
+        "Lateef-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Lateef-Bold.woff2" },
+        "Lateef-ExtraBold.ttf": { "altfamily": "Lateef ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "Lateef-ExtraBold.ttf" },
+        "Lateef-ExtraBold.woff": { "altfamily": "Lateef ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Lateef-ExtraBold.woff" },
+        "Lateef-ExtraBold.woff2": { "altfamily": "Lateef ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Lateef-ExtraBold.woff2" },
+        "Lateef-ExtraLight.ttf": { "altfamily": "Lateef ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "Lateef-ExtraLight.ttf" },
+        "Lateef-ExtraLight.woff": { "altfamily": "Lateef ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "web/Lateef-ExtraLight.woff" },
+        "Lateef-ExtraLight.woff2": { "altfamily": "Lateef ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "web/Lateef-ExtraLight.woff2" },
+        "Lateef-Light.ttf": { "altfamily": "Lateef Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Lateef-Light.ttf" },
+        "Lateef-Light.woff": { "altfamily": "Lateef Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/Lateef-Light.woff" },
+        "Lateef-Light.woff2": { "altfamily": "Lateef Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/Lateef-Light.woff2" },
+        "Lateef-Medium.ttf": { "altfamily": "Lateef Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Lateef-Medium.ttf" },
+        "Lateef-Medium.woff": { "altfamily": "Lateef Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Lateef-Medium.woff" },
+        "Lateef-Medium.woff2": { "altfamily": "Lateef Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Lateef-Medium.woff2" },
+        "Lateef-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Lateef-Regular.ttf" },
+        "Lateef-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Lateef-Regular.woff" },
+        "Lateef-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Lateef-Regular.woff2" },
+        "Lateef-SemiBold.ttf": { "altfamily": "Lateef SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Lateef-SemiBold.ttf" },
+        "Lateef-SemiBold.woff": { "altfamily": "Lateef SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Lateef-SemiBold.woff" },
+        "Lateef-SemiBold.woff2": { "altfamily": "Lateef SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Lateef-SemiBold.woff2" }
     },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lateef/Lateef-2.000.zip",
+    "siteurl": "https://software.sil.org/lateef/",
+    "source": "SIL",
     "status": "current",
-    "version": 2.0
+    "version": "2.000"
 },
-"mingzat": {
-    "defaultttf": "Mingzat-Regular.ttf",
-    "defaultwoff": "Mingzat-Regular.woff",
-    "defaultwoff2": "Mingzat-Regular.woff2",
-    "downloadmethod": "default",
-    "family": "Mingzat",
-    "familyid": "mingzat",
-    "files": {
-        "Mingzat-Regular.ttf": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/Mingzat-Regular.ttf", "fontpath": "Mingzat-Regular.ttf", "format": "ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/Mingzat-Regular.ttf", "wdth": 100.0, "wght": 400.0 },
-        "Mingzat-Regular.woff": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/web/Mingzat-Regular.woff", "fontpath": "web/Mingzat-Regular.woff", "format": "woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Mingzat-Regular.woff", "wdth": 100.0, "wght": 400.0 },
-        "Mingzat-Regular.woff2": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/web/Mingzat-Regular.woff2", "fontpath": "web/Mingzat-Regular.woff2", "format": "woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Mingzat-Regular.woff2", "wdth": 100.0, "wght": 400.0 }
+"namdhinggo": {
+    "defaults": {
+        "ttf": "Namdhinggo-Regular.ttf",
+        "woff": "Namdhinggo-Regular.woff",
+        "woff2": "Namdhinggo-Regular.woff2"
     },
+    "distributable": true,
+    "family": "Namdhinggo",
+    "familyid": "namdhinggo",
+    "files": {
+        "Namdhinggo-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Namdhinggo-Bold.ttf" },
+        "Namdhinggo-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Namdhinggo-Bold.woff" },
+        "Namdhinggo-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Namdhinggo-Bold.woff2" },
+        "Namdhinggo-ExtraBold.ttf": { "altfamily": "Namdhinggo ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "Namdhinggo-ExtraBold.ttf" },
+        "Namdhinggo-ExtraBold.woff": { "altfamily": "Namdhinggo ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Namdhinggo-ExtraBold.woff" },
+        "Namdhinggo-ExtraBold.woff2": { "altfamily": "Namdhinggo ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Namdhinggo-ExtraBold.woff2" },
+        "Namdhinggo-Medium.ttf": { "altfamily": "Namdhinggo Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Namdhinggo-Medium.ttf" },
+        "Namdhinggo-Medium.woff": { "altfamily": "Namdhinggo Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Namdhinggo-Medium.woff" },
+        "Namdhinggo-Medium.woff2": { "altfamily": "Namdhinggo Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Namdhinggo-Medium.woff2" },
+        "Namdhinggo-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Namdhinggo-Regular.ttf" },
+        "Namdhinggo-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Namdhinggo-Regular.woff" },
+        "Namdhinggo-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Namdhinggo-Regular.woff2" },
+        "Namdhinggo-SemiBold.ttf": { "altfamily": "Namdhinggo SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Namdhinggo-SemiBold.ttf" },
+        "Namdhinggo-SemiBold.woff": { "altfamily": "Namdhinggo SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Namdhinggo-SemiBold.woff" },
+        "Namdhinggo-SemiBold.woff2": { "altfamily": "Namdhinggo SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Namdhinggo-SemiBold.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/namdhinggo/Namdhinggo-3.000.zip",
+    "siteurl": "https://software.sil.org/Namdhinggo/",
+    "source": "SIL",
     "status": "current",
-    "version": 1.1
+    "version": "3.000"
+},
+"nokyung": {
+    "defaults": {
+        "ttf": "Nokyung-Regular.ttf",
+        "woff": "Nokyung-Regular.woff"
+    },
+    "distributable": true,
+    "family": "Nokyung",
+    "familyid": "nokyung",
+    "files": {
+        "Nokyung-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Nokyung-Bold.ttf" },
+        "Nokyung-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Nokyung-Bold.woff" },
+        "Nokyung-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Nokyung-Regular.ttf" },
+        "Nokyung-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Nokyung-Regular.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/nokyung/Nokyung-1.490-dev-e7e323M.zip",
+    "siteurl": "https://software.sil.org/Nokyung/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.490"
+},
+"padauk": {
+    "defaults": {
+        "ttf": "Padauk-Regular.ttf",
+        "woff": "Padauk-Regular.woff",
+        "woff2": "Padauk-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Padauk",
+    "familyid": "padauk",
+    "files": {
+        "Padauk-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Padauk-Bold.ttf" },
+        "Padauk-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Padauk-Bold.woff" },
+        "Padauk-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Padauk-Bold.woff2" },
+        "Padauk-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Padauk-Regular.ttf" },
+        "Padauk-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Padauk-Regular.woff" },
+        "Padauk-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Padauk-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/padauk/Padauk-5.001.zip",
+    "siteurl": "https://software.sil.org/padauk/",
+    "source": "SIL",
+    "status": "current",
+    "version": "5.001"
+},
+"padaukbook": {
+    "defaults": {
+        "ttf": "PadaukBook-Regular.ttf",
+        "woff": "PadaukBook-Regular.woff",
+        "woff2": "PadaukBook-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Padauk Book",
+    "familyid": "padaukbook",
+    "files": {
+        "PadaukBook-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "PadaukBook-Bold.ttf" },
+        "PadaukBook-Bold.woff": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/PadaukBook-Bold.woff" },
+        "PadaukBook-Bold.woff2": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/PadaukBook-Bold.woff2" },
+        "PadaukBook-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "PadaukBook-Regular.ttf" },
+        "PadaukBook-Regular.woff": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/PadaukBook-Regular.woff" },
+        "PadaukBook-Regular.woff2": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/PadaukBook-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/padauk/Padauk-5.001.zip",
+    "siteurl": "https://software.sil.org/padauk/",
+    "source": "SIL",
+    "status": "current",
+    "version": "5.001"
+},
+"payaplanna": {
+    "defaults": {
+        "ttf": "PayapLanna-Regular.ttf",
+        "woff": "PayapLanna-Regular.woff",
+        "woff2": "PayapLanna-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Payap Lanna",
+    "familyid": "payaplanna",
+    "files": {
+        "PayapLanna-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "PayapLanna-Bold.ttf" },
+        "PayapLanna-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/PayapLanna-Bold.woff" },
+        "PayapLanna-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/PayapLanna-Bold.woff2" },
+        "PayapLanna-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "PayapLanna-Regular.ttf" },
+        "PayapLanna-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/PayapLanna-Regular.woff" },
+        "PayapLanna-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/PayapLanna-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/payaplanna/PayapLanna-1.000.zip",
+    "siteurl": "https://software.sil.org/payaplanna/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.000"
 },
 "ruwudu": {
-    "defaultttf": "Ruwudu-Regular.ttf",
-    "defaultwoff": "Ruwudu-Regular.woff",
-    "defaultwoff2": "Ruwudu-Regular.woff2",
-    "downloadmethod": "default",
+    "defaults": {
+        "ttf": "Ruwudu-Regular.ttf",
+        "woff": "Ruwudu-Regular.woff",
+        "woff2": "Ruwudu-Regular.woff2"
+    },
+    "distributable": true,
     "family": "Ruwudu",
     "familyid": "ruwudu",
     "files": {
-        "Ruwudu-Regular.ttf": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/Ruwudu-Regular.ttf", "fontpath": "Ruwudu-Regular.ttf", "format": "ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/Ruwudu-Regular.ttf", "wdth": 100.0, "wght": 400.0 },
-        "Ruwudu-Regular.woff": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/web/Ruwudu-Regular.woff", "fontpath": "web/Ruwudu-Regular.woff", "format": "woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Ruwudu-Regular.woff", "wdth": 100.0, "wght": 400.0 },
-        "Ruwudu-Regular.woff2": { "XXXX": 0.0, "flourl": "https://fonts.languagetechnology.org/fonts/web/Ruwudu-Regular.woff2", "fontpath": "web/Ruwudu-Regular.woff2", "format": "woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/web/Ruwudu-Regular.woff2", "wdth": 100.0, "wght": 400.0 }
+        "Ruwudu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Ruwudu-Regular.ttf" },
+        "Ruwudu-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Ruwudu-Regular.woff" },
+        "Ruwudu-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Ruwudu-Regular.woff2" }
     },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/ruwudu/Ruwudu-2.000.zip",
+    "siteurl": "https://software.sil.org/ruwudu/",
+    "source": "SIL",
     "status": "current",
-    "version": 2.0
+    "version": "2.000"
+},
+"scheherazadenew": {
+    "defaults": {
+        "ttf": "ScheherazadeNew-Regular.ttf",
+        "woff": "ScheherazadeNew-Regular.woff",
+        "woff2": "ScheherazadeNew-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Scheherazade New",
+    "familyid": "scheherazadenew",
+    "files": {
+        "ScheherazadeNew-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNew-Bold.ttf" },
+        "ScheherazadeNew-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/ScheherazadeNew-Bold.woff" },
+        "ScheherazadeNew-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/ScheherazadeNew-Bold.woff2" },
+        "ScheherazadeNew-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNew-Regular.ttf" },
+        "ScheherazadeNew-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/ScheherazadeNew-Regular.woff" },
+        "ScheherazadeNew-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/ScheherazadeNew-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/scheherazade/ScheherazadeNew-3.300.zip",
+    "siteurl": "https://software.sil.org/scheherazade/",
+    "source": "SIL",
+    "status": "current",
+    "version": "3.300"
 }
 }

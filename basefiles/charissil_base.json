@@ -1,0 +1,13 @@
+{
+"charissil": {
+    "distributable": true,
+    "family": "Charis SIL",
+    "familyid": "charissil",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/charis/CharisSIL-6.101.zip",
+    "siteurl": "https://software.sil.org/charis/",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.101"
+}
+}

@@ -2,6 +2,9 @@
 # Designed to tell git to ignore some intermediary and generated files and to keep your public git repository clean
 # To tweak to your particular needs, see http://git-scm.com/docs/gitignore and http://help.github.com/articles/ignoring-files
 
+*.log
+/local
+
 # general backup files
 *~
 *.swp

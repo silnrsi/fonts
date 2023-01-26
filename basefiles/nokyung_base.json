@@ -1,0 +1,13 @@
+{
+"nokyung": {
+    "distributable": true,
+    "family": "Nokyung",
+    "familyid": "nokyung",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/nokyung/Nokyung-1.490-dev-e7e323M.zip",
+    "siteurl": "https://software.sil.org/Nokyung/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.490"
+}
+}

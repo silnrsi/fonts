@@ -1,0 +1,13 @@
+{
+"awaminastaliq": {
+    "distributable": true,
+    "family": "Awami Nastaliq",
+    "familyid": "awaminastaliq",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/awami/AwamiNastaliq-3.000.zip",
+    "siteurl": "https://software.sil.org/awami/",
+    "source": "SIL",
+    "status": "current",
+    "version": "3.000"
+}
+}

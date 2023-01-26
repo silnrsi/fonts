@@ -1,0 +1,13 @@
+{
+"lateef": {
+    "distributable": true,
+    "family": "Lateef",
+    "familyid": "lateef",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lateef/Lateef-2.000.zip",
+    "siteurl": "https://software.sil.org/lateef/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.000"
+}
+}

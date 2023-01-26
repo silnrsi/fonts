@@ -1,0 +1,13 @@
+{
+"daibannasil": {
+    "distributable": true,
+    "family": "Dai Banna SIL",
+    "familyid": "daibannasil",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/daibanna/DaiBannaSIL-4.000.zip",
+    "siteurl": "https://software.sil.org/daibanna/",
+    "source": "SIL",
+    "status": "current",
+    "version": "4.000"
+}
+}

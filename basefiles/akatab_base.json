@@ -1,0 +1,13 @@
+{
+"akatab": {
+    "distributable": true,
+    "family": "Akatab",
+    "familyid": "akatab",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/akatab/Akatab-2.000.zip",
+    "siteurl": "https://software.sil.org/akatab/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.000"
+}
+}

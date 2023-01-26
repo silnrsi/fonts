@@ -1,0 +1,10 @@
+{
+"angsananew": {
+    "distributable": false,
+    "fallback": "sarabun",
+    "family": "Angsana New",
+    "familyid": "angsananew",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

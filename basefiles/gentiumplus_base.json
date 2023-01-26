@@ -1,0 +1,13 @@
+{
+"gentiumplus": {
+    "distributable": true,
+    "family": "Gentium Plus",
+    "familyid": "gentiumplus",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/gentium/GentiumPlus-6.101.zip",
+    "siteurl": "https://software.sil.org/gentium/",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.101"
+}
+}

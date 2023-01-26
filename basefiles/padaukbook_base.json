@@ -1,0 +1,13 @@
+{
+"padaukbook": {
+    "distributable": true,
+    "family": "Padauk Book",
+    "familyid": "padaukbook",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/padauk/Padauk-5.001.zip",
+    "siteurl": "https://software.sil.org/padauk/",
+    "source": "SIL",
+    "status": "current",
+    "version": "5.001"
+}
+}

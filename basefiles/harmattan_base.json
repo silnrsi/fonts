@@ -1,0 +1,13 @@
+{
+"harmattan": {
+    "distributable": true,
+    "family": "Harmattan",
+    "familyid": "harmattan",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/harmattan/Harmattan-2.000.zip",
+    "siteurl": "https://software.sil.org/harmattan/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.000"
+}
+}
