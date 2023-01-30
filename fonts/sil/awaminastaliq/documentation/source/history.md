@@ -1,7 +1,13 @@
 ---
 title: Awami Nastaliq - Version History
-fontversion: 3.000
+fontversion: 3.100
 ---
+
+### 2023-Jan-30 (SIL WSTech team) Awami Nastaliq Version 3.100
+
+#### Improved
+- Fixed a bug that manifested as disappearing glyphs
+- Fixed some minor kerning/collision/spacing bugs
 
 ### 2022-Sep-20 (SIL WSTech team) Awami Nastaliq Version 3.000
 
