@@ -1,126 +1,251 @@
-Release 6.000
+Release 6.200 - New features and additional character support
 
-We’re excited to announce the long-awaited version 6 release of Doulos SIL. This release is full of new features and important improvements. **Note that this is a major upgrade. This may cause document reflow as some glyphs widths have changed and some features have been removed. Please do not assume that you can replace version 5 with version 6 with no resulting changes to your publications.**
+This release is focused on adding features and 240+ glyphs, including support for over 180 additional characters mostly from Unicode 14 and 15. It does not include significant changes to line spacing, glyph widths, or kerning that might cause document reflow or layout changes—except for minor improvements to the size and weight of superscript, subscript, and modifier letters.
 
-Both desktop and web fonts are provided in a single, all-platforms package on the [Download page](http://software.sil.org/doulos/download).
+Both desktop and web fonts are provided in a single, all-platforms package on the [Download page](https://software.sil.org/doulos/download). Special-purpose fonts are available from a [dedicated page](https://software.sil.org/lcgfonts/download/).
 
-#### Removed
+The next major version (7) will address some complex pending issues and features and may include substantial changes to line spacing, glyph metrics, kerning, and even font family structure. If you have any requests for future versions please contact us as soon as possible. 
 
-- **Removed DSIGs added in version 5.000.** These have now been removed to reflect current best practice font development guidance. Adobe InDesign will complain that fonts cannot be found if a document last saved with version 5.000 is opened with version 5.960 or later installed. It will be necessary to find/replace the fonts in the document using the command in the Type menu. Please also look over the document carefully to note any places where changes in the fonts have affected letterforms or spacing.
+#### New features, including *TypeTuner Web* support
 
-- **Graphite has been removed.** Application and OS support for OpenType has greatly improved, so the need for Graphite in this font is greatly reduced. *If this affects you, and you find that OpenType does not provide sufficient support for your needs, please contact us right away.*  
+- Feature to display alternate design of clicks that sit on baseline
+    - Baseline clicks (cv69)
+ 
+- Standard 'subs' and 'sups' features for numerals. These are not supported by *TypeTuner Web*.
+    - Subscript numerals (subs)
+    - Superscript numerals (sups)
 
-- Removed the "Show Invisibles" feature.
+- Feature to automatically construct fractions when using U+002F SOLIDUS or U+2044 FRACTION SLASH. This is not supported by *TypeTuner Web*.
+    - Automatic fractions (frac)
 
-- Removed support for nine-level pitch contours. These will be replaced by a standalone pitch contours font in the future.
+#### New character support
 
-#### Added
+- Additional click (also supported by new baseline clicks feature)
+    - U+2980 TRIPLE VERTICAL BAR DELIMITER
 
-Characters added to support Unicode versions 7.0-13.0, including feature support (e.g. small caps) where appropriate:
+- Letters used for legacy Malayalam transliteration
+    - U+1DF25 LATIN SMALL LETTER D WITH MID-HEIGHT LEFT HOOK
+    - U+1DF26 LATIN SMALL LETTER L WITH MID-HEIGHT LEFT HOOK
+    - U+1DF27 LATIN SMALL LETTER N WITH MID-HEIGHT LEFT HOOK
+    - U+1DF28 LATIN SMALL LETTER R WITH MID-HEIGHT LEFT HOOK
+    - U+1DF29 LATIN SMALL LETTER S WITH MID-HEIGHT LEFT HOOK
+    - U+1DF2A LATIN SMALL LETTER T WITH MID-HEIGHT LEFT HOOK
 
-- U+03D1 GREEK THETA SYMBOL
-- U+03F4 GREEK CAPITAL THETA SYMBOL
-- U+1AB0 COMBINING DOUBLED CIRCUMFLEX ACCENT
-- U+1AB1 COMBINING DIAERESIS-RING
-- U+1AB2 COMBINING INFINITY
-- U+1AB3 COMBINING DOWNWARDS ARROW
-- U+1AB4 COMBINING TRIPLE DOT
-- U+1AB5 COMBINING X-X BELOW
-- U+1AB6 COMBINING WIGGLY LINE BELOW
-- U+1AB7 COMBINING OPEN MARK BELOW
-- U+1AB8 COMBINING DOUBLE OPEN MARK BELOW
-- U+1AB9 COMBINING LIGHT CENTRALIZATION STROKE BELOW
-- U+1ABA COMBINING STRONG CENTRALIZATION STROKE BELOW
-- U+1DF5 COMBINING UP TACK ABOVE
-- U+203B REFERENCE MARK
-- U+20BE LARI SIGN
-- U+20BF BITCOIN SIGN
-- U+27E8 MATHEMATICAL LEFT ANGLE BRACKET
-- U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET
-- U+2E13 DOTTED OBELOS
-- U+2E14 DOWNWARDS ANCORA
-- U+2E17 DOUBLE OBLIQUE HYPHEN
-- U+2E22 TOP LEFT HALF BRACKET
-- U+2E23 TOP RIGHT HALF BRACKET
-- U+2E24 BOTTOM LEFT HALF BRACKET
-- U+2E25 BOTTOM RIGHT HALF BRACKET
-- U+A78F LATIN LETTER SINOLOGICAL DOT
-- U+A7AE LATIN CAPITAL LETTER SMALL CAPITAL I
-- U+A7AF LATIN LETTER SMALL CAPITAL Q
-- U+A7B3 LATIN CAPITAL LETTER CHI
-- U+A7B4 LATIN CAPITAL LETTER BETA
-- U+A7B5 LATIN SMALL LETTER BETA
-- U+A7B6 LATIN CAPITAL LETTER OMEGA
-- U+A7B7 LATIN SMALL LETTER OMEGA
-- U+A7B8 LATIN CAPITAL LETTER U WITH STROKE
-- U+A7B9 LATIN SMALL LETTER U WITH STROKE
-- U+AB30 LATIN SMALL LETTER BARRED ALPHA
-- U+AB53 LATIN SMALL LETTER CHI
-- U+AB5C MODIFIER LETTER SMALL HENG
-- U+AB5E MODIFIER LETTER SMALL L WITH MIDDLE TILDE
-- U+F26E CAPITAL RAMS HORN (in SIL PUA)
+- Letters used for Egyptological transiteration
+    - U+A7BA LATIN CAPITAL LETTER GLOTTAL A
+    - U+A7BB LATIN SMALL LETTER GLOTTAL A
+    - U+A7BC LATIN CAPITAL LETTER GLOTTAL I
+    - U+A7BD LATIN SMALL LETTER GLOTTAL I
+    - U+A7BE LATIN CAPITAL LETTER GLOTTAL U
+    - U+A7BF LATIN SMALL LETTER GLOTTAL U
 
-#### New
+- Combining marks
+    - U+1ABF COMBINING LATIN SMALL LETTER W BELOW
+    - U+1AC0 COMBINING LATIN SMALL LETTER TURNED W BELOW
+    - U+1AC6 COMBINING NUMBER SIGN ABOVE
+    - U+1AC7 COMBINING INVERTED DOUBLE ARCH ABOVE
+    - U+1AC8 COMBINING PLUS SIGN ABOVE
+    - U+1AC9 COMBINING DOUBLE PLUS SIGN ABOVE
+    - U+1ACA COMBINING DOUBLE PLUS SIGN BELOW
+    - U+1ACB COMBINING TRIPLE ACUTE ACCENT
+    - U+1ACC COMBINING LATIN SMALL LETTER INSULAR G
+    - U+1ACD COMBINING LATIN SMALL LETTER INSULAR R
+    - U+1ACE COMBINING LATIN SMALL LETTER INSULAR T
+    - U+1DDA COMBINING LATIN SMALL LETTER G
+    - U+1DDC COMBINING LATIN SMALL LETTER K
+    - U+1DFC COMBINING DOUBLE INVERTED BREVE BELOW
 
-- First release that uses a UFO-based design and production workflow
-    - All sources are in open formats
-    - Build toolkit and workflow is completely open-source
-    - See https://silnrsi.github.io/silfontdev/en-US/Introduction.html
+- Combining marks that are not recommended for normal use and may not combine well with letters. Precomposed characters that include the hook should be used instead except in rare cases.
+    - U+0321 COMBINING PALATALIZED HOOK BELOW
+    - U+0322 COMBINING RETROFLEX HOOK BELOW
 
-- Web fonts are provided in both WOFF and WOFF2 formats
+- Modifier letters and symbols
+    - U+A7F2 MODIFIER LETTER CAPITAL C
+    - U+A7F3 MODIFIER LETTER CAPITAL F
+    - U+A7F4 MODIFIER LETTER CAPITAL Q
+    - U+AB69 MODIFIER LETTER SMALL TURNED W
+    - U+AB6A MODIFIER LETTER LEFT TACK
+    - U+AB6B MODIFIER LETTER RIGHT TACK
+    - U+10780 MODIFIER LETTER SMALL CAPITAL AA
+    - U+10781 MODIFIER LETTER SUPERSCRIPT TRIANGULAR COLON
+    - U+10782 MODIFIER LETTER SUPERSCRIPT HALF TRIANGULAR COLON
+    - U+10784 MODIFIER LETTER SMALL CAPITAL B
+    - U+10785 MODIFIER LETTER SMALL B WITH HOOK
+    - U+10787 MODIFIER LETTER SMALL DZ DIGRAPH
+    - U+10788 MODIFIER LETTER SMALL DZ DIGRAPH WITH RETROFLEX HOOK
+    - U+10789 MODIFIER LETTER SMALL DZ DIGRAPH WITH CURL
+    - U+1078A MODIFIER LETTER SMALL DEZH DIGRAPH
+    - U+1078B MODIFIER LETTER SMALL D WITH TAIL
+    - U+1078C MODIFIER LETTER SMALL D WITH HOOK
+    - U+1078D MODIFIER LETTER SMALL D WITH HOOK AND TAIL
+    - U+10790 MODIFIER LETTER SMALL FENG DIGRAPH
+    - U+10792 MODIFIER LETTER SMALL CAPITAL G
+    - U+10793 MODIFIER LETTER SMALL G WITH HOOK
+    - U+10794 MODIFIER LETTER SMALL CAPITAL G WITH HOOK
+    - U+10796 MODIFIER LETTER SMALL CAPITAL H
+    - U+10797 MODIFIER LETTER SMALL HENG WITH HOOK
+    - U+10798 MODIFIER LETTER SMALL DOTLESS J WITH STROKE AND HOOK
+    - U+10799 MODIFIER LETTER SMALL LS DIGRAPH
+    - U+1079A MODIFIER LETTER SMALL LZ DIGRAPH
+    - U+1079B MODIFIER LETTER SMALL L WITH BELT
+    - U+1079C MODIFIER LETTER SMALL CAPITAL L WITH BELT
+    - U+1079D MODIFIER LETTER SMALL L WITH RETROFLEX HOOK AND BELT
+    - U+1079E MODIFIER LETTER SMALL LEZH
+    - U+1079F MODIFIER LETTER SMALL LEZH WITH RETROFLEX HOOK
+    - U+107A1 MODIFIER LETTER SMALL TURNED Y WITH BELT
+    - U+107A4 MODIFIER LETTER SMALL CLOSED OMEGA
+    - U+107A5 MODIFIER LETTER SMALL Q
+    - U+107A6 MODIFIER LETTER SMALL TURNED R WITH LONG LEG
+    - U+107A7 MODIFIER LETTER SMALL TURNED R WITH LONG LEG AND RETROFLEX HOOK
+    - U+107A8 MODIFIER LETTER SMALL R WITH TAIL
+    - U+107A9 MODIFIER LETTER SMALL R WITH FISHHOOK
+    - U+107AA MODIFIER LETTER SMALL CAPITAL R
+    - U+107AB MODIFIER LETTER SMALL TC DIGRAPH WITH CURL
+    - U+107AC MODIFIER LETTER SMALL TS DIGRAPH
+    - U+107AD MODIFIER LETTER SMALL TS DIGRAPH WITH RETROFLEX HOOK
+    - U+107AE MODIFIER LETTER SMALL TESH DIGRAPH
+    - U+107AF MODIFIER LETTER SMALL T WITH RETROFLEX HOOK
+    - U+107B0 MODIFIER LETTER SMALL V WITH RIGHT HOOK
+    - U+107B3 MODIFIER LETTER GLOTTAL STOP WITH STROKE
+    - U+107B4 MODIFIER LETTER REVERSED GLOTTAL STOP WITH STROKE
+    - U+107B5 MODIFIER LETTER BILABIAL CLICK
+    - U+107B6 MODIFIER LETTER DENTAL CLICK
+    - U+107B7 MODIFIER LETTER LATERAL CLICK
+    - U+107B8 MODIFIER LETTER ALVEOLAR CLICK
+    - U+107B9 MODIFIER LETTER RETROFLEX CLICK WITH RETROFLEX HOOK
+    - U+107BA MODIFIER LETTER SMALL S WITH CURL
 
-- Applied new hinting techniques to try to improve screen rendering on Windows
+- Cyrillic modifier letters, subscripts, and combining marks
+    - U+1E030 MODIFIER LETTER CYRILLIC SMALL A
+    - U+1E031 MODIFIER LETTER CYRILLIC SMALL BE
+    - U+1E032 MODIFIER LETTER CYRILLIC SMALL VE
+    - U+1E033 MODIFIER LETTER CYRILLIC SMALL GHE
+    - U+1E034 MODIFIER LETTER CYRILLIC SMALL DE
+    - U+1E035 MODIFIER LETTER CYRILLIC SMALL IE
+    - U+1E036 MODIFIER LETTER CYRILLIC SMALL ZHE
+    - U+1E037 MODIFIER LETTER CYRILLIC SMALL ZE
+    - U+1E038 MODIFIER LETTER CYRILLIC SMALL I
+    - U+1E039 MODIFIER LETTER CYRILLIC SMALL KA
+    - U+1E03A MODIFIER LETTER CYRILLIC SMALL EL
+    - U+1E03B MODIFIER LETTER CYRILLIC SMALL EM
+    - U+1E03C MODIFIER LETTER CYRILLIC SMALL O
+    - U+1E03D MODIFIER LETTER CYRILLIC SMALL PE
+    - U+1E03E MODIFIER LETTER CYRILLIC SMALL ER
+    - U+1E03F MODIFIER LETTER CYRILLIC SMALL ES
+    - U+1E040 MODIFIER LETTER CYRILLIC SMALL TE
+    - U+1E041 MODIFIER LETTER CYRILLIC SMALL U
+    - U+1E042 MODIFIER LETTER CYRILLIC SMALL EF
+    - U+1E043 MODIFIER LETTER CYRILLIC SMALL HA
+    - U+1E044 MODIFIER LETTER CYRILLIC SMALL TSE
+    - U+1E045 MODIFIER LETTER CYRILLIC SMALL CHE
+    - U+1E046 MODIFIER LETTER CYRILLIC SMALL SHA
+    - U+1E047 MODIFIER LETTER CYRILLIC SMALL YERU
+    - U+1E048 MODIFIER LETTER CYRILLIC SMALL E
+    - U+1E049 MODIFIER LETTER CYRILLIC SMALL YU
+    - U+1E04B MODIFIER LETTER CYRILLIC SMALL SCHWA
+    - U+1E04C MODIFIER LETTER CYRILLIC SMALL BYELORUSSIAN-UKRAINIAN I
+    - U+1E04D MODIFIER LETTER CYRILLIC SMALL JE
+    - U+1E04E MODIFIER LETTER CYRILLIC SMALL BARRED O
+    - U+1E04F MODIFIER LETTER CYRILLIC SMALL STRAIGHT U
+    - U+1E050 MODIFIER LETTER CYRILLIC SMALL PALOCHKA
+    - U+1E051 CYRILLIC SUBSCRIPT SMALL LETTER A
+    - U+1E052 CYRILLIC SUBSCRIPT SMALL LETTER BE
+    - U+1E053 CYRILLIC SUBSCRIPT SMALL LETTER VE
+    - U+1E054 CYRILLIC SUBSCRIPT SMALL LETTER GHE
+    - U+1E055 CYRILLIC SUBSCRIPT SMALL LETTER DE
+    - U+1E056 CYRILLIC SUBSCRIPT SMALL LETTER IE
+    - U+1E057 CYRILLIC SUBSCRIPT SMALL LETTER ZHE
+    - U+1E058 CYRILLIC SUBSCRIPT SMALL LETTER ZE
+    - U+1E059 CYRILLIC SUBSCRIPT SMALL LETTER I
+    - U+1E05A CYRILLIC SUBSCRIPT SMALL LETTER KA
+    - U+1E05B CYRILLIC SUBSCRIPT SMALL LETTER EL
+    - U+1E05C CYRILLIC SUBSCRIPT SMALL LETTER O
+    - U+1E05D CYRILLIC SUBSCRIPT SMALL LETTER PE
+    - U+1E05E CYRILLIC SUBSCRIPT SMALL LETTER ES
+    - U+1E05F CYRILLIC SUBSCRIPT SMALL LETTER U
+    - U+1E060 CYRILLIC SUBSCRIPT SMALL LETTER EF
+    - U+1E061 CYRILLIC SUBSCRIPT SMALL LETTER HA
+    - U+1E062 CYRILLIC SUBSCRIPT SMALL LETTER TSE
+    - U+1E063 CYRILLIC SUBSCRIPT SMALL LETTER CHE
+    - U+1E064 CYRILLIC SUBSCRIPT SMALL LETTER SHA
+    - U+1E065 CYRILLIC SUBSCRIPT SMALL LETTER HARD SIGN
+    - U+1E066 CYRILLIC SUBSCRIPT SMALL LETTER YERU
+    - U+1E067 CYRILLIC SUBSCRIPT SMALL LETTER GHE WITH UPTURN
+    - U+1E068 CYRILLIC SUBSCRIPT SMALL LETTER BYELORUSSIAN-UKRAINIAN I
+    - U+1E069 CYRILLIC SUBSCRIPT SMALL LETTER DZE
+    - U+1E06A CYRILLIC SUBSCRIPT SMALL LETTER DZHE
+    - U+1E06B MODIFIER LETTER CYRILLIC SMALL ES WITH DESCENDER
+    - U+1E06D MODIFIER LETTER CYRILLIC SMALL STRAIGHT U WITH STROKE
+    - U+1E08F COMBINING CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I
 
-- All-new documentation in HTML and PDF formats
+- Miscellaneous letters
+    - U+A7C7 LATIN CAPITAL LETTER D WITH SHORT STROKE OVERLAY
+    - U+A7C8 LATIN SMALL LETTER D WITH SHORT STROKE OVERLAY
+    - U+A7C9 LATIN CAPITAL LETTER S WITH SHORT STROKE OVERLAY
+    - U+A7CA LATIN SMALL LETTER S WITH SHORT STROKE OVERLAY
+    - U+AB66 LATIN SMALL LETTER DZ DIGRAPH WITH RETROFLEX HOOK
+    - U+AB67 LATIN SMALL LETTER TS DIGRAPH WITH RETROFLEX HOOK
+    - U+AB68 LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE
 
-- Features for controlling literacy forms of a and g separately
-    - Literacy a alternates (ss02)
-    - Literacy g alternates (ss03)
+- Symbols
+    - U+2031 PER TEN THOUSAND SIGN
+    - U+203D INTERROBANG
+    - U+203E OVERLINE
+    - U+2042 ASTERISM
+    - U+204A TIRONIAN SIGN ET
+    - U+20C0 SOM SIGN
+    - U+218A TURNED DIGIT TWO
+    - U+218B TURNED DIGIT THREE
+    - U+21B6 ANTICLOCKWISE TOP SEMICIRCLE ARROW
+    - U+21B7 CLOCKWISE TOP SEMICIRCLE ARROW
+    - U+21BA ANTICLOCKWISE OPEN CIRCLE ARROW
+    - U+21BB CLOCKWISE OPEN CIRCLE ARROW
+    - U+2215 DIVISION SLASH
+    - U+2221 MEASURED ANGLE
+    - U+2227 LOGICAL AND
+    - U+2228 LOGICAL OR
+    - U+226E NOT LESS-THAN
+    - U+226F NOT GREATER-THAN
+    - U+2318 PLACE OF INTEREST SIGN
+    - U+25C9 FISHEYE
+    - U+25CB WHITE CIRCLE
+    - U+2610 BALLOT BOX
+    - U+2611 BALLOT BOX WITH CHECK
+    - U+2612 BALLOT BOX WITH X
+    - U+2639 WHITE FROWNING FACE
+    - U+263A WHITE SMILING FACE
+    - U+2713 CHECK MARK
+    - U+2717 BALLOT X
+    - U+27C2 PERPENDICULAR
+    - U+2AFD DOUBLE SOLIDUS OPERATOR
+    - U+2E3E WIGGLY VERTICAL LINE
+    - U+1F12F COPYLEFT SYMBOL
+    - U+1F610 NEUTRAL FACE
 
-- Feature to support side-by-side rendering of U+0300 plus U+0301
-    - Kayan diacritics (cv79)
+#### Improvements and fixes
 
-- Tone letter features (cv91 & cv92) now supported through OpenType
+- Kayan diacritics feature (cv79) now supported by TypeTuner Web
 
-#### Fixes
+- Combining letters, modifier letters, superscripts, and subscripts have been made more consistent in size and weight
 
-- Width of typographic spaces have been made more consistent to reflect
-common publishing industry usage. Note that this may affect line and page
-lengths. Affected spaces:
+- Superscript and subscript metrics in OS/2 table are synchronized with the height of precomposed letters
 
-    - U+2008 PUNCTUATION SPACE (made width consistent)
-    - U+202F NARROW NO-BREAK SPACE (made narrower)
+- Encoding fixed for U+1078E MODIFIER LETTER SMALL REVERSED E
 
-- Fixed some small capital correspondences, including added support for clicks
+- Size increased for:
+    - U+02BE MODIFIER LETTER RIGHT HALF RING
+    - U+02BF MODIFIER LETTER LEFT HALF RING
+    - U+02D2 MODIFIER LETTER CENTRED RIGHT HALF RING
+    - U+02D3 MODIFIER LETTER CENTRED LEFT HALF RING
 
-- Fixed problems with spacing of tone letters
+- U+00AA FEMININE ORDINAL INDICATOR is now included in single-story/double-story features
 
-- Improved miscellaneous anchor positions, including the position of diacritics 
-below glyphs with macrons below (e.g. U+1E0F LATIN SMALL LETTER D WITH LINE BELOW)
+- The combination of U+0079 LATIN SMALL LETTER Y and U+0328 COMBINING OGONEK forms a ligature
 
-- Improved position of diacritics for superscripts and modifier letters
-(including cedilla, ogonek, rhotic hook)
+- Small cap form corrected for U+A78D LATIN CAPITAL LETTER TURNED H / U+0265 LATIN SMALL LETTER TURNED H
 
-- Fixes and improvements to various glyphs:
-    - U+01E5 LATIN SMALL LETTER G WITH STROKE (bar position on single-story variant)
-    - U+02D6 MODIFIER LETTER PLUS SIGN (size)
-    - U+02DF MODIFIER LETTER CROSS ACCENT (size)
-    - U+02E4 MODIFIER LETTER SMALL REVERSED GLOTTAL STOP (form)
-    - U+031F COMBINING PLUS SIGN BELOW (design)
-    - U+033B COMBINING SQUARE BELOW (more rectangular)
-    - U+1AB3 COMBINING DOWNWARDS ARROW (position fixes since beta 1)
-    - U+1D15 LATIN LETTER SMALL CAPITAL OU (form)
-    - U+1D77 LATIN SMALL LETTER TURNED G (position)
-    - U+1D78 MODIFIER LETTER CYRILLIC EN (form)
-    - U+A76A LATIN CAPITAL LETTER ET
-    - U+A76B LATIN SMALL LETTER ET
-    - U+A76C LATIN CAPITAL LETTER IS
-    - U+A76D LATIN SMALL LETTER IS
-    - U+A77F LATIN SMALL LETTER TURNED INSULAR G (position)
-    - U+A7F8 MODIFIER LETTER CAPITAL H WITH STROKE (form)
+- U+0328 COMBINING OGONEK repositioned to middle leg of U+006D LATIN SMALL LETTER M
 
-#### Known issues
+- Diacritic positioning improved for U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED 
 
-- There is no support for TypeTuner or TypeTuner Web. We hope to add that support soon.
-
-- There are no regional subsets. Please contact us if these are a priority for you and describe how you use them. We are reassessing whether to provide these subsets. With current web technology and WOFF2 compression most uses can be met equally well with the full fonts.
+- Position of dot changed for U+1E23 LATIN SMALL LETTER H WITH DOT ABOVE

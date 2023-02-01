@@ -1,10 +1,5 @@
 {
 "gentiumbookplus": {
-    "defaults": {
-        "ttf": "GentiumBookPlus-Regular.ttf",
-        "woff": "GentiumBookPlus-Regular.woff",
-        "woff2": "GentiumBookPlus-Regular.woff2"
-    },
     "family": "Gentium Book Plus",
     "files": {
         "GentiumBookPlus-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumBookPlus-Bold.ttf" },
@@ -20,6 +15,6 @@
         "GentiumBookPlus-Regular.woff": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/GentiumBookPlus-Regular.woff" },
         "GentiumBookPlus-Regular.woff2": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/GentiumBookPlus-Regular.woff2" }
     },
-    "version": "6.101"
+    "version": "6.200"
 }
 }

@@ -1,15 +1,15 @@
 ---
 title: Gentium Plus - Font Features
-fontversion: 6.101
+fontversion: 6.200
 ---
 
 Gentium Plus is an OpenType-enabled font family that supports the Latin, Cyrillic, and Greek scripts. It includes a number of optional features that may be useful or required for particular uses or languages. This document lists all the available features.
 
-These OpenType features are primarily specified using four-letter tags (e.g. 'cv17'), although some applications may provide a direct way to control certain common features such as small caps. For more information on how to access OpenType features in specific environments and applications, see [Using Font Features](http://software.sil.org/fonts/features).
+These OpenType features are primarily specified using four-letter tags (e.g. 'cv17'), although some applications may provide a direct way to control certain common features such as small caps. For more information on how to access OpenType features in specific environments and applications, see [Using Font Features](https://software.sil.org/fonts/features).
 
-*Please note that Graphite support has been removed in the current release, but continues to be available in the version 5 fonts. See our [Previous Versions archive](http://software.sil.org/gentium/download/previous-versions).*
+*Please note that Graphite support has been removed in the current release, but continues to be available in the version 5 fonts. See our [Previous Versions archive](https://software.sil.org/gentium/download/previous-versions).*
 
-This page uses web fonts (WOFF2) to demonstrate font features and should display correctly in all modern browsers. For a more concise example of how to use Gentium Plus as a web font see *GentiumPlus-webfont-example.html* in the font package *web* folder. For detailed information see [Using SIL Fonts on Web Pages](http://software.sil.org/fonts/webfonts).
+This page uses web fonts (WOFF2) to demonstrate font features and should display correctly in all modern browsers. For a more concise example of how to use Gentium Plus as a web font, see *GentiumPlus-webfont-example.html* in the font package *web* folder. For detailed information, see [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts).
 
 *If this document is not displaying correctly a PDF version is also provided in the documentation/pdf folder of the release package.*
 
@@ -37,25 +37,25 @@ Feature | Sample                      | Feature setting
 Standard   | <span class='gentium-R normal'>A ... Z</span> (all capitals) | `c2sc=0`
 Small caps | <span class='gentium-R normal' style='font-feature-settings: "c2sc" 1'>A ... Z</span> (all capitals) | `c2sc=1`
 
-#### Double-story a and g
+#### Single-story a and g
 
 *This feature was formerly called 'Literacy alternates'.*
 
-<span class='affects'>Affects: U+0061 U+00E0 U+00E1 U+00E2 U+00E3 U+00E4 U+00E5 U+0101 U+0103 U+0105 U+01CE U+01DF U+01E1 U+01FB U+0201 U+0203 U+0227 U+1E01 U+1E9A U+1EA1 U+1EA3 U+1EA5 U+1EA7 U+1EA9 U+1EAB U+1EAD U+1EAF U+1EB1 U+1EB3 U+1EB5 U+1EB7 U+2C65 U+2090 U+1D43 U+0363 U+0067 U+011D U+011F U+0121 U+0123 U+01E7 U+01F5 U+01E5 U+1E21 U+A7A1 U+1D4D</span>
+<span class='affects'>Affects: U+0061 U+00AA U+00E0 U+00E1 U+00E2 U+00E3 U+00E4 U+00E5 U+0101 U+0103 U+0105 U+01CE U+01DF U+01E1 U+01FB U+0201 U+0203 U+0227 U+1E01 U+1E9A U+1EA1 U+1EA3 U+1EA5 U+1EA7 U+1EA9 U+1EAB U+1EAD U+1EAF U+1EB1 U+1EB3 U+1EB5 U+1EB7 U+2C65 U+2090 U+1D43 U+0363 U+0067 U+011D U+011F U+0121 U+0123 U+01E7 U+01F5 U+01E5 U+1E21 U+A7A1 U+1D4D</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard     | <span class='gentium-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | `ss01=0`
-Single-story | <span class='gentium-R normal' style='font-feature-settings: "ss01" 1'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | `ss01=1`
+Standard     | <span class='gentium-R normal'>a ª à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | `ss01=0`
+Single-story | <span class='gentium-R normal' style='font-feature-settings: "ss01" 1'>a ª à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | `ss01=1`
 
 #### Single-story a (only)
 
-<span class='affects'>Affects: U+0061 U+00E0 U+00E1 U+00E2 U+00E3 U+00E4 U+00E5 U+0101 U+0103 U+0105 U+01CE U+01DF U+01E1 U+01FB U+0201 U+0203 U+0227 U+1E01 U+1E9A U+1EA1 U+1EA3 U+1EA5 U+1EA7 U+1EA9 U+1EAB U+1EAD U+1EAF U+1EB1 U+1EB3 U+1EB5 U+1EB7 U+2C65 U+2090 U+1D43 U+0363</span>
+<span class='affects'>Affects: U+0061 U+00AA U+00E0 U+00E1 U+00E2 U+00E3 U+00E4 U+00E5 U+0101 U+0103 U+0105 U+01CE U+01DF U+01E1 U+01FB U+0201 U+0203 U+0227 U+1E01 U+1E9A U+1EA1 U+1EA3 U+1EA5 U+1EA7 U+1EA9 U+1EAB U+1EAD U+1EAF U+1EB1 U+1EB3 U+1EB5 U+1EB7 U+2C65 U+2090 U+1D43 U+0363</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard     | <span class='gentium-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | `ss11=0`
-Single-story | <span class='gentium-R normal' style='font-feature-settings: "ss11" 1'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | `ss11=1`
+Standard     | <span class='gentium-R normal'>a ª à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | `ss11=0`
+Single-story | <span class='gentium-R normal' style='font-feature-settings: "ss11" 1'>a ª à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | `ss11=1`
 
 #### Single-story g (only)
 
@@ -234,6 +234,15 @@ Standard    | <span class='gentium-R normal'>ɤ</span> | `cv25=0`
 Large bowl  | <span class='gentium-R normal' style='font-feature-settings: "cv25" 1'>ɤ</span> | `cv25=1`
 Small gamma | <span class='gentium-R normal' style='font-feature-settings: "cv25" 2'>ɤ</span> | `cv25=2`
 
+#### Clicks
+
+<span class='affects'>Affects: U+01C0 U+01C1 U+01C2 U+2980</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard (descending) | <span class='gentium-R normal'>ǀ ǁ ǂ ⦀</span> | `cv69=0`
+Baseline              | <span class='gentium-R normal' style='font-feature-settings: "cv69" 1'>ǀ ǁ ǂ ⦀</span> | `cv69=1`
+
 ### Diacritic and symbol alternates
 
 #### Low-profile diacritics
@@ -255,8 +264,6 @@ Standard         | <span class='gentium-R normal'>Ấấ Ầầ Ẩẩ Ẫẫ �
 Vietnamese-style | <span class='gentium-R normal' style='font-feature-settings: "cv75" 1'>Ấấ Ầầ Ẩẩ Ẫẫ Ắắ Ằằ Ẳẳ Ẵẵ Ếế Ềề Ểể Ễễ Ốố Ồồ Ổổ Ỗỗ</span> | `cv75=1`
 
 #### Kayan diacritics
-
-*This feature is not supported in TypeTuner Web.*
 
 <span class='affects'>Affects: U+0300 U+0301</span>
 
@@ -343,7 +350,7 @@ Cyrillic-style | <span class='gentium-R normal' style='font-feature-settings: "c
 
 #### Serbian Cyrillic alternates
 
-*These alternate forms mainly affect italic styles. Unlike other features this is activated by tagging the span of text as being in the Serbian language, not by turning on an OpenType feature. It is also not available through TypeTuner Web although a similar feature is supported (cv84).*
+*These alternate forms mainly affect italic styles. Unlike other features, this is activated by tagging the span of text as being in the Serbian language, not by turning on an OpenType feature. It is also not available through TypeTuner Web although a similar feature is supported (cv84).*
 
 <span class='affects'>Affects: U+0431 U+0433 U+0434 U+043F U+0442 U+0453</span>
 
@@ -354,7 +361,7 @@ Serbian  | <span class='gentium-I normal' lang='sr'>б г д п т ѓ</span> | `
 
 #### Macedonian Cyrillic alternates
 
-*These alternate forms mainly affect italic styles. Unlike other features this is activated by tagging the span of text as being in the Macedonian language, not by turning on an OpenType feature. It is also not available through TypeTuner Web although a similar feature is supported (cv84).*
+*These alternate forms mainly affect italic styles. Unlike other features, this is activated by tagging the span of text as being in the Macedonian language, not by turning on an OpenType feature. It is also not available through TypeTuner Web although a similar feature is supported (cv84).*
 
 <span class='affects'>Affects: U+0431 U+0433 U+0434 U+043F U+0442 U+0453</span>
 
@@ -435,6 +442,41 @@ Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='gentium-R normal'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖ (˩˦˥˧˨ ꜖꜓꜒꜔꜕)</span> | `cv92=0`
 Hide staves  | <span class='gentium-R normal' style='font-feature-settings: "cv92" 1'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖ (˩˦˥˧˨ ꜖꜓꜒꜔꜕)</span> | `cv92=1`
+
+### Numeral alternates
+
+#### Subscript numerals
+
+*This feature is not supported in TypeTuner Web.*
+
+<span class='affects'>Affects: U+0030 U+0031 U+0032 U+0033 U+0034 U+0035 U+0036 U+0037 U+0038 U+0039</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard  | <span class='gentium-R normal'>0 1 2 3 4 5 6 7 8 9</span> | `subs=0`
+Subscript | <span class='gentium-R normal' style='font-feature-settings: "subs" 1'>0 1 2 3 4 5 6 7 8 9</span> | `subs=1`
+
+#### Superscript numerals
+
+*This feature is not supported in TypeTuner Web.*
+
+<span class='affects'>Affects: U+0030 U+0031 U+0032 U+0033 U+0034 U+0035 U+0036 U+0037 U+0038 U+0039</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard    | <span class='gentium-R normal'>0 1 2 3 4 5 6 7 8 9</span> | `sups=0`
+Superscript | <span class='gentium-R normal' style='font-feature-settings: "sups" 1'>0 1 2 3 4 5 6 7 8 9</span> | `sups=1`
+
+#### Automatic fractions
+
+*When activated this feature will automatically create fractions when numerals are separated by either the fraction slash (U+2044) or the solidus (U+002F). This feature is not supported in TypeTuner Web.*
+
+<span class='affects'>Affects: U+0030 U+0031 U+0032 U+0033 U+0034 U+0035 U+0036 U+0037 U+0038 U+0039 U+002F U+2044</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard (none) | <span class='gentium-R normal'>1⁄2 456⁄789 1/2 456/789</span> | `frac=0`
+Automatic       | <span class='gentium-R normal' style='font-feature-settings: "frac" 1'>1⁄2 456⁄789 1/2 456/789</span> | `frac=1`
 
 <!-- PRODUCT SITE ONLY
 [font id='gentium' face='GentiumPlus-Regular' italic='GentiumPlus-Italic' size='150%']

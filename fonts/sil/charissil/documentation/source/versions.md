@@ -1,13 +1,13 @@
 ---
 title: Charis SIL - Versions and Changes
-fontversion: 6.101
+fontversion: 6.200
 ---
 
 ## Announcement list
 
 If you would like stay informed of updates to Charis SIL and other SIL fonts, please subscribe to the [SIL Font News Announcement List](https://groups.google.com/a/groups.sil.org/forum/#!forum/sil-font-news). For more information see [About](about.md).
 
-Our font announcements are also available through Twitter [@silfonts](http://twitter.com/silfonts).
+Our font announcements are also available through Twitter [\@silfonts](https://twitter.com/silfonts).
 
 ## Current versions
 
@@ -19,7 +19,7 @@ Charis SIL is also available through the [TypeTuner Web](https://scripts.sil.org
 
 ## Special-purpose modified variants
 
-- [Modified versions of the fonts](https://software.sil.org/lcgfonts/download/) are available that have been ‘tuned’ to turn on certain features by default. These are available for some regions and include *Literacy* and *Compact* versions.
+- [Modified versions of the fonts](https://software.sil.org/lcgfonts/download/) are available that have been ‘tuned’ to turn on certain features by default. These are available for some regions and include *Literacy* and *Compact* versions. **These remain at version 6.101 and have not been updated to version 6.200. They will be updated at the next major version (7). If you need any of the new features or characters in this version, but also need them supported in the special-purpose modified fonts please contact us.**
 
 ## Version 5 subsets
 
