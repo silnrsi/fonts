@@ -1,0 +1,13 @@
+{
+"mingzat": {
+    "distributable": true,
+    "family": "Mingzat",
+    "familyid": "mingzat",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mingzat/Mingzat-1.100.zip",
+    "siteurl": "https://software.sil.org/Mingzat/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.100"
+}
+}

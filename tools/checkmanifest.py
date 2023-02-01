@@ -24,7 +24,7 @@ def doit(args) :
     if not valid:
         for logmess in logs:
             logger.log(logmess[0], logmess[1])
-        logger.log("Manifest invalid", "E")
+        logger.log("Manifest invalid", "S") # Needs to be a severe error so bash scripts can detect a problem
 
     return
 

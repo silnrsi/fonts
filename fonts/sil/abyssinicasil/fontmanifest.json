@@ -7,9 +7,9 @@
     },
     "family": "Abyssinica SIL",
     "files": {
-        "AbyssinicaSIL-Regular.ttf": { "axes": { "ital": 0 }, "packagepath": "AbyssinicaSIL-Regular.ttf" },
-        "AbyssinicaSIL-Regular.woff": { "axes": { "ital": 0 }, "packagepath": "web/AbyssinicaSIL-Regular.woff" },
-        "AbyssinicaSIL-Regular.woff2": { "axes": { "ital": 0 }, "packagepath": "web/AbyssinicaSIL-Regular.woff2" }
+        "AbyssinicaSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AbyssinicaSIL-Regular.ttf" },
+        "AbyssinicaSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/AbyssinicaSIL-Regular.woff" },
+        "AbyssinicaSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/AbyssinicaSIL-Regular.woff2" }
     },
     "version": "2.200"
 }

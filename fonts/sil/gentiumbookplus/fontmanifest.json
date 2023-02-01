@@ -1,5 +1,10 @@
 {
 "gentiumbookplus": {
+    "defaults": {
+        "ttf": "GentiumBookPlus-Regular.ttf",
+        "woff": "GentiumBookPlus-Regular.woff",
+        "woff2": "GentiumBookPlus-Regular.woff2"
+    },
     "family": "Gentium Book Plus",
     "files": {
         "GentiumBookPlus-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumBookPlus-Bold.ttf" },

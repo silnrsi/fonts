@@ -1,4 +1,25 @@
 {
+"abyssinicasil": {
+    "defaults": {
+        "ttf": "AbyssinicaSIL-Regular.ttf",
+        "woff": "AbyssinicaSIL-Regular.woff",
+        "woff2": "AbyssinicaSIL-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Abyssinica SIL",
+    "familyid": "abyssinicasil",
+    "files": {
+        "AbyssinicaSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AbyssinicaSIL-Regular.ttf" },
+        "AbyssinicaSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/AbyssinicaSIL-Regular.woff" },
+        "AbyssinicaSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/AbyssinicaSIL-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/abyssinica/AbyssinicaSIL-2.200.zip",
+    "siteurl": "https://software.sil.org/abyssinica/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.200"
+},
 "akatab": {
     "defaults": {
         "ttf": "Akatab-Regular.ttf",
@@ -16,6 +37,27 @@
     "license": "OFL",
     "packageurl": "https://software.sil.org/downloads/r/akatab/Akatab-2.000.zip",
     "siteurl": "https://software.sil.org/akatab/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.000"
+},
+"alkalami": {
+    "defaults": {
+        "ttf": "Alkalami-Regular.ttf",
+        "woff": "Alkalami-Regular.woff",
+        "woff2": "Alkalami-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Alkalami",
+    "familyid": "alkalami",
+    "files": {
+        "Alkalami-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Alkalami-Regular.ttf" },
+        "Alkalami-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Alkalami-Regular.woff" },
+        "Alkalami-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Alkalami-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/alkalami/Alkalami-2.000.zip",
+    "siteurl": "https://software.sil.org/alkalami/",
     "source": "SIL",
     "status": "current",
     "version": "2.000"
@@ -44,11 +86,11 @@
         "Andika-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Andika-Regular.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/andika/Andika-6.101.zip",
+    "packageurl": "https://software.sil.org/downloads/r/andika/Andika-6.200.zip",
     "siteurl": "https://software.sil.org/andika/",
     "source": "SIL",
     "status": "current",
-    "version": "6.101"
+    "version": "6.200"
 },
 "angsananew": {
     "distributable": false,
@@ -125,11 +167,11 @@
         "AwamiNastaliq-SemiBold.woff2": { "altfamily": "Awami Nastaliq SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/AwamiNastaliq-SemiBold.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/awami/AwamiNastaliq-3.000.zip",
+    "packageurl": "https://software.sil.org/downloads/r/awami/AwamiNastaliq-3.100.zip",
     "siteurl": "https://software.sil.org/awami/",
     "source": "SIL",
     "status": "current",
-    "version": "3.000"
+    "version": "3.100"
 },
 "charissil": {
     "defaults": {
@@ -155,11 +197,11 @@
         "CharisSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/CharisSIL-Regular.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/charis/CharisSIL-6.101.zip",
+    "packageurl": "https://software.sil.org/downloads/r/charis/CharisSIL-6.200.zip",
     "siteurl": "https://software.sil.org/charis/",
     "source": "SIL",
     "status": "current",
-    "version": "6.101"
+    "version": "6.200"
 },
 "daibannasil": {
     "defaults": {
@@ -209,6 +251,46 @@
     "status": "current",
     "version": "4.000"
 },
+"doulossil": {
+    "defaults": {
+        "ttf": "DoulosSIL-Regular.ttf",
+        "woff": "DoulosSIL-Regular.woff",
+        "woff2": "DoulosSIL-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Doulos SIL",
+    "familyid": "doulossil",
+    "files": {
+        "DoulosSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSIL-Regular.ttf" },
+        "DoulosSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/DoulosSIL-Regular.woff" },
+        "DoulosSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/DoulosSIL-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/doulos/DoulosSIL-6.200.zip",
+    "siteurl": "https://software.sil.org/doulos/",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.200"
+},
+"doulossilcipher": {
+    "defaults": {
+        "ttf": "DoulosSILCipher-R.ttf",
+        "woff": "DoulosSILCipher-R.woff"
+    },
+    "distributable": true,
+    "family": "Doulos SIL",
+    "familyid": "doulossilcipher",
+    "files": {
+        "DoulosSILCipher-R.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILCipher-R.ttf" },
+        "DoulosSILCipher-R.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/DoulosSILCipher-R.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/doulos-sil-cipher/DoulosSILCipher-1.020.zip",
+    "siteurl": "https://software.sil.org/doulos-sil-cipher/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.020"
+},
 "gentiumbookplus": {
     "defaults": {
         "ttf": "GentiumBookPlus-Regular.ttf",
@@ -233,11 +315,11 @@
         "GentiumBookPlus-Regular.woff2": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/GentiumBookPlus-Regular.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/gentium/GentiumPlus-6.101.zip",
+    "packageurl": "https://software.sil.org/downloads/r/gentium/GentiumPlus-6.200.zip",
     "siteurl": "https://software.sil.org/gentium/",
     "source": "SIL",
     "status": "current",
-    "version": "6.101"
+    "version": "6.200"
 },
 "gentiumplus": {
     "defaults": {
@@ -263,11 +345,11 @@
         "GentiumPlus-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/GentiumPlus-Regular.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/gentium/GentiumPlus-6.101.zip",
+    "packageurl": "https://software.sil.org/downloads/r/gentium/GentiumPlus-6.200.zip",
     "siteurl": "https://software.sil.org/gentium/",
     "source": "SIL",
     "status": "current",
-    "version": "6.101"
+    "version": "6.200"
 },
 "harmattan": {
     "defaults": {
@@ -353,6 +435,27 @@
     "status": "current",
     "version": "2.000"
 },
+"mingzat": {
+    "defaults": {
+        "ttf": "Mingzat-Regular.ttf",
+        "woff": "Mingzat-Regular.woff",
+        "woff2": "Mingzat-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Mingzat",
+    "familyid": "mingzat",
+    "files": {
+        "Mingzat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mingzat-Regular.ttf" },
+        "Mingzat-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Mingzat-Regular.woff" },
+        "Mingzat-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Mingzat-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mingzat/Mingzat-1.100.zip",
+    "siteurl": "https://software.sil.org/Mingzat/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.100"
+},
 "namdhinggo": {
     "defaults": {
         "ttf": "Namdhinggo-Regular.ttf",
@@ -386,6 +489,25 @@
     "status": "current",
     "version": "3.000"
 },
+"narnoor": {
+    "defaults": {
+        "ttf": "Narnoor-Regular.ttf",
+        "woff": "Narnoor-Regular.woff"
+    },
+    "distributable": true,
+    "family": "Narnoor",
+    "familyid": "narnoor",
+    "files": {
+        "Narnoor-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Narnoor-Regular.ttf" },
+        "Narnoor-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Narnoor-Regular.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/narnoor/Narnoor-1.000.zip",
+    "siteurl": "https://software.sil.org/Narnoor/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.000"
+},
 "nokyung": {
     "defaults": {
         "ttf": "Nokyung-Regular.ttf",
@@ -406,6 +528,27 @@
     "source": "SIL",
     "status": "current",
     "version": "1.490"
+},
+"nuosusil": {
+    "defaults": {
+        "ttf": "NuosuSIL-Regular.ttf",
+        "woff": "NuosuSIL-Regular.woff",
+        "woff2": "NuosuSIL-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Nuosu SIL",
+    "familyid": "nuosusil",
+    "files": {
+        "NuosuSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "NuosuSIL-Regular.ttf" },
+        "NuosuSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/NuosuSIL-Regular.woff" },
+        "NuosuSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/NuosuSIL-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/nuosu/NuosuSIL-2.300.zip",
+    "siteurl": "https://software.sil.org/nuosu/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.300"
 },
 "padauk": {
     "defaults": {

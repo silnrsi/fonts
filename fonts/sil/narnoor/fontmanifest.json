@@ -6,8 +6,8 @@
     },
     "family": "Narnoor",
     "files": {
-        "Narnoor-Regular.ttf": { "axes": { "ital": 0 }, "packagepath": "Narnoor-Regular.ttf" },
-        "Narnoor-Regular.woff": { "axes": { "ital": 0 }, "packagepath": "web/Narnoor-Regular.woff" }
+        "Narnoor-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0  }, "packagepath": "Narnoor-Regular.ttf" },
+        "Narnoor-Regular.woff": { "axes": { "ital": 0, "wght": 400.0  }, "packagepath": "web/Narnoor-Regular.woff" }
     },
     "version": "1.000"
 }

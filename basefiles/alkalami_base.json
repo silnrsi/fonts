@@ -1,0 +1,13 @@
+{
+"alkalami": {
+    "distributable": true,
+    "family": "Alkalami",
+    "familyid": "alkalami",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/alkalami/Alkalami-2.000.zip",
+    "siteurl": "https://software.sil.org/alkalami/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.000"
+}
+}

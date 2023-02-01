@@ -1,0 +1,13 @@
+{
+"nuosusil": {
+    "distributable": true,
+    "family": "Nuosu SIL",
+    "familyid": "nuosusil",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/nuosu/NuosuSIL-2.300.zip",
+    "siteurl": "https://software.sil.org/nuosu/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.300"
+}
+}

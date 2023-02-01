@@ -6,8 +6,8 @@
     },
     "family": "Doulos SIL",
     "files": {
-        "DoulosSILCipher-R.ttf": { "axes": { "ital": 0 }, "packagepath": "DoulosSILCipher-R.ttf" },
-        "DoulosSILCipher-R.woff": { "axes": { "ital": 0 }, "packagepath": "web/DoulosSILCipher-R.woff" }
+        "DoulosSILCipher-R.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILCipher-R.ttf" },
+        "DoulosSILCipher-R.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/DoulosSILCipher-R.woff" }
     },
     "version": "1.020"
 }
