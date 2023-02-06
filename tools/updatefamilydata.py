@@ -44,8 +44,10 @@ def doit(args):
         if familyid in silfamilies + otherfamilies: # Has folder in the fonts repo so font manifest is required
             if familyid in silfamilies:
                 manifestpath = os.path.join(silpath, familyid,"fontmanifest.json")
+                familytype = "sil"
             else:
                 manifestpath = os.path.join(otherpath, familyid, "fontmanifest.json")
+                familytype = "other"
             if os.path.isfile(manifestpath):
                 manifest = gfr_manifest(filename=manifestpath, logger=logger)
                 manifest.read()
@@ -61,6 +63,15 @@ def doit(args):
             # Update fdata with data from manifest file
             for field in manifest.data:
                 fdata[field] = manifest.data[field]
+            # Add in url and flourl records to files records
+            files = fdata["files"]
+            for filen in files:
+                filerec = files[filen]
+                subpath = f'{familytype}/{familyid}/{filerec["packagepath"]}'
+                filerec['url'] = f'https://github.com/silnrsi/fonts/raw/main/fonts/{subpath}'
+                filerec['flourl'] = f'https://fonts.languagetechnology.org/fonts/{subpath}'
+
+
 
         # Add to familydata
         familydata[familyid] = fdata
