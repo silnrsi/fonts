@@ -1,0 +1,14 @@
+{
+"ezrasilsr": {
+    "defaults": {
+        "ttf": "SILEOTSR.ttf",
+        "woff": "SILEOTSR.woff"
+    },
+    "family": "Ezra SIL SR",
+    "files": {
+        "SILEOTSR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "SILEOTSR.ttf" },
+        "SILEOTSR.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/SILEOTSR.woff" }
+    },
+    "version": "2.510"
+}
+}

@@ -1,0 +1,16 @@
+{
+"galatiasil": {
+    "defaults": {
+        "ttf": "GalSILR.ttf",
+        "woff": "GalSILR.woff"
+    },
+    "family": "Galatia SIL",
+    "files": {
+        "GalSILB.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GalSILB.ttf" },
+        "GalSILB.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/GalSILB.woff" },
+        "GalSILR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GalSILR.ttf" },
+        "GalSILR.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/GalSILR.woff" }
+    },
+    "version": "2.100"
+}
+}

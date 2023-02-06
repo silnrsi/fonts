@@ -26,8 +26,8 @@ As well as writing to a log file it will write a summary out to local/createbase
 
 If it determines the data for a specific font is in valid, it will still output the base file but add _invalid to the file name.
 
-This script is designed to be run from the root folder of the repository
-- The incsv is in a fonts/local/ and so it uses that to find the full path of fonts/ for locating other folders
+This script is designed to be run from the root folder of the repository locates other files relative to there
+- The incsv is usually in  fonts/local/
 - Manifest files for for FLO-SIL fonts with be in fonts/fonts/sil/<familyid>/ folders
 - Manifest files for for FLO-other fonts with be in fonts/fonts/other/<familyid>/ folders
 - The draft base.json files will be output to fonts/local/draftbases/
@@ -71,9 +71,6 @@ def doit(args) :
         if args.type and ftype not in args.type: continue
         if args.familyid and familyid not in args.familyid: continue
 
-        # Temp code to restrict to just FLO-SIL
-        #if ftype != "FLO-SIL": continue
-
         valid = True
         invalidreason = None # For recording why the data is invalid
         # create initial family data
@@ -94,6 +91,7 @@ def doit(args) :
                 logger.log(f'Checking {mname} for {manifest.id}', 'P')
                 (valid, logs) = manifest.validate(version=fdata.version)
                 if not valid: invalidreason = f'Font manifest {mname} is not valid; check using checkmanifest.py for details'
+                del basedata['version'] # The version is stored in the manifest so should not be in the base file
             else:
                 valid = False
                 invalidreason = f'Font manifest {mname} does not exist'

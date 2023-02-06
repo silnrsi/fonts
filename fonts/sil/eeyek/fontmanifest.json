@@ -1,0 +1,14 @@
+{
+"eeyek": {
+    "defaults": {
+        "ttf": "Eeyek-Regular.ttf",
+        "woff": "Eeyek-Regular.woff"
+    },
+    "family": "Eeyek",
+    "files": {
+        "Eeyek-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Eeyek-Regular.ttf" },
+        "Eeyek-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Eeyek-Regular.woff" }
+    },
+    "version": "2.000"
+}
+}

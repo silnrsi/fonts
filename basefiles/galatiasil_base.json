@@ -1,0 +1,12 @@
+{
+"galatiasil": {
+    "distributable": true,
+    "family": "Galatia SIL",
+    "familyid": "galatiasil",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/galatia/GalatiaSIL-2.1-web.zip",
+    "siteurl": "https://software.sil.org/Galatia/",
+    "source": "SIL",
+    "status": "current"
+}
+}

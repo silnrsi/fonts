@@ -1,0 +1,14 @@
+{
+"ezrasil": {
+    "defaults": {
+        "ttf": "SILEOT.ttf",
+        "woff": "SILEOT.woff"
+    },
+    "family": "Ezra SIL",
+    "files": {
+        "SILEOT.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "SILEOT.ttf" },
+        "SILEOT.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/SILEOT.woff" }
+    },
+    "version": "2.510"
+}
+}

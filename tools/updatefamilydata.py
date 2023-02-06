@@ -66,7 +66,7 @@ def doit(args):
         familydata[familyid] = fdata
 
     familyfile = gfr_family(data=familydata)
-    familyfile.write(os.path.join(repopath, "fonts", "families.json"))
+    familyfile.write(os.path.join(repopath, "families.json"))
 
     return
 

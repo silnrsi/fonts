@@ -7,7 +7,6 @@
     "packageurl": "https://software.sil.org/downloads/r/charis/CharisSIL-6.200.zip",
     "siteurl": "https://software.sil.org/charis/",
     "source": "SIL",
-    "status": "current",
-    "version": "6.200"
+    "status": "current"
 }
 }
