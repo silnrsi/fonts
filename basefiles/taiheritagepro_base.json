@@ -1,0 +1,12 @@
+{
+"taiheritagepro": {
+    "distributable": true,
+    "family": "Tai Heritage Pro",
+    "familyid": "taiheritagepro",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/taiheritage/TaiHeritagePro-2.600.zip",
+    "siteurl": "https://software.sil.org/taiheritage/",
+    "source": "SIL",
+    "status": "current"
+}
+}

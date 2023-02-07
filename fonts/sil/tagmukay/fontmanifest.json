@@ -1,0 +1,16 @@
+{
+"tagmukay": {
+    "defaults": {
+        "ttf": "Tagmukay-Regular.ttf",
+        "woff": "Tagmukay-Regular.woff"
+    },
+    "family": "Tagmukay",
+    "files": {
+        "Tagmukay-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Tagmukay-Bold.ttf" },
+        "Tagmukay-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Tagmukay-Bold.woff" },
+        "Tagmukay-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Tagmukay-Regular.ttf" },
+        "Tagmukay-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Tagmukay-Regular.woff" }
+    },
+    "version": "2.000"
+}
+}

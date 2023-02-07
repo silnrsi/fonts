@@ -1,0 +1,15 @@
+{
+"sophianubian": {
+    "defaults": {
+        "ttf": "SNR.ttf"
+    },
+    "family": "Sophia Nubian",
+    "files": {
+        "SNB.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "SNB.ttf" },
+        "SNBI.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "SNBI.ttf" },
+        "SNI.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "SNI.ttf" },
+        "SNR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "SNR.ttf" }
+    },
+    "version": "1.000"
+}
+}

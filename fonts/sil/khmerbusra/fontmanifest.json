@@ -1,0 +1,15 @@
+{
+"khmerbusra": {
+    "defaults": {
+        "ttf": "Busra-R.ttf"
+    },
+    "family": "Khmer Busra",
+    "files": {
+        "Busra-B.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Busra-B.ttf" },
+        "Busra-BI.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Busra-BI.ttf" },
+        "Busra-I.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Busra-I.ttf" },
+        "Busra-R.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Busra-R.ttf" }
+    },
+    "version": "7.100"
+}
+}

@@ -95,6 +95,7 @@ def doit(args) :
             else:
                 valid = False
                 invalidreason = f'Font manifest {mname} does not exist'
+                logger.log(invalidreason, "W")
             #anything else to do to data for these types?
 
         # Now create the base file

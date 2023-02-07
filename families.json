@@ -474,6 +474,46 @@
     "status": "current",
     "version": "2.100"
 },
+"khmerbusra": {
+    "defaults": {
+        "ttf": "Busra-R.ttf"
+    },
+    "distributable": true,
+    "family": "Khmer Busra",
+    "familyid": "khmerbusra",
+    "files": {
+        "Busra-B.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/khmerbusra/Busra-B.ttf", "packagepath": "Busra-B.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/khmerbusra/Busra-B.ttf" },
+        "Busra-BI.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/khmerbusra/Busra-BI.ttf", "packagepath": "Busra-BI.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/khmerbusra/Busra-BI.ttf" },
+        "Busra-I.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/khmerbusra/Busra-I.ttf", "packagepath": "Busra-I.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/khmerbusra/Busra-I.ttf" },
+        "Busra-R.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/khmerbusra/Busra-R.ttf", "packagepath": "Busra-R.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/khmerbusra/Busra-R.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-7.100.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "current",
+    "version": "7.100"
+},
+"khmermondulkiri": {
+    "defaults": {
+        "ttf": "Mondulkiri-R.ttf"
+    },
+    "distributable": true,
+    "family": "Khmer Mondulkiri",
+    "familyid": "khmermondulkiri",
+    "files": {
+        "Mondulkiri-B.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/khmermondulkiri/Mondulkiri-B.ttf", "packagepath": "Mondulkiri-B.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/khmermondulkiri/Mondulkiri-B.ttf" },
+        "Mondulkiri-BI.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/khmermondulkiri/Mondulkiri-BI.ttf", "packagepath": "Mondulkiri-BI.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/khmermondulkiri/Mondulkiri-BI.ttf" },
+        "Mondulkiri-I.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/khmermondulkiri/Mondulkiri-I.ttf", "packagepath": "Mondulkiri-I.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/khmermondulkiri/Mondulkiri-I.ttf" },
+        "Mondulkiri-R.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/khmermondulkiri/Mondulkiri-R.ttf", "packagepath": "Mondulkiri-R.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/khmermondulkiri/Mondulkiri-R.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-7.100.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "current",
+    "version": "7.100"
+},
 "lateef": {
     "defaults": {
         "ttf": "Lateef-Regular.ttf",
@@ -721,6 +761,27 @@
     "status": "current",
     "version": "2.000"
 },
+"scheherazade": {
+    "defaults": {
+        "ttf": "Scheherazade-Regular.ttf",
+        "woff": "Scheherazade-Regular.woff"
+    },
+    "distributable": true,
+    "family": "Scheherazade",
+    "familyid": "scheherazade",
+    "files": {
+        "Scheherazade-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/scheherazade/Scheherazade-Bold.ttf", "packagepath": "Scheherazade-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/scheherazade/Scheherazade-Bold.ttf" },
+        "Scheherazade-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/scheherazade/web/Scheherazade-Bold.woff", "packagepath": "web/Scheherazade-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/scheherazade/web/Scheherazade-Bold.woff" },
+        "Scheherazade-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/scheherazade/Scheherazade-Regular.ttf", "packagepath": "Scheherazade-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/scheherazade/Scheherazade-Regular.ttf" },
+        "Scheherazade-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/scheherazade/web/Scheherazade-Regular.woff", "packagepath": "web/Scheherazade-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/scheherazade/web/Scheherazade-Regular.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/scheherazade/Scheherazade-2.100.zip",
+    "siteurl": "https://software.sil.org/scheherazade/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.100"
+},
 "scheherazadenew": {
     "defaults": {
         "ttf": "ScheherazadeNew-Regular.ttf",
@@ -744,5 +805,67 @@
     "source": "SIL",
     "status": "current",
     "version": "3.300"
+},
+"sophianubian": {
+    "defaults": {
+        "ttf": "SNR.ttf"
+    },
+    "distributable": true,
+    "family": "Sophia Nubian",
+    "familyid": "sophianubian",
+    "files": {
+        "SNB.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/sophianubian/SNB.ttf", "packagepath": "SNB.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/sophianubian/SNB.ttf" },
+        "SNBI.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/sophianubian/SNBI.ttf", "packagepath": "SNBI.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/sophianubian/SNBI.ttf" },
+        "SNI.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/sophianubian/SNI.ttf", "packagepath": "SNI.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/sophianubian/SNI.ttf" },
+        "SNR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/sophianubian/SNR.ttf", "packagepath": "SNR.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/sophianubian/SNR.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/sophianubian/SophiaNubian-1.0.zip",
+    "siteurl": "https://software.sil.org/SophiaNubian/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.000"
+},
+"tagmukay": {
+    "defaults": {
+        "ttf": "Tagmukay-Regular.ttf",
+        "woff": "Tagmukay-Regular.woff"
+    },
+    "distributable": true,
+    "family": "Tagmukay",
+    "familyid": "tagmukay",
+    "files": {
+        "Tagmukay-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tagmukay/Tagmukay-Bold.ttf", "packagepath": "Tagmukay-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tagmukay/Tagmukay-Bold.ttf" },
+        "Tagmukay-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tagmukay/web/Tagmukay-Bold.woff", "packagepath": "web/Tagmukay-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tagmukay/web/Tagmukay-Bold.woff" },
+        "Tagmukay-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tagmukay/Tagmukay-Regular.ttf", "packagepath": "Tagmukay-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tagmukay/Tagmukay-Regular.ttf" },
+        "Tagmukay-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tagmukay/web/Tagmukay-Regular.woff", "packagepath": "web/Tagmukay-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tagmukay/web/Tagmukay-Regular.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/tagmukay/Tagmukay-2.000.zip",
+    "siteurl": "https://software.sil.org/tagmukay/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.000"
+},
+"taiheritagepro": {
+    "defaults": {
+        "ttf": "TaiHeritagePro-Regular.ttf",
+        "woff": "TaiHeritagePro-Regular.woff"
+    },
+    "distributable": true,
+    "family": "Tai Heritage Pro",
+    "familyid": "taiheritagepro",
+    "files": {
+        "TaiHeritagePro-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/taiheritagepro/TaiHeritagePro-Bold.ttf", "packagepath": "TaiHeritagePro-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/taiheritagepro/TaiHeritagePro-Bold.ttf" },
+        "TaiHeritagePro-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/taiheritagepro/web/TaiHeritagePro-Bold.woff", "packagepath": "web/TaiHeritagePro-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/taiheritagepro/web/TaiHeritagePro-Bold.woff" },
+        "TaiHeritagePro-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/taiheritagepro/TaiHeritagePro-Regular.ttf", "packagepath": "TaiHeritagePro-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/taiheritagepro/TaiHeritagePro-Regular.ttf" },
+        "TaiHeritagePro-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/taiheritagepro/web/TaiHeritagePro-Regular.woff", "packagepath": "web/TaiHeritagePro-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/taiheritagepro/web/TaiHeritagePro-Regular.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/taiheritage/TaiHeritagePro-2.600.zip",
+    "siteurl": "https://software.sil.org/taiheritage/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.600"
 }
 }

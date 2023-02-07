@@ -1,0 +1,12 @@
+{
+"khmerbusra": {
+    "distributable": true,
+    "family": "Khmer Busra",
+    "familyid": "khmerbusra",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-7.100.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "current"
+}
+}

@@ -1,0 +1,15 @@
+{
+"khmermondulkiri": {
+    "defaults": {
+        "ttf": "Mondulkiri-R.ttf"
+    },
+    "family": "Khmer Mondulkiri",
+    "files": {
+        "Mondulkiri-B.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Mondulkiri-B.ttf" },
+        "Mondulkiri-BI.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Mondulkiri-BI.ttf" },
+        "Mondulkiri-I.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-I.ttf" },
+        "Mondulkiri-R.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-R.ttf" }
+    },
+    "version": "7.100"
+}
+}

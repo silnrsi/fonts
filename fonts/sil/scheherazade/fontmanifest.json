@@ -1,0 +1,16 @@
+{
+"scheherazade": {
+    "defaults": {
+        "ttf": "Scheherazade-Regular.ttf",
+        "woff": "Scheherazade-Regular.woff"
+    },
+    "family": "Scheherazade",
+    "files": {
+        "Scheherazade-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Scheherazade-Bold.ttf" },
+        "Scheherazade-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Scheherazade-Bold.woff" },
+        "Scheherazade-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Scheherazade-Regular.ttf" },
+        "Scheherazade-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Scheherazade-Regular.woff" }
+    },
+    "version": "2.100"
+}
+}

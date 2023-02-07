@@ -1,0 +1,16 @@
+{
+"taiheritagepro": {
+    "defaults": {
+        "ttf": "TaiHeritagePro-Regular.ttf",
+        "woff": "TaiHeritagePro-Regular.woff"
+    },
+    "family": "Tai Heritage Pro",
+    "files": {
+        "TaiHeritagePro-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "TaiHeritagePro-Bold.ttf" },
+        "TaiHeritagePro-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/TaiHeritagePro-Bold.woff" },
+        "TaiHeritagePro-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "TaiHeritagePro-Regular.ttf" },
+        "TaiHeritagePro-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/TaiHeritagePro-Regular.woff" }
+    },
+    "version": "2.600"
+}
+}
