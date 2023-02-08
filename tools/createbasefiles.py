@@ -84,7 +84,7 @@ def doit(args) :
         # Now need to do further checks and add further data depending on record type
         if ftype in ("FLO-SIL", "FLO-other"): # Just works for FLO-SIL currently
             # Open the manifest file, if present
-            mname = os.path.join(silpath, familyid, "fontmanifest.json")
+            mname = os.path.join(silpath, familyid, "fontmanifest.json") if ftype == "FLO-SIL" else os.path.join(otherpath, familyid, "fontmanifest.json")
             if os.path.isfile(mname):
                 manifest = gfr_manifest(filename=mname, logger=logger)
                 manifest.read()

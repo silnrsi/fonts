@@ -1,0 +1,16 @@
+{
+"surma": {
+    "defaults": {
+        "ttf": "Surma-Regular.ttf",
+        "woff": "Surma-Regular.woff",
+        "woff2": "Surma-Regular.woff2"
+    },
+    "family": "Surma",
+    "files": {
+        "Surma-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Surma-Regular.ttf" },
+        "Surma-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Surma-Regular.woff" },
+        "Surma-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Surma-Regular.woff2" }
+    },
+    "version": "4.000"
+}
+}

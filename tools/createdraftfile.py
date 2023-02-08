@@ -5,14 +5,16 @@ __copyright__ = 'Copyright (c) 2023 SIL International (http://www.sil.org)'
 __license__ = 'Released under the MIT License (http://opensource.org/licenses/MIT)'
 __author__ = 'David Raymond'
 
-from silfont.gfr import gfr_manifest, setpaths
+import re
+
+from silfont.gfr import gfr_manifest, setpaths, getttfdata
 from silfont.core import execute, splitfn
 import os
 
 argspec = [
     ('fontid',{'help': 'ID for the font'}, {}),
-    ('fontfamily',{'help': 'Font family name'},{}),
-    ('version',{'help': 'Font version'},{}),
+    #('fontfamily',{'help': 'Font family name','nargs': '?'},{}),
+    #('version',{'help': 'Font version','nargs': '?'},{}),
     ('-t','--filetype',{'help': 'Type of file - m or b', 'default': 'm'}, {}),
     ('-f','--fontpath',{'help': 'Path for the font - required for base files'},{}),
     ('-l','--log',{'help': 'Log file'}, {'type': 'outfile', 'def': '_createmanifest.log'})]
@@ -40,11 +42,9 @@ def doit(args) :
 
     # Set the output file name
     if filetype == "m": # Create a draft manifest in the font's folder
-        outfile = os.path.join(fontpath, "fontmanifest_draft.json")
+        outfile = os.path.join(fontpath, "fontmanifest_draft2.json")
     else:
         outfile = os.path.join(repopath, "local/datafiles", f'{fontid}_data.json')
-
-    print(outfile)
 
     # Now find the font files within the folder
     fontexts = ['.ttf', '.woff', '.woff2']
@@ -56,54 +56,63 @@ def doit(args) :
                 dfilelist[filen] = (os.path.relpath(os.path.join(dirname, filen), start=fontpath))
 
     if len(dfilelist) == 0: logger.log(f'No font files found in {fontpath}', "S")
-    print(dfilelist)
-    defaultweights = {
-        'ExtraLight': 200,
-        'Light': 300,
-        'Regular': 400,
-        'Italic': 400,
-        'Medium': 500,
-        'SemiBold': 600,
-        'Bold': 700,
-        'ExtraBold': 800,
-        'ExtraLightItalic': 200,
-        'LightItalic': 300,
-        'MediumItalic': 500,
-        'SemiBoldItalic': 600,
-        'BoldItalic': 700,
-        'ExtraBoldItalic': 800
-    }
-    weightlist = ['ExtraLight','Light','Regular','Italic','Medium','SemiBold','Bold','ExtraBold']
-    unmatched = 0
+
     defaults = {}
     files = {}
+    regulars = {".ttf": {}, ".woff": {}, ".woff2": {}}
     # Build up the data...
     for fontfile in dfilelist:
         (path,base,ext) = splitfn(fontfile)
-        weightn = "unmatched"
-        for weight in weightlist:
-            if f'{weight}Italic' in base:
-                weightn = f'{weight}Italic'
-            elif f'{weight}' in base:
-                weightn = f'{weight}'
-        if weightn == "unmatched":
-                unmatched += 1
-                weightn = f'unmatched{unmatched}'
-                logger.log(f'Unable to match weight for {fontfile}', "W")
-        weight = 999 if weightn[0:9] == "unmatched" else defaultweights[weightn]
+        ttfdata = getttfdata(os.path.join(fontpath, dfilelist[fontfile]), logger)
+        regular = True if ttfdata["subfamily"] == "Regular" else False
+        if regular:
+            regulars[ext][fontfile] = {
+                "family": ttfdata["family"],
+                "version": ttfdata["version"],
+                "wght": ttfdata["wght"]
+            }
 
-        ital = 1 if "Italic" in base else 0
+        files[fontfile] = {'axes': {"ital": ttfdata["ital"], "wght": float(ttfdata["wght"]),}, "packagepath": dfilelist[fontfile]}
 
-        if weightn == "Regular": defaults[ext[1:]] = fontfile
-        files[fontfile] = {'axes': {"ital": ital, "wght": float(weight),}, "packagepath": dfilelist[fontfile]}
+    # Of the fonts with a subfamily of "Regular" determine the default regular
+    for ext in fontexts:
+        regs = regulars[ext]
+        if len(regs) == 0:
+            regular = None
+        elif len(regs) == 1:
+            regular = list(regs)[0] # Key for only item in dict
+        else: # Multiple, so which is the default...
+            regular = None
+            w400 = None
+            for regn in regs:
+                reg = regs[regn]
+                if "Regular" in regn:
+                    regular = regn
+                elif int(reg["wght"]) == 400:
+                    regular = regn
+        if regular:
+            defaults[ext[1:]] = regular
+            if ext == ".ttf": # Take version and family from regular ttf
+                reg = regulars[ext][regular]
+                version = reg["version"]
+                family = reg["family"]
+
     if defaults == {}:
-        logger.log("No regular weights found so defaults not set", "W")
-        defaults["ttf"] = "Dummy"
+        logger.log("No regular weights found so defaults, version and family not set", "W")
+        defaults["ttf"] = ".ttf"
+        defaults["woff"] = ".woff"
+        defaults["woff"] = ".woff2"
+        version = 0.0
+        family = ""
+
+    if not re.match("^[0-9]\.[0-9][0-9][0-9]$", version):
+        logger.log('Version not of form n.nnn so will need checking/editing', "W")
+
     data = {
         "defaults": defaults,
-        "family": args.fontfamily,
+        "family": family,
         "files": files,
-        "version": args.version
+        "version": version
     }
     manifest = gfr_manifest(id = fontid, data = data, logger = logger)
     manifest.write(outfile)

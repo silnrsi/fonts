@@ -1,0 +1,12 @@
+{
+"bailey": {
+    "distributable": true,
+    "family": "Bailey",
+    "familyid": "bailey",
+    "license": "OFL",
+    "packageurl": "https://github.com/nlci/mlym-font-bailey/releases/download/v0.202/Bailey-0.202.zip",
+    "siteurl": "https://github.com/nlci/mlym-font-bailey",
+    "source": "NLCI",
+    "status": "current"
+}
+}

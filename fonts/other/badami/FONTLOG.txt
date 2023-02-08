@@ -1,0 +1,65 @@
+FONTLOG
+Badami, Kaveri - NLCI Kannada fonts
+===================================
+
+This file provides detailed information on the NLCI Kannada fonts.
+This information should be distributed along with the NLCI Kannada fonts and any derivative works.
+
+Basic Font Information
+----------------------
+
+Pan Kannada font designed to support all the languages using the Kannada script.
+
+Known issues in the new sources
+-------------------------------
+Drawing
+ - Break link for [l]lvocalicmatra.alt
+ - Copy, rotate, move, scale the glyphs for [l]lvocalicmatra.alt (from Kannada O/OO)
+ - Move top ring of upadhmaniya to the baseline
+ - Remove most of the glyph (currently the om sign) from the two candrabindus
+ - U+20B9 INDIAN RUPEE SIGN needs to be made italic in the Italic and Bold Italic faces
+
+Features
+ - vowel less na
+ - short and long tail on lvocalicvowel (U+0C8C)
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+08 Mar 2022 (Dev NLCI) NLCI Kannada fonts version 0.400
+- Allow virama (acting as a vowel) to come before a length mark
+- Corrected contour directions
+- Remove script prefix (KNDA) from font names
+- Improved OpenType and Graphite shaping
+- Slightly expand and improve the character set
+04 Jan 2019 (Dev NLCI) NLCI Kannada fonts version 0.300
+- Provide akhand forms
+- Position nuktas
+- Glyphs from the legacy font files are no longer scaled up
+- Glyphs from Latin fonts and Annapurna SIL are scaled 71%
+03 Aug 2018 (Dev NLCI) NLCI Kannada fonts version 0.201
+- Position sub sub forms better
+- Include a few more characters
+29 Mar 2018 (Dev NLCI) NLCI Kannada fonts version 0.200
+- Add many Latin and Devanagari characters.
+- Latin glyphs in Badami are from Gentium Book Basic (https://software.sil.org/gentium/)
+- Latin glyphs in Kaveri are from Exo (https://github.com/NDISCOVER/Exo-1.0)
+- Additional Latin glyphs in Kaveri are from Charis SIL (https://software.sil.org/charis/)
+- Indian Rupee Sign is from Annapurna SIL (https://software.sil.org/annapurna/)
+19 Jun 2015 (Dev NLCI) NLCI Kannada fonts version 0.100
+- Latin glyphs are from Charis SIL (http://scripts.sil.org/CharisSILfont)
+
+Acknowledgements
+----------------
+(If you make modifications be sure to add your
+name (N), email (E), web-address (W) and description (D).
+This list is sorted by last name in alphabetical order.)
+
+N: Dev NLCI
+E: dev@nlife.in
+W: http://www.nlci.in/fonts/
+D: NLCI designers and font engineers
+
+N: Bobby de Vos
+D: Font engineer

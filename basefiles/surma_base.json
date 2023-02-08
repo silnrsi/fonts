@@ -1,0 +1,12 @@
+{
+"surma": {
+    "distributable": true,
+    "family": "Surma",
+    "familyid": "surma",
+    "license": "OFL",
+    "packageurl": "https://github.com/syltrans/surma/releases/download/v4.000/Surma-4.000.zip",
+    "siteurl": "https://github.com/syltrans/surma",
+    "source": "STAR",
+    "status": "current"
+}
+}

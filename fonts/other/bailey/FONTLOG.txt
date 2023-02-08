@@ -1,0 +1,34 @@
+FONTLOG
+Bailey - NLCI Modified Rachana Malayalam fonts
+==============================================
+
+This file provides detailed information on the NLCI Bailey fonts.
+This information should be distributed along with the NLCI Bailey fonts and any derivative works.
+
+Basic Font Information
+----------------------
+
+Malayalam font based on Rachana supporting an orthography in between the traditional orthography of Rachana
+and the Malayalam reformed orthography.
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+unreleased
+07 Oct 2019 (Dev NLCI) NLCI Bailey fonts version 0.100
+- Initial changes from Rachana
+
+Acknowledgements
+----------------
+(If you make modifications be sure to add your
+name (N), email (E), web-address (W) and description (D).
+This list is sorted by last name in alphabetical order.)
+
+N: Dev NLCI
+E: dev@nlife.in
+W: http://www.nlci.in/fonts/
+D: NLCI designers and font engineers
+
+N: Bobby de Vos
+D: Font engineer

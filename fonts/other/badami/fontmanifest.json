@@ -1,0 +1,25 @@
+{
+"badami": {
+    "defaults": {
+        "ttf": "Badami-Regular.ttf",
+        "woff": "Badami-Regular.woff",
+        "woff2": "Badami-Regular.woff2"
+    },
+    "family": "Badami",
+    "files": {
+        "Badami-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Badami-Bold.ttf" },
+        "Badami-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "woff/Badami-Bold.woff" },
+        "Badami-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "woff/Badami-Bold.woff2" },
+        "Badami-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "Badami-BoldItalic.ttf" },
+        "Badami-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "woff/Badami-BoldItalic.woff" },
+        "Badami-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "woff/Badami-BoldItalic.woff2" },
+        "Badami-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "Badami-Italic.ttf" },
+        "Badami-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "woff/Badami-Italic.woff" },
+        "Badami-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "woff/Badami-Italic.woff2" },
+        "Badami-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Badami-Regular.ttf" },
+        "Badami-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "woff/Badami-Regular.woff" },
+        "Badami-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "woff/Badami-Regular.woff2" }
+    },
+    "version": "0.400"
+}
+}

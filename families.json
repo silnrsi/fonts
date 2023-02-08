@@ -173,6 +173,57 @@
     "status": "current",
     "version": "3.100"
 },
+"badami": {
+    "defaults": {
+        "ttf": "Badami-Regular.ttf",
+        "woff": "Badami-Regular.woff",
+        "woff2": "Badami-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Badami",
+    "familyid": "badami",
+    "files": {
+        "Badami-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/Badami-Bold.ttf", "packagepath": "Badami-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/Badami-Bold.ttf" },
+        "Badami-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/woff/Badami-Bold.woff", "packagepath": "woff/Badami-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/woff/Badami-Bold.woff" },
+        "Badami-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/woff/Badami-Bold.woff2", "packagepath": "woff/Badami-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/woff/Badami-Bold.woff2" },
+        "Badami-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/Badami-BoldItalic.ttf", "packagepath": "Badami-BoldItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/Badami-BoldItalic.ttf" },
+        "Badami-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/woff/Badami-BoldItalic.woff", "packagepath": "woff/Badami-BoldItalic.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/woff/Badami-BoldItalic.woff" },
+        "Badami-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/woff/Badami-BoldItalic.woff2", "packagepath": "woff/Badami-BoldItalic.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/woff/Badami-BoldItalic.woff2" },
+        "Badami-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/Badami-Italic.ttf", "packagepath": "Badami-Italic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/Badami-Italic.ttf" },
+        "Badami-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/woff/Badami-Italic.woff", "packagepath": "woff/Badami-Italic.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/woff/Badami-Italic.woff" },
+        "Badami-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/woff/Badami-Italic.woff2", "packagepath": "woff/Badami-Italic.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/woff/Badami-Italic.woff2" },
+        "Badami-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/Badami-Regular.ttf", "packagepath": "Badami-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/Badami-Regular.ttf" },
+        "Badami-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/woff/Badami-Regular.woff", "packagepath": "woff/Badami-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/woff/Badami-Regular.woff" },
+        "Badami-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/badami/woff/Badami-Regular.woff2", "packagepath": "woff/Badami-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/badami/woff/Badami-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/nlci/knda-font-badami/releases/download/v0.400/nlci-knda-badami-0.400.zip",
+    "siteurl": "https://github.com/nlci/knda-font-badami",
+    "source": "NLCI",
+    "status": "current",
+    "version": "0.400"
+},
+"bailey": {
+    "defaults": {
+        "ttf": "Bailey-Regular.ttf",
+        "woff2": "Bailey-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Bailey",
+    "familyid": "bailey",
+    "files": {
+        "Bailey-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/bailey/Bailey-Bold.ttf", "packagepath": "Bailey-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/bailey/Bailey-Bold.ttf" },
+        "Bailey-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/bailey/web/Bailey-Bold.woff2", "packagepath": "web/Bailey-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/bailey/web/Bailey-Bold.woff2" },
+        "Bailey-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/bailey/Bailey-Regular.ttf", "packagepath": "Bailey-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/bailey/Bailey-Regular.ttf" },
+        "Bailey-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/bailey/web/Bailey-Regular.woff2", "packagepath": "web/Bailey-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/bailey/web/Bailey-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/nlci/mlym-font-bailey/releases/download/v0.202/Bailey-0.202.zip",
+    "siteurl": "https://github.com/nlci/mlym-font-bailey",
+    "source": "NLCI",
+    "status": "current",
+    "version": "0.202"
+},
 "charissil": {
     "defaults": {
         "ttf": "CharisSIL-Regular.ttf",
@@ -761,6 +812,93 @@
     "status": "current",
     "version": "2.000"
 },
+"saysettha": {
+    "defaults": {
+        "ttf": "Saysettha-Expanded.ttf"
+    },
+    "distributable": true,
+    "family": "Saysettha",
+    "familyid": "saysettha",
+    "files": {
+        "Saysettha-Black.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-Black.ttf", "packagepath": "Saysettha-Black.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-Black.ttf" },
+        "Saysettha-BlackCondIta.ttf": { "axes": { "ital": 1, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackCondIta.ttf", "packagepath": "Saysettha-BlackCondIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackCondIta.ttf" },
+        "Saysettha-BlackCondensed.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackCondensed.ttf", "packagepath": "Saysettha-BlackCondensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackCondensed.ttf" },
+        "Saysettha-BlackExpanded.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackExpanded.ttf", "packagepath": "Saysettha-BlackExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackExpanded.ttf" },
+        "Saysettha-BlackExpandedItalic.ttf": { "axes": { "ital": 1, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackExpandedItalic.ttf", "packagepath": "Saysettha-BlackExpandedItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackExpandedItalic.ttf" },
+        "Saysettha-BlackExtExpIta.ttf": { "axes": { "ital": 1, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackExtExpIta.ttf", "packagepath": "Saysettha-BlackExtExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackExtExpIta.ttf" },
+        "Saysettha-BlackExtraExpanded.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackExtraExpanded.ttf", "packagepath": "Saysettha-BlackExtraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackExtraExpanded.ttf" },
+        "Saysettha-BlackItalic.ttf": { "axes": { "ital": 1, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackItalic.ttf", "packagepath": "Saysettha-BlackItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackItalic.ttf" },
+        "Saysettha-BlackUltExpIta.ttf": { "axes": { "ital": 1, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackUltExpIta.ttf", "packagepath": "Saysettha-BlackUltExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackUltExpIta.ttf" },
+        "Saysettha-BlackUltraCondIta.ttf": { "axes": { "ital": 1, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackUltraCondIta.ttf", "packagepath": "Saysettha-BlackUltraCondIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackUltraCondIta.ttf" },
+        "Saysettha-BlackUltraCondensed.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackUltraCondensed.ttf", "packagepath": "Saysettha-BlackUltraCondensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackUltraCondensed.ttf" },
+        "Saysettha-BlackUltraExpanded.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BlackUltraExpanded.ttf", "packagepath": "Saysettha-BlackUltraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BlackUltraExpanded.ttf" },
+        "Saysettha-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-Bold.ttf", "packagepath": "Saysettha-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-Bold.ttf" },
+        "Saysettha-BoldCondensed.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldCondensed.ttf", "packagepath": "Saysettha-BoldCondensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldCondensed.ttf" },
+        "Saysettha-BoldCondensedItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldCondensedItalic.ttf", "packagepath": "Saysettha-BoldCondensedItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldCondensedItalic.ttf" },
+        "Saysettha-BoldExpanded.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldExpanded.ttf", "packagepath": "Saysettha-BoldExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldExpanded.ttf" },
+        "Saysettha-BoldExpandedItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldExpandedItalic.ttf", "packagepath": "Saysettha-BoldExpandedItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldExpandedItalic.ttf" },
+        "Saysettha-BoldExtExpIta.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldExtExpIta.ttf", "packagepath": "Saysettha-BoldExtExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldExtExpIta.ttf" },
+        "Saysettha-BoldExtraExpanded.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldExtraExpanded.ttf", "packagepath": "Saysettha-BoldExtraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldExtraExpanded.ttf" },
+        "Saysettha-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldItalic.ttf", "packagepath": "Saysettha-BoldItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldItalic.ttf" },
+        "Saysettha-BoldUltExpIta.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldUltExpIta.ttf", "packagepath": "Saysettha-BoldUltExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldUltExpIta.ttf" },
+        "Saysettha-BoldUltraCondIta.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldUltraCondIta.ttf", "packagepath": "Saysettha-BoldUltraCondIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldUltraCondIta.ttf" },
+        "Saysettha-BoldUltraCondensed.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldUltraCondensed.ttf", "packagepath": "Saysettha-BoldUltraCondensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldUltraCondensed.ttf" },
+        "Saysettha-BoldUltraExpanded.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-BoldUltraExpanded.ttf", "packagepath": "Saysettha-BoldUltraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-BoldUltraExpanded.ttf" },
+        "Saysettha-Condensed.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-Condensed.ttf", "packagepath": "Saysettha-Condensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-Condensed.ttf" },
+        "Saysettha-CondensedItalic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-CondensedItalic.ttf", "packagepath": "Saysettha-CondensedItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-CondensedItalic.ttf" },
+        "Saysettha-Expanded.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-Expanded.ttf", "packagepath": "Saysettha-Expanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-Expanded.ttf" },
+        "Saysettha-ExpandedItalic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ExpandedItalic.ttf", "packagepath": "Saysettha-ExpandedItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ExpandedItalic.ttf" },
+        "Saysettha-ExtraExpanded.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ExtraExpanded.ttf", "packagepath": "Saysettha-ExtraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ExtraExpanded.ttf" },
+        "Saysettha-ExtraExpandedItalic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ExtraExpandedItalic.ttf", "packagepath": "Saysettha-ExtraExpandedItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ExtraExpandedItalic.ttf" },
+        "Saysettha-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-Italic.ttf", "packagepath": "Saysettha-Italic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-Italic.ttf" },
+        "Saysettha-Light.ttf": { "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-Light.ttf", "packagepath": "Saysettha-Light.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-Light.ttf" },
+        "Saysettha-LightCondIta.ttf": { "axes": { "ital": 1, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightCondIta.ttf", "packagepath": "Saysettha-LightCondIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightCondIta.ttf" },
+        "Saysettha-LightCondensed.ttf": { "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightCondensed.ttf", "packagepath": "Saysettha-LightCondensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightCondensed.ttf" },
+        "Saysettha-LightExpanded.ttf": { "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightExpanded.ttf", "packagepath": "Saysettha-LightExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightExpanded.ttf" },
+        "Saysettha-LightExpandedItalic.ttf": { "axes": { "ital": 1, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightExpandedItalic.ttf", "packagepath": "Saysettha-LightExpandedItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightExpandedItalic.ttf" },
+        "Saysettha-LightExtExpIta.ttf": { "axes": { "ital": 1, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightExtExpIta.ttf", "packagepath": "Saysettha-LightExtExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightExtExpIta.ttf" },
+        "Saysettha-LightExtraExpanded.ttf": { "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightExtraExpanded.ttf", "packagepath": "Saysettha-LightExtraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightExtraExpanded.ttf" },
+        "Saysettha-LightItalic.ttf": { "axes": { "ital": 1, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightItalic.ttf", "packagepath": "Saysettha-LightItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightItalic.ttf" },
+        "Saysettha-LightUltExpIta.ttf": { "axes": { "ital": 1, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightUltExpIta.ttf", "packagepath": "Saysettha-LightUltExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightUltExpIta.ttf" },
+        "Saysettha-LightUltraCondIta.ttf": { "axes": { "ital": 1, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightUltraCondIta.ttf", "packagepath": "Saysettha-LightUltraCondIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightUltraCondIta.ttf" },
+        "Saysettha-LightUltraCondensed.ttf": { "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightUltraCondensed.ttf", "packagepath": "Saysettha-LightUltraCondensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightUltraCondensed.ttf" },
+        "Saysettha-LightUltraExpanded.ttf": { "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-LightUltraExpanded.ttf", "packagepath": "Saysettha-LightUltraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-LightUltraExpanded.ttf" },
+        "Saysettha-MedCondIta.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MedCondIta.ttf", "packagepath": "Saysettha-MedCondIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MedCondIta.ttf" },
+        "Saysettha-MedExpIta.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MedExpIta.ttf", "packagepath": "Saysettha-MedExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MedExpIta.ttf" },
+        "Saysettha-MedExtExpIta.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MedExtExpIta.ttf", "packagepath": "Saysettha-MedExtExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MedExtExpIta.ttf" },
+        "Saysettha-MedUltExpIta.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MedUltExpIta.ttf", "packagepath": "Saysettha-MedUltExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MedUltExpIta.ttf" },
+        "Saysettha-Medium.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-Medium.ttf", "packagepath": "Saysettha-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-Medium.ttf" },
+        "Saysettha-MediumCondensed.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MediumCondensed.ttf", "packagepath": "Saysettha-MediumCondensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MediumCondensed.ttf" },
+        "Saysettha-MediumExpanded.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MediumExpanded.ttf", "packagepath": "Saysettha-MediumExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MediumExpanded.ttf" },
+        "Saysettha-MediumExtraExpanded.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MediumExtraExpanded.ttf", "packagepath": "Saysettha-MediumExtraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MediumExtraExpanded.ttf" },
+        "Saysettha-MediumItalic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MediumItalic.ttf", "packagepath": "Saysettha-MediumItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MediumItalic.ttf" },
+        "Saysettha-MediumUltraCond.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MediumUltraCond.ttf", "packagepath": "Saysettha-MediumUltraCond.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MediumUltraCond.ttf" },
+        "Saysettha-MediumUltraCondIta.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MediumUltraCondIta.ttf", "packagepath": "Saysettha-MediumUltraCondIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MediumUltraCondIta.ttf" },
+        "Saysettha-MediumUltraExpanded.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-MediumUltraExpanded.ttf", "packagepath": "Saysettha-MediumUltraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-MediumUltraExpanded.ttf" },
+        "Saysettha-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-Regular.ttf", "packagepath": "Saysettha-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-Regular.ttf" },
+        "Saysettha-Thin.ttf": { "axes": { "ital": 0, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-Thin.ttf", "packagepath": "Saysettha-Thin.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-Thin.ttf" },
+        "Saysettha-ThinCondensed.ttf": { "axes": { "ital": 0, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinCondensed.ttf", "packagepath": "Saysettha-ThinCondensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinCondensed.ttf" },
+        "Saysettha-ThinCondensedItalic.ttf": { "axes": { "ital": 1, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinCondensedItalic.ttf", "packagepath": "Saysettha-ThinCondensedItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinCondensedItalic.ttf" },
+        "Saysettha-ThinExpanded.ttf": { "axes": { "ital": 0, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinExpanded.ttf", "packagepath": "Saysettha-ThinExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinExpanded.ttf" },
+        "Saysettha-ThinExpandedItalic.ttf": { "axes": { "ital": 1, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinExpandedItalic.ttf", "packagepath": "Saysettha-ThinExpandedItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinExpandedItalic.ttf" },
+        "Saysettha-ThinExtExpIta.ttf": { "axes": { "ital": 1, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinExtExpIta.ttf", "packagepath": "Saysettha-ThinExtExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinExtExpIta.ttf" },
+        "Saysettha-ThinExtraExpanded.ttf": { "axes": { "ital": 0, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinExtraExpanded.ttf", "packagepath": "Saysettha-ThinExtraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinExtraExpanded.ttf" },
+        "Saysettha-ThinItalic.ttf": { "axes": { "ital": 1, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinItalic.ttf", "packagepath": "Saysettha-ThinItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinItalic.ttf" },
+        "Saysettha-ThinUltExpIta.ttf": { "axes": { "ital": 1, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinUltExpIta.ttf", "packagepath": "Saysettha-ThinUltExpIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinUltExpIta.ttf" },
+        "Saysettha-ThinUltraCondIta.ttf": { "axes": { "ital": 1, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinUltraCondIta.ttf", "packagepath": "Saysettha-ThinUltraCondIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinUltraCondIta.ttf" },
+        "Saysettha-ThinUltraCondensed.ttf": { "axes": { "ital": 0, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinUltraCondensed.ttf", "packagepath": "Saysettha-ThinUltraCondensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinUltraCondensed.ttf" },
+        "Saysettha-ThinUltraExpanded.ttf": { "axes": { "ital": 0, "wght": 100.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-ThinUltraExpanded.ttf", "packagepath": "Saysettha-ThinUltraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-ThinUltraExpanded.ttf" },
+        "Saysettha-UltraCondIta.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-UltraCondIta.ttf", "packagepath": "Saysettha-UltraCondIta.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-UltraCondIta.ttf" },
+        "Saysettha-UltraCondensed.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-UltraCondensed.ttf", "packagepath": "Saysettha-UltraCondensed.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-UltraCondensed.ttf" },
+        "Saysettha-UltraExpanded.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-UltraExpanded.ttf", "packagepath": "Saysettha-UltraExpanded.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-UltraExpanded.ttf" },
+        "Saysettha-UltraExpandedItalic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/saysettha/Saysettha-UltraExpandedItalic.ttf", "packagepath": "Saysettha-UltraExpandedItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/saysettha/Saysettha-UltraExpandedItalic.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://laoscript.net/download/saysettha_all.zip",
+    "siteurl": "https://laoscript.net/download/",
+    "status": "current",
+    "version": "2.201"
+},
 "scheherazade": {
     "defaults": {
         "ttf": "Scheherazade-Regular.ttf",
@@ -826,6 +964,27 @@
     "status": "current",
     "version": "1.000"
 },
+"surma": {
+    "defaults": {
+        "ttf": "Surma-Regular.ttf",
+        "woff": "Surma-Regular.woff",
+        "woff2": "Surma-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Surma",
+    "familyid": "surma",
+    "files": {
+        "Surma-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/surma/Surma-Regular.ttf", "packagepath": "Surma-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/surma/Surma-Regular.ttf" },
+        "Surma-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/surma/Surma-Regular.woff", "packagepath": "Surma-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/surma/Surma-Regular.woff" },
+        "Surma-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/surma/Surma-Regular.woff2", "packagepath": "Surma-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/surma/Surma-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/syltrans/surma/releases/download/v4.000/Surma-4.000.zip",
+    "siteurl": "https://github.com/syltrans/surma",
+    "source": "STAR",
+    "status": "current",
+    "version": "4.000"
+},
 "tagmukay": {
     "defaults": {
         "ttf": "Tagmukay-Regular.ttf",
@@ -867,5 +1026,43 @@
     "source": "SIL",
     "status": "current",
     "version": "2.600"
+},
+"thiruvalluvar": {
+    "defaults": {
+        "ttf": "ThiruValluvarCTT-Regular.ttf",
+        "woff": "ThiruValluvar-Regular.woff",
+        "woff2": "ThiruValluvar-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "ThiruValluvarCTT",
+    "familyid": "thiruvalluvar",
+    "files": {
+        "ThiruValluvar-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvar-Bold.ttf", "packagepath": "ThiruValluvar-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvar-Bold.ttf" },
+        "ThiruValluvar-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/woff/ThiruValluvar-Bold.woff", "packagepath": "woff/ThiruValluvar-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/woff/ThiruValluvar-Bold.woff" },
+        "ThiruValluvar-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/woff/ThiruValluvar-Bold.woff2", "packagepath": "woff/ThiruValluvar-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/woff/ThiruValluvar-Bold.woff2" },
+        "ThiruValluvar-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvar-BoldItalic.ttf", "packagepath": "ThiruValluvar-BoldItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvar-BoldItalic.ttf" },
+        "ThiruValluvar-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/woff/ThiruValluvar-BoldItalic.woff", "packagepath": "woff/ThiruValluvar-BoldItalic.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/woff/ThiruValluvar-BoldItalic.woff" },
+        "ThiruValluvar-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/woff/ThiruValluvar-BoldItalic.woff2", "packagepath": "woff/ThiruValluvar-BoldItalic.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/woff/ThiruValluvar-BoldItalic.woff2" },
+        "ThiruValluvar-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvar-Italic.ttf", "packagepath": "ThiruValluvar-Italic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvar-Italic.ttf" },
+        "ThiruValluvar-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/woff/ThiruValluvar-Italic.woff", "packagepath": "woff/ThiruValluvar-Italic.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/woff/ThiruValluvar-Italic.woff" },
+        "ThiruValluvar-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/woff/ThiruValluvar-Italic.woff2", "packagepath": "woff/ThiruValluvar-Italic.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/woff/ThiruValluvar-Italic.woff2" },
+        "ThiruValluvar-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvar-Regular.ttf", "packagepath": "ThiruValluvar-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvar-Regular.ttf" },
+        "ThiruValluvar-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/woff/ThiruValluvar-Regular.woff", "packagepath": "woff/ThiruValluvar-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/woff/ThiruValluvar-Regular.woff" },
+        "ThiruValluvar-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/woff/ThiruValluvar-Regular.woff2", "packagepath": "woff/ThiruValluvar-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/woff/ThiruValluvar-Regular.woff2" },
+        "ThiruValluvarCTT-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvarCTT-Bold.ttf", "packagepath": "ThiruValluvarCTT-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvarCTT-Bold.ttf" },
+        "ThiruValluvarCTT-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvarCTT-BoldItalic.ttf", "packagepath": "ThiruValluvarCTT-BoldItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvarCTT-BoldItalic.ttf" },
+        "ThiruValluvarCTT-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvarCTT-Italic.ttf", "packagepath": "ThiruValluvarCTT-Italic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvarCTT-Italic.ttf" },
+        "ThiruValluvarCTT-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvarCTT-Regular.ttf", "packagepath": "ThiruValluvarCTT-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvarCTT-Regular.ttf" },
+        "ThiruValluvarIRU-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvarIRU-Bold.ttf", "packagepath": "ThiruValluvarIRU-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvarIRU-Bold.ttf" },
+        "ThiruValluvarIRU-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvarIRU-BoldItalic.ttf", "packagepath": "ThiruValluvarIRU-BoldItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvarIRU-BoldItalic.ttf" },
+        "ThiruValluvarIRU-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvarIRU-Italic.ttf", "packagepath": "ThiruValluvarIRU-Italic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvarIRU-Italic.ttf" },
+        "ThiruValluvarIRU-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvarIRU-Regular.ttf", "packagepath": "ThiruValluvarIRU-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvarIRU-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/nlci/taml-font-thiruvalluvar/releases/download/v0.701/nlci-taml-thiruvalluvar-0.701.zip",
+    "siteurl": "https://github.com/nlci/taml-font-thiruvalluvar",
+    "source": "NLCI",
+    "status": "current",
+    "version": "0.701"
 }
 }

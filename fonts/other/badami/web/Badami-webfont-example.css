@@ -1,0 +1,32 @@
+/*
+Badami-webfont-example.css
+Badami
+This file is part of Badami font family (http://www.nlci.in/fonts/).
+
+This Font Software is Copyright (c) 2009-2022, NLCI (http://www.nlci.in/fonts/)
+with Reserved Font Names "Badami" and "Kaveri" and "NLCI".
+Latin glyphs Copyright (c) 2003-2013, SIL International (http://www.sil.org/)
+with Reserved Font Names "Gentium" and "SIL".
+Latin glyphs Copyright (c) 2017, The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)
+with Reserved Font Name "Exo".
+Additional Latin glyphs Copyright (c) 1997-2014, SIL International (http://www.sil.org/)
+with Reserved Font Names "Charis" and "SIL".
+Indian Rupee Sign Copyright (c) 2007-2017, SIL International (http://www.sil.org/)
+with Reserved Font Names "Annapurna" and "SIL".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+You should have received a copy of the license along with this Font Software.
+If this is not the case, go to (http://scripts.sil.org/OFL) for all the details including a FAQ.
+*/
+
+/* use Badami - Regular in .woff format */
+@font-face {
+  font-family: BadamiW;
+  src: url(Badami-Regular.woff2);
+}
+
+/* set body to use Badami in .woff format */
+body {
+  font-family: BadamiW, sans-serif;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
