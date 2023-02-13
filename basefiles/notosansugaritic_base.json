@@ -1,0 +1,10 @@
+{
+"notosansugaritic": {
+    "distributable": true,
+    "family": "Noto Sans Ugaritic",
+    "familyid": "notosansugaritic",
+    "license": "OFL",
+    "source": "Google",
+    "status": "current"
+}
+}

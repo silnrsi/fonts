@@ -1,0 +1,10 @@
+{
+"notoserifbengali": {
+    "distributable": true,
+    "family": "Noto Serif Bengali",
+    "familyid": "notoserifbengali",
+    "license": "OFL",
+    "source": "Google",
+    "status": "current"
+}
+}

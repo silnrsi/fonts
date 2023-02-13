@@ -1,0 +1,10 @@
+{
+"notoserif": {
+    "distributable": true,
+    "family": "Noto Serif",
+    "familyid": "notoserif",
+    "license": "OFL",
+    "source": "Google",
+    "status": "current"
+}
+}

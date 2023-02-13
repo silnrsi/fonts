@@ -1,0 +1,10 @@
+{
+"notosansmeroitic": {
+    "distributable": true,
+    "family": "Noto Sans Meroitic",
+    "familyid": "notosansmeroitic",
+    "license": "OFL",
+    "source": "Google",
+    "status": "current"
+}
+}

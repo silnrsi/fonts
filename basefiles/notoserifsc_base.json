@@ -1,0 +1,10 @@
+{
+"notoserifsc": {
+    "distributable": true,
+    "family": "Noto Serif SC",
+    "familyid": "notoserifsc",
+    "license": "OFL",
+    "source": "Google",
+    "status": "current"
+}
+}

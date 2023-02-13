@@ -1,0 +1,10 @@
+{
+"notoserifdevanagari": {
+    "distributable": true,
+    "family": "Noto Serif Devanagari",
+    "familyid": "notoserifdevanagari",
+    "license": "OFL",
+    "source": "Google",
+    "status": "current"
+}
+}

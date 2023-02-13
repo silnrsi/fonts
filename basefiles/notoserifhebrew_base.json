@@ -1,0 +1,10 @@
+{
+"notoserifhebrew": {
+    "distributable": true,
+    "family": "Noto Serif Hebrew",
+    "familyid": "notoserifhebrew",
+    "license": "OFL",
+    "source": "Google",
+    "status": "current"
+}
+}

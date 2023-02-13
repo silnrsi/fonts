@@ -1,0 +1,10 @@
+{
+"notosansdevanagari": {
+    "distributable": true,
+    "family": "Noto Sans Devanagari",
+    "familyid": "notosansdevanagari",
+    "license": "OFL",
+    "source": "Google",
+    "status": "current"
+}
+}
