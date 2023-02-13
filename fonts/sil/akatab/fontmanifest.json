@@ -2,15 +2,30 @@
 "akatab": {
     "defaults": {
         "ttf": "Akatab-Regular.ttf",
-        "woff": "Akatab-Regular.woff"
+        "woff": "Akatab-Regular.woff",
+        "woff2": "Akatab-Regular.woff2"
     },
     "family": "Akatab",
     "files": {
+        "Akatab-Black.ttf": { "altfamily": "Akatab Black", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 900.0 }, "packagepath": "Akatab-Black.ttf" },
+        "Akatab-Black.woff": { "altfamily": "Akatab Black", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 900.0 }, "packagepath": "web/Akatab-Black.woff" },
+        "Akatab-Black.woff2": { "altfamily": "Akatab Black", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 900.0 }, "packagepath": "web/Akatab-Black.woff2" },
         "Akatab-Bold.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "Akatab-Bold.ttf" },
         "Akatab-Bold.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "web/Akatab-Bold.woff" },
+        "Akatab-Bold.woff2": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "web/Akatab-Bold.woff2" },
+        "Akatab-ExtraBold.ttf": { "altfamily": "Akatab ExtraBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 800.0 }, "packagepath": "Akatab-ExtraBold.ttf" },
+        "Akatab-ExtraBold.woff": { "altfamily": "Akatab ExtraBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 800.0 }, "packagepath": "web/Akatab-ExtraBold.woff" },
+        "Akatab-ExtraBold.woff2": { "altfamily": "Akatab ExtraBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 800.0 }, "packagepath": "web/Akatab-ExtraBold.woff2" },
+        "Akatab-Medium.ttf": { "altfamily": "Akatab Medium", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 500.0 }, "packagepath": "Akatab-Medium.ttf" },
+        "Akatab-Medium.woff": { "altfamily": "Akatab Medium", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 500.0 }, "packagepath": "web/Akatab-Medium.woff" },
+        "Akatab-Medium.woff2": { "altfamily": "Akatab Medium", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 500.0 }, "packagepath": "web/Akatab-Medium.woff2" },
         "Akatab-Regular.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "Akatab-Regular.ttf" },
-        "Akatab-Regular.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/Akatab-Regular.woff" }
+        "Akatab-Regular.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/Akatab-Regular.woff" },
+        "Akatab-Regular.woff2": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/Akatab-Regular.woff2" },
+        "Akatab-SemiBold.ttf": { "altfamily": "Akatab SemiBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 600.0 }, "packagepath": "Akatab-SemiBold.ttf" },
+        "Akatab-SemiBold.woff": { "altfamily": "Akatab SemiBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 600.0 }, "packagepath": "web/Akatab-SemiBold.woff" },
+        "Akatab-SemiBold.woff2": { "altfamily": "Akatab SemiBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 600.0 }, "packagepath": "web/Akatab-SemiBold.woff2" }
     },
-    "version": "2.000"
+    "version": "3.000"
 }
 }
