@@ -90,13 +90,24 @@ def doit(args) :
                 manifest.read()
                 logger.log(f'Checking {mname} for {manifest.id}', 'P')
                 (valid, logs) = manifest.validate(version=fdata.version)
-                if not valid: invalidreason = f'Font manifest {mname} is not valid; check using checkmanifest.py for details'
+                if not valid: invalidreason = logval(f'Font manifest {mname} is not valid; run with scrlevel=i for details', logs, logger)
                 del basedata['version'] # The version is stored in the manifest so should not be in the base file
             else:
                 valid = False
-                invalidreason = f'Font manifest {mname} does not exist'
-                logger.log(invalidreason, "W")
-            #anything else to do to data for these types?
+                invalidreason = logval(f'Font manifest {mname} does not exist', logs, logger)
+        elif ftype in ("package","package-SIL","tuned","xhosted"): # These need a manifest-style _data.json in fonts/local/datafiles
+            mname = os.path.join(repopath, "local","datafiles", f'{familyid}_data.json')
+            if os.path.isfile(mname):
+                manifest = gfr_manifest(filename=mname, logger=logger)
+                manifest.read()
+                logger.log(f'Checking {mname} for {manifest.id}', 'P')
+                (valid, logs) = manifest.validate(version=fdata.version, checkfiles=False)
+                if not valid:
+                    invalidreason = logval(f'Font data {mname} is not valid; run with scrlevel=i for details', logs, logger)
+                del basedata['version']  # The version is stored in the manifest so should not be in the base file
+            else:
+                valid = False
+                invalidreason = logval(f'Font manifest {mname} does not exist', {}, logger)
 
         # Now create the base file
         basefile = gfr_base(id=familyid, data=basedata, logger=logger)
@@ -127,6 +138,11 @@ def doit(args) :
         for line in resultssummary: outf.write(line + "\n")
 
     return
+
+def logval(reason, logs, logger): # Log details of validation failure
+    logger.log(reason, "W")
+    for log in logs: logger.log(log, "I")
+    return reason
 
 class fontdata(object):
     def __init__(self, csvline, colindex):

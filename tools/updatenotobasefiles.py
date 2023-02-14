@@ -12,8 +12,9 @@ from silfont.core import execute
 
 argspec = [
     ('dir', {'help': 'Directory containing noto base files'}, {'def': 'basefiles'}),
-    ('-f', '--family', {'help': "Single family to process"}, {})
-]
+    ('-f', '--family', {'help': "Single family to process"}, {}),
+    ('-l','--log',{'help': 'Log file'}, {'type': 'outfile', 'def': 'updatenoto.log'})]
+
 
 '''
 This script reads the state.json file from the Google noto project and updates all the noto*_base.json files with the information found in state.json
@@ -57,6 +58,7 @@ def calc_axes(furl):
     return res
 
 def doit(args):
+    logger = args.logger
     req = urllib2.Request(url="https://raw.githubusercontent.com/notofonts/notofonts.github.io/main/state.json")
     reqdat = urllib2.urlopen(req)
     jsondat = json.load(reqdat)
@@ -77,39 +79,46 @@ def doit(args):
             fid = m.group(1)
             if args.family is not None and fid != args.family:
                 continue
-            fpath = os.path.join(dp, f)
-            with open(fpath) as inf:
-                familyjson = json.load(inf)
-            for k, v in familyjson.items():
-                family = v.get('family', None)
-                if family is None or family not in allfamilies:
+            base = gfr_base(filename=os.path.join(dp, f), logger=logger)
+            base.read()
+            data=base.data
+            family = data["family"]
+            if family not in allfamilies:
+                logger.log(f'"base file {f} skipped - not represented in current state.json')
+                continue
+            info = allfamilies[family]
+            vs = info.get('latest_release', {}).get('url', None)
+            if vs is not None:
+                data['siteurl'] = vs
+                pname = os.path.basename(vs)
+                data['packageurl'] = vs.replace('/tag/', '/download/') + "/" + pname + ".zip"
+                data['version'] = info['latest_release'].get('version', 'v').replace('v', '')
+            files = {}
+            for furl in info.get('files', []):
+                if 'full/ttf' not in furl:
                     continue
-                info = allfamilies[family]
-                vs = info.get('latest_release', {}).get('url', None)
-                if vs is not None:
-                    v['site_url'] = vs
-                    pname = os.path.basename(vs)
-                    v['package_url'] = vs.replace('/tag/', '/download/') + "/" + pname + ".zip"
-                    v['version'] = info['latest_release'].get('version', 'v').replace('v', '')
-                files = {}
-                for furl in info.get('files', []):
-                    if 'full/ttf' not in furl:
-                        continue
-                    b = furl.split("/")
-                    i = b.index("full")
-                    ppath = "/".join(b[i-1:])
-                    frecord = {
-                        'packagepath': ppath,
-                        'url': 'https://github.com/notofonts/notofonts.github.io/raw/main/' + furl,
-                        'axes': calc_axes(furl)
-                    }
-                    files[os.path.basename(furl)] = frecord
-                v['files'] = files
-                defaults = [x for x in files.keys() if '-Regular' in x]
-                if len(defaults):
-                    v['defaults'] = {'ttf': defaults[0]}
-            familyfile = gfr_family(data=familyjson)
-            familyfile.write(fpath)
+                b = furl.split("/")
+                i = b.index("full")
+                ppath = "/".join(b[i-1:])
+                frecord = {
+                    'packagepath': ppath,
+                    'url': 'https://github.com/notofonts/notofonts.github.io/raw/main/' + furl,
+                    'axes': calc_axes(furl)
+                }
+                files[os.path.basename(furl)] = frecord
+            if files:
+                data['files'] = files
+            else:
+                logger.log(f'No font files found for {f}')
+            defaults = [x for x in files.keys() if '-Regular' in x]
+            if len(defaults):
+                data['defaults'] = {'ttf': defaults[0]}
+            (valid,logs) = base.validate()
+            if valid:
+                base.write()
+            else:
+                logger.log(f'Invalid base file {f}', "E")
+                logger.log(logs, "E")
 
 def cmd(): execute("", doit, argspec)
 
