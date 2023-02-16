@@ -99,10 +99,12 @@ def doit(args):
                     continue
                 b = furl.split("/")
                 i = b.index("full")
-                ppath = "/".join(b[i-1:])
+                data['ziproot'] = b[i-1]
+                ppath = "/".join(b[i:])
                 frecord = {
                     'packagepath': ppath,
                     'url': 'https://github.com/notofonts/notofonts.github.io/raw/main/' + furl,
+                    'zippath': b[i-1] + "/" + ppath,
                     'axes': calc_axes(furl)
                 }
                 files[os.path.basename(furl)] = frecord

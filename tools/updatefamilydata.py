@@ -68,8 +68,11 @@ def doit(args):
             for filen in files:
                 filerec = files[filen]
                 subpath = f'{familytype}/{familyid}/{filerec["packagepath"]}'
+                ziproot = fdata.get('ziproot', None)
+                ziproot = (ziproot + "/") if ziproot is not None else ""
                 filerec['url'] = f'https://github.com/silnrsi/fonts/raw/main/fonts/{subpath}'
                 filerec['flourl'] = f'https://fonts.languagetechnology.org/fonts/{subpath}'
+                filerec['zippath'] = f'{ziproot}{subpath}'
 
 
 
