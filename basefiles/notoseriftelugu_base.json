@@ -1,10 +1,28 @@
 {
 "notoseriftelugu": {
+    "defaults": {
+        "ttf": "NotoSerifTelugu-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Serif Telugu",
     "familyid": "notoseriftelugu",
+    "files": {
+        "NotoSerifTelugu-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSerifTelugu-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTelugu/full/ttf/NotoSerifTelugu-Black.ttf", "zippath": "NotoSerifTelugu/full/ttf/NotoSerifTelugu-Black.ttf" },
+        "NotoSerifTelugu-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifTelugu-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTelugu/full/ttf/NotoSerifTelugu-Bold.ttf", "zippath": "NotoSerifTelugu/full/ttf/NotoSerifTelugu-Bold.ttf" },
+        "NotoSerifTelugu-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSerifTelugu-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTelugu/full/ttf/NotoSerifTelugu-ExtraBold.ttf", "zippath": "NotoSerifTelugu/full/ttf/NotoSerifTelugu-ExtraBold.ttf" },
+        "NotoSerifTelugu-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSerifTelugu-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTelugu/full/ttf/NotoSerifTelugu-ExtraLight.ttf", "zippath": "NotoSerifTelugu/full/ttf/NotoSerifTelugu-ExtraLight.ttf" },
+        "NotoSerifTelugu-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSerifTelugu-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTelugu/full/ttf/NotoSerifTelugu-Light.ttf", "zippath": "NotoSerifTelugu/full/ttf/NotoSerifTelugu-Light.ttf" },
+        "NotoSerifTelugu-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifTelugu-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTelugu/full/ttf/NotoSerifTelugu-Medium.ttf", "zippath": "NotoSerifTelugu/full/ttf/NotoSerifTelugu-Medium.ttf" },
+        "NotoSerifTelugu-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifTelugu-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTelugu/full/ttf/NotoSerifTelugu-Regular.ttf", "zippath": "NotoSerifTelugu/full/ttf/NotoSerifTelugu-Regular.ttf" },
+        "NotoSerifTelugu-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifTelugu-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTelugu/full/ttf/NotoSerifTelugu-SemiBold.ttf", "zippath": "NotoSerifTelugu/full/ttf/NotoSerifTelugu-SemiBold.ttf" },
+        "NotoSerifTelugu-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifTelugu-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTelugu/full/ttf/NotoSerifTelugu-Thin.ttf", "zippath": "NotoSerifTelugu/full/ttf/NotoSerifTelugu-Thin.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/telugu/releases/download/NotoSerifTelugu-v2.003/NotoSerifTelugu-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/telugu/releases/tag/NotoSerifTelugu-v2.003",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSerifTelugu"
 }
 }

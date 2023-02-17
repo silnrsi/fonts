@@ -7,6 +7,7 @@
     "packageurl": "https://github.com/nlci/knda-font-badami/releases/download/v0.400/nlci-knda-badami-0.400.zip",
     "siteurl": "https://github.com/nlci/knda-font-badami",
     "source": "NLCI",
-    "status": "current"
+    "status": "current",
+    "ziproot": "nlci-knda-badami-0.400"
 }
 }

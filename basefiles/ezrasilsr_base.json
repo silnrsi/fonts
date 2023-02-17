@@ -7,6 +7,7 @@
     "packageurl": "https://software.sil.org/downloads/r/ezra/EzraSIL-2.51-web.zip",
     "siteurl": "https://software.sil.org/ezra/",
     "source": "SIL",
-    "status": "current"
+    "status": "current",
+    "ziproot": "EzraSIL-2.51-web"
 }
 }

@@ -7,6 +7,7 @@
     "packageurl": "https://software.sil.org/downloads/r/scheherazade/ScheherazadeNew-3.300.zip",
     "siteurl": "https://software.sil.org/scheherazade/",
     "source": "SIL",
-    "status": "current"
+    "status": "current",
+    "ziproot": "ScheherazadeNew-3.300"
 }
 }

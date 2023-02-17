@@ -1,10 +1,28 @@
 {
 "notosanscanadianaboriginal": {
+    "defaults": {
+        "ttf": "NotoSansCanadianAboriginal-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Canadian Aboriginal",
     "familyid": "notosanscanadianaboriginal",
+    "files": {
+        "NotoSansCanadianAboriginal-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSansCanadianAboriginal-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Black.ttf", "zippath": "NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Black.ttf" },
+        "NotoSansCanadianAboriginal-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansCanadianAboriginal-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Bold.ttf", "zippath": "NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Bold.ttf" },
+        "NotoSansCanadianAboriginal-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSansCanadianAboriginal-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-ExtraBold.ttf", "zippath": "NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-ExtraBold.ttf" },
+        "NotoSansCanadianAboriginal-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSansCanadianAboriginal-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-ExtraLight.ttf", "zippath": "NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-ExtraLight.ttf" },
+        "NotoSansCanadianAboriginal-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSansCanadianAboriginal-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Light.ttf", "zippath": "NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Light.ttf" },
+        "NotoSansCanadianAboriginal-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansCanadianAboriginal-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Medium.ttf", "zippath": "NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Medium.ttf" },
+        "NotoSansCanadianAboriginal-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansCanadianAboriginal-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Regular.ttf", "zippath": "NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Regular.ttf" },
+        "NotoSansCanadianAboriginal-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansCanadianAboriginal-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-SemiBold.ttf", "zippath": "NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-SemiBold.ttf" },
+        "NotoSansCanadianAboriginal-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSansCanadianAboriginal-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Thin.ttf", "zippath": "NotoSansCanadianAboriginal/full/ttf/NotoSansCanadianAboriginal-Thin.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/canadian-aboriginal/releases/download/NotoSansCanadianAboriginal-v2.002/NotoSansCanadianAboriginal-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/canadian-aboriginal/releases/tag/NotoSansCanadianAboriginal-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansCanadianAboriginal"
 }
 }

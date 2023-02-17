@@ -1,10 +1,20 @@
 {
 "notosansnewa": {
+    "defaults": {
+        "ttf": "NotoSansNewa-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Newa",
     "familyid": "notosansnewa",
+    "files": {
+        "NotoSansNewa-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansNewa-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNewa/full/ttf/NotoSansNewa-Regular.ttf", "zippath": "NotoSansNewa/full/ttf/NotoSansNewa-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/newa/releases/download/NotoSansNewa-v2.007/NotoSansNewa-v2.007.zip",
+    "siteurl": "https://github.com/notofonts/newa/releases/tag/NotoSansNewa-v2.007",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.007",
+    "ziproot": "NotoSansNewa"
 }
 }

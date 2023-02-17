@@ -1,10 +1,20 @@
 {
 "notosansmodi": {
+    "defaults": {
+        "ttf": "NotoSansModi-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Modi",
     "familyid": "notosansmodi",
+    "files": {
+        "NotoSansModi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansModi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansModi/full/ttf/NotoSansModi-Regular.ttf", "zippath": "NotoSansModi/full/ttf/NotoSansModi-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/modi/releases/download/NotoSansModi-v2.003/NotoSansModi-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/modi/releases/tag/NotoSansModi-v2.003",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSansModi"
 }
 }

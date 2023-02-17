@@ -1,10 +1,20 @@
 {
 "notosanscarian": {
+    "defaults": {
+        "ttf": "NotoSansCarian-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Carian",
     "familyid": "notosanscarian",
+    "files": {
+        "NotoSansCarian-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansCarian-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCarian/full/ttf/NotoSansCarian-Regular.ttf", "zippath": "NotoSansCarian/full/ttf/NotoSansCarian-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/carian/releases/download/NotoSansCarian-v2.002/NotoSansCarian-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/carian/releases/tag/NotoSansCarian-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansCarian"
 }
 }

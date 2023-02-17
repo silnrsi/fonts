@@ -7,6 +7,7 @@
     "packageurl": "https://software.sil.org/downloads/r/mingzat/Mingzat-1.100.zip",
     "siteurl": "https://software.sil.org/Mingzat/",
     "source": "SIL",
-    "status": "current"
+    "status": "current",
+    "ziproot": "Mingzat-1.100"
 }
 }

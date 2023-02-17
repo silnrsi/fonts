@@ -1,10 +1,20 @@
 {
 "notosanschakma": {
+    "defaults": {
+        "ttf": "NotoSansChakma-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Chakma",
     "familyid": "notosanschakma",
+    "files": {
+        "NotoSansChakma-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansChakma-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansChakma/full/ttf/NotoSansChakma-Regular.ttf", "zippath": "NotoSansChakma/full/ttf/NotoSansChakma-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/chakma/releases/download/NotoSansChakma-v2.003/NotoSansChakma-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/chakma/releases/tag/NotoSansChakma-v2.003",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSansChakma"
 }
 }

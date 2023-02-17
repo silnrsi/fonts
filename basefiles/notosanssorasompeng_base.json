@@ -1,10 +1,23 @@
 {
 "notosanssorasompeng": {
+    "defaults": {
+        "ttf": "NotoSansSoraSompeng-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Sora Sompeng",
     "familyid": "notosanssorasompeng",
+    "files": {
+        "NotoSansSoraSompeng-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansSoraSompeng-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSoraSompeng/full/ttf/NotoSansSoraSompeng-Bold.ttf", "zippath": "NotoSansSoraSompeng/full/ttf/NotoSansSoraSompeng-Bold.ttf" },
+        "NotoSansSoraSompeng-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansSoraSompeng-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSoraSompeng/full/ttf/NotoSansSoraSompeng-Medium.ttf", "zippath": "NotoSansSoraSompeng/full/ttf/NotoSansSoraSompeng-Medium.ttf" },
+        "NotoSansSoraSompeng-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSoraSompeng-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSoraSompeng/full/ttf/NotoSansSoraSompeng-Regular.ttf", "zippath": "NotoSansSoraSompeng/full/ttf/NotoSansSoraSompeng-Regular.ttf" },
+        "NotoSansSoraSompeng-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansSoraSompeng-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSoraSompeng/full/ttf/NotoSansSoraSompeng-SemiBold.ttf", "zippath": "NotoSansSoraSompeng/full/ttf/NotoSansSoraSompeng-SemiBold.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/sora-sompeng/releases/download/NotoSansSoraSompeng-v2.101/NotoSansSoraSompeng-v2.101.zip",
+    "siteurl": "https://github.com/notofonts/sora-sompeng/releases/tag/NotoSansSoraSompeng-v2.101",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.101",
+    "ziproot": "NotoSansSoraSompeng"
 }
 }

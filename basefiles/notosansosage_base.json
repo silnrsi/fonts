@@ -1,10 +1,20 @@
 {
 "notosansosage": {
+    "defaults": {
+        "ttf": "NotoSansOsage-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Osage",
     "familyid": "notosansosage",
+    "files": {
+        "NotoSansOsage-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOsage-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOsage/full/ttf/NotoSansOsage-Regular.ttf", "zippath": "NotoSansOsage/full/ttf/NotoSansOsage-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/osage/releases/download/NotoSansOsage-v2.002/NotoSansOsage-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/osage/releases/tag/NotoSansOsage-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansOsage"
 }
 }

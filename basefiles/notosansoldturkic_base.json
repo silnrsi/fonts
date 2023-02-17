@@ -1,10 +1,20 @@
 {
 "notosansoldturkic": {
+    "defaults": {
+        "ttf": "NotoSansOldTurkic-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Old Turkic",
     "familyid": "notosansoldturkic",
+    "files": {
+        "NotoSansOldTurkic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOldTurkic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOldTurkic/full/ttf/NotoSansOldTurkic-Regular.ttf", "zippath": "NotoSansOldTurkic/full/ttf/NotoSansOldTurkic-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/old-turkic/releases/download/NotoSansOldTurkic-v2.002/NotoSansOldTurkic-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/old-turkic/releases/tag/NotoSansOldTurkic-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansOldTurkic"
 }
 }

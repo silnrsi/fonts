@@ -1,10 +1,28 @@
 {
 "notoseriftibetan": {
+    "defaults": {
+        "ttf": "NotoSerifTibetan-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Serif Tibetan",
     "familyid": "notoseriftibetan",
+    "files": {
+        "NotoSerifTibetan-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSerifTibetan-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTibetan/full/ttf/NotoSerifTibetan-Black.ttf", "zippath": "NotoSerifTibetan/full/ttf/NotoSerifTibetan-Black.ttf" },
+        "NotoSerifTibetan-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifTibetan-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTibetan/full/ttf/NotoSerifTibetan-Bold.ttf", "zippath": "NotoSerifTibetan/full/ttf/NotoSerifTibetan-Bold.ttf" },
+        "NotoSerifTibetan-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSerifTibetan-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTibetan/full/ttf/NotoSerifTibetan-ExtraBold.ttf", "zippath": "NotoSerifTibetan/full/ttf/NotoSerifTibetan-ExtraBold.ttf" },
+        "NotoSerifTibetan-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSerifTibetan-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTibetan/full/ttf/NotoSerifTibetan-ExtraLight.ttf", "zippath": "NotoSerifTibetan/full/ttf/NotoSerifTibetan-ExtraLight.ttf" },
+        "NotoSerifTibetan-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSerifTibetan-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTibetan/full/ttf/NotoSerifTibetan-Light.ttf", "zippath": "NotoSerifTibetan/full/ttf/NotoSerifTibetan-Light.ttf" },
+        "NotoSerifTibetan-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifTibetan-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTibetan/full/ttf/NotoSerifTibetan-Medium.ttf", "zippath": "NotoSerifTibetan/full/ttf/NotoSerifTibetan-Medium.ttf" },
+        "NotoSerifTibetan-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifTibetan-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTibetan/full/ttf/NotoSerifTibetan-Regular.ttf", "zippath": "NotoSerifTibetan/full/ttf/NotoSerifTibetan-Regular.ttf" },
+        "NotoSerifTibetan-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifTibetan-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTibetan/full/ttf/NotoSerifTibetan-SemiBold.ttf", "zippath": "NotoSerifTibetan/full/ttf/NotoSerifTibetan-SemiBold.ttf" },
+        "NotoSerifTibetan-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifTibetan-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTibetan/full/ttf/NotoSerifTibetan-Thin.ttf", "zippath": "NotoSerifTibetan/full/ttf/NotoSerifTibetan-Thin.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/tibetan/releases/download/NotoSerifTibetan-v2.103/NotoSerifTibetan-v2.103.zip",
+    "siteurl": "https://github.com/notofonts/tibetan/releases/tag/NotoSerifTibetan-v2.103",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.103",
+    "ziproot": "NotoSerifTibetan"
 }
 }

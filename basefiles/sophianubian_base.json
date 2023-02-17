@@ -7,6 +7,7 @@
     "packageurl": "https://software.sil.org/downloads/r/sophianubian/SophiaNubian-1.0.zip",
     "siteurl": "https://software.sil.org/SophiaNubian/",
     "source": "SIL",
-    "status": "current"
+    "status": "current",
+    "ziproot": "SophiaNubian"
 }
 }

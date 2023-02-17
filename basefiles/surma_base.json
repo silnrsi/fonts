@@ -7,6 +7,7 @@
     "packageurl": "https://github.com/syltrans/surma/releases/download/v4.000/Surma-4.000.zip",
     "siteurl": "https://github.com/syltrans/surma",
     "source": "STAR",
-    "status": "current"
+    "status": "current",
+    "ziproot": "Surma-4.000"
 }
 }

@@ -1,10 +1,23 @@
 {
 "notosanslisu": {
+    "defaults": {
+        "ttf": "NotoSansLisu-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Lisu",
     "familyid": "notosanslisu",
+    "files": {
+        "NotoSansLisu-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansLisu-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLisu/full/ttf/NotoSansLisu-Bold.ttf", "zippath": "NotoSansLisu/full/ttf/NotoSansLisu-Bold.ttf" },
+        "NotoSansLisu-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansLisu-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLisu/full/ttf/NotoSansLisu-Medium.ttf", "zippath": "NotoSansLisu/full/ttf/NotoSansLisu-Medium.ttf" },
+        "NotoSansLisu-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansLisu-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLisu/full/ttf/NotoSansLisu-Regular.ttf", "zippath": "NotoSansLisu/full/ttf/NotoSansLisu-Regular.ttf" },
+        "NotoSansLisu-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansLisu-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLisu/full/ttf/NotoSansLisu-SemiBold.ttf", "zippath": "NotoSansLisu/full/ttf/NotoSansLisu-SemiBold.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/lisu/releases/download/NotoSansLisu-v2.102/NotoSansLisu-v2.102.zip",
+    "siteurl": "https://github.com/notofonts/lisu/releases/tag/NotoSansLisu-v2.102",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.102",
+    "ziproot": "NotoSansLisu"
 }
 }

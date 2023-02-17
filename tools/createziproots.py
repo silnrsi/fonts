@@ -12,9 +12,9 @@ from silfont.gfr import gfr_base, gfr_manifest, gfr_family, setpaths
 from silfont.core import execute
 
 argspec = [
-    ('-f', '--family', {'help': "Single family to process"}, {}),
-    ('-l','--log',{'help': 'Log file'}, {'type': 'outfile', 'def': 'createziproots.log'})]
-
+    ('-l','--log' , {'help': 'Log file'}, {'type': 'outfile', 'def': 'createziproots.log'}),
+    ('-F','--fresh', {'action': 'store_true', 'help': 'only process files with no ziproot already'}, {}),
+    ('-f', '--family', {'help': "Single family to process"}, {})]
 
 '''
 This script iterates the base.json files. For each file with a packageurl, download the package and identify the root directory under which all the fonts, etc. are stored.
@@ -29,7 +29,10 @@ def doit(args):
             base = gfr_base(filename=os.path.join(dp, f), logger=logger)
             base.read()
             data=base.data
+            logger.log(f"Working on {base.id}", "V")
             if args.family is not None and base.id != args.family:
+                continue
+            if args.fresh and 'ziproot' in data:
                 continue
             purl = data.get('packageurl', None)
             if purl is None:
@@ -45,7 +48,8 @@ def doit(args):
                 continue
             deffile = manifest.data['defaults']['ttf']
             defppath = manifest.data['files'][deffile]['packagepath']
-            req = urllib2.Request(url=purl)
+            logger.log(f"Downloading {purl}", "V")
+            req = urllib2.Request(url=purl, headers={'User-Agent': 'Mozilla/4.0 (compatible; httpget)'})
             reqdat = urllib2.urlopen(req)
             zipdat = reqdat.read()
             zipinfile = io.BytesIO(initial_bytes=zipdat)
@@ -69,7 +73,7 @@ def doit(args):
             zipinfile.close()
 
 
-def cmd(): execute("", doit, argspec)
+def cmd(): execute(None, doit, argspec)
 
 if __name__ == "__main__": cmd()
 

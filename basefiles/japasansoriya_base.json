@@ -7,6 +7,7 @@
     "packageurl": "https://github.com/silnrsi/font-japa-sans-oriya/releases/download/v2.100/JapaSansOriya-2.100.zip",
     "siteurl": "https://github.com/silnrsi/font-japa-sans-oriya",
     "source": "SIL",
-    "status": "current"
+    "status": "current",
+    "ziproot": "JapaSansOriya-2.100"
 }
 }

@@ -1,10 +1,20 @@
 {
 "notosansegyptianhieroglyphs": {
+    "defaults": {
+        "ttf": "NotoSansEgyptianHieroglyphs-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Egyptian Hieroglyphs",
     "familyid": "notosansegyptianhieroglyphs",
+    "files": {
+        "NotoSansEgyptianHieroglyphs-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansEgyptianHieroglyphs-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansEgyptianHieroglyphs/full/ttf/NotoSansEgyptianHieroglyphs-Regular.ttf", "zippath": "NotoSansEgyptianHieroglyphs/full/ttf/NotoSansEgyptianHieroglyphs-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/egyptian-hieroglyphs/releases/download/NotoSansEgyptianHieroglyphs-v2.001/NotoSansEgyptianHieroglyphs-v2.001.zip",
+    "siteurl": "https://github.com/notofonts/egyptian-hieroglyphs/releases/tag/NotoSansEgyptianHieroglyphs-v2.001",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.001",
+    "ziproot": "NotoSansEgyptianHieroglyphs"
 }
 }

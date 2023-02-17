@@ -11,9 +11,8 @@ from silfont.gfr import gfr_base, gfr_manifest, gfr_family, setpaths
 from silfont.core import execute
 
 argspec = [
-    ('dir', {'help': 'Directory containing noto base files'}, {'def': 'basefiles'}),
-    ('-f', '--family', {'help': "Single family to process"}, {}),
-    ('-l','--log',{'help': 'Log file'}, {'type': 'outfile', 'def': 'updatenoto.log'})]
+    ('-l','--log',{'help': 'Log file'}, {'type': 'outfile', 'def': 'updatenoto.log'}),
+    ('-f', '--family', {'help': "Single family to process"}, {})]
 
 
 '''
@@ -33,14 +32,16 @@ weights = {
 }
 
 condensation = {
-    'SemiCondensed': 300,
-    'Condensed': 200,
-    'ExtraCondensed': 100
+    'SemiCondensed': 87.5,
+    'Condensed': 75,
+    'ExtraCondensed': 62.5
 }
+
+default_axes = {'ital': 0, 'wght': 400.0, 'wdth': 100 }
 
 def calc_axes(furl):
     fname = os.path.basename(furl)
-    res = {'ital': 0, 'wght': 400.0 }
+    res = default_axes.copy()
     if "-" not in fname:
         return res
     style = fname[fname.rfind("-")+1:]
@@ -51,6 +52,7 @@ def calc_axes(furl):
     for k, v in condensation.items():
         if style.startswith(k):
             # set appropriate axes if any
+            res['wdth'] = v
             style = style[len(k):]
             break
     if style in weights:
@@ -71,7 +73,8 @@ def doit(args):
         for fk, fv in fs.items():
             allfamilies[fk] = fv
 
-    for dp, dn, fn in os.walk(args.dir):
+    (repopath, silpath, otherpath, basespath) = setpaths(logger)
+    for dp, dn, fn in os.walk(basespath):
         for f in fn:
             m = re.match(r"^noto(.*?)_base.json", f)
             if m is None:
@@ -94,6 +97,7 @@ def doit(args):
                 data['packageurl'] = vs.replace('/tag/', '/download/') + "/" + pname + ".zip"
                 data['version'] = info['latest_release'].get('version', 'v').replace('v', '')
             files = {}
+            allaxes = set()
             for furl in info.get('files', []):
                 if 'full/ttf' not in furl:
                     continue
@@ -101,14 +105,19 @@ def doit(args):
                 i = b.index("full")
                 data['ziproot'] = b[i-1]
                 ppath = "/".join(b[i:])
+                axes = calc_axes(furl)
+                allaxes.update([k for k, v in axes.items() if v != default_axes.get(k, None)])
                 frecord = {
                     'packagepath': ppath,
                     'url': 'https://github.com/notofonts/notofonts.github.io/raw/main/' + furl,
                     'zippath': b[i-1] + "/" + ppath,
-                    'axes': calc_axes(furl)
+                    'axes': axes,
                 }
                 files[os.path.basename(furl)] = frecord
+            allaxes.update(['wght'])
             if files:
+                for k, v in files.items():
+                    v['axes'] = {x: y for x, y in v['axes'].items() if x in allaxes}
                 data['files'] = files
             else:
                 logger.log(f'No font files found for {f}')

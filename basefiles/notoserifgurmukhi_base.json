@@ -1,10 +1,28 @@
 {
 "notoserifgurmukhi": {
+    "defaults": {
+        "ttf": "NotoSerifGurmukhi-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Serif Gurmukhi",
     "familyid": "notoserifgurmukhi",
+    "files": {
+        "NotoSerifGurmukhi-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSerifGurmukhi-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Black.ttf", "zippath": "NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Black.ttf" },
+        "NotoSerifGurmukhi-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifGurmukhi-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Bold.ttf", "zippath": "NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Bold.ttf" },
+        "NotoSerifGurmukhi-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSerifGurmukhi-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-ExtraBold.ttf", "zippath": "NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-ExtraBold.ttf" },
+        "NotoSerifGurmukhi-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSerifGurmukhi-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-ExtraLight.ttf", "zippath": "NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-ExtraLight.ttf" },
+        "NotoSerifGurmukhi-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSerifGurmukhi-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Light.ttf", "zippath": "NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Light.ttf" },
+        "NotoSerifGurmukhi-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifGurmukhi-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Medium.ttf", "zippath": "NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Medium.ttf" },
+        "NotoSerifGurmukhi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifGurmukhi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Regular.ttf", "zippath": "NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Regular.ttf" },
+        "NotoSerifGurmukhi-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifGurmukhi-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-SemiBold.ttf", "zippath": "NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-SemiBold.ttf" },
+        "NotoSerifGurmukhi-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifGurmukhi-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Thin.ttf", "zippath": "NotoSerifGurmukhi/full/ttf/NotoSerifGurmukhi-Thin.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/gurmukhi/releases/download/NotoSerifGurmukhi-v2.003/NotoSerifGurmukhi-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/gurmukhi/releases/tag/NotoSerifGurmukhi-v2.003",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSerifGurmukhi"
 }
 }

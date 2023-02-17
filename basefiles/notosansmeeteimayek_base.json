@@ -1,10 +1,28 @@
 {
 "notosansmeeteimayek": {
+    "defaults": {
+        "ttf": "NotoSansMeeteiMayek-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Meetei Mayek",
     "familyid": "notosansmeeteimayek",
+    "files": {
+        "NotoSansMeeteiMayek-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSansMeeteiMayek-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Black.ttf", "zippath": "NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Black.ttf" },
+        "NotoSansMeeteiMayek-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansMeeteiMayek-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Bold.ttf", "zippath": "NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Bold.ttf" },
+        "NotoSansMeeteiMayek-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSansMeeteiMayek-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-ExtraBold.ttf", "zippath": "NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-ExtraBold.ttf" },
+        "NotoSansMeeteiMayek-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSansMeeteiMayek-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-ExtraLight.ttf", "zippath": "NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-ExtraLight.ttf" },
+        "NotoSansMeeteiMayek-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSansMeeteiMayek-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Light.ttf", "zippath": "NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Light.ttf" },
+        "NotoSansMeeteiMayek-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansMeeteiMayek-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Medium.ttf", "zippath": "NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Medium.ttf" },
+        "NotoSansMeeteiMayek-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMeeteiMayek-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Regular.ttf", "zippath": "NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Regular.ttf" },
+        "NotoSansMeeteiMayek-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansMeeteiMayek-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-SemiBold.ttf", "zippath": "NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-SemiBold.ttf" },
+        "NotoSansMeeteiMayek-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSansMeeteiMayek-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Thin.ttf", "zippath": "NotoSansMeeteiMayek/full/ttf/NotoSansMeeteiMayek-Thin.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/meetei-mayek/releases/download/NotoSansMeeteiMayek-v2.002/NotoSansMeeteiMayek-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/meetei-mayek/releases/tag/NotoSansMeeteiMayek-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansMeeteiMayek"
 }
 }

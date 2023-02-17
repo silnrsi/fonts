@@ -7,6 +7,7 @@
     "packageurl": "https://software.sil.org/downloads/r/narnoor/Narnoor-1.000.zip",
     "siteurl": "https://software.sil.org/Narnoor/",
     "source": "SIL",
-    "status": "current"
+    "status": "current",
+    "ziproot": "Narnoor-1.000"
 }
 }

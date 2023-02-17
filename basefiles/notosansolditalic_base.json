@@ -1,10 +1,20 @@
 {
 "notosansolditalic": {
+    "defaults": {
+        "ttf": "NotoSansOldItalic-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Old Italic",
     "familyid": "notosansolditalic",
+    "files": {
+        "NotoSansOldItalic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOldItalic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOldItalic/full/ttf/NotoSansOldItalic-Regular.ttf", "zippath": "NotoSansOldItalic/full/ttf/NotoSansOldItalic-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/old-italic/releases/download/NotoSansOldItalic-v2.003/NotoSansOldItalic-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/old-italic/releases/tag/NotoSansOldItalic-v2.003",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSansOldItalic"
 }
 }

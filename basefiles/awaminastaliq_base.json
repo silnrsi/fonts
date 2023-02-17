@@ -7,6 +7,7 @@
     "packageurl": "https://software.sil.org/downloads/r/awami/AwamiNastaliq-3.100.zip",
     "siteurl": "https://software.sil.org/awami/",
     "source": "SIL",
-    "status": "current"
+    "status": "current",
+    "ziproot": "AwamiNastaliq-3.100"
 }
 }

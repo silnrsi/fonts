@@ -1,10 +1,20 @@
 {
 "notosanskhudawadi": {
+    "defaults": {
+        "ttf": "NotoSansKhudawadi-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Khudawadi",
     "familyid": "notosanskhudawadi",
+    "files": {
+        "NotoSansKhudawadi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansKhudawadi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKhudawadi/full/ttf/NotoSansKhudawadi-Regular.ttf", "zippath": "NotoSansKhudawadi/full/ttf/NotoSansKhudawadi-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/khudawadi/releases/download/NotoSansKhudawadi-v2.003/NotoSansKhudawadi-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/khudawadi/releases/tag/NotoSansKhudawadi-v2.003",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSansKhudawadi"
 }
 }

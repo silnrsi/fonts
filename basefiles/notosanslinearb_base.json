@@ -1,10 +1,20 @@
 {
 "notosanslinearb": {
+    "defaults": {
+        "ttf": "NotoSansLinearB-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Linear B",
     "familyid": "notosanslinearb",
+    "files": {
+        "NotoSansLinearB-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansLinearB-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLinearB/full/ttf/NotoSansLinearB-Regular.ttf", "zippath": "NotoSansLinearB/full/ttf/NotoSansLinearB-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/linear-b/releases/download/NotoSansLinearB-v2.002/NotoSansLinearB-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/linear-b/releases/tag/NotoSansLinearB-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansLinearB"
 }
 }

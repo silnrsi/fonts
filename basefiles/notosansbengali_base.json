@@ -1,10 +1,43 @@
 {
 "notosansbengali": {
+    "defaults": {
+        "ttf": "NotoSansBengaliUI-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Bengali",
     "familyid": "notosansbengali",
+    "files": {
+        "NotoSansBengali-Black.ttf": { "axes": { "wdth": 100, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansBengali-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-Black.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-Black.ttf" },
+        "NotoSansBengali-Bold.ttf": { "axes": { "wdth": 100, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansBengali-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-Bold.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-Bold.ttf" },
+        "NotoSansBengali-Condensed.ttf": { "axes": { "wdth": 75, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansBengali-Condensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-Condensed.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-Condensed.ttf" },
+        "NotoSansBengali-ExtraBold.ttf": { "axes": { "wdth": 100, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansBengali-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-ExtraBold.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-ExtraBold.ttf" },
+        "NotoSansBengali-ExtraCondensed.ttf": { "axes": { "wdth": 62.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansBengali-ExtraCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-ExtraCondensed.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-ExtraCondensed.ttf" },
+        "NotoSansBengali-ExtraLight.ttf": { "axes": { "wdth": 100, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansBengali-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-ExtraLight.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-ExtraLight.ttf" },
+        "NotoSansBengali-Light.ttf": { "axes": { "wdth": 100, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansBengali-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-Light.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-Light.ttf" },
+        "NotoSansBengali-Medium.ttf": { "axes": { "wdth": 100, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansBengali-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-Medium.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-Medium.ttf" },
+        "NotoSansBengali-Regular.ttf": { "axes": { "wdth": 100, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansBengali-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-Regular.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-Regular.ttf" },
+        "NotoSansBengali-SemiBold.ttf": { "axes": { "wdth": 100, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansBengali-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-SemiBold.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-SemiBold.ttf" },
+        "NotoSansBengali-SemiCondensed.ttf": { "axes": { "wdth": 87.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansBengali-SemiCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-SemiCondensed.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-SemiCondensed.ttf" },
+        "NotoSansBengali-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansBengali-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-Thin.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-Thin.ttf" },
+        "NotoSansBengaliUI-Black.ttf": { "axes": { "wdth": 100, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-Black.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-Black.ttf" },
+        "NotoSansBengaliUI-Bold.ttf": { "axes": { "wdth": 100, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-Bold.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-Bold.ttf" },
+        "NotoSansBengaliUI-Condensed.ttf": { "axes": { "wdth": 75, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-Condensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-Condensed.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-Condensed.ttf" },
+        "NotoSansBengaliUI-ExtraBold.ttf": { "axes": { "wdth": 100, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-ExtraBold.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-ExtraBold.ttf" },
+        "NotoSansBengaliUI-ExtraCondensed.ttf": { "axes": { "wdth": 62.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-ExtraCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-ExtraCondensed.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-ExtraCondensed.ttf" },
+        "NotoSansBengaliUI-ExtraLight.ttf": { "axes": { "wdth": 100, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-ExtraLight.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-ExtraLight.ttf" },
+        "NotoSansBengaliUI-Light.ttf": { "axes": { "wdth": 100, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-Light.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-Light.ttf" },
+        "NotoSansBengaliUI-Medium.ttf": { "axes": { "wdth": 100, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-Medium.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-Medium.ttf" },
+        "NotoSansBengaliUI-Regular.ttf": { "axes": { "wdth": 100, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-Regular.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-Regular.ttf" },
+        "NotoSansBengaliUI-SemiBold.ttf": { "axes": { "wdth": 100, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-SemiBold.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-SemiBold.ttf" },
+        "NotoSansBengaliUI-SemiCondensed.ttf": { "axes": { "wdth": 87.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-SemiCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-SemiCondensed.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-SemiCondensed.ttf" },
+        "NotoSansBengaliUI-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansBengaliUI-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengaliUI-Thin.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengaliUI-Thin.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/bengali/releases/download/NotoSansBengali-v2.003/NotoSansBengali-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/bengali/releases/tag/NotoSansBengali-v2.003",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSansBengali"
 }
 }

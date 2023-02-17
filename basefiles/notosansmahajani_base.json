@@ -1,10 +1,20 @@
 {
 "notosansmahajani": {
+    "defaults": {
+        "ttf": "NotoSansMahajani-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Mahajani",
     "familyid": "notosansmahajani",
+    "files": {
+        "NotoSansMahajani-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMahajani-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMahajani/full/ttf/NotoSansMahajani-Regular.ttf", "zippath": "NotoSansMahajani/full/ttf/NotoSansMahajani-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/mahajani/releases/download/NotoSansMahajani-v2.003/NotoSansMahajani-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/mahajani/releases/tag/NotoSansMahajani-v2.003",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSansMahajani"
 }
 }

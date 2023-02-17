@@ -4,7 +4,10 @@
     "family": "Noto Serif",
     "familyid": "notoserif",
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSerif-v2.009/NotoSerif-v2.009.zip",
+    "siteurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/tag/NotoSerif-v2.009",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.009"
 }
 }

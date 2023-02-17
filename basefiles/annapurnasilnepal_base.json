@@ -8,6 +8,7 @@
     "packageurl": "https://software.sil.org/downloads/r/annapurna/AnnapurnaSIL-Nepal-1.204.zip",
     "siteurl": "https://software.sil.org/annapurna/",
     "source": "SIL",
-    "status": "current"
+    "status": "current",
+    "ziproot": "AnnapurnaSIL-Nepal-1.204"
 }
 }

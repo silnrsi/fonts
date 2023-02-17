@@ -1,10 +1,20 @@
 {
 "notosanssogdian": {
+    "defaults": {
+        "ttf": "NotoSansSogdian-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Sogdian",
     "familyid": "notosanssogdian",
+    "files": {
+        "NotoSansSogdian-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSogdian-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSogdian/full/ttf/NotoSansSogdian-Regular.ttf", "zippath": "NotoSansSogdian/full/ttf/NotoSansSogdian-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/sogdian/releases/download/NotoSansSogdian-v2.002/NotoSansSogdian-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/sogdian/releases/tag/NotoSansSogdian-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansSogdian"
 }
 }

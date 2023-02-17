@@ -1,10 +1,20 @@
 {
 "notosanspaucinhau": {
+    "defaults": {
+        "ttf": "NotoSansPauCinHau-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Pau Cin Hau",
     "familyid": "notosanspaucinhau",
+    "files": {
+        "NotoSansPauCinHau-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansPauCinHau-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansPauCinHau/full/ttf/NotoSansPauCinHau-Regular.ttf", "zippath": "NotoSansPauCinHau/full/ttf/NotoSansPauCinHau-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/pau-cin-hau/releases/download/NotoSansPauCinHau-v2.002/NotoSansPauCinHau-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/pau-cin-hau/releases/tag/NotoSansPauCinHau-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansPauCinHau"
 }
 }

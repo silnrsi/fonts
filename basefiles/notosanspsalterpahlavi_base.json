@@ -1,10 +1,20 @@
 {
 "notosanspsalterpahlavi": {
+    "defaults": {
+        "ttf": "NotoSansPsalterPahlavi-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Psalter Pahlavi",
     "familyid": "notosanspsalterpahlavi",
+    "files": {
+        "NotoSansPsalterPahlavi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansPsalterPahlavi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansPsalterPahlavi/full/ttf/NotoSansPsalterPahlavi-Regular.ttf", "zippath": "NotoSansPsalterPahlavi/full/ttf/NotoSansPsalterPahlavi-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/psalter-pahlavi/releases/download/NotoSansPsalterPahlavi-v2.002/NotoSansPsalterPahlavi-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/psalter-pahlavi/releases/tag/NotoSansPsalterPahlavi-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansPsalterPahlavi"
 }
 }

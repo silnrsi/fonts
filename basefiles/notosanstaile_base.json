@@ -1,10 +1,20 @@
 {
 "notosanstaile": {
+    "defaults": {
+        "ttf": "NotoSansTaiLe-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Tai Le",
     "familyid": "notosanstaile",
+    "files": {
+        "NotoSansTaiLe-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansTaiLe-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiLe/full/ttf/NotoSansTaiLe-Regular.ttf", "zippath": "NotoSansTaiLe/full/ttf/NotoSansTaiLe-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/tai-le/releases/download/NotoSansTaiLe-v2.002/NotoSansTaiLe-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/tai-le/releases/tag/NotoSansTaiLe-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansTaiLe"
 }
 }

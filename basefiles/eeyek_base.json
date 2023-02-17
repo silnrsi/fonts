@@ -7,6 +7,7 @@
     "packageurl": "https://github.com/silnrsi/font-eeyek/releases/download/v2.000/Eeyek-2.000.zip",
     "siteurl": "https://github.com/silnrsi/font-eeyek",
     "source": "SIL",
-    "status": "current"
+    "status": "current",
+    "ziproot": "Eeyek-2.000"
 }
 }

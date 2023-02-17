@@ -1,10 +1,20 @@
 {
 "notosansmandaic": {
+    "defaults": {
+        "ttf": "NotoSansMandaic-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Mandaic",
     "familyid": "notosansmandaic",
+    "files": {
+        "NotoSansMandaic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMandaic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMandaic/full/ttf/NotoSansMandaic-Regular.ttf", "zippath": "NotoSansMandaic/full/ttf/NotoSansMandaic-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/mandaic/releases/download/NotoSansMandaic-v2.002/NotoSansMandaic-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/mandaic/releases/tag/NotoSansMandaic-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansMandaic"
 }
 }

@@ -1,10 +1,20 @@
 {
 "notosanscuneiform": {
+    "defaults": {
+        "ttf": "NotoSansCuneiform-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Cuneiform",
     "familyid": "notosanscuneiform",
+    "files": {
+        "NotoSansCuneiform-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansCuneiform-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCuneiform/full/ttf/NotoSansCuneiform-Regular.ttf", "zippath": "NotoSansCuneiform/full/ttf/NotoSansCuneiform-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/cuneiform/releases/download/NotoSansCuneiform-v2.001/NotoSansCuneiform-v2.001.zip",
+    "siteurl": "https://github.com/notofonts/cuneiform/releases/tag/NotoSansCuneiform-v2.001",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.001",
+    "ziproot": "NotoSansCuneiform"
 }
 }

@@ -1,10 +1,20 @@
 {
 "notosansbuginese": {
+    "defaults": {
+        "ttf": "NotoSansBuginese-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Buginese",
     "familyid": "notosansbuginese",
+    "files": {
+        "NotoSansBuginese-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansBuginese-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBuginese/full/ttf/NotoSansBuginese-Regular.ttf", "zippath": "NotoSansBuginese/full/ttf/NotoSansBuginese-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/buginese/releases/download/NotoSansBuginese-v2.002/NotoSansBuginese-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/buginese/releases/tag/NotoSansBuginese-v2.002",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansBuginese"
 }
 }

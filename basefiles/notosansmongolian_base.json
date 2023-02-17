@@ -1,10 +1,20 @@
 {
 "notosansmongolian": {
+    "defaults": {
+        "ttf": "NotoSansMongolian-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Mongolian",
     "familyid": "notosansmongolian",
+    "files": {
+        "NotoSansMongolian-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMongolian-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMongolian/full/ttf/NotoSansMongolian-Regular.ttf", "zippath": "NotoSansMongolian/full/ttf/NotoSansMongolian-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/mongolian/releases/download/NotoSansMongolian-v2.003/NotoSansMongolian-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/mongolian/releases/tag/NotoSansMongolian-v2.003",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSansMongolian"
 }
 }

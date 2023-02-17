@@ -7,6 +7,7 @@
     "packageurl": "https://software.sil.org/downloads/r/andika/Andika-6.200.zip",
     "siteurl": "https://software.sil.org/andika/",
     "source": "SIL",
-    "status": "current"
+    "status": "current",
+    "ziproot": "Andika-6.200"
 }
 }

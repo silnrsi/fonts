@@ -4,7 +4,10 @@
     "family": "Noto Sans Duployan",
     "familyid": "notosansduployan",
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/duployan/releases/download/NotoSansDuployan-v3.001/NotoSansDuployan-v3.001.zip",
+    "siteurl": "https://github.com/notofonts/duployan/releases/tag/NotoSansDuployan-v3.001",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "3.001"
 }
 }

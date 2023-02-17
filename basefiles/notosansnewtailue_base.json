@@ -1,10 +1,23 @@
 {
 "notosansnewtailue": {
+    "defaults": {
+        "ttf": "NotoSansNewTaiLue-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans New Tai Lue",
     "familyid": "notosansnewtailue",
+    "files": {
+        "NotoSansNewTaiLue-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansNewTaiLue-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNewTaiLue/full/ttf/NotoSansNewTaiLue-Bold.ttf", "zippath": "NotoSansNewTaiLue/full/ttf/NotoSansNewTaiLue-Bold.ttf" },
+        "NotoSansNewTaiLue-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansNewTaiLue-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNewTaiLue/full/ttf/NotoSansNewTaiLue-Medium.ttf", "zippath": "NotoSansNewTaiLue/full/ttf/NotoSansNewTaiLue-Medium.ttf" },
+        "NotoSansNewTaiLue-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansNewTaiLue-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNewTaiLue/full/ttf/NotoSansNewTaiLue-Regular.ttf", "zippath": "NotoSansNewTaiLue/full/ttf/NotoSansNewTaiLue-Regular.ttf" },
+        "NotoSansNewTaiLue-Semibold.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansNewTaiLue-Semibold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNewTaiLue/full/ttf/NotoSansNewTaiLue-Semibold.ttf", "zippath": "NotoSansNewTaiLue/full/ttf/NotoSansNewTaiLue-Semibold.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/new-tai-lue/releases/download/NotoSansNewTaiLue-v2.003/NotoSansNewTaiLue-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/new-tai-lue/releases/tag/NotoSansNewTaiLue-v2.003",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSansNewTaiLue"
 }
 }
