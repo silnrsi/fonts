@@ -5,8 +5,8 @@
     },
     "family": "Annapurna SIL",
     "files": {
-        "AnnapurnaSIL-Nepal-Bold.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "AnnapurnaSIL-Nepal-Bold.ttf" },
-        "AnnapurnaSIL-Nepal-Regular.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "AnnapurnaSIL-Nepal-Regular.ttf" }
+        "AnnapurnaSIL-Nepal-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AnnapurnaSIL-Nepal-Bold.ttf" },
+        "AnnapurnaSIL-Nepal-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AnnapurnaSIL-Nepal-Regular.ttf" }
     },
     "version": "1.204"
 }
