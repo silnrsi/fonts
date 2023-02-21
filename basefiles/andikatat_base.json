@@ -1,0 +1,23 @@
+{
+"andikatat": {
+    "defaults": {
+        "ttf": "AndikaTat-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Tat",
+    "familyid": "andikatat",
+    "files": {
+        "AndikaTat-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-Bold.ttf" },
+        "AndikaTat-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-BoldItalic.ttf" },
+        "AndikaTat-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-Italic.ttf" },
+        "AndikaTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=Tat",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

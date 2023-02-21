@@ -1,0 +1,21 @@
+{
+"scheherazadenewcompact": {
+    "defaults": {
+        "ttf": "ScheherazadeNewRohingya-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "scheherazadenew",
+    "family": "Scheherazade New Rohingya",
+    "familyid": "scheherazadenewcompact",
+    "files": {
+        "ScheherazadeNewRohingya-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNewRohingya-3.300/ScheherazadeNewRohingya-Bold.ttf" },
+        "ScheherazadeNewRohingya-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewRohingya-3.300/ScheherazadeNewRohingya-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Rohingya",
+    "siteurl": "https://software.sil.org/scheherazade/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "3.300"
+}
+}

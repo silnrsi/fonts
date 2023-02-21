@@ -1,0 +1,20 @@
+{
+"doulossiltat": {
+    "defaults": {
+        "ttf": "DoulosSILTat-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Tat",
+    "familyid": "doulossiltat",
+    "files": {
+        "DoulosSILTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILTat-6.200/DoulosSILTat-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Tat",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

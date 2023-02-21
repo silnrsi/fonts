@@ -75,6 +75,7 @@ def doit(args) :
         invalidreason = None # For recording why the data is invalid
         # create initial family data
         basedata = {}
+        datafile = None
         for field in fields:
             val = getattr(fdata, field)
             if val != "" and val != {} : basedata[field] = val
@@ -98,19 +99,23 @@ def doit(args) :
         elif ftype in ("package","package-SIL","tuned","xhosted"): # These need a manifest-style _data.json in fonts/local/datafiles
             mname = os.path.join(repopath, "local","datafiles", f'{familyid}_data.json')
             if os.path.isfile(mname):
-                manifest = gfr_manifest(filename=mname, logger=logger)
-                manifest.read()
-                logger.log(f'Checking {mname} for {manifest.id}', 'P')
-                (valid, logs) = manifest.validate(version=fdata.version, checkfiles=False)
+                datafile = gfr_manifest(filename=mname, logger=logger)
+                datafile.read()
+                logger.log(f'Checking {mname} for {datafile.id}', 'P')
+                (valid, logs) = datafile.validate(version=fdata.version, checkfiles=False)
                 if not valid:
                     invalidreason = logval(f'Font data {mname} is not valid; run with scrlevel=i for details', logs, logger)
-                del basedata['version']  # The version is stored in the manifest so should not be in the base file
+                    datafile = None
             else:
                 valid = False
                 invalidreason = logval(f'Font manifest {mname} does not exist', {}, logger)
 
         # Now create the base file
         basefile = gfr_base(id=familyid, data=basedata, logger=logger)
+        if datafile: # Copy values from the data file into the base file
+            for field in datafile.data:
+                basefile.data[field] = datafile.data[field]
+
         (bvalid, logs) = basefile.validate()
         if not bvalid:
             if not valid: # Already found to be invalid above, so log that first

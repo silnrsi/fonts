@@ -1,0 +1,27 @@
+{
+"gentiumpluscompact": {
+    "defaults": {
+        "ttf": "GentiumBookPlusCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Book Plus Compact",
+    "familyid": "gentiumpluscompact",
+    "files": {
+        "GentiumBookPlusCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-Bold.ttf" },
+        "GentiumBookPlusCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-BoldItalic.ttf" },
+        "GentiumBookPlusCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-Italic.ttf" },
+        "GentiumBookPlusCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-Regular.ttf" },
+        "GentiumPlusCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Bold.ttf" },
+        "GentiumPlusCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-BoldItalic.ttf" },
+        "GentiumPlusCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Italic.ttf" },
+        "GentiumPlusCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Compact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

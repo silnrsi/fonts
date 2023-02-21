@@ -1,0 +1,23 @@
+{
+"andikacompact": {
+    "defaults": {
+        "ttf": "AndikaCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Compact",
+    "familyid": "andikacompact",
+    "files": {
+        "AndikaCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-Bold.ttf" },
+        "AndikaCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-BoldItalic.ttf" },
+        "AndikaCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-Italic.ttf" },
+        "AndikaCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=Compact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

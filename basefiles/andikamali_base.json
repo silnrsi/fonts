@@ -1,0 +1,23 @@
+{
+"andikamali": {
+    "defaults": {
+        "ttf": "AndikaMali-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Mali",
+    "familyid": "andikamali",
+    "files": {
+        "AndikaMali-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AndikaMali-6.200/AndikaMali-Bold.ttf" },
+        "AndikaMali-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "AndikaMali-6.200/AndikaMali-BoldItalic.ttf" },
+        "AndikaMali-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "AndikaMali-6.200/AndikaMali-Italic.ttf" },
+        "AndikaMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaMali-6.200/AndikaMali-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=Mali",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

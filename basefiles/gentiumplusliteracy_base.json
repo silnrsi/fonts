@@ -1,0 +1,27 @@
+{
+"gentiumplusliteracy": {
+    "defaults": {
+        "ttf": "GentiumPlusLiteracy-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Literacy",
+    "familyid": "gentiumplusliteracy",
+    "files": {
+        "GentiumBookPlusLiteracy-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-Bold.ttf" },
+        "GentiumBookPlusLiteracy-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-BoldItalic.ttf" },
+        "GentiumBookPlusLiteracy-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-Italic.ttf" },
+        "GentiumBookPlusLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-Regular.ttf" },
+        "GentiumPlusLiteracy-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Bold.ttf" },
+        "GentiumPlusLiteracy-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-BoldItalic.ttf" },
+        "GentiumPlusLiteracy-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Italic.ttf" },
+        "GentiumPlusLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Literacy",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

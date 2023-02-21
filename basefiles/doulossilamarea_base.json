@@ -1,0 +1,20 @@
+{
+"doulossilamarea": {
+    "defaults": {
+        "ttf": "DoulosSILAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL AmArea",
+    "familyid": "doulossilamarea",
+    "files": {
+        "DoulosSILAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILAmArea-6.200/DoulosSILAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=AmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

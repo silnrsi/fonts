@@ -1,0 +1,27 @@
+{
+"gentiumbookplustat": {
+    "defaults": {
+        "ttf": "GentiumPlusTat-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumbookplus",
+    "family": "Gentium Plus Tat",
+    "familyid": "gentiumbookplustat",
+    "files": {
+        "GentiumBookPlusTat-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-Bold.ttf" },
+        "GentiumBookPlusTat-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-BoldItalic.ttf" },
+        "GentiumBookPlusTat-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-Italic.ttf" },
+        "GentiumBookPlusTat-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-Regular.ttf" },
+        "GentiumPlusTat-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Bold.ttf" },
+        "GentiumPlusTat-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-BoldItalic.ttf" },
+        "GentiumPlusTat-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Italic.ttf" },
+        "GentiumPlusTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Tat",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

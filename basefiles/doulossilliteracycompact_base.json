@@ -1,0 +1,20 @@
+{
+"doulossilliteracycompact": {
+    "defaults": {
+        "ttf": "DoulosSILLiteracyCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Literacy Compact",
+    "familyid": "doulossilliteracycompact",
+    "files": {
+        "DoulosSILLiteracyCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracyCompact-6.200/DoulosSILLiteracyCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyCompact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

@@ -1,0 +1,23 @@
+{
+"charissilliteracycompact": {
+    "defaults": {
+        "ttf": "CharisSILLiteracyCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Literacy Compact",
+    "familyid": "charissilliteracycompact",
+    "files": {
+        "CharisSILLiteracyCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "CharisSILLiteracyCompact-6.200/CharisSILLiteracyCompact-Bold.ttf" },
+        "CharisSILLiteracyCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "CharisSILLiteracyCompact-6.200/CharisSILLiteracyCompact-BoldItalic.ttf" },
+        "CharisSILLiteracyCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "CharisSILLiteracyCompact-6.200/CharisSILLiteracyCompact-Italic.ttf" },
+        "CharisSILLiteracyCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILLiteracyCompact-6.200/CharisSILLiteracyCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=LiteracyCompact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

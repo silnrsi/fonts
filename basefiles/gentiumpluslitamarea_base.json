@@ -1,0 +1,27 @@
+{
+"gentiumpluslitamarea": {
+    "defaults": {
+        "ttf": "GentiumPlusLitAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Lit AmArea",
+    "familyid": "gentiumpluslitamarea",
+    "files": {
+        "GentiumBookPlusLitAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-Bold.ttf" },
+        "GentiumBookPlusLitAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-BoldItalic.ttf" },
+        "GentiumBookPlusLitAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-Italic.ttf" },
+        "GentiumBookPlusLitAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-Regular.ttf" },
+        "GentiumPlusLitAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Bold.ttf" },
+        "GentiumPlusLitAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-BoldItalic.ttf" },
+        "GentiumPlusLitAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Italic.ttf" },
+        "GentiumPlusLitAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitAmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

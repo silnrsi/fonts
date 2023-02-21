@@ -1,0 +1,20 @@
+{
+"doulossilmali": {
+    "defaults": {
+        "ttf": "DoulosSILMali-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Mali",
+    "familyid": "doulossilmali",
+    "files": {
+        "DoulosSILMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILMali-6.200/DoulosSILMali-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Mali",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

@@ -1,0 +1,23 @@
+{
+"charissilliteracyamarea": {
+    "defaults": {
+        "ttf": "CharisSILLiteracyAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Literacy AmArea",
+    "familyid": "charissilliteracyamarea",
+    "files": {
+        "CharisSILLiteracyAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "CharisSILLiteracyAmArea-6.200/CharisSILLiteracyAmArea-Bold.ttf" },
+        "CharisSILLiteracyAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "CharisSILLiteracyAmArea-6.200/CharisSILLiteracyAmArea-BoldItalic.ttf" },
+        "CharisSILLiteracyAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "CharisSILLiteracyAmArea-6.200/CharisSILLiteracyAmArea-Italic.ttf" },
+        "CharisSILLiteracyAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILLiteracyAmArea-6.200/CharisSILLiteracyAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=LiteracyAmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

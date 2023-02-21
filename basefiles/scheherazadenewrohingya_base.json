@@ -1,0 +1,21 @@
+{
+"scheherazadenewrohingya": {
+    "defaults": {
+        "ttf": "ScheherazadeNewCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "scheherazadenew",
+    "family": "Scheherazade New Compact",
+    "familyid": "scheherazadenewrohingya",
+    "files": {
+        "ScheherazadeNewCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNewCompact-3.300/ScheherazadeNewCompact-Bold.ttf" },
+        "ScheherazadeNewCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewCompact-3.300/ScheherazadeNewCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Compact",
+    "siteurl": "https://software.sil.org/scheherazade/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "3.300"
+}
+}

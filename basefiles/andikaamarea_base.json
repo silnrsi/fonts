@@ -1,0 +1,23 @@
+{
+"andikaamarea": {
+    "defaults": {
+        "ttf": "AndikaAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika AmArea",
+    "familyid": "andikaamarea",
+    "files": {
+        "AndikaAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-Bold.ttf" },
+        "AndikaAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-BoldItalic.ttf" },
+        "AndikaAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-Italic.ttf" },
+        "AndikaAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=AmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}

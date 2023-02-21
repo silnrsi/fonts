@@ -1,0 +1,20 @@
+{
+"doulossilliteracy": {
+    "defaults": {
+        "ttf": "DoulosSILLiteracy-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Literacy",
+    "familyid": "doulossilliteracy",
+    "files": {
+        "DoulosSILLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracy-6.200/DoulosSILLiteracy-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Literacy",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200"
+}
+}
