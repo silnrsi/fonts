@@ -95,6 +95,10 @@ def doit(args) :
             if ext == ".ttf": # Take version and family from regular ttf
                 reg = regulars[ext][regular]
                 version = reg["version"]
+                # Reformat version
+                version = re.match(r'^[0-9]+\.[0-9]+($|(?=[^0-9]))', version)[0] # Strip all non-number
+                version = '{0:.3f}'.format(float(version)) # Pad to 3 decimals
+
                 family = reg["family"]
 
     if defaults == {}:
