@@ -111,6 +111,94 @@
     "version": "6.200",
     "ziproot": "Andika-6.200"
 },
+"andikaamarea": {
+    "defaults": {
+        "ttf": "AndikaAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika AmArea",
+    "familyid": "andikaamarea",
+    "files": {
+        "AndikaAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-Bold.ttf" },
+        "AndikaAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-BoldItalic.ttf" },
+        "AndikaAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-Italic.ttf" },
+        "AndikaAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=AmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"andikacompact": {
+    "defaults": {
+        "ttf": "AndikaCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Compact",
+    "familyid": "andikacompact",
+    "files": {
+        "AndikaCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-Bold.ttf" },
+        "AndikaCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-BoldItalic.ttf" },
+        "AndikaCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-Italic.ttf" },
+        "AndikaCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=Compact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"andikamali": {
+    "defaults": {
+        "ttf": "AndikaMali-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Mali",
+    "familyid": "andikamali",
+    "files": {
+        "AndikaMali-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AndikaMali-6.200/AndikaMali-Bold.ttf" },
+        "AndikaMali-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "AndikaMali-6.200/AndikaMali-BoldItalic.ttf" },
+        "AndikaMali-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "AndikaMali-6.200/AndikaMali-Italic.ttf" },
+        "AndikaMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaMali-6.200/AndikaMali-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=Mali",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"andikatat": {
+    "defaults": {
+        "ttf": "AndikaTat-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Tat",
+    "familyid": "andikatat",
+    "files": {
+        "AndikaTat-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-Bold.ttf" },
+        "AndikaTat-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-BoldItalic.ttf" },
+        "AndikaTat-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-Italic.ttf" },
+        "AndikaTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=Tat",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
 "angsananew": {
     "distributable": false,
     "fallback": "sarabun",
@@ -279,6 +367,160 @@
     "version": "6.200",
     "ziproot": "CharisSIL-6.200"
 },
+"charissilamarea": {
+    "defaults": {
+        "ttf": "CharisSILAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL AmArea",
+    "familyid": "charissilamarea",
+    "files": {
+        "CharisSILAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "CharisSILAmArea-6.200/CharisSILAmArea-Bold.ttf" },
+        "CharisSILAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "CharisSILAmArea-6.200/CharisSILAmArea-BoldItalic.ttf" },
+        "CharisSILAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "CharisSILAmArea-6.200/CharisSILAmArea-Italic.ttf" },
+        "CharisSILAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILAmArea-6.200/CharisSILAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=AmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"charissilcompact": {
+    "defaults": {
+        "ttf": "CharisSILCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Compact",
+    "familyid": "charissilcompact",
+    "files": {
+        "CharisSILCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "CharisSILCompact-6.200/CharisSILCompact-Bold.ttf" },
+        "CharisSILCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "CharisSILCompact-6.200/CharisSILCompact-BoldItalic.ttf" },
+        "CharisSILCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "CharisSILCompact-6.200/CharisSILCompact-Italic.ttf" },
+        "CharisSILCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILCompact-6.200/CharisSILCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Compact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"charissilliteracy": {
+    "defaults": {
+        "ttf": "CharisSILLiteracy-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Literacy",
+    "familyid": "charissilliteracy",
+    "files": {
+        "CharisSILLiteracy-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "CharisSILLiteracy-6.200/CharisSILLiteracy-Bold.ttf" },
+        "CharisSILLiteracy-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "CharisSILLiteracy-6.200/CharisSILLiteracy-BoldItalic.ttf" },
+        "CharisSILLiteracy-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "CharisSILLiteracy-6.200/CharisSILLiteracy-Italic.ttf" },
+        "CharisSILLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILLiteracy-6.200/CharisSILLiteracy-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Literacy",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"charissilliteracyamarea": {
+    "defaults": {
+        "ttf": "CharisSILLiteracyAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Literacy AmArea",
+    "familyid": "charissilliteracyamarea",
+    "files": {
+        "CharisSILLiteracyAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "CharisSILLiteracyAmArea-6.200/CharisSILLiteracyAmArea-Bold.ttf" },
+        "CharisSILLiteracyAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "CharisSILLiteracyAmArea-6.200/CharisSILLiteracyAmArea-BoldItalic.ttf" },
+        "CharisSILLiteracyAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "CharisSILLiteracyAmArea-6.200/CharisSILLiteracyAmArea-Italic.ttf" },
+        "CharisSILLiteracyAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILLiteracyAmArea-6.200/CharisSILLiteracyAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=LiteracyAmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"charissilliteracycompact": {
+    "defaults": {
+        "ttf": "CharisSILLiteracyCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Literacy Compact",
+    "familyid": "charissilliteracycompact",
+    "files": {
+        "CharisSILLiteracyCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "CharisSILLiteracyCompact-6.200/CharisSILLiteracyCompact-Bold.ttf" },
+        "CharisSILLiteracyCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "CharisSILLiteracyCompact-6.200/CharisSILLiteracyCompact-BoldItalic.ttf" },
+        "CharisSILLiteracyCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "CharisSILLiteracyCompact-6.200/CharisSILLiteracyCompact-Italic.ttf" },
+        "CharisSILLiteracyCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILLiteracyCompact-6.200/CharisSILLiteracyCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=LiteracyCompact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"charissilmali": {
+    "defaults": {
+        "ttf": "CharisSILMali-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Mali",
+    "familyid": "charissilmali",
+    "files": {
+        "CharisSILMali-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "CharisSILMali-6.200/CharisSILMali-Bold.ttf" },
+        "CharisSILMali-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "CharisSILMali-6.200/CharisSILMali-BoldItalic.ttf" },
+        "CharisSILMali-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "CharisSILMali-6.200/CharisSILMali-Italic.ttf" },
+        "CharisSILMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILMali-6.200/CharisSILMali-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Mali",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"charissiltat": {
+    "defaults": {
+        "ttf": "CharisSILTat-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Tat",
+    "familyid": "charissiltat",
+    "files": {
+        "CharisSILTat-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "CharisSILTat-6.200/CharisSILTat-Bold.ttf" },
+        "CharisSILTat-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "CharisSILTat-6.200/CharisSILTat-BoldItalic.ttf" },
+        "CharisSILTat-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "CharisSILTat-6.200/CharisSILTat-Italic.ttf" },
+        "CharisSILTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILTat-6.200/CharisSILTat-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Tat",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
 "daibannasil": {
     "defaults": {
         "ttf": "DaiBannaSIL-Regular.ttf",
@@ -350,6 +592,25 @@
     "version": "6.200",
     "ziproot": "DoulosSIL-6.200"
 },
+"doulossilamarea": {
+    "defaults": {
+        "ttf": "DoulosSILAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL AmArea",
+    "familyid": "doulossilamarea",
+    "files": {
+        "DoulosSILAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILAmArea-6.200/DoulosSILAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=AmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
 "doulossilcipher": {
     "defaults": {
         "ttf": "DoulosSILCipher-R.ttf",
@@ -369,6 +630,120 @@
     "status": "current",
     "version": "1.020",
     "ziproot": "DoulosSILCipher_1.020"
+},
+"doulossilcompact": {
+    "defaults": {
+        "ttf": "DoulosSILCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Compact",
+    "familyid": "doulossilcompact",
+    "files": {
+        "DoulosSILCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILCompact-6.200/DoulosSILCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Compact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"doulossilliteracy": {
+    "defaults": {
+        "ttf": "DoulosSILLiteracy-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Literacy",
+    "familyid": "doulossilliteracy",
+    "files": {
+        "DoulosSILLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracy-6.200/DoulosSILLiteracy-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Literacy",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"doulossilliteracyamarea": {
+    "defaults": {
+        "ttf": "DoulosSILLiteracyAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Literacy AmArea",
+    "familyid": "doulossilliteracyamarea",
+    "files": {
+        "DoulosSILLiteracyAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracyAmArea-6.200/DoulosSILLiteracyAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyAmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"doulossilliteracycompact": {
+    "defaults": {
+        "ttf": "DoulosSILLiteracyCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Literacy Compact",
+    "familyid": "doulossilliteracycompact",
+    "files": {
+        "DoulosSILLiteracyCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracyCompact-6.200/DoulosSILLiteracyCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyCompact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"doulossilmali": {
+    "defaults": {
+        "ttf": "DoulosSILMali-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Mali",
+    "familyid": "doulossilmali",
+    "files": {
+        "DoulosSILMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILMali-6.200/DoulosSILMali-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Mali",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"doulossiltat": {
+    "defaults": {
+        "ttf": "DoulosSILTat-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Tat",
+    "familyid": "doulossiltat",
+    "files": {
+        "DoulosSILTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILTat-6.200/DoulosSILTat-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Tat",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
 },
 "eeyek": {
     "defaults": {
@@ -483,6 +858,188 @@
     "version": "6.200",
     "ziproot": "GentiumPlus-6.200"
 },
+"gentiumbookplusamarea": {
+    "defaults": {
+        "ttf": "GentiumBookPlusAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumbookplus",
+    "family": "Gentium Book Plus AmArea",
+    "familyid": "gentiumbookplusamarea",
+    "files": {
+        "GentiumBookPlusAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumBookPlusAmArea-Bold.ttf" },
+        "GentiumBookPlusAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumBookPlusAmArea-BoldItalic.ttf" },
+        "GentiumBookPlusAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumBookPlusAmArea-Italic.ttf" },
+        "GentiumBookPlusAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumBookPlusAmArea-Regular.ttf" },
+        "GentiumPlusAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-Bold.ttf" },
+        "GentiumPlusAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-BoldItalic.ttf" },
+        "GentiumPlusAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-Italic.ttf" },
+        "GentiumPlusAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=AmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumbookpluscompact": {
+    "defaults": {
+        "ttf": "GentiumBookPlusCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumbookplus",
+    "family": "Gentium Book Plus Compact",
+    "familyid": "gentiumbookpluscompact",
+    "files": {
+        "GentiumBookPlusCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-Bold.ttf" },
+        "GentiumBookPlusCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-BoldItalic.ttf" },
+        "GentiumBookPlusCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-Italic.ttf" },
+        "GentiumBookPlusCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-Regular.ttf" },
+        "GentiumPlusCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Bold.ttf" },
+        "GentiumPlusCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-BoldItalic.ttf" },
+        "GentiumPlusCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Italic.ttf" },
+        "GentiumPlusCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Compact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumbookpluslitamarea": {
+    "defaults": {
+        "ttf": "GentiumPlusLitAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumbookplus",
+    "family": "Gentium Plus Lit AmArea",
+    "familyid": "gentiumbookpluslitamarea",
+    "files": {
+        "GentiumBookPlusLitAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-Bold.ttf" },
+        "GentiumBookPlusLitAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-BoldItalic.ttf" },
+        "GentiumBookPlusLitAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-Italic.ttf" },
+        "GentiumBookPlusLitAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-Regular.ttf" },
+        "GentiumPlusLitAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Bold.ttf" },
+        "GentiumPlusLitAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-BoldItalic.ttf" },
+        "GentiumPlusLitAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Italic.ttf" },
+        "GentiumPlusLitAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitAmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumbookpluslitcomp": {
+    "defaults": {
+        "ttf": "GentiumPlusLitComp-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumbookplus",
+    "family": "Gentium Plus Lit Comp",
+    "familyid": "gentiumbookpluslitcomp",
+    "files": {
+        "GentiumBookPlusLitComp-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumBookPlusLitComp-Bold.ttf" },
+        "GentiumBookPlusLitComp-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumBookPlusLitComp-BoldItalic.ttf" },
+        "GentiumBookPlusLitComp-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumBookPlusLitComp-Italic.ttf" },
+        "GentiumBookPlusLitComp-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumBookPlusLitComp-Regular.ttf" },
+        "GentiumPlusLitComp-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-Bold.ttf" },
+        "GentiumPlusLitComp-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-BoldItalic.ttf" },
+        "GentiumPlusLitComp-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-Italic.ttf" },
+        "GentiumPlusLitComp-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitComp",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumbookplusliteracy": {
+    "defaults": {
+        "ttf": "GentiumPlusLiteracy-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumbookplus",
+    "family": "Gentium Plus Literacy",
+    "familyid": "gentiumbookplusliteracy",
+    "files": {
+        "GentiumBookPlusLiteracy-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-Bold.ttf" },
+        "GentiumBookPlusLiteracy-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-BoldItalic.ttf" },
+        "GentiumBookPlusLiteracy-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-Italic.ttf" },
+        "GentiumBookPlusLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-Regular.ttf" },
+        "GentiumPlusLiteracy-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Bold.ttf" },
+        "GentiumPlusLiteracy-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-BoldItalic.ttf" },
+        "GentiumPlusLiteracy-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Italic.ttf" },
+        "GentiumPlusLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Literacy",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumbookplusmali": {
+    "defaults": {
+        "ttf": "GentiumPlusMali-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumbookplus",
+    "family": "Gentium Plus Mali",
+    "familyid": "gentiumbookplusmali",
+    "files": {
+        "GentiumBookPlusMali-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumBookPlusMali-Bold.ttf" },
+        "GentiumBookPlusMali-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumBookPlusMali-BoldItalic.ttf" },
+        "GentiumBookPlusMali-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumBookPlusMali-Italic.ttf" },
+        "GentiumBookPlusMali-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumBookPlusMali-Regular.ttf" },
+        "GentiumPlusMali-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumPlusMali-Bold.ttf" },
+        "GentiumPlusMali-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumPlusMali-BoldItalic.ttf" },
+        "GentiumPlusMali-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumPlusMali-Italic.ttf" },
+        "GentiumPlusMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumPlusMali-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Mali",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumbookplustat": {
+    "defaults": {
+        "ttf": "GentiumPlusTat-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumbookplus",
+    "family": "Gentium Plus Tat",
+    "familyid": "gentiumbookplustat",
+    "files": {
+        "GentiumBookPlusTat-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-Bold.ttf" },
+        "GentiumBookPlusTat-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-BoldItalic.ttf" },
+        "GentiumBookPlusTat-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-Italic.ttf" },
+        "GentiumBookPlusTat-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-Regular.ttf" },
+        "GentiumPlusTat-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Bold.ttf" },
+        "GentiumPlusTat-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-BoldItalic.ttf" },
+        "GentiumPlusTat-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Italic.ttf" },
+        "GentiumPlusTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Tat",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
 "gentiumplus": {
     "defaults": {
         "ttf": "GentiumPlus-Regular.ttf",
@@ -513,6 +1070,188 @@
     "status": "current",
     "version": "6.200",
     "ziproot": "GentiumPlus-6.200"
+},
+"gentiumplusamarea": {
+    "defaults": {
+        "ttf": "GentiumBookPlusAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Book Plus AmArea",
+    "familyid": "gentiumplusamarea",
+    "files": {
+        "GentiumBookPlusAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumBookPlusAmArea-Bold.ttf" },
+        "GentiumBookPlusAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumBookPlusAmArea-BoldItalic.ttf" },
+        "GentiumBookPlusAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumBookPlusAmArea-Italic.ttf" },
+        "GentiumBookPlusAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumBookPlusAmArea-Regular.ttf" },
+        "GentiumPlusAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-Bold.ttf" },
+        "GentiumPlusAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-BoldItalic.ttf" },
+        "GentiumPlusAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-Italic.ttf" },
+        "GentiumPlusAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=AmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumpluscompact": {
+    "defaults": {
+        "ttf": "GentiumBookPlusCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Book Plus Compact",
+    "familyid": "gentiumpluscompact",
+    "files": {
+        "GentiumBookPlusCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-Bold.ttf" },
+        "GentiumBookPlusCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-BoldItalic.ttf" },
+        "GentiumBookPlusCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-Italic.ttf" },
+        "GentiumBookPlusCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumBookPlusCompact-Regular.ttf" },
+        "GentiumPlusCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Bold.ttf" },
+        "GentiumPlusCompact-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-BoldItalic.ttf" },
+        "GentiumPlusCompact-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Italic.ttf" },
+        "GentiumPlusCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Compact",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumpluslitamarea": {
+    "defaults": {
+        "ttf": "GentiumPlusLitAmArea-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Lit AmArea",
+    "familyid": "gentiumpluslitamarea",
+    "files": {
+        "GentiumBookPlusLitAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-Bold.ttf" },
+        "GentiumBookPlusLitAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-BoldItalic.ttf" },
+        "GentiumBookPlusLitAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-Italic.ttf" },
+        "GentiumBookPlusLitAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumBookPlusLitAmArea-Regular.ttf" },
+        "GentiumPlusLitAmArea-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Bold.ttf" },
+        "GentiumPlusLitAmArea-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-BoldItalic.ttf" },
+        "GentiumPlusLitAmArea-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Italic.ttf" },
+        "GentiumPlusLitAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitAmArea",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumpluslitcomp": {
+    "defaults": {
+        "ttf": "GentiumPlusLitComp-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Lit Comp",
+    "familyid": "gentiumpluslitcomp",
+    "files": {
+        "GentiumBookPlusLitComp-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumBookPlusLitComp-Bold.ttf" },
+        "GentiumBookPlusLitComp-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumBookPlusLitComp-BoldItalic.ttf" },
+        "GentiumBookPlusLitComp-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumBookPlusLitComp-Italic.ttf" },
+        "GentiumBookPlusLitComp-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumBookPlusLitComp-Regular.ttf" },
+        "GentiumPlusLitComp-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-Bold.ttf" },
+        "GentiumPlusLitComp-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-BoldItalic.ttf" },
+        "GentiumPlusLitComp-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-Italic.ttf" },
+        "GentiumPlusLitComp-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitComp",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumplusliteracy": {
+    "defaults": {
+        "ttf": "GentiumPlusLiteracy-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Literacy",
+    "familyid": "gentiumplusliteracy",
+    "files": {
+        "GentiumBookPlusLiteracy-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-Bold.ttf" },
+        "GentiumBookPlusLiteracy-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-BoldItalic.ttf" },
+        "GentiumBookPlusLiteracy-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-Italic.ttf" },
+        "GentiumBookPlusLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumBookPlusLiteracy-Regular.ttf" },
+        "GentiumPlusLiteracy-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Bold.ttf" },
+        "GentiumPlusLiteracy-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-BoldItalic.ttf" },
+        "GentiumPlusLiteracy-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Italic.ttf" },
+        "GentiumPlusLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Literacy",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumplusmali": {
+    "defaults": {
+        "ttf": "GentiumPlusMali-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Mali",
+    "familyid": "gentiumplusmali",
+    "files": {
+        "GentiumBookPlusMali-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumBookPlusMali-Bold.ttf" },
+        "GentiumBookPlusMali-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumBookPlusMali-BoldItalic.ttf" },
+        "GentiumBookPlusMali-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumBookPlusMali-Italic.ttf" },
+        "GentiumBookPlusMali-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumBookPlusMali-Regular.ttf" },
+        "GentiumPlusMali-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumPlusMali-Bold.ttf" },
+        "GentiumPlusMali-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumPlusMali-BoldItalic.ttf" },
+        "GentiumPlusMali-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumPlusMali-Italic.ttf" },
+        "GentiumPlusMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumPlusMali-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Mali",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
+},
+"gentiumplustat": {
+    "defaults": {
+        "ttf": "GentiumPlusTat-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Tat",
+    "familyid": "gentiumplustat",
+    "files": {
+        "GentiumBookPlusTat-Bold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-Bold.ttf" },
+        "GentiumBookPlusTat-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-BoldItalic.ttf" },
+        "GentiumBookPlusTat-Italic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-Italic.ttf" },
+        "GentiumBookPlusTat-Regular.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumBookPlusTat-Regular.ttf" },
+        "GentiumPlusTat-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Bold.ttf" },
+        "GentiumPlusTat-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-BoldItalic.ttf" },
+        "GentiumPlusTat-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Italic.ttf" },
+        "GentiumPlusTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Tat",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.200",
+    "ziproot": ""
 },
 "harmattan": {
     "defaults": {
@@ -5315,7 +6054,8 @@
     "packageurl": "https://laoscript.net/download/saysettha_all.zip",
     "siteurl": "https://laoscript.net/download/",
     "status": "current",
-    "version": "2.201"
+    "version": "2.201",
+    "ziproot": ""
 },
 "scheherazade": {
     "defaults": {
@@ -5363,6 +6103,46 @@
     "status": "current",
     "version": "3.300",
     "ziproot": "ScheherazadeNew-3.300"
+},
+"scheherazadenewcompact": {
+    "defaults": {
+        "ttf": "ScheherazadeNewRohingya-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "scheherazadenew",
+    "family": "Scheherazade New Rohingya",
+    "familyid": "scheherazadenewcompact",
+    "files": {
+        "ScheherazadeNewRohingya-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNewRohingya-3.300/ScheherazadeNewRohingya-Bold.ttf" },
+        "ScheherazadeNewRohingya-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewRohingya-3.300/ScheherazadeNewRohingya-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Rohingya",
+    "siteurl": "https://software.sil.org/scheherazade/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "3.300",
+    "ziproot": ""
+},
+"scheherazadenewrohingya": {
+    "defaults": {
+        "ttf": "ScheherazadeNewCompact-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "scheherazadenew",
+    "family": "Scheherazade New Compact",
+    "familyid": "scheherazadenewrohingya",
+    "files": {
+        "ScheherazadeNewCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNewCompact-3.300/ScheherazadeNewCompact-Bold.ttf" },
+        "ScheherazadeNewCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewCompact-3.300/ScheherazadeNewCompact-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Compact",
+    "siteurl": "https://software.sil.org/scheherazade/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "3.300",
+    "ziproot": ""
 },
 "sophianubian": {
     "defaults": {

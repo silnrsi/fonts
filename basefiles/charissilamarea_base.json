@@ -18,6 +18,7 @@
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
-    "version": "6.200"
+    "version": "6.200",
+    "ziproot": ""
 }
 }

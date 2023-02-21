@@ -42,12 +42,16 @@ def doit(args):
                 if os.path.exists(manifestpath):
                     manifest = gfr_manifest(filename=manifestpath, logger=logger)
                     manifest.read()
+                    deffile = manifest.data['defaults']['ttf']
+                    defppath = manifest.data['files'][deffile]['packagepath']
                     break
             else:
-                logger.log(f'Unable to find manifest for {base.id} with packageurl of {purl}')
-                continue
-            deffile = manifest.data['defaults']['ttf']
-            defppath = manifest.data['files'][deffile]['packagepath']
+                if 'defaults' in data and 'files' in data:
+                    deffile = data['defaults']['ttf']
+                    defppath = data['files'][deffile]['packagepath']
+                else:
+                    logger.log(f'files or defaults missing from base file for {base.id}', "W")
+                    continue
             logger.log(f"Downloading {purl}", "V")
             req = urllib2.Request(url=purl, headers={'User-Agent': 'Mozilla/4.0 (compatible; httpget)'})
             reqdat = urllib2.urlopen(req)
@@ -60,8 +64,8 @@ def doit(args):
                     break
             else:
                 logger.log(f"Can't find {defppath} in {purl}")
-                ziproot = ""
-            if len(ziproot):
+                ziproot = None
+            if ziproot is not None:
                 data['ziproot'] = ziproot
             (valid,logs) = base.validate()
             if valid:

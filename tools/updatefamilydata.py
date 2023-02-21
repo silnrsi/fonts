@@ -69,12 +69,19 @@ def doit(args):
                 filerec = files[filen]
                 subpath = f'{familytype}/{familyid}/{filerec["packagepath"]}'
                 ziproot = fdata.get('ziproot', None)
-                ziproot = (ziproot + "/") if ziproot is not None else ""
+                ziproot = (ziproot + "/") if ziproot is not None  and ziproot != "" else ""
                 filerec['url'] = f'https://github.com/silnrsi/fonts/raw/main/fonts/{subpath}'
                 filerec['flourl'] = f'https://fonts.languagetechnology.org/fonts/{subpath}'
                 filerec['zippath'] = f'{ziproot}{subpath}'
-
-
+        else: #Need to add zippath to files when there is a ziproot
+            if 'files' in fdata and 'ziproot' in fdata:
+                files = fdata["files"]
+                for filen in files:
+                    filerec = files[filen]
+                    subpath = f'{familytype}/{familyid}/{filerec["packagepath"]}'
+                    ziproot = fdata.get('ziproot', None)
+                    ziproot = (ziproot + "/") if ziproot is not None and ziproot != "" else ""
+                    filerec['zippath'] = f'{ziproot}{subpath}'
 
         # Add to familydata
         familydata[familyid] = fdata

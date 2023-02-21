@@ -16,6 +16,7 @@
     "siteurl": "https://software.sil.org/scheherazade/",
     "source": "SIL",
     "status": "archived",
-    "version": "3.300"
+    "version": "3.300",
+    "ziproot": ""
 }
 }
