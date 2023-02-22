@@ -1,0 +1,25 @@
+{
+"namdhinggosil": {
+    "defaults": {
+        "ttf": "NamdhinggoSIL-Regular.ttf",
+        "woff": "NamdhinggoSIL-Regular.woff",
+        "woff2": "NamdhinggoSIL-Regular.woff2"
+    },
+    "distributable": true,
+    "fallback": "namdhinggo",
+    "family": "Namdhinggo SIL",
+    "familyid": "namdhinggosil",
+    "files": {
+        "NamdhinggoSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "NamdhinggoSIL-2.000/NamdhinggoSIL-Regular.ttf" },
+        "NamdhinggoSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "NamdhinggoSIL-2.000/woff/NamdhinggoSIL-Regular.woff" },
+        "NamdhinggoSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "NamdhinggoSIL-2.000/woff/NamdhinggoSIL-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/namdhinggo/NamdhinggoSIL-2.000.zip",
+    "siteurl": "https://software.sil.org/Namdhinggo/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "2.000",
+    "ziproot": ""
+}
+}

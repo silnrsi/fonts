@@ -1,0 +1,20 @@
+{
+"zaghawaberia": {
+    "defaults": {
+        "ttf": "ZaghawaBeria.otf"
+    },
+    "distributable": true,
+    "family": "Zaghawa Beria",
+    "familyid": "zaghawaberia",
+    "files": {
+        "ZaghawaBeria.otf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ZaghawaBeriaOTF/ZaghawaBeria.otf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/cms/scripts/render_download.php?format=file&media_id=ZaghawaBeriaOTF1001&filename=ZaghawaBeriaOTF.zip",
+    "siteurl": "https://scripts.sil.org/zaghawaberia_home",
+    "source": "SIL",
+    "status": "archived",
+    "version": "1.001",
+    "ziproot": ""
+}
+}

@@ -1,0 +1,22 @@
+{
+"aboriginalsans": {
+    "defaults": {
+        "ttf": "AboriginalSansREGULAR.ttf"
+    },
+    "distributable": true,
+    "fallback": "notosanscanadianaboriginal",
+    "family": "Aboriginal Sans",
+    "familyid": "aboriginalsans",
+    "files": {
+        "AboriginalSansBOLD.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AboriginalSansBOLD.ttf" },
+        "AboriginalSansBOLDITALIC.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "AboriginalSansBOLDITALIC.ttf" },
+        "AboriginalSansITALIC.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "AboriginalSansITALIC.ttf" },
+        "AboriginalSansREGULAR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AboriginalSansREGULAR.ttf" }
+    },
+    "license": "GPL3",
+    "packageurl": "https://www.languagegeek.com/font/AboriginalSans.zip",
+    "siteurl": "https://www.languagegeek.com/font/fontdownload.html",
+    "version": "9.602",
+    "ziproot": ""
+}
+}

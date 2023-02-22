@@ -1,0 +1,20 @@
+{
+"unicodebmpfallback": {
+    "defaults": {
+        "ttf": "UnicodeBMPFallback.ttf"
+    },
+    "distributable": true,
+    "family": "Unicode BMP Fallback SIL",
+    "familyid": "unicodebmpfallback",
+    "files": {
+        "UnicodeBMPFallback.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "unicodebmpfallback-6.1/UnicodeBMPFallback.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/cms/scripts/render_download.php?format=file&media_id=UnicodeBMPFallback_61&filename=UnicodeBMPFallback-6.1.zip",
+    "siteurl": "https://scripts.sil.org/UnicodeBMPFallbackFont",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.100",
+    "ziproot": ""
+}
+}

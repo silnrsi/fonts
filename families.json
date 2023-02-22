@@ -1,4 +1,24 @@
 {
+"aboriginalsans": {
+    "defaults": {
+        "ttf": "AboriginalSansREGULAR.ttf"
+    },
+    "distributable": true,
+    "fallback": "notosanscanadianaboriginal",
+    "family": "Aboriginal Sans",
+    "familyid": "aboriginalsans",
+    "files": {
+        "AboriginalSansBOLD.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AboriginalSansBOLD.ttf", "zippath": "AboriginalSansBOLD.ttf" },
+        "AboriginalSansBOLDITALIC.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "AboriginalSansBOLDITALIC.ttf", "zippath": "AboriginalSansBOLDITALIC.ttf" },
+        "AboriginalSansITALIC.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "AboriginalSansITALIC.ttf", "zippath": "AboriginalSansITALIC.ttf" },
+        "AboriginalSansREGULAR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AboriginalSansREGULAR.ttf", "zippath": "AboriginalSansREGULAR.ttf" }
+    },
+    "license": "GPL3",
+    "packageurl": "https://www.languagegeek.com/font/AboriginalSans.zip",
+    "siteurl": "https://www.languagegeek.com/font/fontdownload.html",
+    "version": "9.602",
+    "ziproot": ""
+},
 "abyssinicasil": {
     "defaults": {
         "ttf": "AbyssinicaSIL-Regular.ttf",
@@ -79,6 +99,32 @@
     "status": "current",
     "version": "2.000",
     "ziproot": "Alkalami-2.000"
+},
+"alkalamilight": {
+    "defaults": {
+        "ttf": "Alkalami-Regular.ttf",
+        "woff": "Alkalami-Regular.woff",
+        "woff2": "Alkalami-Regular.woff2"
+    },
+    "distributable": true,
+    "fallback": "ruwudu",
+    "family": "Alkalami",
+    "familyid": "alkalamilight",
+    "files": {
+        "Alkalami-Light.ttf": { "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Alkalami-1.300/Alkalami-Light.ttf", "zippath": "Alkalami-1.300/Alkalami-Light.ttf" },
+        "Alkalami-Light.woff": { "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Alkalami-1.300/web/Alkalami-Light.woff", "zippath": "Alkalami-1.300/web/Alkalami-Light.woff" },
+        "Alkalami-Light.woff2": { "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Alkalami-1.300/web/Alkalami-Light.woff2", "zippath": "Alkalami-1.300/web/Alkalami-Light.woff2" },
+        "Alkalami-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Alkalami-1.300/Alkalami-Regular.ttf", "zippath": "Alkalami-1.300/Alkalami-Regular.ttf" },
+        "Alkalami-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Alkalami-1.300/web/Alkalami-Regular.woff", "zippath": "Alkalami-1.300/web/Alkalami-Regular.woff" },
+        "Alkalami-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Alkalami-1.300/web/Alkalami-Regular.woff2", "zippath": "Alkalami-1.300/web/Alkalami-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/alkalami/Alkalami-1.300.zip",
+    "siteurl": "https://software.sil.org/alkalami/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "1.300",
+    "ziproot": ""
 },
 "andika": {
     "defaults": {
@@ -669,6 +715,76 @@
     "version": "4.000",
     "ziproot": "DaiBannaSIL-4.000"
 },
+"daibannasilbook": {
+    "defaults": {
+        "ttf": "DBSILLR.ttf",
+        "woff": "DBSILLR.woff"
+    },
+    "distributable": true,
+    "fallback": "daibannasil",
+    "family": "Dai Banna SIL Light",
+    "familyid": "daibannasilbook",
+    "files": {
+        "DBSILBB.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBB.ttf", "zippath": "DaiBannaSIL-3.000/DBSILBB.ttf" },
+        "DBSILBB.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBB.woff", "zippath": "DaiBannaSIL-3.000/DBSILBB.woff" },
+        "DBSILBC.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBC.ttf", "zippath": "DaiBannaSIL-3.000/DBSILBC.ttf" },
+        "DBSILBC.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBC.woff", "zippath": "DaiBannaSIL-3.000/DBSILBC.woff" },
+        "DBSILBO.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBO.ttf", "zippath": "DaiBannaSIL-3.000/DBSILBO.ttf" },
+        "DBSILBO.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBO.woff", "zippath": "DaiBannaSIL-3.000/DBSILBO.woff" },
+        "DBSILBR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBR.ttf", "zippath": "DaiBannaSIL-3.000/DBSILBR.ttf" },
+        "DBSILBR.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBR.woff", "zippath": "DaiBannaSIL-3.000/DBSILBR.woff" },
+        "DBSILLB.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLB.ttf", "zippath": "DaiBannaSIL-3.000/DBSILLB.ttf" },
+        "DBSILLB.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLB.woff", "zippath": "DaiBannaSIL-3.000/DBSILLB.woff" },
+        "DBSILLC.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLC.ttf", "zippath": "DaiBannaSIL-3.000/DBSILLC.ttf" },
+        "DBSILLC.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLC.woff", "zippath": "DaiBannaSIL-3.000/DBSILLC.woff" },
+        "DBSILLO.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLO.ttf", "zippath": "DaiBannaSIL-3.000/DBSILLO.ttf" },
+        "DBSILLO.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLO.woff", "zippath": "DaiBannaSIL-3.000/DBSILLO.woff" },
+        "DBSILLR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLR.ttf", "zippath": "DaiBannaSIL-3.000/DBSILLR.ttf" },
+        "DBSILLR.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLR.woff", "zippath": "DaiBannaSIL-3.000/DBSILLR.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/daibanna/DaiBannaSIL-3.000.zip",
+    "siteurl": "https://software.sil.org/daibanna/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "3.000",
+    "ziproot": ""
+},
+"daibannasillight": {
+    "defaults": {
+        "ttf": "DBSILLR.ttf",
+        "woff": "DBSILLR.woff"
+    },
+    "distributable": true,
+    "fallback": "daibannasil",
+    "family": "Dai Banna SIL Light",
+    "familyid": "daibannasillight",
+    "files": {
+        "DBSILBB.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBB.ttf", "zippath": "DaiBannaSIL-3.000/DBSILBB.ttf" },
+        "DBSILBB.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBB.woff", "zippath": "DaiBannaSIL-3.000/DBSILBB.woff" },
+        "DBSILBC.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBC.ttf", "zippath": "DaiBannaSIL-3.000/DBSILBC.ttf" },
+        "DBSILBC.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBC.woff", "zippath": "DaiBannaSIL-3.000/DBSILBC.woff" },
+        "DBSILBO.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBO.ttf", "zippath": "DaiBannaSIL-3.000/DBSILBO.ttf" },
+        "DBSILBO.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBO.woff", "zippath": "DaiBannaSIL-3.000/DBSILBO.woff" },
+        "DBSILBR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBR.ttf", "zippath": "DaiBannaSIL-3.000/DBSILBR.ttf" },
+        "DBSILBR.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBR.woff", "zippath": "DaiBannaSIL-3.000/DBSILBR.woff" },
+        "DBSILLB.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLB.ttf", "zippath": "DaiBannaSIL-3.000/DBSILLB.ttf" },
+        "DBSILLB.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLB.woff", "zippath": "DaiBannaSIL-3.000/DBSILLB.woff" },
+        "DBSILLC.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLC.ttf", "zippath": "DaiBannaSIL-3.000/DBSILLC.ttf" },
+        "DBSILLC.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLC.woff", "zippath": "DaiBannaSIL-3.000/DBSILLC.woff" },
+        "DBSILLO.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLO.ttf", "zippath": "DaiBannaSIL-3.000/DBSILLO.ttf" },
+        "DBSILLO.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLO.woff", "zippath": "DaiBannaSIL-3.000/DBSILLO.woff" },
+        "DBSILLR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLR.ttf", "zippath": "DaiBannaSIL-3.000/DBSILLR.ttf" },
+        "DBSILLR.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLR.woff", "zippath": "DaiBannaSIL-3.000/DBSILLR.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/daibanna/DaiBannaSIL-3.000.zip",
+    "siteurl": "https://software.sil.org/daibanna/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "3.000",
+    "ziproot": ""
+},
 "dokchampa": {
     "distributable": false,
     "fallback": "notosanslao",
@@ -850,6 +966,25 @@
     "source": "SIL",
     "status": "archived",
     "version": "6.200",
+    "ziproot": ""
+},
+"dukor": {
+    "defaults": {
+        "ttf": "Dukor.ttf"
+    },
+    "distributable": true,
+    "fallback": "wakor",
+    "family": "Dukor",
+    "familyid": "dukor",
+    "files": {
+        "Dukor.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Dukor-1.0.7/Dukor.ttf", "zippath": "Dukor-1.0.7/Dukor.ttf" },
+        "DukorItalic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "Dukor-1.0.7/DukorItalic.ttf", "zippath": "Dukor-1.0.7/DukorItalic.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://www.evertype.com/fonts/vai/dukorfont.zip",
+    "siteurl": "https://www.evertype.com/fonts/vai/",
+    "source": "Evertype",
+    "version": "1.0.7",
     "ziproot": ""
 },
 "eastsyriacmarcus": {
@@ -1531,6 +1666,195 @@
     "version": "7.100",
     "ziproot": "Mondulkiri-7.100"
 },
+"khmerbusrabunong": {
+    "defaults": {
+        "ttf": "Mo5V56xs.ttf"
+    },
+    "distributable": true,
+    "fallback": "khmerbusra",
+    "family": "Khmer Busra xspace",
+    "familyid": "khmerbusrabunong",
+    "files": {
+        "Mo5V56Bu.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56Bu.ttf", "zippath": "Mondulkiri-5.300/Mo5V56Bu.ttf" },
+        "Mo5V56MO.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56MO.ttf", "zippath": "Mondulkiri-5.300/Mo5V56MO.ttf" },
+        "Mo5V56dc.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56dc.ttf", "zippath": "Mondulkiri-5.300/Mo5V56dc.ttf" },
+        "Mo5V56di.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56di.ttf", "zippath": "Mondulkiri-5.300/Mo5V56di.ttf" },
+        "Mo5V56do.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56do.ttf", "zippath": "Mondulkiri-5.300/Mo5V56do.ttf" },
+        "Mo5V56hi.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56hi.ttf", "zippath": "Mondulkiri-5.300/Mo5V56hi.ttf" },
+        "Mo5V56xs.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56xs.ttf", "zippath": "Mondulkiri-5.300/Mo5V56xs.ttf" },
+        "Mo9V55.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Mondulkiri-5.300/Mo9V55.ttf", "zippath": "Mondulkiri-5.300/Mo9V55.ttf" },
+        "RataV53.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/RataV53.ttf", "zippath": "Mondulkiri-5.300/RataV53.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-5.300.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "5.300",
+    "ziproot": ""
+},
+"khmerbusradiagnostic": {
+    "defaults": {
+        "ttf": "Mo5V56xs.ttf"
+    },
+    "distributable": true,
+    "fallback": "khmerbusra",
+    "family": "Khmer Busra xspace",
+    "familyid": "khmerbusradiagnostic",
+    "files": {
+        "Mo5V56Bu.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56Bu.ttf", "zippath": "Mondulkiri-5.300/Mo5V56Bu.ttf" },
+        "Mo5V56MO.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56MO.ttf", "zippath": "Mondulkiri-5.300/Mo5V56MO.ttf" },
+        "Mo5V56dc.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56dc.ttf", "zippath": "Mondulkiri-5.300/Mo5V56dc.ttf" },
+        "Mo5V56di.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56di.ttf", "zippath": "Mondulkiri-5.300/Mo5V56di.ttf" },
+        "Mo5V56do.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56do.ttf", "zippath": "Mondulkiri-5.300/Mo5V56do.ttf" },
+        "Mo5V56hi.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56hi.ttf", "zippath": "Mondulkiri-5.300/Mo5V56hi.ttf" },
+        "Mo5V56xs.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56xs.ttf", "zippath": "Mondulkiri-5.300/Mo5V56xs.ttf" },
+        "Mo9V55.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Mondulkiri-5.300/Mo9V55.ttf", "zippath": "Mondulkiri-5.300/Mo9V55.ttf" },
+        "RataV53.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/RataV53.ttf", "zippath": "Mondulkiri-5.300/RataV53.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-5.300.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "5.300",
+    "ziproot": ""
+},
+"khmerbusradict": {
+    "defaults": {
+        "ttf": "Mo5V56xs.ttf"
+    },
+    "distributable": true,
+    "fallback": "khmerbusra",
+    "family": "Khmer Busra xspace",
+    "familyid": "khmerbusradict",
+    "files": {
+        "Mo5V56Bu.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56Bu.ttf", "zippath": "Mondulkiri-5.300/Mo5V56Bu.ttf" },
+        "Mo5V56MO.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56MO.ttf", "zippath": "Mondulkiri-5.300/Mo5V56MO.ttf" },
+        "Mo5V56dc.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56dc.ttf", "zippath": "Mondulkiri-5.300/Mo5V56dc.ttf" },
+        "Mo5V56di.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56di.ttf", "zippath": "Mondulkiri-5.300/Mo5V56di.ttf" },
+        "Mo5V56do.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56do.ttf", "zippath": "Mondulkiri-5.300/Mo5V56do.ttf" },
+        "Mo5V56hi.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56hi.ttf", "zippath": "Mondulkiri-5.300/Mo5V56hi.ttf" },
+        "Mo5V56xs.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56xs.ttf", "zippath": "Mondulkiri-5.300/Mo5V56xs.ttf" },
+        "Mo9V55.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Mondulkiri-5.300/Mo9V55.ttf", "zippath": "Mondulkiri-5.300/Mo9V55.ttf" },
+        "RataV53.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/RataV53.ttf", "zippath": "Mondulkiri-5.300/RataV53.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-5.300.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "5.300",
+    "ziproot": ""
+},
+"khmerbusradot": {
+    "defaults": {
+        "ttf": "Mo5V56xs.ttf"
+    },
+    "distributable": true,
+    "fallback": "khmerbusra",
+    "family": "Khmer Busra xspace",
+    "familyid": "khmerbusradot",
+    "files": {
+        "Mo5V56Bu.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56Bu.ttf", "zippath": "Mondulkiri-5.300/Mo5V56Bu.ttf" },
+        "Mo5V56MO.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56MO.ttf", "zippath": "Mondulkiri-5.300/Mo5V56MO.ttf" },
+        "Mo5V56dc.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56dc.ttf", "zippath": "Mondulkiri-5.300/Mo5V56dc.ttf" },
+        "Mo5V56di.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56di.ttf", "zippath": "Mondulkiri-5.300/Mo5V56di.ttf" },
+        "Mo5V56do.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56do.ttf", "zippath": "Mondulkiri-5.300/Mo5V56do.ttf" },
+        "Mo5V56hi.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56hi.ttf", "zippath": "Mondulkiri-5.300/Mo5V56hi.ttf" },
+        "Mo5V56xs.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56xs.ttf", "zippath": "Mondulkiri-5.300/Mo5V56xs.ttf" },
+        "Mo9V55.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Mondulkiri-5.300/Mo9V55.ttf", "zippath": "Mondulkiri-5.300/Mo9V55.ttf" },
+        "RataV53.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/RataV53.ttf", "zippath": "Mondulkiri-5.300/RataV53.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-5.300.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "5.300",
+    "ziproot": ""
+},
+"khmerbusrahigh": {
+    "defaults": {
+        "ttf": "Mo5V56xs.ttf"
+    },
+    "distributable": true,
+    "fallback": "khmerbusra",
+    "family": "Khmer Busra xspace",
+    "familyid": "khmerbusrahigh",
+    "files": {
+        "Mo5V56Bu.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56Bu.ttf", "zippath": "Mondulkiri-5.300/Mo5V56Bu.ttf" },
+        "Mo5V56MO.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56MO.ttf", "zippath": "Mondulkiri-5.300/Mo5V56MO.ttf" },
+        "Mo5V56dc.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56dc.ttf", "zippath": "Mondulkiri-5.300/Mo5V56dc.ttf" },
+        "Mo5V56di.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56di.ttf", "zippath": "Mondulkiri-5.300/Mo5V56di.ttf" },
+        "Mo5V56do.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56do.ttf", "zippath": "Mondulkiri-5.300/Mo5V56do.ttf" },
+        "Mo5V56hi.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56hi.ttf", "zippath": "Mondulkiri-5.300/Mo5V56hi.ttf" },
+        "Mo5V56xs.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56xs.ttf", "zippath": "Mondulkiri-5.300/Mo5V56xs.ttf" },
+        "Mo9V55.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Mondulkiri-5.300/Mo9V55.ttf", "zippath": "Mondulkiri-5.300/Mo9V55.ttf" },
+        "RataV53.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/RataV53.ttf", "zippath": "Mondulkiri-5.300/RataV53.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-5.300.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "5.300",
+    "ziproot": ""
+},
+"khmerbusramoe": {
+    "defaults": {
+        "ttf": "Mo5V56xs.ttf"
+    },
+    "distributable": true,
+    "fallback": "khmerbusra",
+    "family": "Khmer Busra xspace",
+    "familyid": "khmerbusramoe",
+    "files": {
+        "Mo5V56Bu.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56Bu.ttf", "zippath": "Mondulkiri-5.300/Mo5V56Bu.ttf" },
+        "Mo5V56MO.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56MO.ttf", "zippath": "Mondulkiri-5.300/Mo5V56MO.ttf" },
+        "Mo5V56dc.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56dc.ttf", "zippath": "Mondulkiri-5.300/Mo5V56dc.ttf" },
+        "Mo5V56di.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56di.ttf", "zippath": "Mondulkiri-5.300/Mo5V56di.ttf" },
+        "Mo5V56do.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56do.ttf", "zippath": "Mondulkiri-5.300/Mo5V56do.ttf" },
+        "Mo5V56hi.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56hi.ttf", "zippath": "Mondulkiri-5.300/Mo5V56hi.ttf" },
+        "Mo5V56xs.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56xs.ttf", "zippath": "Mondulkiri-5.300/Mo5V56xs.ttf" },
+        "Mo9V55.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Mondulkiri-5.300/Mo9V55.ttf", "zippath": "Mondulkiri-5.300/Mo9V55.ttf" },
+        "RataV53.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/RataV53.ttf", "zippath": "Mondulkiri-5.300/RataV53.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-5.300.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "5.300",
+    "ziproot": ""
+},
+"khmerbusraxspace": {
+    "defaults": {
+        "ttf": "Mo5V56xs.ttf"
+    },
+    "distributable": true,
+    "fallback": "khmerbusra",
+    "family": "Khmer Busra xspace",
+    "familyid": "khmerbusraxspace",
+    "files": {
+        "Mo5V56Bu.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56Bu.ttf", "zippath": "Mondulkiri-5.300/Mo5V56Bu.ttf" },
+        "Mo5V56MO.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56MO.ttf", "zippath": "Mondulkiri-5.300/Mo5V56MO.ttf" },
+        "Mo5V56dc.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56dc.ttf", "zippath": "Mondulkiri-5.300/Mo5V56dc.ttf" },
+        "Mo5V56di.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56di.ttf", "zippath": "Mondulkiri-5.300/Mo5V56di.ttf" },
+        "Mo5V56do.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56do.ttf", "zippath": "Mondulkiri-5.300/Mo5V56do.ttf" },
+        "Mo5V56hi.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56hi.ttf", "zippath": "Mondulkiri-5.300/Mo5V56hi.ttf" },
+        "Mo5V56xs.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56xs.ttf", "zippath": "Mondulkiri-5.300/Mo5V56xs.ttf" },
+        "Mo9V55.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Mondulkiri-5.300/Mo9V55.ttf", "zippath": "Mondulkiri-5.300/Mo9V55.ttf" },
+        "RataV53.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/RataV53.ttf", "zippath": "Mondulkiri-5.300/RataV53.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-5.300.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "5.300",
+    "ziproot": ""
+},
 "khmerdakdam": {
     "distributable": false,
     "fallback": "khmerbusra",
@@ -1557,6 +1881,76 @@
     "status": "current",
     "version": "7.100",
     "ziproot": "Mondulkiri-7.100"
+},
+"khmeroureang": {
+    "defaults": {
+        "ttf": "Mo5V56xs.ttf"
+    },
+    "distributable": true,
+    "fallback": "khmerbusra",
+    "family": "Khmer Busra xspace",
+    "familyid": "khmeroureang",
+    "files": {
+        "Mo5V56Bu.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56Bu.ttf", "zippath": "Mondulkiri-5.300/Mo5V56Bu.ttf" },
+        "Mo5V56MO.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56MO.ttf", "zippath": "Mondulkiri-5.300/Mo5V56MO.ttf" },
+        "Mo5V56dc.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56dc.ttf", "zippath": "Mondulkiri-5.300/Mo5V56dc.ttf" },
+        "Mo5V56di.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56di.ttf", "zippath": "Mondulkiri-5.300/Mo5V56di.ttf" },
+        "Mo5V56do.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56do.ttf", "zippath": "Mondulkiri-5.300/Mo5V56do.ttf" },
+        "Mo5V56hi.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56hi.ttf", "zippath": "Mondulkiri-5.300/Mo5V56hi.ttf" },
+        "Mo5V56xs.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56xs.ttf", "zippath": "Mondulkiri-5.300/Mo5V56xs.ttf" },
+        "Mo9V55.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Mondulkiri-5.300/Mo9V55.ttf", "zippath": "Mondulkiri-5.300/Mo9V55.ttf" },
+        "RataV53.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/RataV53.ttf", "zippath": "Mondulkiri-5.300/RataV53.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-5.300.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "5.300",
+    "ziproot": ""
+},
+"khmerratanakiri": {
+    "defaults": {
+        "ttf": "Mo5V56xs.ttf"
+    },
+    "distributable": true,
+    "fallback": "khmerbusra",
+    "family": "Khmer Busra xspace",
+    "familyid": "khmerratanakiri",
+    "files": {
+        "Mo5V56Bu.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56Bu.ttf", "zippath": "Mondulkiri-5.300/Mo5V56Bu.ttf" },
+        "Mo5V56MO.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56MO.ttf", "zippath": "Mondulkiri-5.300/Mo5V56MO.ttf" },
+        "Mo5V56dc.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56dc.ttf", "zippath": "Mondulkiri-5.300/Mo5V56dc.ttf" },
+        "Mo5V56di.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56di.ttf", "zippath": "Mondulkiri-5.300/Mo5V56di.ttf" },
+        "Mo5V56do.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56do.ttf", "zippath": "Mondulkiri-5.300/Mo5V56do.ttf" },
+        "Mo5V56hi.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56hi.ttf", "zippath": "Mondulkiri-5.300/Mo5V56hi.ttf" },
+        "Mo5V56xs.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56xs.ttf", "zippath": "Mondulkiri-5.300/Mo5V56xs.ttf" },
+        "Mo9V55.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Mondulkiri-5.300/Mo9V55.ttf", "zippath": "Mondulkiri-5.300/Mo9V55.ttf" },
+        "RataV53.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/RataV53.ttf", "zippath": "Mondulkiri-5.300/RataV53.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-5.300.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "5.300",
+    "ziproot": ""
+},
+"kyebogyisil": {
+    "defaults": {
+        "ttf": "kyebogyisil.ttf"
+    },
+    "distributable": true,
+    "family": "Kyebogyi SIL",
+    "familyid": "kyebogyisil",
+    "files": {
+        "kyebogyisil.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "kyebogyisil.ttf", "zippath": "kyebogyisil.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/silnrsi/font-kyebogyi/blob/master/srcs/Kyebogyi_SIL.ttf?raw=true",
+    "siteurl": "https://github.com/silnrsi/font-kyebogyi",
+    "source": "SIL",
+    "version": "1.000"
 },
 "lateef": {
     "defaults": {
@@ -1598,6 +1992,27 @@
     "version": "2.000",
     "ziproot": "Lateef-2.000"
 },
+"lateefgr": {
+    "defaults": {
+        "ttf": "LateefGR-Regular.ttf",
+        "woff": "LateefGR-Regular.woff"
+    },
+    "distributable": true,
+    "fallback": "lateef",
+    "family": "LateefGR",
+    "familyid": "lateefgr",
+    "files": {
+        "LateefGR-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "LateefGR-1.200/LateefGR-Regular.ttf", "zippath": "LateefGR-1.200/LateefGR-Regular.ttf" },
+        "LateefGR-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "LateefGR-1.200/web/LateefGR-Regular.woff", "zippath": "LateefGR-1.200/web/LateefGR-Regular.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lateef/LateefGR-1.200.zip",
+    "siteurl": "https://software.sil.org/lateef/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "1.200",
+    "ziproot": ""
+},
 "latha": {
     "distributable": false,
     "fallback": "thiruvalluvar",
@@ -1605,6 +2020,27 @@
     "familyid": "latha",
     "license": "proprietary",
     "source": "Microsoft"
+},
+"lisutzimu": {
+    "defaults": {
+        "ttf": "LisuTzimu-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "LisuTzimu",
+    "familyid": "lisutzimu",
+    "files": {
+        "LisuTzimu-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "LisuTzimu-2.000/LisuTzimu-Bold.ttf", "zippath": "LisuTzimu-2.000/LisuTzimu-Bold.ttf" },
+        "LisuTzimu-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "LisuTzimu-2.000/LisuTzimu-BoldItalic.ttf", "zippath": "LisuTzimu-2.000/LisuTzimu-BoldItalic.ttf" },
+        "LisuTzimu-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "LisuTzimu-2.000/LisuTzimu-Italic.ttf", "zippath": "LisuTzimu-2.000/LisuTzimu-Italic.ttf" },
+        "LisuTzimu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "LisuTzimu-2.000/LisuTzimu-Regular.ttf", "zippath": "LisuTzimu-2.000/LisuTzimu-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/silnrsi/font-lisutzimu/releases/download/v2.000/LisuTzimu-2.000.zip",
+    "siteurl": "https://github.com/silnrsi/font-lisutzimu",
+    "source": "SIL",
+    "status": "archived",
+    "version": "2.000",
+    "ziproot": ""
 },
 "mangal": {
     "distributable": false,
@@ -1677,6 +2113,29 @@
     "status": "current",
     "version": "3.000",
     "ziproot": "Namdhinggo-3.000"
+},
+"namdhinggosil": {
+    "defaults": {
+        "ttf": "NamdhinggoSIL-Regular.ttf",
+        "woff": "NamdhinggoSIL-Regular.woff",
+        "woff2": "NamdhinggoSIL-Regular.woff2"
+    },
+    "distributable": true,
+    "fallback": "namdhinggo",
+    "family": "Namdhinggo SIL",
+    "familyid": "namdhinggosil",
+    "files": {
+        "NamdhinggoSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "NamdhinggoSIL-2.000/NamdhinggoSIL-Regular.ttf", "zippath": "NamdhinggoSIL-2.000/NamdhinggoSIL-Regular.ttf" },
+        "NamdhinggoSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "NamdhinggoSIL-2.000/woff/NamdhinggoSIL-Regular.woff", "zippath": "NamdhinggoSIL-2.000/woff/NamdhinggoSIL-Regular.woff" },
+        "NamdhinggoSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "NamdhinggoSIL-2.000/woff/NamdhinggoSIL-Regular.woff2", "zippath": "NamdhinggoSIL-2.000/woff/NamdhinggoSIL-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/namdhinggo/NamdhinggoSIL-2.000.zip",
+    "siteurl": "https://software.sil.org/Namdhinggo/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "2.000",
+    "ziproot": ""
 },
 "narnoor": {
     "defaults": {
@@ -6589,6 +7048,24 @@
     "license": "proprietary",
     "source": "Microsoft"
 },
+"unicodebmpfallback": {
+    "defaults": {
+        "ttf": "UnicodeBMPFallback.ttf"
+    },
+    "distributable": true,
+    "family": "Unicode BMP Fallback SIL",
+    "familyid": "unicodebmpfallback",
+    "files": {
+        "UnicodeBMPFallback.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "unicodebmpfallback-6.1/UnicodeBMPFallback.ttf", "zippath": "unicodebmpfallback-6.1/UnicodeBMPFallback.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/cms/scripts/render_download.php?format=file&media_id=UnicodeBMPFallback_61&filename=UnicodeBMPFallback-6.1.zip",
+    "siteurl": "https://scripts.sil.org/UnicodeBMPFallbackFont",
+    "source": "SIL",
+    "status": "archived",
+    "version": "6.100",
+    "ziproot": ""
+},
 "verdana": {
     "distributable": false,
     "fallback": "andika",
@@ -6604,5 +7081,41 @@
     "familyid": "vrinda",
     "license": "proprietary",
     "source": "Microsoft"
+},
+"wakor": {
+    "defaults": {
+        "ttf": "Wakor.ttf"
+    },
+    "distributable": true,
+    "family": "Wakor",
+    "familyid": "wakor",
+    "files": {
+        "Wakor.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Wakor-4.0.7/Wakor.ttf", "zippath": "Wakor-4.0.7/Wakor.ttf" },
+        "WakorOblique.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "Wakor-4.0.7/WakorOblique.ttf", "zippath": "Wakor-4.0.7/WakorOblique.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://www.evertype.com/fonts/vai/wakorfont.zip",
+    "siteurl": "https://www.evertype.com/fonts/vai/",
+    "source": "Evertype",
+    "version": "4.0.7",
+    "ziproot": ""
+},
+"zaghawaberia": {
+    "defaults": {
+        "ttf": "ZaghawaBeria.otf"
+    },
+    "distributable": true,
+    "family": "Zaghawa Beria",
+    "familyid": "zaghawaberia",
+    "files": {
+        "ZaghawaBeria.otf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ZaghawaBeriaOTF/ZaghawaBeria.otf", "zippath": "ZaghawaBeriaOTF/ZaghawaBeria.otf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/cms/scripts/render_download.php?format=file&media_id=ZaghawaBeriaOTF1001&filename=ZaghawaBeriaOTF.zip",
+    "siteurl": "https://scripts.sil.org/zaghawaberia_home",
+    "source": "SIL",
+    "status": "archived",
+    "version": "1.001",
+    "ziproot": ""
 }
 }

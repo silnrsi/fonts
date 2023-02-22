@@ -1,0 +1,23 @@
+{
+"lateefgr": {
+    "defaults": {
+        "ttf": "LateefGR-Regular.ttf",
+        "woff": "LateefGR-Regular.woff"
+    },
+    "distributable": true,
+    "fallback": "lateef",
+    "family": "LateefGR",
+    "familyid": "lateefgr",
+    "files": {
+        "LateefGR-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "LateefGR-1.200/LateefGR-Regular.ttf" },
+        "LateefGR-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "LateefGR-1.200/web/LateefGR-Regular.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lateef/LateefGR-1.200.zip",
+    "siteurl": "https://software.sil.org/lateef/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "1.200",
+    "ziproot": ""
+}
+}

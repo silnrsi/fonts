@@ -57,7 +57,11 @@ def doit(args):
             reqdat = urllib2.urlopen(req)
             zipdat = reqdat.read()
             zipinfile = io.BytesIO(initial_bytes=zipdat)
-            zipf = ZipFile(zipinfile)
+            try:
+                zipf = ZipFile(zipinfile)
+            except Exception as e:
+                logger.log(f'{purl} is not a valid zip file', "E")
+                continue
             for zf in zipf.namelist():
                 if zf.endswith(defppath):     # found a font, assume we want it
                     ziproot = zf[:-len(defppath)-1] # strip trailing /

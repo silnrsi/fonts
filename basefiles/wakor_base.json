@@ -1,0 +1,20 @@
+{
+"wakor": {
+    "defaults": {
+        "ttf": "Wakor.ttf"
+    },
+    "distributable": true,
+    "family": "Wakor",
+    "familyid": "wakor",
+    "files": {
+        "Wakor.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Wakor-4.0.7/Wakor.ttf" },
+        "WakorOblique.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "Wakor-4.0.7/WakorOblique.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://www.evertype.com/fonts/vai/wakorfont.zip",
+    "siteurl": "https://www.evertype.com/fonts/vai/",
+    "source": "Evertype",
+    "version": "4.0.7",
+    "ziproot": ""
+}
+}

@@ -1,0 +1,29 @@
+{
+"khmerbusradict": {
+    "defaults": {
+        "ttf": "Mo5V56xs.ttf"
+    },
+    "distributable": true,
+    "fallback": "khmerbusra",
+    "family": "Khmer Busra xspace",
+    "familyid": "khmerbusradict",
+    "files": {
+        "Mo5V56Bu.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56Bu.ttf" },
+        "Mo5V56MO.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56MO.ttf" },
+        "Mo5V56dc.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56dc.ttf" },
+        "Mo5V56di.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56di.ttf" },
+        "Mo5V56do.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56do.ttf" },
+        "Mo5V56hi.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56hi.ttf" },
+        "Mo5V56xs.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/Mo5V56xs.ttf" },
+        "Mo9V55.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Mondulkiri-5.300/Mo9V55.ttf" },
+        "RataV53.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Mondulkiri-5.300/RataV53.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-5.300.zip",
+    "siteurl": "https://software.sil.org/Mondulkiri/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "5.300",
+    "ziproot": ""
+}
+}

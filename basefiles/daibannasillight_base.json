@@ -1,0 +1,37 @@
+{
+"daibannasillight": {
+    "defaults": {
+        "ttf": "DBSILLR.ttf",
+        "woff": "DBSILLR.woff"
+    },
+    "distributable": true,
+    "fallback": "daibannasil",
+    "family": "Dai Banna SIL Light",
+    "familyid": "daibannasillight",
+    "files": {
+        "DBSILBB.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBB.ttf" },
+        "DBSILBB.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBB.woff" },
+        "DBSILBC.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBC.ttf" },
+        "DBSILBC.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBC.woff" },
+        "DBSILBO.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBO.ttf" },
+        "DBSILBO.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBO.woff" },
+        "DBSILBR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBR.ttf" },
+        "DBSILBR.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILBR.woff" },
+        "DBSILLB.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLB.ttf" },
+        "DBSILLB.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLB.woff" },
+        "DBSILLC.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLC.ttf" },
+        "DBSILLC.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLC.woff" },
+        "DBSILLO.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLO.ttf" },
+        "DBSILLO.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLO.woff" },
+        "DBSILLR.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLR.ttf" },
+        "DBSILLR.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DaiBannaSIL-3.000/DBSILLR.woff" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/daibanna/DaiBannaSIL-3.000.zip",
+    "siteurl": "https://software.sil.org/daibanna/",
+    "source": "SIL",
+    "status": "archived",
+    "version": "3.000",
+    "ziproot": ""
+}
+}

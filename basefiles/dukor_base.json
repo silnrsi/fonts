@@ -1,0 +1,21 @@
+{
+"dukor": {
+    "defaults": {
+        "ttf": "Dukor.ttf"
+    },
+    "distributable": true,
+    "fallback": "wakor",
+    "family": "Dukor",
+    "familyid": "dukor",
+    "files": {
+        "Dukor.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Dukor-1.0.7/Dukor.ttf" },
+        "DukorItalic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "Dukor-1.0.7/DukorItalic.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://www.evertype.com/fonts/vai/dukorfont.zip",
+    "siteurl": "https://www.evertype.com/fonts/vai/",
+    "source": "Evertype",
+    "version": "1.0.7",
+    "ziproot": ""
+}
+}

@@ -1,0 +1,18 @@
+{
+"kyebogyisil": {
+    "defaults": {
+        "ttf": "kyebogyisil.ttf"
+    },
+    "distributable": true,
+    "family": "Kyebogyi SIL",
+    "familyid": "kyebogyisil",
+    "files": {
+        "kyebogyisil.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "kyebogyisil.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/silnrsi/font-kyebogyi/blob/master/srcs/Kyebogyi_SIL.ttf?raw=true",
+    "siteurl": "https://github.com/silnrsi/font-kyebogyi",
+    "source": "SIL",
+    "version": "1.000"
+}
+}
