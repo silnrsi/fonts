@@ -1,6 +1,6 @@
 ---
 title: Ruwudu - Support
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 ## Support options
@@ -19,5 +19,5 @@ If you have a bug to report or a suggestion for how we could improve the font pl
 
 ## Contact form
 
-If the documentation and community fail to answer your question or need further help using the font, please contact us using [the form on the Ruwudu web site](https://software.sil.org/ruwudu/#contact/).
+If the documentation and community fail to answer your question or need further help using the font, please contact us using [the form on the Ruwudu web site](https://software.sil.org/ruwudu/contact/).
 

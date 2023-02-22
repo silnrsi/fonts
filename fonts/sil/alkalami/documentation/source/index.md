@@ -1,6 +1,6 @@
 ---
 title: Alkalami - Documentation
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 Thank you for your interest in the Alkalami font. Alkalami supports the characters known to be used by languages written with the Kano style of Arabic script, but may not have the characters needed for other languages.
@@ -13,7 +13,7 @@ This documentation is a set of HTML pages that can be viewed in any modern web b
 - [Design](design.md) — History and background of the design
 - [Character set support](charset.md) — Details of Unicode characters that are supported
 - [Type Sample](sample.md) — Type sample demonstrating all the characters in this font
-- [Font features](features.md) — Using smart font features
+- [Font Features](features.md) — Using smart font features
 - [Rendering the Allah ligature](allah.md) — Special rules for rendering the Allah ligature
 - [Support](support.md) — How to get additional support
 - [Developer information](developer.md) — How to modify and build the fonts

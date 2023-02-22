@@ -1,6 +1,6 @@
 ---
 title: Ruwudu - About
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 ## About this project
@@ -12,15 +12,13 @@ For more information on the visual characteristics of the font see [Design](desi
 
 ## Future plans
 
-We plan to develop a bold version of Ruwudu in the future.
-
 The highest priorities for future additions and enhancements are mainly driven by:
 
 - Requests from language communities using the fonts
 - Needs of the linguistic and academic community
 - New additions to [The Unicode Standard](https://unicode.org/)
 
-Please send us your requests using the [form on the font website](https://software.sil.org/ruwudu/#contact/). If you are interested in helping us make the font better see the [Developer](developer.md) page.
+Please send us your requests using the [form on the font website](https://software.sil.org/ruwudu/contact/). If you are interested in helping us make the font better see the [Developer](developer.md) page.
 
 ## Announcement list
 

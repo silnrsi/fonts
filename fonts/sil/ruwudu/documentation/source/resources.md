@@ -1,6 +1,6 @@
 ---
 title: Ruwudu - Resources
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 The SIL Arabic script fonts are encoded according to Unicode, so your application must support Unicode text in order to access letters other than the standard ANSI characters. Most applications now provide basic Unicode support. You will, however, need some way of entering Unicode text into your document.
@@ -27,7 +27,7 @@ See [Character set support](charset.md) for details of the Unicode characters su
 
 ## Rendering and application support
 
-This font is designed to work with the OpenType advanced font technology. To take advantage of the advanced typographic capabilities of this fonts, you must be using applications that provide an adequate level of support for OpenType.
+This font is designed to work with the OpenType advanced font technology. To take advantage of the advanced typographic capabilities of this font, you must be using applications that provide an adequate level of support for OpenType.
 
 Other suggestions are listed here: [Applications Support](http://software.sil.org/arabicfonts/support/application-support/) and here: [Using Font Features](https://software.sil.org/fonts/features/). 
 

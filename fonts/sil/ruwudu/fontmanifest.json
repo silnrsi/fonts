@@ -7,10 +7,19 @@
     },
     "family": "Ruwudu",
     "files": {
+        "Ruwudu-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Ruwudu-Bold.ttf" },
+        "Ruwudu-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Ruwudu-Bold.woff" },
+        "Ruwudu-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Ruwudu-Bold.woff2" },
+        "Ruwudu-Medium.ttf": { "altfamily": "Ruwudu Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Ruwudu-Medium.ttf" },
+        "Ruwudu-Medium.woff": { "altfamily": "Ruwudu Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Ruwudu-Medium.woff" },
+        "Ruwudu-Medium.woff2": { "altfamily": "Ruwudu Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Ruwudu-Medium.woff2" },
         "Ruwudu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Ruwudu-Regular.ttf" },
         "Ruwudu-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Ruwudu-Regular.woff" },
-        "Ruwudu-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Ruwudu-Regular.woff2" }
+        "Ruwudu-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Ruwudu-Regular.woff2" },
+        "Ruwudu-SemiBold.ttf": { "altfamily": "Ruwudu SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Ruwudu-SemiBold.ttf" },
+        "Ruwudu-SemiBold.woff": { "altfamily": "Ruwudu SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Ruwudu-SemiBold.woff" },
+        "Ruwudu-SemiBold.woff2": { "altfamily": "Ruwudu SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Ruwudu-SemiBold.woff2" }
     },
-    "version": "2.000"
+    "version": "3.000"
 }
 }
