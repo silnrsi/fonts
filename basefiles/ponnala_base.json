@@ -1,0 +1,9 @@
+{
+"ponnala": {
+    "distributable": true,
+    "fallback": "suranna",
+    "family": "Ponnala",
+    "familyid": "ponnala",
+    "status": "deprecated"
+}
+}

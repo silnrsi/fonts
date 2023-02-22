@@ -1,0 +1,9 @@
+{
+"saysetthamx": {
+    "distributable": true,
+    "fallback": "saysettha",
+    "family": "Saysettha MX",
+    "familyid": "saysetthamx",
+    "status": "deprecated"
+}
+}

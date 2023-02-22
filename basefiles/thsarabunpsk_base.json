@@ -1,0 +1,11 @@
+{
+"thsarabunpsk": {
+    "distributable": true,
+    "fallback": "sarabun",
+    "family": "TH SarabunPSK",
+    "familyid": "thsarabunpsk",
+    "license": "OFL",
+    "siteurl": "https://github.com/SarabunConsortium/TH-Sarabun-PSK",
+    "status": "deprecated"
+}
+}

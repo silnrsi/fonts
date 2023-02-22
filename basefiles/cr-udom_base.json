@@ -1,0 +1,11 @@
+{
+"cr-udom": {
+    "distributable": true,
+    "fallback": "payaplanna",
+    "family": "Cr-Udom",
+    "familyid": "cr-udom",
+    "license": "OFL",
+    "source": "SIL",
+    "status": "deprecated"
+}
+}

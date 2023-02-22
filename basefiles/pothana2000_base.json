@@ -1,0 +1,10 @@
+{
+"pothana2000": {
+    "distributable": true,
+    "fallback": "suranna",
+    "family": "Pothana2000",
+    "familyid": "pothana2000",
+    "license": "GPL",
+    "status": "deprecated"
+}
+}
