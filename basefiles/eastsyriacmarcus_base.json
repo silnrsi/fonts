@@ -1,0 +1,9 @@
+{
+"eastsyriacmarcus": {
+    "distributable": false,
+    "fallback": "notosanssyriac",
+    "family": "East Syriac Marcus",
+    "familyid": "eastsyriacmarcus",
+    "license": "Freeware"
+}
+}

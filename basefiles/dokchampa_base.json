@@ -1,0 +1,10 @@
+{
+"dokchampa": {
+    "distributable": false,
+    "fallback": "notosanslao",
+    "family": "DokChampa",
+    "familyid": "dokchampa",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

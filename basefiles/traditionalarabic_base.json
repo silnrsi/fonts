@@ -1,0 +1,10 @@
+{
+"traditionalarabic": {
+    "distributable": false,
+    "fallback": "scheherazadenew",
+    "family": "Traditional Arabic",
+    "familyid": "traditionalarabic",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

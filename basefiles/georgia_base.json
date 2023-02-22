@@ -1,0 +1,10 @@
+{
+"georgia": {
+    "distributable": false,
+    "fallback": "charissil",
+    "family": "Georgia",
+    "familyid": "georgia",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

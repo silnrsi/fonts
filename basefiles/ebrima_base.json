@@ -1,0 +1,10 @@
+{
+"ebrima": {
+    "distributable": false,
+    "fallback": "akatab",
+    "family": "Ebrima",
+    "familyid": "ebrima",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

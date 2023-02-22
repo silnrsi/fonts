@@ -1,0 +1,10 @@
+{
+"calibri": {
+    "distributable": false,
+    "fallback": "charissil",
+    "family": "Calibri",
+    "familyid": "calibri",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

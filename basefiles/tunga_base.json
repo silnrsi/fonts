@@ -1,0 +1,10 @@
+{
+"tunga": {
+    "distributable": false,
+    "fallback": "notoserifkannada",
+    "family": "Tunga",
+    "familyid": "tunga",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

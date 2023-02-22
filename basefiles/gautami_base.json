@@ -1,0 +1,10 @@
+{
+"gautami": {
+    "distributable": false,
+    "fallback": "suranna",
+    "family": "Gautami",
+    "familyid": "gautami",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

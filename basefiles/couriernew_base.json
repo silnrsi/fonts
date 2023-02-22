@@ -1,0 +1,10 @@
+{
+"couriernew": {
+    "distributable": false,
+    "fallback": "charissil",
+    "family": "Courier New",
+    "familyid": "couriernew",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

@@ -1,0 +1,10 @@
+{
+"tahoma": {
+    "distributable": false,
+    "fallback": "andika",
+    "family": "Tahoma",
+    "familyid": "tahoma",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

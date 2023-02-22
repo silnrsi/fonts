@@ -1,0 +1,10 @@
+{
+"arialblack": {
+    "distributable": false,
+    "fallback": "andika",
+    "family": "Arial Black",
+    "familyid": "arialblack",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

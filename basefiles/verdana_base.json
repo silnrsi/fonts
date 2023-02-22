@@ -1,0 +1,10 @@
+{
+"verdana": {
+    "distributable": false,
+    "fallback": "andika",
+    "family": "Verdana",
+    "familyid": "verdana",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

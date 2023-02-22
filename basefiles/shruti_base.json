@@ -1,0 +1,10 @@
+{
+"shruti": {
+    "distributable": false,
+    "fallback": "notosansgujarati",
+    "family": "Shruti",
+    "familyid": "shruti",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

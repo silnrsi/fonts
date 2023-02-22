@@ -1,0 +1,10 @@
+{
+"kartika": {
+    "distributable": false,
+    "fallback": "bailey",
+    "family": "Kartika",
+    "familyid": "kartika",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

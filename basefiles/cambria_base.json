@@ -1,0 +1,10 @@
+{
+"cambria": {
+    "distributable": false,
+    "fallback": "charissil",
+    "family": "Cambria",
+    "familyid": "cambria",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

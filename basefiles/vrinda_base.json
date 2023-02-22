@@ -1,0 +1,10 @@
+{
+"vrinda": {
+    "distributable": false,
+    "fallback": "notoserifbengali",
+    "family": "Vrinda",
+    "familyid": "vrinda",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

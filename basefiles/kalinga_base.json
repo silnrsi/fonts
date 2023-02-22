@@ -1,0 +1,10 @@
+{
+"kalinga": {
+    "distributable": false,
+    "fallback": "japasansoriya",
+    "family": "Kalinga",
+    "familyid": "kalinga",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

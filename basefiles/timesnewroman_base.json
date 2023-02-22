@@ -1,0 +1,10 @@
+{
+"timesnewroman": {
+    "distributable": false,
+    "fallback": "doulossil",
+    "family": "Times New Roman",
+    "familyid": "timesnewroman",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

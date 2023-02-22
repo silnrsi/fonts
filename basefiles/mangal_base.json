@@ -1,0 +1,10 @@
+{
+"mangal": {
+    "distributable": false,
+    "fallback": "annapurnasil",
+    "family": "Mangal",
+    "familyid": "mangal",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

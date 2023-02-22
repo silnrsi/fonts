@@ -1,0 +1,10 @@
+{
+"microsofthimalaya": {
+    "distributable": false,
+    "fallback": "notoseriftibetan",
+    "family": "Microsoft Himalaya",
+    "familyid": "microsofthimalaya",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}

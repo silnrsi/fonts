@@ -1,0 +1,10 @@
+{
+"raavi": {
+    "distributable": false,
+    "fallback": "notosansgurmukhi",
+    "family": "Raavi",
+    "familyid": "raavi",
+    "license": "proprietary",
+    "source": "Microsoft"
+}
+}
