@@ -7,7 +7,7 @@
     "family": "Noto Sans Yi",
     "familyid": "notosansyi",
     "files": {
-        "NotoSansYi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansYi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansYi/full/ttf/NotoSansYi-Regular.ttf", "zippath": "NotoSansYi/full/ttf/NotoSansYi-Regular.ttf" }
+        "NotoSansYi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansYi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansYi/full/ttf/NotoSansYi-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/yi/releases/download/NotoSansYi-v2.002/NotoSansYi-v2.002.zip",
@@ -15,6 +15,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.002",
-    "ziproot": "NotoSansYi"
+    "ziproot": "fonts"
 }
 }

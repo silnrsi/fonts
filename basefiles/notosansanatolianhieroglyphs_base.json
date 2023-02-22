@@ -7,7 +7,7 @@
     "family": "Noto Sans Anatolian Hieroglyphs",
     "familyid": "notosansanatolianhieroglyphs",
     "files": {
-        "NotoSansAnatolianHieroglyphs-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansAnatolianHieroglyphs-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansAnatolianHieroglyphs/full/ttf/NotoSansAnatolianHieroglyphs-Regular.ttf", "zippath": "NotoSansAnatolianHieroglyphs/full/ttf/NotoSansAnatolianHieroglyphs-Regular.ttf" }
+        "NotoSansAnatolianHieroglyphs-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansAnatolianHieroglyphs-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansAnatolianHieroglyphs/full/ttf/NotoSansAnatolianHieroglyphs-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/anatolian-hieroglyphs/releases/download/NotoSansAnatolianHieroglyphs-v2.001/NotoSansAnatolianHieroglyphs-v2.001.zip",
@@ -15,6 +15,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.001",
-    "ziproot": "NotoSansAnatolianHieroglyphs"
+    "ziproot": "fonts"
 }
 }

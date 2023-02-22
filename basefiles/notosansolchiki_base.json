@@ -7,10 +7,10 @@
     "family": "Noto Sans Ol Chiki",
     "familyid": "notosansolchiki",
     "files": {
-        "NotoSansOlChiki-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansOlChiki-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOlChiki/full/ttf/NotoSansOlChiki-Bold.ttf", "zippath": "NotoSansOlChiki/full/ttf/NotoSansOlChiki-Bold.ttf" },
-        "NotoSansOlChiki-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansOlChiki-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOlChiki/full/ttf/NotoSansOlChiki-Medium.ttf", "zippath": "NotoSansOlChiki/full/ttf/NotoSansOlChiki-Medium.ttf" },
-        "NotoSansOlChiki-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOlChiki-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOlChiki/full/ttf/NotoSansOlChiki-Regular.ttf", "zippath": "NotoSansOlChiki/full/ttf/NotoSansOlChiki-Regular.ttf" },
-        "NotoSansOlChiki-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansOlChiki-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOlChiki/full/ttf/NotoSansOlChiki-SemiBold.ttf", "zippath": "NotoSansOlChiki/full/ttf/NotoSansOlChiki-SemiBold.ttf" }
+        "NotoSansOlChiki-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansOlChiki-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOlChiki/full/ttf/NotoSansOlChiki-Bold.ttf" },
+        "NotoSansOlChiki-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansOlChiki-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOlChiki/full/ttf/NotoSansOlChiki-Medium.ttf" },
+        "NotoSansOlChiki-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOlChiki-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOlChiki/full/ttf/NotoSansOlChiki-Regular.ttf" },
+        "NotoSansOlChiki-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansOlChiki-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOlChiki/full/ttf/NotoSansOlChiki-SemiBold.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/ol-chiki/releases/download/NotoSansOlChiki-v2.003/NotoSansOlChiki-v2.003.zip",
@@ -18,6 +18,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.003",
-    "ziproot": "NotoSansOlChiki"
+    "ziproot": "fonts"
 }
 }

@@ -7,10 +7,10 @@
     "family": "Noto Naskh Arabic UI",
     "familyid": "notonaskharabicui",
     "files": {
-        "NotoNaskhArabicUI-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoNaskhArabicUI-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-Bold.ttf", "zippath": "NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-Bold.ttf" },
-        "NotoNaskhArabicUI-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoNaskhArabicUI-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-Medium.ttf", "zippath": "NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-Medium.ttf" },
-        "NotoNaskhArabicUI-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoNaskhArabicUI-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-Regular.ttf", "zippath": "NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-Regular.ttf" },
-        "NotoNaskhArabicUI-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoNaskhArabicUI-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-SemiBold.ttf", "zippath": "NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-SemiBold.ttf" }
+        "NotoNaskhArabicUI-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoNaskhArabicUI-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-Bold.ttf" },
+        "NotoNaskhArabicUI-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoNaskhArabicUI-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-Medium.ttf" },
+        "NotoNaskhArabicUI-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoNaskhArabicUI-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-Regular.ttf" },
+        "NotoNaskhArabicUI-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoNaskhArabicUI-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-SemiBold.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/arabic/releases/download/NotoNaskhArabicUI-v2.014/NotoNaskhArabicUI-v2.014.zip",
@@ -18,6 +18,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.014",
-    "ziproot": "NotoNaskhArabicUI"
+    "ziproot": "fonts"
 }
 }

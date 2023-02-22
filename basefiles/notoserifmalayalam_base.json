@@ -7,15 +7,15 @@
     "family": "Noto Serif Malayalam",
     "familyid": "notoserifmalayalam",
     "files": {
-        "NotoSerifMalayalam-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Black.ttf", "zippath": "NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Black.ttf" },
-        "NotoSerifMalayalam-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Bold.ttf", "zippath": "NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Bold.ttf" },
-        "NotoSerifMalayalam-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-ExtraBold.ttf", "zippath": "NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-ExtraBold.ttf" },
-        "NotoSerifMalayalam-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-ExtraLight.ttf", "zippath": "NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-ExtraLight.ttf" },
-        "NotoSerifMalayalam-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Light.ttf", "zippath": "NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Light.ttf" },
-        "NotoSerifMalayalam-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Medium.ttf", "zippath": "NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Medium.ttf" },
-        "NotoSerifMalayalam-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Regular.ttf", "zippath": "NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Regular.ttf" },
-        "NotoSerifMalayalam-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-SemiBold.ttf", "zippath": "NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-SemiBold.ttf" },
-        "NotoSerifMalayalam-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Thin.ttf", "zippath": "NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Thin.ttf" }
+        "NotoSerifMalayalam-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Black.ttf" },
+        "NotoSerifMalayalam-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Bold.ttf" },
+        "NotoSerifMalayalam-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-ExtraBold.ttf" },
+        "NotoSerifMalayalam-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-ExtraLight.ttf" },
+        "NotoSerifMalayalam-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Light.ttf" },
+        "NotoSerifMalayalam-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Medium.ttf" },
+        "NotoSerifMalayalam-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Regular.ttf" },
+        "NotoSerifMalayalam-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-SemiBold.ttf" },
+        "NotoSerifMalayalam-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifMalayalam-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMalayalam/full/ttf/NotoSerifMalayalam-Thin.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/malayalam/releases/download/NotoSerifMalayalam-v2.103/NotoSerifMalayalam-v2.103.zip",
@@ -23,6 +23,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.103",
-    "ziproot": "NotoSerifMalayalam"
+    "ziproot": "fonts"
 }
 }

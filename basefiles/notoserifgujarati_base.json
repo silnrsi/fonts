@@ -7,15 +7,15 @@
     "family": "Noto Serif Gujarati",
     "familyid": "notoserifgujarati",
     "files": {
-        "NotoSerifGujarati-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Black.ttf", "zippath": "NotoSerifGujarati/full/ttf/NotoSerifGujarati-Black.ttf" },
-        "NotoSerifGujarati-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Bold.ttf", "zippath": "NotoSerifGujarati/full/ttf/NotoSerifGujarati-Bold.ttf" },
-        "NotoSerifGujarati-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSerifGujarati-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-ExtraBold.ttf", "zippath": "NotoSerifGujarati/full/ttf/NotoSerifGujarati-ExtraBold.ttf" },
-        "NotoSerifGujarati-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSerifGujarati-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-ExtraLight.ttf", "zippath": "NotoSerifGujarati/full/ttf/NotoSerifGujarati-ExtraLight.ttf" },
-        "NotoSerifGujarati-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Light.ttf", "zippath": "NotoSerifGujarati/full/ttf/NotoSerifGujarati-Light.ttf" },
-        "NotoSerifGujarati-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Medium.ttf", "zippath": "NotoSerifGujarati/full/ttf/NotoSerifGujarati-Medium.ttf" },
-        "NotoSerifGujarati-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Regular.ttf", "zippath": "NotoSerifGujarati/full/ttf/NotoSerifGujarati-Regular.ttf" },
-        "NotoSerifGujarati-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifGujarati-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-SemiBold.ttf", "zippath": "NotoSerifGujarati/full/ttf/NotoSerifGujarati-SemiBold.ttf" },
-        "NotoSerifGujarati-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Thin.ttf", "zippath": "NotoSerifGujarati/full/ttf/NotoSerifGujarati-Thin.ttf" }
+        "NotoSerifGujarati-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Black.ttf" },
+        "NotoSerifGujarati-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Bold.ttf" },
+        "NotoSerifGujarati-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSerifGujarati-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-ExtraBold.ttf" },
+        "NotoSerifGujarati-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSerifGujarati-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-ExtraLight.ttf" },
+        "NotoSerifGujarati-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Light.ttf" },
+        "NotoSerifGujarati-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Medium.ttf" },
+        "NotoSerifGujarati-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Regular.ttf" },
+        "NotoSerifGujarati-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifGujarati-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-SemiBold.ttf" },
+        "NotoSerifGujarati-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Thin.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/gujarati/releases/download/NotoSerifGujarati-v2.102/NotoSerifGujarati-v2.102.zip",
@@ -23,6 +23,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.102",
-    "ziproot": "NotoSerifGujarati"
+    "ziproot": "fonts"
 }
 }

@@ -7,7 +7,7 @@
     "family": "Noto Sans Miao",
     "familyid": "notosansmiao",
     "files": {
-        "NotoSansMiao-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMiao-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMiao/full/ttf/NotoSansMiao-Regular.ttf", "zippath": "NotoSansMiao/full/ttf/NotoSansMiao-Regular.ttf" }
+        "NotoSansMiao-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMiao-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMiao/full/ttf/NotoSansMiao-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/miao/releases/download/NotoSansMiao-v2.003/NotoSansMiao-v2.003.zip",
@@ -15,6 +15,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.003",
-    "ziproot": "NotoSansMiao"
+    "ziproot": "fonts"
 }
 }

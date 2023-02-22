@@ -7,10 +7,10 @@
     "family": "Noto Sans Tai Tham",
     "familyid": "notosanstaitham",
     "files": {
-        "NotoSansTaiTham-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansTaiTham-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiTham/full/ttf/NotoSansTaiTham-Bold.ttf", "zippath": "NotoSansTaiTham/full/ttf/NotoSansTaiTham-Bold.ttf" },
-        "NotoSansTaiTham-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansTaiTham-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiTham/full/ttf/NotoSansTaiTham-Medium.ttf", "zippath": "NotoSansTaiTham/full/ttf/NotoSansTaiTham-Medium.ttf" },
-        "NotoSansTaiTham-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansTaiTham-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiTham/full/ttf/NotoSansTaiTham-Regular.ttf", "zippath": "NotoSansTaiTham/full/ttf/NotoSansTaiTham-Regular.ttf" },
-        "NotoSansTaiTham-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansTaiTham-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiTham/full/ttf/NotoSansTaiTham-SemiBold.ttf", "zippath": "NotoSansTaiTham/full/ttf/NotoSansTaiTham-SemiBold.ttf" }
+        "NotoSansTaiTham-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansTaiTham-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiTham/full/ttf/NotoSansTaiTham-Bold.ttf" },
+        "NotoSansTaiTham-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansTaiTham-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiTham/full/ttf/NotoSansTaiTham-Medium.ttf" },
+        "NotoSansTaiTham-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansTaiTham-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiTham/full/ttf/NotoSansTaiTham-Regular.ttf" },
+        "NotoSansTaiTham-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansTaiTham-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiTham/full/ttf/NotoSansTaiTham-SemiBold.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/tai-tham/releases/download/NotoSansTaiTham-v2.002/NotoSansTaiTham-v2.002.zip",
@@ -18,6 +18,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.002",
-    "ziproot": "NotoSansTaiTham"
+    "ziproot": "fonts"
 }
 }

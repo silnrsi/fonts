@@ -7,7 +7,7 @@
     "family": "Noto Sans Phags Pa",
     "familyid": "notosansphagspa",
     "files": {
-        "NotoSansPhags-Pa-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansPhags-Pa-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansPhagsPa/full/ttf/NotoSansPhags-Pa-Regular.ttf", "zippath": "NotoSansPhagsPa/full/ttf/NotoSansPhags-Pa-Regular.ttf" }
+        "NotoSansPhags-Pa-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansPhags-Pa-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansPhagsPa/full/ttf/NotoSansPhags-Pa-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/phags-pa/releases/download/NotoSansPhagsPa-v2.003/NotoSansPhagsPa-v2.003.zip",
@@ -15,6 +15,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.003",
-    "ziproot": "NotoSansPhagsPa"
+    "ziproot": "fonts"
 }
 }

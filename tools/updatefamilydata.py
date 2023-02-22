@@ -16,7 +16,7 @@ argspec = [('-l','--log',{'help': 'Log file'}, {'type': 'outfile', 'def': 'updat
 '''
 
 headers = ['type', 'familyid', 'family', 'fallback', 'version', 'siteurl', 'packageurl', 'source', 'license', 'status', 'defaults/ttf', 'defaults/woff', 'defaults/woff2', 'hosturl', 'filesroot']
-fields =          ['familyid', 'family', 'fallback', 'version', 'siteurl', 'packageurl', 'source', 'license', 'status', 'defaults',                                        'hosturl', 'filesroot']
+fields =  ['familyid', 'family', 'fallback', 'version', 'siteurl', 'packageurl', 'source', 'license', 'status', 'defaults', 'hosturl', 'filesroot']
 
 def doit(args):
     logger = args.logger
@@ -72,13 +72,14 @@ def doit(args):
                 ziproot = (ziproot + "/") if ziproot is not None  and ziproot != "" else ""
                 filerec['url'] = f'https://github.com/silnrsi/fonts/raw/main/fonts/{subpath}'
                 filerec['flourl'] = f'https://fonts.languagetechnology.org/fonts/{subpath}'
-                filerec['zippath'] = f'{ziproot}{subpath}'
+                filerec['zippath'] = f'{ziproot}{filerec["packagepath"]}'
         else: #Need to add zippath to files when there is a ziproot
-            if 'files' in fdata and 'ziproot' in fdata:
+            if 'files' in fdata and 'packageurl' in fdata:
                 files = fdata["files"]
                 for filen in files:
                     filerec = files[filen]
-                    subpath = f'{familytype}/{familyid}/{filerec["packagepath"]}'
+                    #subpath = f'{familytype}/{familyid}/{filerec["packagepath"]}'
+                    subpath = filerec["packagepath"]
                     ziproot = fdata.get('ziproot', None)
                     ziproot = (ziproot + "/") if ziproot is not None and ziproot != "" else ""
                     filerec['zippath'] = f'{ziproot}{subpath}'
@@ -91,11 +92,7 @@ def doit(args):
 
     return
 
-
-
-
-
-
+    # These should be enabled via command line options rather than via code editing
     # Write the base file out
     bname = os.path.join(outdir, familyid + "_base" + bext)
     basefile.write(bname)
@@ -104,8 +101,6 @@ def doit(args):
     filename = os.path.join(fontspath, "local", "createbasefilesresults.csv")
     with open(filename, "w", encoding="utf-8") as outf:
         for line in resultssummary: outf.write(line + "\n")
-
-    return
 
 
 def cmd(): execute("", doit, argspec)

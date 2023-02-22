@@ -7,7 +7,7 @@
     "family": "Noto Sans Tai Viet",
     "familyid": "notosanstaiviet",
     "files": {
-        "NotoSansTaiViet-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansTaiViet-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiViet/full/ttf/NotoSansTaiViet-Regular.ttf", "zippath": "NotoSansTaiViet/full/ttf/NotoSansTaiViet-Regular.ttf" }
+        "NotoSansTaiViet-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansTaiViet-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTaiViet/full/ttf/NotoSansTaiViet-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/tai-viet/releases/download/NotoSansTaiViet-v2.003/NotoSansTaiViet-v2.003.zip",
@@ -15,6 +15,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.003",
-    "ziproot": "NotoSansTaiViet"
+    "ziproot": "fonts"
 }
 }

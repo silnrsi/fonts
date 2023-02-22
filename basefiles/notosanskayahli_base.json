@@ -7,10 +7,10 @@
     "family": "Noto Sans Kayah Li",
     "familyid": "notosanskayahli",
     "files": {
-        "NotoSansKayahLi-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansKayahLi-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKayahLi/full/ttf/NotoSansKayahLi-Bold.ttf", "zippath": "NotoSansKayahLi/full/ttf/NotoSansKayahLi-Bold.ttf" },
-        "NotoSansKayahLi-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansKayahLi-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKayahLi/full/ttf/NotoSansKayahLi-Medium.ttf", "zippath": "NotoSansKayahLi/full/ttf/NotoSansKayahLi-Medium.ttf" },
-        "NotoSansKayahLi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansKayahLi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKayahLi/full/ttf/NotoSansKayahLi-Regular.ttf", "zippath": "NotoSansKayahLi/full/ttf/NotoSansKayahLi-Regular.ttf" },
-        "NotoSansKayahLi-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansKayahLi-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKayahLi/full/ttf/NotoSansKayahLi-SemiBold.ttf", "zippath": "NotoSansKayahLi/full/ttf/NotoSansKayahLi-SemiBold.ttf" }
+        "NotoSansKayahLi-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansKayahLi-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKayahLi/full/ttf/NotoSansKayahLi-Bold.ttf" },
+        "NotoSansKayahLi-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansKayahLi-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKayahLi/full/ttf/NotoSansKayahLi-Medium.ttf" },
+        "NotoSansKayahLi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansKayahLi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKayahLi/full/ttf/NotoSansKayahLi-Regular.ttf" },
+        "NotoSansKayahLi-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansKayahLi-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKayahLi/full/ttf/NotoSansKayahLi-SemiBold.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/kayah-li/releases/download/NotoSansKayahLi-v2.002/NotoSansKayahLi-v2.002.zip",
@@ -18,6 +18,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.002",
-    "ziproot": "NotoSansKayahLi"
+    "ziproot": "fonts"
 }
 }

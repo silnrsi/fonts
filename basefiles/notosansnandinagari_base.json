@@ -7,7 +7,7 @@
     "family": "Noto Sans Nandinagari",
     "familyid": "notosansnandinagari",
     "files": {
-        "NotoSansNandinagari-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansNandinagari-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNandinagari/full/ttf/NotoSansNandinagari-Regular.ttf", "zippath": "NotoSansNandinagari/full/ttf/NotoSansNandinagari-Regular.ttf" }
+        "NotoSansNandinagari-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansNandinagari-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNandinagari/full/ttf/NotoSansNandinagari-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/nandinagari/releases/download/NotoSansNandinagari-v1.001/NotoSansNandinagari-v1.001.zip",
@@ -15,6 +15,6 @@
     "source": "Google",
     "status": "current",
     "version": "1.001",
-    "ziproot": "NotoSansNandinagari"
+    "ziproot": "fonts"
 }
 }

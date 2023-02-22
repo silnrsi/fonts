@@ -7,10 +7,10 @@
     "family": "Noto Serif Toto",
     "familyid": "notoseriftoto",
     "files": {
-        "NotoSerifToto-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifToto-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifToto/full/ttf/NotoSerifToto-Bold.ttf", "zippath": "NotoSerifToto/full/ttf/NotoSerifToto-Bold.ttf" },
-        "NotoSerifToto-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifToto-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifToto/full/ttf/NotoSerifToto-Medium.ttf", "zippath": "NotoSerifToto/full/ttf/NotoSerifToto-Medium.ttf" },
-        "NotoSerifToto-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifToto-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifToto/full/ttf/NotoSerifToto-Regular.ttf", "zippath": "NotoSerifToto/full/ttf/NotoSerifToto-Regular.ttf" },
-        "NotoSerifToto-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifToto-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifToto/full/ttf/NotoSerifToto-SemiBold.ttf", "zippath": "NotoSerifToto/full/ttf/NotoSerifToto-SemiBold.ttf" }
+        "NotoSerifToto-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifToto-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifToto/full/ttf/NotoSerifToto-Bold.ttf" },
+        "NotoSerifToto-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifToto-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifToto/full/ttf/NotoSerifToto-Medium.ttf" },
+        "NotoSerifToto-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifToto-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifToto/full/ttf/NotoSerifToto-Regular.ttf" },
+        "NotoSerifToto-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifToto-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifToto/full/ttf/NotoSerifToto-SemiBold.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/toto/releases/download/NotoSerifToto-v2.001/NotoSerifToto-v2.001.zip",
@@ -18,6 +18,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.001",
-    "ziproot": "NotoSerifToto"
+    "ziproot": "fonts"
 }
 }

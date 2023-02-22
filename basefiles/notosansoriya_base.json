@@ -7,18 +7,18 @@
     "family": "Noto Sans Oriya",
     "familyid": "notosansoriya",
     "files": {
-        "NotoSansOriya-Black.ttf": { "axes": { "wdth": 100, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansOriya-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Black.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-Black.ttf" },
-        "NotoSansOriya-Bold.ttf": { "axes": { "wdth": 100, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansOriya-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Bold.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-Bold.ttf" },
-        "NotoSansOriya-Condensed.ttf": { "axes": { "wdth": 75, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOriya-Condensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Condensed.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-Condensed.ttf" },
-        "NotoSansOriya-CondensedBlack.ttf": { "axes": { "wdth": 75, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansOriya-CondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-CondensedBlack.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-CondensedBlack.ttf" },
-        "NotoSansOriya-CondensedBold.ttf": { "axes": { "wdth": 75, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansOriya-CondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-CondensedBold.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-CondensedBold.ttf" },
-        "NotoSansOriya-CondensedThin.ttf": { "axes": { "wdth": 75, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansOriya-CondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-CondensedThin.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-CondensedThin.ttf" },
-        "NotoSansOriya-ExtraCondensed.ttf": { "axes": { "wdth": 62.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOriya-ExtraCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensed.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensed.ttf" },
-        "NotoSansOriya-ExtraCondensedBlack.ttf": { "axes": { "wdth": 62.5, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansOriya-ExtraCondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensedBlack.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensedBlack.ttf" },
-        "NotoSansOriya-ExtraCondensedBold.ttf": { "axes": { "wdth": 62.5, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansOriya-ExtraCondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensedBold.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensedBold.ttf" },
-        "NotoSansOriya-ExtraCondensedThin.ttf": { "axes": { "wdth": 62.5, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansOriya-ExtraCondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensedThin.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensedThin.ttf" },
-        "NotoSansOriya-Regular.ttf": { "axes": { "wdth": 100, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOriya-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Regular.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-Regular.ttf" },
-        "NotoSansOriya-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansOriya-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Thin.ttf", "zippath": "NotoSansOriya/full/ttf/NotoSansOriya-Thin.ttf" }
+        "NotoSansOriya-Black.ttf": { "axes": { "wdth": 100, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansOriya-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Black.ttf" },
+        "NotoSansOriya-Bold.ttf": { "axes": { "wdth": 100, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansOriya-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Bold.ttf" },
+        "NotoSansOriya-Condensed.ttf": { "axes": { "wdth": 75, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOriya-Condensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Condensed.ttf" },
+        "NotoSansOriya-CondensedBlack.ttf": { "axes": { "wdth": 75, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansOriya-CondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-CondensedBlack.ttf" },
+        "NotoSansOriya-CondensedBold.ttf": { "axes": { "wdth": 75, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansOriya-CondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-CondensedBold.ttf" },
+        "NotoSansOriya-CondensedThin.ttf": { "axes": { "wdth": 75, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansOriya-CondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-CondensedThin.ttf" },
+        "NotoSansOriya-ExtraCondensed.ttf": { "axes": { "wdth": 62.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOriya-ExtraCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensed.ttf" },
+        "NotoSansOriya-ExtraCondensedBlack.ttf": { "axes": { "wdth": 62.5, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansOriya-ExtraCondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensedBlack.ttf" },
+        "NotoSansOriya-ExtraCondensedBold.ttf": { "axes": { "wdth": 62.5, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansOriya-ExtraCondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensedBold.ttf" },
+        "NotoSansOriya-ExtraCondensedThin.ttf": { "axes": { "wdth": 62.5, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansOriya-ExtraCondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-ExtraCondensedThin.ttf" },
+        "NotoSansOriya-Regular.ttf": { "axes": { "wdth": 100, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOriya-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Regular.ttf" },
+        "NotoSansOriya-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansOriya-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Thin.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/oriya/releases/download/NotoSansOriya-v2.003/NotoSansOriya-v2.003.zip",
@@ -26,6 +26,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.003",
-    "ziproot": "NotoSansOriya"
+    "ziproot": "fonts"
 }
 }

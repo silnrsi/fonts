@@ -7,7 +7,7 @@
     "family": "Noto Sans Glagolitic",
     "familyid": "notosansglagolitic",
     "files": {
-        "NotoSansGlagolitic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansGlagolitic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGlagolitic/full/ttf/NotoSansGlagolitic-Regular.ttf", "zippath": "NotoSansGlagolitic/full/ttf/NotoSansGlagolitic-Regular.ttf" }
+        "NotoSansGlagolitic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansGlagolitic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGlagolitic/full/ttf/NotoSansGlagolitic-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/glagolitic/releases/download/NotoSansGlagolitic-v2.002/NotoSansGlagolitic-v2.002.zip",
@@ -15,6 +15,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.002",
-    "ziproot": "NotoSansGlagolitic"
+    "ziproot": "fonts"
 }
 }

@@ -7,8 +7,8 @@
     "family": "Noto Nastaliq Urdu",
     "familyid": "notonastaliqurdu",
     "files": {
-        "NotoNastaliqUrdu-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoNastaliqUrdu-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNastaliqUrdu/full/ttf/NotoNastaliqUrdu-Bold.ttf", "zippath": "NotoNastaliqUrdu/full/ttf/NotoNastaliqUrdu-Bold.ttf" },
-        "NotoNastaliqUrdu-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoNastaliqUrdu-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNastaliqUrdu/full/ttf/NotoNastaliqUrdu-Regular.ttf", "zippath": "NotoNastaliqUrdu/full/ttf/NotoNastaliqUrdu-Regular.ttf" }
+        "NotoNastaliqUrdu-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoNastaliqUrdu-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNastaliqUrdu/full/ttf/NotoNastaliqUrdu-Bold.ttf" },
+        "NotoNastaliqUrdu-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoNastaliqUrdu-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNastaliqUrdu/full/ttf/NotoNastaliqUrdu-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/nastaliq/releases/download/NotoNastaliqUrdu-v3.007/NotoNastaliqUrdu-v3.007.zip",
@@ -16,6 +16,6 @@
     "source": "Google",
     "status": "current",
     "version": "3.007",
-    "ziproot": "NotoNastaliqUrdu"
+    "ziproot": "fonts"
 }
 }

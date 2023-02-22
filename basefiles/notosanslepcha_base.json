@@ -7,7 +7,7 @@
     "family": "Noto Sans Lepcha",
     "familyid": "notosanslepcha",
     "files": {
-        "NotoSansLepcha-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansLepcha-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLepcha/full/ttf/NotoSansLepcha-Regular.ttf", "zippath": "NotoSansLepcha/full/ttf/NotoSansLepcha-Regular.ttf" }
+        "NotoSansLepcha-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansLepcha-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLepcha/full/ttf/NotoSansLepcha-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/lepcha/releases/download/NotoSansLepcha-v2.006/NotoSansLepcha-v2.006.zip",
@@ -15,6 +15,6 @@
     "source": "Google",
     "status": "current",
     "version": "2.006",
-    "ziproot": "NotoSansLepcha"
+    "ziproot": "fonts"
 }
 }
