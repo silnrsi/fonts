@@ -1,0 +1,14 @@
+{
+"charissileur": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Eur",
+    "familyid": "charissileur",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+}
+}

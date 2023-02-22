@@ -1,0 +1,14 @@
+{
+"gentiumplusam": {
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Am",
+    "familyid": "gentiumplusam",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+}
+}

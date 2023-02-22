@@ -157,6 +157,30 @@
     "version": "6.200",
     "ziproot": "Andika-6.200"
 },
+"andikaafr": {
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Afr",
+    "familyid": "andikaafr",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"andikaam": {
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Am",
+    "familyid": "andikaam",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "andikaamarea": {
     "defaults": {
         "ttf": "AndikaAmArea-Regular.ttf"
@@ -178,6 +202,18 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"andikaapac": {
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika APac",
+    "familyid": "andikaapac",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "andikabasic": {
     "distributable": true,
@@ -212,6 +248,42 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"andikacyr": {
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Cyr",
+    "familyid": "andikacyr",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"andikacyre": {
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika CyrE",
+    "familyid": "andikacyre",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"andikaeur": {
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Eur",
+    "familyid": "andikaeur",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "andikamali": {
     "defaults": {
@@ -253,6 +325,18 @@
     "family": "Andika New Basic AmArea",
     "familyid": "andikanewbasicamarea"
 },
+"andikaphon": {
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Phon",
+    "familyid": "andikaphon",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "andikaseb": {
     "distributable": true,
     "fallback": "andika",
@@ -280,6 +364,18 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"andikaviet": {
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika Viet",
+    "familyid": "andikaviet",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "angsananew": {
     "distributable": false,
@@ -529,6 +625,30 @@
     "version": "6.200",
     "ziproot": "CharisSIL-6.200"
 },
+"charissilafr": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Afr",
+    "familyid": "charissilafr",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"charissilam": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Am",
+    "familyid": "charissilam",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "charissilamarea": {
     "defaults": {
         "ttf": "CharisSILAmArea-Regular.ttf"
@@ -550,6 +670,18 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"charissilapac": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL APac",
+    "familyid": "charissilapac",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "charissilcompact": {
     "defaults": {
@@ -573,11 +705,47 @@
     "version": "6.200",
     "ziproot": ""
 },
+"charissilcyr": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Cyr",
+    "familyid": "charissilcyr",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"charissilcyre": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL CyrE",
+    "familyid": "charissilcyre",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "charissileng": {
     "distributable": true,
     "fallback": "charissil",
     "family": "Charis SIL Eng",
     "familyid": "charissileng"
+},
+"charissileur": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Eur",
+    "familyid": "charissileur",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "charissilghana": {
     "distributable": true,
@@ -679,6 +847,18 @@
     "version": "6.200",
     "ziproot": ""
 },
+"charissilphon": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Phon",
+    "familyid": "charissilphon",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "charissiltat": {
     "defaults": {
         "ttf": "CharisSILTat-Regular.ttf"
@@ -700,6 +880,18 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"charissilviet": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Viet",
+    "familyid": "charissilviet",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "couriernew": {
     "distributable": false,
@@ -867,6 +1059,30 @@
     "version": "6.200",
     "ziproot": "DoulosSIL-6.200"
 },
+"doulossilafr": {
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Afr",
+    "familyid": "doulossilafr",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"doulossilam": {
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Am",
+    "familyid": "doulossilam",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "doulossilamarea": {
     "defaults": {
         "ttf": "DoulosSILAmArea-Regular.ttf"
@@ -885,6 +1101,18 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"doulossilapac": {
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL APac",
+    "familyid": "doulossilapac",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "doulossilcipher": {
     "defaults": {
@@ -924,6 +1152,42 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"doulossilcyr": {
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Cyr",
+    "familyid": "doulossilcyr",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"doulossilcyre": {
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL CyrE",
+    "familyid": "doulossilcyre",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"doulossileur": {
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Eur",
+    "familyid": "doulossileur",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "doulossilliteracy": {
     "defaults": {
@@ -1001,6 +1265,18 @@
     "version": "6.200",
     "ziproot": ""
 },
+"doulossilphon": {
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Phon",
+    "familyid": "doulossilphon",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "doulossiltat": {
     "defaults": {
         "ttf": "DoulosSILTat-Regular.ttf"
@@ -1019,6 +1295,18 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"doulossilviet": {
+    "distributable": true,
+    "fallback": "doulossil",
+    "family": "Doulos SIL Viet",
+    "familyid": "doulossilviet",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "dukor": {
     "defaults": {
@@ -1446,6 +1734,30 @@
     "version": "6.200",
     "ziproot": "GentiumPlus-6.200"
 },
+"gentiumplusafr": {
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Afr",
+    "familyid": "gentiumplusafr",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"gentiumplusam": {
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Am",
+    "familyid": "gentiumplusam",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "gentiumplusamarea": {
     "defaults": {
         "ttf": "GentiumBookPlusAmArea-Regular.ttf"
@@ -1472,6 +1784,18 @@
     "version": "6.200",
     "ziproot": ""
 },
+"gentiumplusapac": {
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus APac",
+    "familyid": "gentiumplusapac",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "gentiumpluscompact": {
     "defaults": {
         "ttf": "GentiumBookPlusCompact-Regular.ttf"
@@ -1497,6 +1821,42 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"gentiumpluscyr": {
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Cyr",
+    "familyid": "gentiumpluscyr",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"gentiumpluscyre": {
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus CyrE",
+    "familyid": "gentiumpluscyre",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"gentiumpluseur": {
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Eur",
+    "familyid": "gentiumpluseur",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "gentiumpluslitamarea": {
     "defaults": {
@@ -1624,6 +1984,18 @@
     "version": "6.200",
     "ziproot": ""
 },
+"gentiumplusphon": {
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Phon",
+    "familyid": "gentiumplusphon",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "gentiumplustat": {
     "defaults": {
         "ttf": "GentiumPlusTat-Regular.ttf"
@@ -1649,6 +2021,18 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"gentiumplusviet": {
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium Plus Viet",
+    "familyid": "gentiumplusviet",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lcgfonts/CDGA_Subsets-5.000.zip",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "georgia": {
     "distributable": false,
