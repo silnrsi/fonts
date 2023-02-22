@@ -1,0 +1,14 @@
+{
+"shishanlpo": {
+    "distributable": true,
+    "fallback": "taogu",
+    "family": "ShiShan LPO",
+    "familyid": "shishanlpo",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shishan/ShiShan-LPO-1.100.zip",
+    "siteurl": "https://software.sil.org/shishan/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "1.100"
+}
+}

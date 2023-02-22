@@ -1,0 +1,33 @@
+{
+"sarabun": {
+    "defaults": {
+        "ttf": "Sarabun-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Sarabun",
+    "familyid": "sarabun",
+    "files": {
+        "Sarabun-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Sarabun-Bold.ttf" },
+        "Sarabun-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "Sarabun-BoldItalic.ttf" },
+        "Sarabun-ExtraBold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "Sarabun-ExtraBold.ttf" },
+        "Sarabun-ExtraBoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "Sarabun-ExtraBoldItalic.ttf" },
+        "Sarabun-ExtraLight.ttf": { "axes": { "ital": 0, "wght": 275.0 }, "packagepath": "Sarabun-ExtraLight.ttf" },
+        "Sarabun-ExtraLightItalic.ttf": { "axes": { "ital": 1, "wght": 275.0 }, "packagepath": "Sarabun-ExtraLightItalic.ttf" },
+        "Sarabun-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "Sarabun-Italic.ttf" },
+        "Sarabun-Light.ttf": { "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Sarabun-Light.ttf" },
+        "Sarabun-LightItalic.ttf": { "axes": { "ital": 1, "wght": 300.0 }, "packagepath": "Sarabun-LightItalic.ttf" },
+        "Sarabun-Medium.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Sarabun-Medium.ttf" },
+        "Sarabun-MediumItalic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "Sarabun-MediumItalic.ttf" },
+        "Sarabun-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Sarabun-Regular.ttf" },
+        "Sarabun-SemiBold.ttf": { "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Sarabun-SemiBold.ttf" },
+        "Sarabun-SemiBoldItalic.ttf": { "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "Sarabun-SemiBoldItalic.ttf" },
+        "Sarabun-Thin.ttf": { "axes": { "ital": 0, "wght": 250.0 }, "packagepath": "Sarabun-Thin.ttf" },
+        "Sarabun-ThinItalic.ttf": { "axes": { "ital": 1, "wght": 250.0 }, "packagepath": "Sarabun-ThinItalic.ttf" }
+    },
+    "hosturl": "https://github.com/google/fonts/tree/main/ofl/sarabun",
+    "license": "OFL",
+    "siteurl": "https://fonts.google.com/specimen/Sarabun",
+    "source": "Google",
+    "version": "1.000"
+}
+}

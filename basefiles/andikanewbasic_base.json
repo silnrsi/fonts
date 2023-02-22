@@ -1,0 +1,14 @@
+{
+"andikanewbasic": {
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika New Basic",
+    "familyid": "andikanewbasic",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/andika/AndikaNewBasic-5.500-web.zip",
+    "siteurl": "https://software.sil.org/andika/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.500"
+}
+}

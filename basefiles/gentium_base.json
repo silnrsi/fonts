@@ -1,0 +1,14 @@
+{
+"gentium": {
+    "distributable": true,
+    "fallback": "gentiumplus",
+    "family": "Gentium",
+    "familyid": "gentium",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/gentium/Gentium-1.03.zip",
+    "siteurl": "https://software.sil.org/gentium/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "1.030"
+}
+}

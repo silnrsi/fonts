@@ -1,0 +1,14 @@
+{
+"shishan": {
+    "distributable": true,
+    "fallback": "shimenkan",
+    "family": "ShiShan",
+    "familyid": "shishan",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shishan/ShiShan-HMD-1.100.zip",
+    "siteurl": "https://software.sil.org/shishan/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "1.100"
+}
+}

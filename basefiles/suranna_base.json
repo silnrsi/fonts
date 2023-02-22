@@ -1,0 +1,19 @@
+{
+"suranna": {
+    "defaults": {
+        "ttf": "Suranna-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "notoseriftelugu",
+    "family": "Suranna",
+    "familyid": "suranna",
+    "files": {
+        "Suranna-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Suranna-Regular.ttf" }
+    },
+    "hosturl": "https://github.com/google/fonts/tree/main/ofl/suranna",
+    "license": "OFL",
+    "siteurl": "https://fonts.google.com/specimen/Suranna",
+    "source": "Google",
+    "version": "1.0.5"
+}
+}

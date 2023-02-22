@@ -1,0 +1,14 @@
+{
+"silvai": {
+    "distributable": true,
+    "fallback": "wakor",
+    "family": "SIL Vai",
+    "familyid": "silvai",
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/cms/scripts/render_download.php?format=file&media_id=SILVai32OFL_zip&filename=SILVaiOFL3.2.zip",
+    "siteurl": "https://scripts.sil.org/SILVai_Download",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "3.200"
+}
+}

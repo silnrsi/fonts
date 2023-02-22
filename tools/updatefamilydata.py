@@ -40,6 +40,7 @@ def doit(args):
             continue
         familyid = base.id
         fdata = {x: base.data[x] for x in base.data}
+
         logger.log(f'Processing {familyid}', "P")
         if familyid in silfamilies + otherfamilies: # Has folder in the fonts repo so font manifest is required
             if familyid in silfamilies:

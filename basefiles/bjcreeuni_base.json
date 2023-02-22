@@ -1,0 +1,18 @@
+{
+"bjcreeuni": {
+    "defaults": {
+        "ttf": "bjcrus.ttf"
+    },
+    "distributable": true,
+    "fallback": "notosanscanadianaboriginal",
+    "family": "BJCree UNI",
+    "familyid": "bjcreeuni",
+    "files": {
+        "bjcrus.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "bjcrus.ttf" }
+    },
+    "hosturl": "https://www.eastcree.org/downloads/",
+    "license": "shareware",
+    "siteurl": "https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/",
+    "version": "2.000"
+}
+}

@@ -1,0 +1,14 @@
+{
+"apparatussil": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Apparatus SIL",
+    "familyid": "apparatussil",
+    "license": "OFL",
+    "packageurl": "https://scripts.sil.org/cms/scripts/render_download.php?format=file&media_id=AppSIL1.0.zip&filename=ApparatusSIL.zip",
+    "siteurl": "https://scripts.sil.org/ApparatusSIL",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "1.000"
+}
+}

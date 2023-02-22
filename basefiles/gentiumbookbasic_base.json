@@ -1,0 +1,14 @@
+{
+"gentiumbookbasic": {
+    "distributable": true,
+    "fallback": "gentiumbookplus",
+    "family": "Gentium Book Basic",
+    "familyid": "gentiumbookbasic",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/gentium/GentiumBasic_1102.zip",
+    "siteurl": "https://software.sil.org/gentium/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "1.102"
+}
+}
