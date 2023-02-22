@@ -97,7 +97,7 @@
     "siteurl": "https://software.sil.org/alkalami/",
     "source": "SIL",
     "status": "current",
-    "version": "2.000",
+    "version": "3.000",
     "ziproot": "Alkalami-2.000"
 },
 "alkalamilight": {
@@ -573,7 +573,6 @@
     "files": {
         "bjcrus.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "bjcrus.ttf" }
     },
-    "hosturl": "https://www.eastcree.org/downloads/",
     "license": "shareware",
     "siteurl": "https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/",
     "version": "2.000"
@@ -7151,16 +7150,25 @@
     "family": "Ruwudu",
     "familyid": "ruwudu",
     "files": {
+        "Ruwudu-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/Ruwudu-Bold.ttf", "packagepath": "Ruwudu-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/Ruwudu-Bold.ttf", "zippath": "Ruwudu-2.000/Ruwudu-Bold.ttf" },
+        "Ruwudu-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-Bold.woff", "packagepath": "web/Ruwudu-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/web/Ruwudu-Bold.woff", "zippath": "Ruwudu-2.000/web/Ruwudu-Bold.woff" },
+        "Ruwudu-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-Bold.woff2", "packagepath": "web/Ruwudu-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/web/Ruwudu-Bold.woff2", "zippath": "Ruwudu-2.000/web/Ruwudu-Bold.woff2" },
+        "Ruwudu-Medium.ttf": { "altfamily": "Ruwudu Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/Ruwudu-Medium.ttf", "packagepath": "Ruwudu-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/Ruwudu-Medium.ttf", "zippath": "Ruwudu-2.000/Ruwudu-Medium.ttf" },
+        "Ruwudu-Medium.woff": { "altfamily": "Ruwudu Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-Medium.woff", "packagepath": "web/Ruwudu-Medium.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/web/Ruwudu-Medium.woff", "zippath": "Ruwudu-2.000/web/Ruwudu-Medium.woff" },
+        "Ruwudu-Medium.woff2": { "altfamily": "Ruwudu Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-Medium.woff2", "packagepath": "web/Ruwudu-Medium.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/web/Ruwudu-Medium.woff2", "zippath": "Ruwudu-2.000/web/Ruwudu-Medium.woff2" },
         "Ruwudu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/Ruwudu-Regular.ttf", "packagepath": "Ruwudu-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/Ruwudu-Regular.ttf", "zippath": "Ruwudu-2.000/Ruwudu-Regular.ttf" },
         "Ruwudu-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-Regular.woff", "packagepath": "web/Ruwudu-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/web/Ruwudu-Regular.woff", "zippath": "Ruwudu-2.000/web/Ruwudu-Regular.woff" },
-        "Ruwudu-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-Regular.woff2", "packagepath": "web/Ruwudu-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/web/Ruwudu-Regular.woff2", "zippath": "Ruwudu-2.000/web/Ruwudu-Regular.woff2" }
+        "Ruwudu-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-Regular.woff2", "packagepath": "web/Ruwudu-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/web/Ruwudu-Regular.woff2", "zippath": "Ruwudu-2.000/web/Ruwudu-Regular.woff2" },
+        "Ruwudu-SemiBold.ttf": { "altfamily": "Ruwudu SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/Ruwudu-SemiBold.ttf", "packagepath": "Ruwudu-SemiBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/Ruwudu-SemiBold.ttf", "zippath": "Ruwudu-2.000/Ruwudu-SemiBold.ttf" },
+        "Ruwudu-SemiBold.woff": { "altfamily": "Ruwudu SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-SemiBold.woff", "packagepath": "web/Ruwudu-SemiBold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/web/Ruwudu-SemiBold.woff", "zippath": "Ruwudu-2.000/web/Ruwudu-SemiBold.woff" },
+        "Ruwudu-SemiBold.woff2": { "altfamily": "Ruwudu SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-SemiBold.woff2", "packagepath": "web/Ruwudu-SemiBold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ruwudu/web/Ruwudu-SemiBold.woff2", "zippath": "Ruwudu-2.000/web/Ruwudu-SemiBold.woff2" }
     },
     "license": "OFL",
     "packageurl": "https://software.sil.org/downloads/r/ruwudu/Ruwudu-2.000.zip",
     "siteurl": "https://software.sil.org/ruwudu/",
     "source": "SIL",
     "status": "current",
-    "version": "2.000",
+    "version": "3.000",
     "ziproot": "Ruwudu-2.000"
 },
 "sarabun": {
@@ -7188,7 +7196,6 @@
         "Sarabun-Thin.ttf": { "axes": { "ital": 0, "wght": 250.0 }, "packagepath": "Sarabun-Thin.ttf" },
         "Sarabun-ThinItalic.ttf": { "axes": { "ital": 1, "wght": 250.0 }, "packagepath": "Sarabun-ThinItalic.ttf" }
     },
-    "hosturl": "https://github.com/google/fonts/tree/main/ofl/sarabun",
     "license": "OFL",
     "siteurl": "https://fonts.google.com/specimen/Sarabun",
     "source": "Google",
@@ -7464,7 +7471,6 @@
     "files": {
         "Suranna-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Suranna-Regular.ttf" }
     },
-    "hosturl": "https://github.com/google/fonts/tree/main/ofl/suranna",
     "license": "OFL",
     "siteurl": "https://fonts.google.com/specimen/Suranna",
     "source": "Google",

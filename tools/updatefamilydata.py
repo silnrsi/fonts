@@ -39,7 +39,7 @@ def doit(args):
             logger.log(f'{basename} invalid so skipped')
             continue
         familyid = base.id
-        fdata = {x: base.data[x] for x in base.data}
+        fdata = {x: base.data[x] for x in base.data if x not in ("hosturl", "filesroot")} # hosturl and filesroot are in base files but not families.json
 
         logger.log(f'Processing {familyid}', "P")
         if familyid in silfamilies + otherfamilies: # Has folder in the fonts repo so font manifest is required
