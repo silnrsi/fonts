@@ -177,6 +177,18 @@
     "version": "6.200",
     "ziproot": ""
 },
+"andikanewbasicamarea": {
+    "distributable": true,
+    "fallback": "andikaamarea",
+    "family": "Andika New Basic AmArea",
+    "familyid": "andikanewbasicamarea"
+},
+"andikaseb": {
+    "distributable": true,
+    "fallback": "andika",
+    "family": "Andika SEB",
+    "familyid": "andikaseb"
+},
 "andikatat": {
     "defaults": {
         "ttf": "AndikaTat-Regular.ttf"
@@ -228,6 +240,12 @@
     "status": "current",
     "version": "1.204",
     "ziproot": "AnnapurnaSIL-1.204"
+},
+"annapurnasilkham": {
+    "distributable": true,
+    "fallback": "annapurnasil",
+    "family": "Annapurna SIL Kham",
+    "familyid": "annapurnasilkham"
 },
 "annapurnasilnepal": {
     "defaults": {
@@ -456,6 +474,24 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"charissileng": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Eng",
+    "familyid": "charissileng"
+},
+"charissilghana": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Ghana",
+    "familyid": "charissilghana"
+},
+"charissilguinea": {
+    "distributable": true,
+    "fallback": "charissil",
+    "family": "Charis SIL Guinea",
+    "familyid": "charissilguinea"
 },
 "charissilliteracy": {
     "defaults": {
@@ -1082,6 +1118,28 @@
     "version": "6.200",
     "ziproot": ""
 },
+"gentiumbookplusliteracyamarea": {
+    "distributable": true,
+    "fallback": "gentiumbookpluslitamarea",
+    "family": "Gentium Book Plus Literacy AmArea",
+    "familyid": "gentiumbookplusliteracyamarea",
+    "license": "OFL",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"gentiumbookplusliteracycompact": {
+    "distributable": true,
+    "fallback": "gentiumbookpluslitcomp",
+    "family": "Gentium Book Plus Literacy Compact",
+    "familyid": "gentiumbookplusliteracycompact",
+    "license": "OFL",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
 "gentiumbookplusmali": {
     "defaults": {
         "ttf": "GentiumPlusMali-Regular.ttf"
@@ -1294,6 +1352,28 @@
     "status": "archived",
     "version": "6.200",
     "ziproot": ""
+},
+"gentiumplusliteracyamarea": {
+    "distributable": true,
+    "fallback": "gentiumpluslitamarea",
+    "family": "Gentium Plus Literacy AmArea",
+    "familyid": "gentiumplusliteracyamarea",
+    "license": "OFL",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+},
+"gentiumplusliteracycompact": {
+    "distributable": true,
+    "fallback": "gentiumpluslitcomp",
+    "family": "Gentium Plus Literacy Compact",
+    "familyid": "gentiumplusliteracycompact",
+    "license": "OFL",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
 },
 "gentiumplusmali": {
     "defaults": {

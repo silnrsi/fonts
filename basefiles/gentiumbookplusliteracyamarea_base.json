@@ -1,0 +1,13 @@
+{
+"gentiumbookplusliteracyamarea": {
+    "distributable": true,
+    "fallback": "gentiumbookpluslitamarea",
+    "family": "Gentium Book Plus Literacy AmArea",
+    "familyid": "gentiumbookplusliteracyamarea",
+    "license": "OFL",
+    "siteurl": "https://software.sil.org/lcgfonts/download/",
+    "source": "SIL",
+    "status": "deprecated",
+    "version": "5.000"
+}
+}
