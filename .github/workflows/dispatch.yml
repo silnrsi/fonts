@@ -1,0 +1,20 @@
+name: Trigger findafont rebuild
+on:
+  push:
+    paths: [families.json]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    needs: deploy
+    steps:
+    - name: Trigger langtags rebuild
+      uses: peter-evans/repository-dispatch@v2
+      with:
+        token: ${{ secrets.REPO_DISPATCH_TOKEN }}
+        repository: silnrsi/
+        event-type: families-updated
+        client-payload: >- 
+          {
+            "release": "${{ endsWith(github.ref, '/release') }}"
+          }
