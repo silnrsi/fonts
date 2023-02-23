@@ -4,10 +4,10 @@
     "family": "Ruwudu",
     "familyid": "ruwudu",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/ruwudu/Ruwudu-2.000.zip",
+    "packageurl": "https://software.sil.org/downloads/r/ruwudu/Ruwudu-3.000.zip",
     "siteurl": "https://software.sil.org/ruwudu/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "Ruwudu-2.000"
+    "ziproot": "Ruwudu-3.000"
 }
 }
