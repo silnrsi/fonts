@@ -1,23 +1,14 @@
 {
 "lisutzimu": {
-    "defaults": {
-        "ttf": "LisuTzimu-Regular.ttf"
-    },
     "distributable": true,
+    "fallback": "lisubosa",
     "family": "LisuTzimu",
     "familyid": "lisutzimu",
-    "files": {
-        "LisuTzimu-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "LisuTzimu-2.000/LisuTzimu-Bold.ttf" },
-        "LisuTzimu-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "LisuTzimu-2.000/LisuTzimu-BoldItalic.ttf" },
-        "LisuTzimu-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "LisuTzimu-2.000/LisuTzimu-Italic.ttf" },
-        "LisuTzimu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "LisuTzimu-2.000/LisuTzimu-Regular.ttf" }
-    },
     "license": "OFL",
     "packageurl": "https://github.com/silnrsi/font-lisutzimu/releases/download/v2.000/LisuTzimu-2.000.zip",
     "siteurl": "https://github.com/silnrsi/font-lisutzimu",
     "source": "SIL",
-    "status": "archived",
-    "version": "2.000",
-    "ziproot": ""
+    "status": "deprecated",
+    "version": "2.000"
 }
 }

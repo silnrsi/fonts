@@ -1,0 +1,13 @@
+{
+"lisubosalolo": {
+    "distributable": true,
+    "family": "Lisu Bosa Lolo",
+    "familyid": "lisubosalolo",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/lisubosa/LisuBosaLolo-2.000.zip",
+    "siteurl": "https://software.sil.org/lisubosa/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "LisuBosaLolo-2.000"
+}
+}
