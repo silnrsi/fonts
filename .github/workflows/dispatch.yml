@@ -11,7 +11,7 @@ jobs:
       uses: peter-evans/repository-dispatch@v2
       with:
         token: ${{ secrets.REPO_DISPATCH_TOKEN }}
-        repository: silnrsi/
+        repository: silnrsi/findafont
         event-type: families-updated
         client-payload: >- 
           {
