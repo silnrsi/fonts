@@ -4,10 +4,10 @@
     "family": "Narnoor",
     "familyid": "narnoor",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/narnoor/Narnoor-1.000.zip",
-    "siteurl": "https://software.sil.org/Narnoor/",
+    "packageurl": "https://software.sil.org/downloads/r/narnoor/Narnoor-2.000.zip",
+    "siteurl": "https://software.sil.org/narnoor/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "Narnoor-1.000"
+    "ziproot": "Narnoor-2.000"
 }
 }

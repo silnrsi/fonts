@@ -1,0 +1,23 @@
+/*
+This file is from the Narnoor project (https://software.sil.org/narnoor/).
+Copyright (c) 2015-2023 SIL International (http://www.sil.org/)
+with Reserved Font Names "Charis" and "SIL".
+This Font Software is licensed under the SIL Open Font License,
+Version 1.1 (http://scripts.sil.org/OFL).
+*/
+
+@font-face {
+  font-family: Narnoor-R;
+  src: url(Narnoor-Regular.woff2);
+}
+
+/* set body font */
+body {
+  font-family: Narnoor-R, sans-serif;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+
+/* remove bold styling from heading */
+h1 {
+  font-weight: normal;
+}
