@@ -37,6 +37,9 @@ pandoc -s -f markdown-smart --template assets/testtemplate.html mingzat/test_mai
 echo "     > Nuosu SIL"
 pandoc -s -f markdown-smart --template assets/testtemplate.html nuosusil/test_main.md -o nuosusil/test_main.html
 
+echo "     > Padauk"
+pandoc -s -f markdown-smart --template assets/testtemplate.html padauk/test_main.md -o padauk/test_main.html
+
 echo "     > Ruwudu"
 pandoc -s -f markdown-smart --template assets/testtemplate.html ruwudu/test_main.md -o ruwudu/test_main.html
 

@@ -1,0 +1,40 @@
+@font-face {
+    font-family: LPR;
+    font-weight: normal;
+    font-style: normal;
+    src: url("../../fonts/sil/padauk/web/Padauk-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR;
+    font-weight: bold;
+    font-style: normal;
+    src: url("../../fonts/sil/padauk/web/Padauk-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/padauk/web/Padauk-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: bold;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/padauk/web/Padauk-Bold.woff2") format("woff2");
+}
+.lpr {
+    font-family: 'LPR', sans-serif;
+    font-size: 22px;
+}
+.gf {
+    font-family: 'Scheherazade New', sans-serif;
+    font-size: 22px;
+}
+.flo {
+    font-family: 'FLO', sans-serif;
+    font-size: 22px;
+}
+
+body {
+    text-align: start;
+}
