@@ -108,20 +108,20 @@ FLO Aiton, Phake ('aio') | <span class='flo' lang='aio'>က︀ ဂ︀ င︀ တ
 Source/Language | Test sequences
 - | -------------------------
 LPR default | <span class='lpr'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
-GF default  | <span class='gf'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
+GF  default | <span class='gf'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
 FLO default | <span class='flo'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
-LPR 'ss01' | <span class='lpr' style='font-feature-settings: "ss01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
-GF 'ss01'  | <span class='gf' style='font-feature-settings: "ss01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
-FLO 'ss01' | <span class='flo' style='font-feature-settings: "ss01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
+LPR Filled dots 'ss01' | <span class='lpr' style='font-feature-settings: "ss01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
+GF  Filled dots 'ss01' | <span class='gf' style='font-feature-settings: "ss01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
+FLO Filled dots 'ss01' | <span class='flo' style='font-feature-settings: "ss01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
 
 Source/Language | Test sequences
 - | -------------------------
 LPR default | <span class='lpr'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
-GF default  | <span class='gf'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
+GF  default | <span class='gf'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
 FLO default | <span class='flo'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
-LPR 'ss04' | <span class='lpr' style='font-feature-settings: "ss04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
-GF 'ss04'  | <span class='gf' style='font-feature-settings: "ss04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
-FLO 'ss04' | <span class='flo' style='font-feature-settings: "ss04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
+LPR Thai Mon 'ss04' | <span class='lpr' style='font-feature-settings: "ss04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
+GF  Thai Mon 'ss04' | <span class='gf' style='font-feature-settings: "ss04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
+FLO Thai Mon 'ss04' | <span class='flo' style='font-feature-settings: "ss04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
 
 ### Character Variants
 
@@ -130,39 +130,39 @@ Source/Language | Test sequences
 LPR default | <span class='lpr'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
 GF default  | <span class='gf'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
 FLO default | <span class='flo'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
-LPR 'cv01' | <span class='lpr' style='font-feature-settings: "cv01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
-GF 'cv01'  | <span class='gf' style='font-feature-settings: "cv01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
-FLO 'cv01' | <span class='flo' style='font-feature-settings: "cv01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
+LPR Filled dots 'cv01' | <span class='lpr' style='font-feature-settings: "cv01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
+GF  Filled dots 'cv01' | <span class='gf' style='font-feature-settings: "cv01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
+FLO Filled dots 'cv01' | <span class='flo' style='font-feature-settings: "cv01" 1'>ံ း ႇ ႈ ႉ ႊ ႚ ႛ ꩻ</span>
 
 Source/Language | Test sequences
 - | -------------------------
 LPR default | <span class='lpr'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
-GF default  | <span class='gf'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
+GF  default | <span class='gf'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
 FLO default | <span class='flo'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
-LPR 'cv04' | <span class='lpr' style='font-feature-settings: "cv04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
-GF 'cv04'  | <span class='gf' style='font-feature-settings: "cv04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
-FLO 'cv04' | <span class='flo' style='font-feature-settings: "cv04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
+LPR Thai Mon 'cv04' | <span class='lpr' style='font-feature-settings: "cv04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
+GF  Thai Mon 'cv04' | <span class='gf' style='font-feature-settings: "cv04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
+FLO Thai Mon 'cv04' | <span class='flo' style='font-feature-settings: "cv04" 1'>ဃ ဋ ဌ ဍ ဎ ဒ န သ ဠ အ ဣ ဿ ၉ ၊ ။ ၚ်္</span>
 
 Source/Language | Test sequences
 - | -------------------------
-LPR default | <span class='lpr'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ/span>
-GF default  | <span class='gf'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ</span>
+LPR default | <span class='lpr'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ</span>
+GF  default | <span class='gf'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ</span>
 FLO default | <span class='flo'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ</span>
-LPR 'cv05' | <span class='lpr' style='font-feature-settings: "cv05" 1'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ</span>
-GF 'cv05'  | <span class='gf' style='font-feature-settings: "cv05" 1'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ</span>
-FLO 'cv05' | <span class='flo' style='font-feature-settings: "cv05" 1'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ</span>
+LPR Aiton Phake 'cv05' | <span class='lpr' style='font-feature-settings: "cv05" 1'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ</span>
+GF  Aiton Phake'cv05'  | <span class='gf' style='font-feature-settings: "cv05" 1'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ</span>
+FLO Aiton Phake 'cv05' | <span class='flo' style='font-feature-settings: "cv05" 1'>က︀ ၵ︀ ꩡ︀ ၺ တ︀ ꩫ︀ ၸ︀ ယ︀ ꩺ လ︀ ꩭ ဢ︀ ြ</span>
 
 Source/Language | Test sequences
 - | -------------------------
 LPR default | <span class='lpr'>ှ ှု ှူ ၡ ၦ</span>
-GF default  | <span class='gf'>ှ ှု ှူ ၡ ၦ</span>
+GF  default | <span class='gf'>ှ ှု ှူ ၡ ၦ</span>
 FLO default | <span class='flo'>ှ ှု ှူ ၡ ၦ</span>
-LPR 'cv07'=1 | <span class='lpr' style='font-feature-settings: "cv07" 1'>ှ ှု ှူ ၡ ၦ</span>
-GF 'cv07'=1  | <span class='gf' style='font-feature-settings: "cv07" 1'>ှ ှု ှူ ၡ ၦ</span>
-FLO 'cv07'=1 | <span class='flo' style='font-feature-settings: "cv07" 1'>ှ ှု ှူ ၡ ၦ</span>
-LPR 'cv07'=2 | <span class='lpr' style='font-feature-settings: "cv07" 2'>ှ ှု ှူ ၡ ၦ</span>
-GF 'cv07'=2  | <span class='gf' style='font-feature-settings: "cv07" 2'>ှ ှု ှူ ၡ ၦ</span>
-FLO 'cv07'=2 | <span class='flo' style='font-feature-settings: "cv07" 2'>ှ ှု ှူ ၡ ၦ</span>
+LPR Slanted hato 'cv07'=1 | <span class='lpr' style='font-feature-settings: "cv07" 1'>ှ ှု ှူ ၡ ၦ</span>
+GF  Slanted hato 'cv07'=1 | <span class='gf' style='font-feature-settings: "cv07" 1'>ှ ှု ှူ ၡ ၦ</span>
+FLO Slanted hato 'cv07'=1 | <span class='flo' style='font-feature-settings: "cv07" 1'>ှ ှု ှူ ၡ ၦ</span>
+LPR Slanted hato 'cv07'=2 | <span class='lpr' style='font-feature-settings: "cv07" 2'>ှ ှု ှူ ၡ ၦ</span>
+GF  Slanted hato 'cv07'=2 | <span class='gf' style='font-feature-settings: "cv07" 2'>ှ ှု ှူ ၡ ၦ</span>
+FLO Slanted hato 'cv07'=2 | <span class='flo' style='font-feature-settings: "cv07" 2'>ှ ှု ှူ ၡ ၦ</span>
 
 ## Character support
 
