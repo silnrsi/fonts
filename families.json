@@ -88,41 +88,28 @@
     "family": "Alkalami",
     "familyid": "alkalami",
     "files": {
-        "Alkalami-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/alkalami/Alkalami-Regular.ttf", "packagepath": "Alkalami-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/alkalami/Alkalami-Regular.ttf", "zippath": "Alkalami-2.000/Alkalami-Regular.ttf" },
-        "Alkalami-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/alkalami/web/Alkalami-Regular.woff", "packagepath": "web/Alkalami-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/alkalami/web/Alkalami-Regular.woff", "zippath": "Alkalami-2.000/web/Alkalami-Regular.woff" },
-        "Alkalami-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/alkalami/web/Alkalami-Regular.woff2", "packagepath": "web/Alkalami-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/alkalami/web/Alkalami-Regular.woff2", "zippath": "Alkalami-2.000/web/Alkalami-Regular.woff2" }
+        "Alkalami-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/alkalami/Alkalami-Regular.ttf", "packagepath": "Alkalami-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/alkalami/Alkalami-Regular.ttf", "zippath": "Alkalami-3.000/Alkalami-Regular.ttf" },
+        "Alkalami-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/alkalami/web/Alkalami-Regular.woff", "packagepath": "web/Alkalami-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/alkalami/web/Alkalami-Regular.woff", "zippath": "Alkalami-3.000/web/Alkalami-Regular.woff" },
+        "Alkalami-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/alkalami/web/Alkalami-Regular.woff2", "packagepath": "web/Alkalami-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/alkalami/web/Alkalami-Regular.woff2", "zippath": "Alkalami-3.000/web/Alkalami-Regular.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/alkalami/Alkalami-2.000.zip",
+    "packageurl": "https://software.sil.org/downloads/r/alkalami/Alkalami-3.000.zip",
     "siteurl": "https://software.sil.org/alkalami/",
     "source": "SIL",
     "status": "current",
     "version": "3.000",
-    "ziproot": "Alkalami-2.000"
+    "ziproot": "Alkalami-3.000"
 },
 "alkalamilight": {
-    "defaults": {
-        "ttf": "Alkalami-Regular.ttf",
-        "woff": "Alkalami-Regular.woff",
-        "woff2": "Alkalami-Regular.woff2"
-    },
     "distributable": true,
     "fallback": "ruwudu",
     "family": "Alkalami",
     "familyid": "alkalamilight",
-    "files": {
-        "Alkalami-Light.ttf": { "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Alkalami-1.300/Alkalami-Light.ttf", "zippath": "Alkalami-1.300/Alkalami-Light.ttf" },
-        "Alkalami-Light.woff": { "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Alkalami-1.300/web/Alkalami-Light.woff", "zippath": "Alkalami-1.300/web/Alkalami-Light.woff" },
-        "Alkalami-Light.woff2": { "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Alkalami-1.300/web/Alkalami-Light.woff2", "zippath": "Alkalami-1.300/web/Alkalami-Light.woff2" },
-        "Alkalami-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Alkalami-1.300/Alkalami-Regular.ttf", "zippath": "Alkalami-1.300/Alkalami-Regular.ttf" },
-        "Alkalami-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Alkalami-1.300/web/Alkalami-Regular.woff", "zippath": "Alkalami-1.300/web/Alkalami-Regular.woff" },
-        "Alkalami-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Alkalami-1.300/web/Alkalami-Regular.woff2", "zippath": "Alkalami-1.300/web/Alkalami-Regular.woff2" }
-    },
     "license": "OFL",
     "packageurl": "https://software.sil.org/downloads/r/alkalami/Alkalami-1.300.zip",
     "siteurl": "https://software.sil.org/alkalami/",
     "source": "SIL",
-    "status": "archived",
+    "status": "deprecated",
     "version": "1.300",
     "ziproot": ""
 },
