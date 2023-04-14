@@ -2,15 +2,24 @@
 "harmattan": {
     "defaults": {
         "ttf": "Harmattan-Regular.ttf",
-        "woff": "Harmattan-Regular.woff"
+        "woff": "Harmattan-Regular.woff",
+        "woff2": "Harmattan-Regular.woff2"
     },
     "family": "Harmattan",
     "files": {
         "Harmattan-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Harmattan-Bold.ttf" },
         "Harmattan-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Harmattan-Bold.woff" },
+        "Harmattan-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Harmattan-Bold.woff2" },
+        "Harmattan-Medium.ttf": { "altfamily": "Harmattan Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Harmattan-Medium.ttf" },
+        "Harmattan-Medium.woff": { "altfamily": "Harmattan Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Harmattan-Medium.woff" },
+        "Harmattan-Medium.woff2": { "altfamily": "Harmattan Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Harmattan-Medium.woff2" },
         "Harmattan-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Harmattan-Regular.ttf" },
-        "Harmattan-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Harmattan-Regular.woff" }
+        "Harmattan-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Harmattan-Regular.woff" },
+        "Harmattan-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Harmattan-Regular.woff2" },
+        "Harmattan-SemiBold.ttf": { "altfamily": "Harmattan SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Harmattan-SemiBold.ttf" },
+        "Harmattan-SemiBold.woff": { "altfamily": "Harmattan SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Harmattan-SemiBold.woff" },
+        "Harmattan-SemiBold.woff2": { "altfamily": "Harmattan SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Harmattan-SemiBold.woff2" }
     },
-    "version": "2.000"
+    "version": "4.000"
 }
 }

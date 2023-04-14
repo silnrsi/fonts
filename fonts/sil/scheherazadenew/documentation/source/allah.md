@@ -1,6 +1,6 @@
 ---
-title: Scheherazade New - Special rules for rendering Allah
-fontversion: 3.300
+title: Scheherazade New - Rendering the Allah ligature
+fontversion: 4.000
 ---
 
 
@@ -12,14 +12,12 @@ Starting with v3.300, Scheherazade New provides the special rendering for sequen
   * The sequence must include either a preceding isolate *alef* or a *shadda* on the second *lam*, or both.
   * If there is an isolate *alef* but no *shadda*, a *shadda-superscript-alef* will be automatically displayed.
   * The *shadda* may be followed or preceded by either a *superscript-alef* diacritic or a *fatha*.
-  * The *heh* maybe either the standard *heh* (0647) or the *heh-goal* (06C1).
+  * The *heh* may be either the standard *heh* (0647) or the *heh-goal* (06C1).
   * The *alef*, if present may have marks. Similar characters such as *alef-hamza*, *alef-hamza-below*, *alef-madda*, and *alef-wasla* will also form the ligature.
   * The first *lam* may include a *kasra*, but no other diacritics.
   * The special Unicode character U+FDF2 will always display the Allah ligature.
 
 To disable the special ligature, insert a zero-width joiner character (200D) somewhere in the sequence.
-
-
 
 Characters | → | Glyph | Comment
 ---------- | - | ----  | -------
@@ -29,7 +27,7 @@ Characters | → | Glyph | Comment
 <span class='scheherazadenewL-R normal'>&#x202d;&#x0627; + &#x0644; + &#x0644; + &#x0651; + &#x064e; + &#x0647;</span> | → | <span dir="rtl" class='scheherazadenew-R normal'>اللَّه	</span> | Ligature is formed
 <span class='scheherazadenewL-R normal'>&#x202d;&#x0627; + &#x0644; + &#x0644; + &#x0651; + &#x0670; + &#x0647;</span> | → | <span dir="rtl" class='scheherazadenew-R normal'>اللّٰه</span> | 	Ligature is formed
 <span class='scheherazadenewL-R normal'>&#x202d;&#x0644; + &#x0644; + &#x0651; + &#x0647;</span> | → | <span dir="rtl" class='scheherazadenew-R normal'>&#x0644;&#x0644;&#x0651;&#x0647;</span> | Ligature is formed
-<span class='scheherazadenewL-R normal'>&#x202d;&#x0644; + &#x0644; + ZWJ + &#x0651; + &#x0647;</span> | → | <span dir="rtl" class='scheherazadenew-R normal'>&#x0644;&#x200D;&#x0644;&#x0651;&#x0647;</span> | Ligature is not formed
+<span class='scheherazadenewL-R normal'>&#x202d;&#x0644; + ZWJ + &#x0644; + &#x0651; + &#x0647;</span> | → | <span dir="rtl" class='scheherazadenew-R normal'>&#x0644;&#x200D;&#x0644;&#x0651;&#x0647;</span> | Ligature is not formed
 <span class='scheherazadenewL-R normal'>&#x202d;&#x0644; + &#x0644; + &#x0647;</span> | → | <span dir="rtl" class='scheherazadenew-R normal'>&#x0644;&#x0644;&#x0647;</span> | Ligature is not formed
 <span class='scheherazadenewL-R normal'>&#x202d;&#x0644; + &#x0650; + &#x0644; + &#x0651; + &#x0647; + &#x0652;</span> | → | <span dir="rtl" class='scheherazadenew-R normal'>لِلّهْ	</span> | Ligature is formed
 <span class='scheherazadenewL-R normal'>&#x202d;&#x0627; + &#x0644; + &#x0652; + &#x0627; + &#x0644; + &#x0644; + &#x0651; + &#x0647; + &#x0652;</span> | → | <span dir="rtl" class='scheherazadenew-R normal'>الْاللّهْ	</span> | Ligature is formed

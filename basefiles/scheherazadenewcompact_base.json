@@ -1,22 +1,24 @@
 {
 "scheherazadenewcompact": {
     "defaults": {
-        "ttf": "ScheherazadeNewRohingya-Regular.ttf"
+        "ttf": "ScheherazadeNewCompact-Regular.ttf"
     },
     "distributable": true,
     "fallback": "scheherazadenew",
-    "family": "Scheherazade New Rohingya",
+    "family": "Scheherazade New Compact",
     "familyid": "scheherazadenewcompact",
     "files": {
-        "ScheherazadeNewRohingya-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNewRohingya-3.300/ScheherazadeNewRohingya-Bold.ttf" },
-        "ScheherazadeNewRohingya-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewRohingya-3.300/ScheherazadeNewRohingya-Regular.ttf" }
+        "ScheherazadeNewCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNewCompact-4.000/ScheherazadeNewCompact-Bold.ttf" },
+        "ScheherazadeNewCompact-SemiBold.ttf": { "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "ScheherazadeNewCompact-4.000/ScheherazadeNewCompact-SemiBold.ttf" },
+        "ScheherazadeNewCompact-Medium.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "ScheherazadeNewCompact-4.000/ScheherazadeNewCompact-Medium.ttf" },
+        "ScheherazadeNewCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewCompact-4.000/ScheherazadeNewCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Rohingya",
+    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Compact",
     "siteurl": "https://software.sil.org/scheherazade/",
     "source": "SIL",
     "status": "archived",
-    "version": "3.300",
+    "version": "4.000",
     "ziproot": ""
 }
 }

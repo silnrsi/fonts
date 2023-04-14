@@ -29,6 +29,6 @@
         "Lateef-SemiBold.woff": { "altfamily": "Lateef SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Lateef-SemiBold.woff" },
         "Lateef-SemiBold.woff2": { "altfamily": "Lateef SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Lateef-SemiBold.woff2" }
     },
-    "version": "2.000"
+    "version": "4.000"
 }
 }
