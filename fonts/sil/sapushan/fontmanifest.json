@@ -1,0 +1,13 @@
+{
+"sapushan": {
+    "defaults": {
+        "ttf": "Sapushan-Regular.ttf"
+    },
+    "family": "Sapushan",
+    "files": {
+        "Sapushan-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Sapushan-Bold.ttf" },
+        "Sapushan-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Sapushan-Regular.ttf" }
+    },
+    "version": "1.000"
+}
+}

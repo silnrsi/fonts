@@ -1,0 +1,13 @@
+{
+"shimenkan": {
+    "defaults": {
+        "ttf": "Shimenkan-Regular.ttf"
+    },
+    "family": "Shimenkan",
+    "files": {
+        "Shimenkan-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Shimenkan-Bold.ttf" },
+        "Shimenkan-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Shimenkan-Regular.ttf" }
+    },
+    "version": "1.000"
+}
+}

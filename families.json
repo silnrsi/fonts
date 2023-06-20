@@ -7248,6 +7248,25 @@
     "version": "3.000",
     "ziproot": "Ruwudu-3.000"
 },
+"sapushan": {
+    "defaults": {
+        "ttf": "Sapushan-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Sapushan",
+    "familyid": "sapushan",
+    "files": {
+        "Sapushan-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/sapushan/Sapushan-Bold.ttf", "packagepath": "Sapushan-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/sapushan/Sapushan-Bold.ttf", "zippath": "Sapushan-1.000/Sapushan-Bold.ttf" },
+        "Sapushan-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/sapushan/Sapushan-Regular.ttf", "packagepath": "Sapushan-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/sapushan/Sapushan-Regular.ttf", "zippath": "Sapushan-1.000/Sapushan-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/Sapushan-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "Sapushan-1.000"
+},
 "sarabun": {
     "defaults": {
         "ttf": "Sarabun-Regular.ttf"
@@ -7469,6 +7488,25 @@
     "status": "archived",
     "version": "4.000",
     "ziproot": ""
+},
+"shimenkan": {
+    "defaults": {
+        "ttf": "Shimenkan-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Shimenkan",
+    "familyid": "shimenkan",
+    "files": {
+        "Shimenkan-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/shimenkan/Shimenkan-Bold.ttf", "packagepath": "Shimenkan-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/shimenkan/Shimenkan-Bold.ttf", "zippath": "Shimenkan-1.000/Shimenkan-Bold.ttf" },
+        "Shimenkan-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/shimenkan/Shimenkan-Regular.ttf", "packagepath": "Shimenkan-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/shimenkan/Shimenkan-Regular.ttf", "zippath": "Shimenkan-1.000/Shimenkan-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/Shimenkan-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "Shimenkan-1.000"
 },
 "shishan": {
     "distributable": true,

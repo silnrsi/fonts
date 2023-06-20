@@ -1,0 +1,13 @@
+{
+"shimenkan": {
+    "distributable": true,
+    "family": "Shimenkan",
+    "familyid": "shimenkan",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/Shimenkan-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "Shimenkan-1.000"
+}
+}

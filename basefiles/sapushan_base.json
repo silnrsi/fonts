@@ -1,0 +1,13 @@
+{
+"sapushan": {
+    "distributable": true,
+    "family": "Sapushan",
+    "familyid": "sapushan",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/Sapushan-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "Sapushan-1.000"
+}
+}
