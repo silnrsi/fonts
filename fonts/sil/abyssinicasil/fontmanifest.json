@@ -11,6 +11,6 @@
         "AbyssinicaSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/AbyssinicaSIL-Regular.woff" },
         "AbyssinicaSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/AbyssinicaSIL-Regular.woff2" }
     },
-    "version": "2.200"
+    "version": "2.201"
 }
 }

@@ -1,7 +1,7 @@
 
 Many questions can be answered by consulting the following FAQ pages. Here are a few sample questions answered in each FAQ:
 
-- [SIL fonts in general](http://software.sil.org/fonts/faq)
+- [SIL fonts in general](https://software.sil.org/fonts/faq)
     - *How can I type...?*
     - *How can I use font features?*
     - *Will you add support for character...?*
@@ -21,17 +21,7 @@ This font is designed to work with two advanced font technologies, Graphite and 
 
 #### *Do you supply a keyboard to use with Abyssinica SIL?*
 
-[Keyman](https://keyman.com/) is a cross-platform keyboarding system and a number of Ethiopic keyboards are available:
-
-- [SIL Power-G Ethiopic keyboard](https://keyman.com/keyboards/sil_ethiopic_power_g)
-- [SIL Ethiopic keyboard](https://keyman.com/keyboards/sil_ethiopic)
-- [GFF Blin Keyboard](https://keyman.com/keyboards/gff_blin)
-- [GFF Ge'ez Keyboard](https://keyman.com/keyboards/gff_geez)
-- [Amharic keyboard](https://keyman.com/keyboards/gff_amharic)
-- [GFF Tigrinya-Ethiopia Keyboard](https://keyman.com/keyboards/gff_tigrinya_ethiopia)
-- [GFF Tigrinya-Eritrean Keyboard](https://keyman.com/keyboards/gff_tigrinya_eritrea)
-
-Various other means may be available for different operating-system platforms to create additional input methods. For instance, Windows (Vista and above) provides an Ethiopic IME. 
+No keyboards are supplied with the font. However, there are suggested keyboards listed in [Resources](resources).
 
 #### *My language uses variant forms of some Ethiopic characters. How do I type these using the Abyssinica SIL font? How do I use features?*
 
@@ -41,7 +31,7 @@ If your application does not support Graphite features or the OpenType Character
 
 #### *Why did you remove the Stylistic Sets from ver. 2.000 of the Abyssinica SIL font?*
 
-Originally we added the Stylistic Sets because there was not a good solution for accessing the glyph variants in the font. At one point we also tried encoding them in the Private Use Area (PUA). PUA characters have now almost all been unencoded since the characters are now either encoded in Unicode or the variants are available through **Character Variants**. The Stylistic Sets were implemented inconsistently, and because of that we chose to remove them rather than attempt to fix them. If you still wish to use a font with Stylistic Sets, ver. 1.500 is still available on the [Previous Versions](versions) page.
+Originally we added the Stylistic Sets because there was not a good solution for accessing the glyph variants in the font. At one point we also tried encoding them in the Private Use Area (PUA). PUA characters have now almost all been unencoded since the characters are now either encoded in Unicode or the variants are available through **Character Variants**. The Stylistic Sets were implemented inconsistently, and because of that we chose to remove them rather than attempt to fix them. If you still wish to use a font with Stylistic Sets, ver. 1.500 is still available on the [Previous Versions](previous-versions) page.
 
 #### *I have a copy of the **SIL Abyssinica** font. Can you tell me how this differs from **Abyssinica SIL**?*
 
@@ -55,5 +45,5 @@ With version 2.000 we removed almost all of the PUA characters in the font becau
 
 #### *I would like to bundle Abyssinica SIL with my application - can I?*
 
-The [SIL Open Font License](http://scripts.sil.org/OFL) allows bundling with applications, even commercial ones, with some restrictions.
+The [SIL Open Font License](https://scripts.sil.org/OFL) allows bundling with applications, even commercial ones, with some restrictions.
 

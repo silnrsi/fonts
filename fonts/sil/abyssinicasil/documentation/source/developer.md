@@ -1,6 +1,6 @@
 ---
 title: Abyssinica SIL - Developer information
-fontversion: 2.200
+fontversion: 2.201
 ---
 
 Abyssinica SIL is a mature product with no major changes anticipated. We will be releasing maintenance updates to fix bugs. 
@@ -10,7 +10,7 @@ Abyssinica SIL is a mature product with no major changes anticipated. We will be
 
 We welcome other developers who wish to get involved in supporting and enhancing this font.
 
-Abyssinica SIL uses kerning to give a better presentation of characters which might otherwise have too much space between them. If you are a font developer and wish to include kerning in your font, the list of kerning pairs is available here: [Ethiopic Kerning Pairs](http://scriptsource.org/entry/w5wqtagy5f)
+Abyssinica SIL uses kerning to give a better presentation of characters which might otherwise have too much space between them. If you are a font developer and wish to include kerning in your font, the list of kerning pairs is available here: [Ethiopic Kerning Pairs](https://scriptsource.sil.org/entry/w5wqtagy5f)
 
 ## Permissions granted by the OFL
 
@@ -20,7 +20,7 @@ SIL’s fonts are licensed according to the terms of the [SIL Open Font License]
 
 The latest source files are available in a [Github project](https://github.com/silnrsi/font-abyssinica).
 
-Font sources are in the [UFO3](http://unifiedfontobject.org/versions/ufo3/) format with font family structures defined using [designspace](https://github.com/fonttools/fonttools/tree/master/Doc/source/designspaceLib). OpenType source code is stored in the [.fea](https://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html) format in the UFO (features.fea) but is maintained in a separate file using the more efficient and powerful [.feax](https://github.com/silnrsi/pysilfont/blob/master/docs/feaextensions.rawmd) format.
+Font sources are in the [UFO3](https://unifiedfontobject.org/versions/ufo3/) format with font family structures defined using [designspace](https://github.com/fonttools/fonttools/tree/master/Doc/source/designspaceLib). OpenType source code is stored in the [.fea](https://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html) format in the UFO (features.fea) but is maintained in a separate file using the more efficient and powerful [.feax](https://github.com/silnrsi/pysilfont/blob/master/docs/feaextensions.rawmd) format.
 
 The fonts are built using a completely free and open source workflow using industry-standard tools ([fontools](https://github.com/fonttools/fonttools)), a package of custom python scripts ([pysilfont](https://github.com/silnrsi/pysilfont)), and a build and packaging system ([Smith](https://github.com/silnrsi/smith)). The whole system is available in a preconfigured virtual machine using VirtualBox and Vagrant.
 
