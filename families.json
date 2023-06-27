@@ -543,12 +543,6 @@
     "version": "0.202",
     "ziproot": "Bailey-0.202"
 },
-"bjcree2uni": {
-    "distributable": false,
-    "fallback": "bjcreeuni",
-    "family": "BJCree2 UNI",
-    "familyid": "bjcree2uni"
-},
 "bjcreeuni": {
     "defaults": {
         "ttf": "bjcrus.ttf"
@@ -563,6 +557,21 @@
     "license": "shareware",
     "siteurl": "https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/",
     "version": "2.000"
+},
+"bjcree2uni": {
+    "defaults": {
+        "ttf": "bjcrus2.ttf"
+    },
+    "distributable": true,
+    "fallback": "notosanscanadianaboriginal",
+    "family": "BJCree2 UNI",
+    "familyid": "bjcree2uni",
+    "files": {
+        "bjcrus2.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "bjcrus2.ttf" }
+    },
+    "license": "shareware",
+    "siteurl": "https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/",
+    "version": "2.200"
 },
 "calibri": {
     "distributable": false,
