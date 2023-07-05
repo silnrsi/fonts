@@ -139,3 +139,11 @@ Creates a draft font manifest or basefile based on the content of a folder. (nee
 ### updatenotobasefiles.py
 
 This script reads the state.json file from the Google noto project and updates all the noto*_base.json files with the information found in state.json. (needs documentation and example?)
+
+## Updating the FLO index.html based on README.md
+
+The single HTML page on FLO is derived from the README.md file. To regenerate the file run the following command (requires pandoc):
+
+```
+pandoc -s -f markdown-smart --template documentation/assets/html/template.html README.md -o index.html --metadata title="SIL International"
+```
