@@ -4,7 +4,7 @@ How the fonts and data in this collection is best used depends on the specific n
 
 - **GFR** - the source [Github Font Repository](https://github.com/silnrsi/fonts)
 - **FLO** - the high-performance mirror at [fonts.languagetechnology.org](https://fonts.languagetechnology.org)
-- **LFF** - the [Language Font Finder service NEED LINK]()
+- **LFF** - the [Language Font Finder service](https://github.com/silnrsi/langfontfinder)
 
 Font families with information in `families.json` fall into categories that determine which fields the font family record contains:
 
@@ -49,4 +49,4 @@ See [Internal Webfont Service Info](/documentation/webfonts.md).
 
 ## A font is needed for a specific language or writing system
 
-This collection does not contain any information on the preferred fonts for languages or writing systems. The [Language Font Finder service NEED LINK]() manages that information and provides an API that links writing systems with specific font family information from this collection. 
+This collection does not contain any information on the preferred fonts for languages or writing systems. The [Language Font Finder service](https://github.com/silnrsi/langfontfinder) manages that information and provides an API that links writing systems with specific font family information from this collection. 

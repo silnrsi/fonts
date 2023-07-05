@@ -7,7 +7,7 @@ All the metadata on font families in this collection is aggregated into one file
 - Identify which font in a large family should be considered the default
 - Find a suitable alternative to a propretary or deprecated font family
 
-The [Language Font Finder (LFF) NEED LINK]() service provides access to this data through an API.
+The [Language Font Finder (LFF)](https://github.com/silnrsi/langfontfinder) service provides access to this data through an API.
 
 This collection also contains related metadata files that are used as sources for compiling `families.json`. These are similar in format to `families.json` but contain no additional information:
 
@@ -35,6 +35,7 @@ The metadata for a font family is in a *font family record* JSON object identifi
 | fallback | [opt] A *familyid* for an alternative font family to use instead. Two common cases of this are 1) when the font family is not distributable (e.g. Microsoft system fonts) or 2) if the font family is deprecated. |
 | **family** | Common family name as seen by users, which may contain spaces (e.g. "Lisu Bosa"). Some Windows apps may display a different family name for individual members of a family in certain situations - see *altfamily*. |
 | **familyid** | The unique identifier for the font family. |
+| features | [opt] A CSS-style features string describing how the font features should be set to appropriately style text in this font for this language. This field is only returned by the [Language Font Finder (LFF)](https://github.com/silnrsi/langfontfinde) service, if at all.
 | files | [opt] A subobject containing information about individual font files in the package. The object is keyed by filename with its own object of information.  See *files* section below. |
 | googlefonts | [opt] This subobject contains information on how to access the font family via the Google Fonts service. See *defaults* section below. *This field is not used in current records pending further discussion.* |
 | license | [opt] The name of the font license, if known (MIT, OFL, GPL-FE, etc.). This may instead indicate a type of license, such as "shareware" or "proprietary". |
