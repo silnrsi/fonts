@@ -41,7 +41,7 @@ Common uses for this collection are:
 
 Internal processes:
 
-- To test local, cloud, and third-party hosting of SIL webfonts. See [Internal Webfont Testing](/https://github.com/silnrsi/fonts/blob/main/documentation/testing.md).
+- To test local, cloud, and third-party hosting of SIL webfonts. See [Internal Webfont Testing](https://github.com/silnrsi/fonts/blob/main/documentation/testing.md).
 - Maintaining this collection. See [Maintenance Processes](https://github.com/silnrsi/fonts/blob/main/documentation/maintenance.md).
 
 ## Limitations, licenses, and terms of use
