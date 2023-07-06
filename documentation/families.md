@@ -5,7 +5,7 @@ All the metadata on font families in this collection is aggregated into one file
 - Find a direct link to a font file
 - Determine whether a font family can freely redistributed
 - Identify which font in a large family should be considered the default
-- Find a suitable alternative to a propretary or deprecated font family
+- Find a suitable alternative to a proprietary or deprecated font family
 
 The [Language Font Finder (LFF)](https://github.com/silnrsi/langfontfinder) service provides access to this data through an API.
 

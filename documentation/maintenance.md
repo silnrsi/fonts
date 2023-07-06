@@ -23,7 +23,7 @@ To add a new hosted font to GFR/FLO:
 - Rebuild the `families.json` file.
 - Check your changes carefully, then commit and push your changes.
 
-Example of a new `fontmanifest.json` file for a hosted non-SIl family:
+Example of a new `fontmanifest.json` file for a hosted non-SIL family:
 
 ```
 {

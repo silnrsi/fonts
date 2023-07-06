@@ -16,7 +16,7 @@ This collection is not intended as a primary end-user source of SIL fonts or inf
 - **If you need help with using SIL fonts** see our [Font Help Guides](https://software.sil.org/fonts/guides/) as well as individual font product sites.
 - **If you want to develop fonts or contribute to SIL font projects** see [Font Development Best Practices](https://silnrsi.github.io/FDBP/en-US/Introduction.html) and [SIL Font Development Notes](https://silnrsi.github.io/silfontdev/en-US/index.html).
 - **If you need a keyboard or keyboard software** see [Keyman](https://keyman.com/).
-- **If you are a developer and want an API that will provide infomation on appropriate fonts for a writing system** see the [Language Font Finder Service](https://github.com/silnrsi/langfontfinder). This collection contains much of the font metadata used by that service but not the corresponding writing system information.
+- **If you are a developer and want an API that will provide information on appropriate fonts for a writing system** see the [Language Font Finder Service](https://github.com/silnrsi/langfontfinder). This collection contains much of the font metadata used by that service but not the corresponding writing system information.
 
 ## What is here
 
