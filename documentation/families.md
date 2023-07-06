@@ -18,7 +18,7 @@ These are documented in [Additional Family Metadata](/documentation/manifests.md
 
 ## familyids
 
-Every separately-named font family has a unique *familyid* that is generally (not not necessarily always!) formed by taking the family name, removing spaces, and making it lowercase. For example "Lisu Bosa" has *familyid* "lisubosa". This *familyid* is used as the key for all font metadata and as folder names in `/fonts`.
+Every separately-named font family has a unique *familyid* that is generally (not necessarily always!) formed by taking the family name, removing spaces, and making it lowercase. For example "Lisu Bosa" has *familyid* "lisubosa". This *familyid* is used as the key for all font metadata and as folder names in `/fonts`.
 
 ## families.json
 
@@ -29,7 +29,7 @@ The metadata for a font family is in a *font family record* JSON object identifi
 
 | Field | Description |
 | ----- | ----------- |
-| altfamily | [opt] An alternative family name that may be used by Windows apps to refer to the font family in certain situations. If defined in the root of the record the family name applies to all fonts in the family. If a *files* field exists, then this field is ignored. *This field is not used in current records but is here for completeness. *altfamily* information is normally found in individual *files* records.* |
+| altfamily | [opt] An alternative family name that may be used by Windows apps to refer to the font family in certain situations. If defined in the root of the record the family name applies to all fonts in the family. If a *files* field exists, then this field is ignored. This field is not used in current records but is here for completeness. *altfamily* information is normally found in individual *files* records. |
 | defaults | [opt] A subobject indicating which *files* entries represent default fonts for the family. See *defaults* section below. |
 | **distributable** | Boolean to indicate whether the font is likely to be freely distributable. |
 | fallback | [opt] A *familyid* for an alternative font family to use instead. Two common cases of this are 1) when the font family is not distributable (e.g. Microsoft system fonts) or 2) if the font family is deprecated. |
@@ -62,8 +62,8 @@ The *files* field is an object whose keys are filenames without any path. For ea
 
 | Field | Description |
 | ----- | ----------- |
-| axes | [opt] A subobject keyed by font axis and a float value.  See *axes* section below. | 
 | altfamily | [opt] An alternative family name if different from the *family* field in the main font family description. This is typically used by legacy RIBBI-only applications to provide access to multi-weight font families, particularly on Windows. |
+| axes | [opt] A subobject keyed by font axis and a float value.  See *axes* section below. | 
 | flourl | [opt] If the font file exists on FLO, this field gives the URL. |
 | packagepath | [opt] The path to the font file inside the main *packageurl*, if defined. |
 | url | [opt] A direct download URL to this font file, if available. |
