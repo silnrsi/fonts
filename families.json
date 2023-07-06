@@ -2111,9 +2111,31 @@
 },
 "kayahli": {
     "distributable": false,
-    "fallback": "kyebogyisil",
+    "fallback": "kayphodu",
     "family": "Kayahli",
     "familyid": "kayahli"
+},
+"kayphodu": {
+    "defaults": {
+        "ttf": "KayPhoDu-Regular.ttf",
+        "woff": "KayPhoDu-Regular.woff",
+        "woff2": "KayPhoDu-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Kay Pho Du",
+    "familyid": "kayphodu",
+    "files": {
+        "KayPhoDu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/KayPhoDu-Regular.ttf", "packagepath": "KayPhoDu-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/KayPhoDu-Regular.ttf", "zippath": "KayPhoDu-2.000/KayPhoDu-Regular.ttf" },
+        "KayPhoDu-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff", "packagepath": "web/KayPhoDu-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff", "zippath": "KayPhoDu-2.000/web/KayPhoDu-Regular.woff" },
+        "KayPhoDu-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff2", "packagepath": "web/KayPhoDu-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff2", "zippath": "KayPhoDu-2.000/web/KayPhoDu-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/kayphodu/KayPhoDu-2.000.zip",
+    "siteurl": "https://software.sil.org/kayphodu/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.000",
+    "ziproot": "KayPhoDu-2.000"
 },
 "khmerbarkaew": {
     "distributable": false,

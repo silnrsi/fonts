@@ -1,0 +1,22 @@
+/*
+This file is from the Kay Pho Du project (https://software.sil.org/kayphodu/).
+Copyright (c) 2019-2022 SIL International (http://www.sil.org/) with Reserved
+Font Name "Kay Pho Du". This Font Software is licensed under the SIL
+Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
+*/
+
+/* use Kay Pho Du - Regular in .woff2 format */
+@font-face {
+  font-family: KayPhoDu-R;
+  src: url(KayPhoDu-Regular.woff2);
+}
+
+/* set body to use Kay Pho Du */
+body {
+  font-family: KayPhoDu-R, sans-serif;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+/* remove bold styling from heading */
+h1 {
+  font-weight: normal;	
+}

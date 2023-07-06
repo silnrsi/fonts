@@ -1,0 +1,12 @@
+/*
+This file is from the Kay Pho Du project (https://software.sil.org/kayphodu).
+Copyright (c) 2019-2022 SIL International (http://www.sil.org/). This Font Software is
+released under the MIT license (http://opensource.org/licenses/MIT).
+*/
+@font-face {
+    font-family: KayPhoDu-R;
+    src: url("../../../web/KayPhoDu-Regular.woff2") format("woff2");
+}
+
+.kayphodu-R { font-family: KayPhoDu-R; }
+

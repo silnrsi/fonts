@@ -1,0 +1,13 @@
+{
+"kayphodu": {
+    "distributable": true,
+    "family": "Kay Pho Du",
+    "familyid": "kayphodu",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/kayphodu/KayPhoDu-2.000.zip",
+    "siteurl": "https://software.sil.org/kayphodu/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "KayPhoDu-2.000"
+}
+}
