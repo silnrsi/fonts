@@ -1,0 +1,13 @@
+{
+"taogu": {
+    "distributable": true,
+    "family": "Taogu",
+    "familyid": "taogu",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/Taogu-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "Taogu-1.000"
+}
+}

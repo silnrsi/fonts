@@ -7706,6 +7706,25 @@
     "version": "2.600",
     "ziproot": "TaiHeritagePro-2.600"
 },
+"taogu": {
+    "defaults": {
+        "ttf": "Taogu-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Taogu",
+    "familyid": "taogu",
+    "files": {
+        "Taogu-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/taogu/Taogu-Bold.ttf", "packagepath": "Taogu-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/taogu/Taogu-Bold.ttf", "zippath": "Taogu-1.000/Taogu-Bold.ttf" },
+        "Taogu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/taogu/Taogu-Regular.ttf", "packagepath": "Taogu-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/taogu/Taogu-Regular.ttf", "zippath": "Taogu-1.000/Taogu-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/Taogu-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "Taogu-1.000"
+},
 "thiruvalluvar": {
     "defaults": {
         "ttf": "ThiruValluvarCTT-Regular.ttf",

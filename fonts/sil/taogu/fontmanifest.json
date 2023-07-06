@@ -1,0 +1,13 @@
+{
+"taogu": {
+    "defaults": {
+        "ttf": "Taogu-Regular.ttf"
+    },
+    "family": "Taogu",
+    "files": {
+        "Taogu-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Taogu-Bold.ttf" },
+        "Taogu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Taogu-Regular.ttf" }
+    },
+    "version": "1.000"
+}
+}
