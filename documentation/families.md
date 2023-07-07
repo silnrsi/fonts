@@ -1,6 +1,6 @@
 # Font Family Metadata
 
-All the metadata on font families in this collection is aggregated into one file - `families.json`. This is at the root of this repository - [families.json (Github link)](https://github.com/silnrsi/fonts/blob/main/families.json). It is also available on FLO - [families.json (FLO link)](https://fonts.languagetechnology.org/families.json). This data may be used to:
+All the metadata on font families in this collection is held in *font family records* and aggregated into one file - `families.json`. This is at the root of this repository - [families.json (Github link)](https://github.com/silnrsi/fonts/blob/main/families.json). It is also available on FLO - [families.json (FLO link)](https://fonts.languagetechnology.org/families.json). This data may be used to:
 
 - Find a direct link to a font file
 - Determine whether a font family can freely redistributed
