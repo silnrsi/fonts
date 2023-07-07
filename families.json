@@ -7727,12 +7727,12 @@
 },
 "thiruvalluvar": {
     "defaults": {
-        "ttf": "ThiruValluvarCTT-Regular.ttf",
+        "ttf": "ThiruValluvar-Regular.ttf",
         "woff": "ThiruValluvar-Regular.woff",
         "woff2": "ThiruValluvar-Regular.woff2"
     },
     "distributable": true,
-    "family": "ThiruValluvarCTT",
+    "family": "ThiruValluvar",
     "familyid": "thiruvalluvar",
     "files": {
         "ThiruValluvar-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/ThiruValluvar-Bold.ttf", "packagepath": "ThiruValluvar-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/other/thiruvalluvar/ThiruValluvar-Bold.ttf", "zippath": "nlci-taml-thiruvalluvar-0.701/ThiruValluvar-Bold.ttf" },
