@@ -4,11 +4,13 @@ These processes require the [pysilfont](https://github.com/silnrsi/pysilfont) li
 
 ## Rebuilding the families.json file
 
-Whenever a change is made to the fonts or font metadata the final step is always to rebuild the families.json file. Run this command from the repo root before committing your changes:
+Whenever a change is made to the fonts or font metadata the final step is always to rebuild the `families.json` file. Run this command from the repo root before committing your changes:
 
 ```
 python3 tools/updatefamilydata.py
 ```
+
+**Do not make changes to the `families.json` file directly - those changes will be wiped out when the file is rebuilt. Make all changes to either `familyid_base.json` or `fontmanifest.json` files, then rebuild `families.json`.**
 
 ## Adding a new hosted font package
 
