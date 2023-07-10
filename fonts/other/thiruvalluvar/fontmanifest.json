@@ -1,11 +1,11 @@
 {
 "thiruvalluvar": {
     "defaults": {
-        "ttf": "ThiruValluvarCTT-Regular.ttf",
+        "ttf": "ThiruValluvar-Regular.ttf",
         "woff": "ThiruValluvar-Regular.woff",
         "woff2": "ThiruValluvar-Regular.woff2"
     },
-    "family": "ThiruValluvarCTT",
+    "family": "ThiruValluvar",
     "files": {
         "ThiruValluvar-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ThiruValluvar-Bold.ttf" },
         "ThiruValluvar-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "woff/ThiruValluvar-Bold.woff" },
@@ -19,14 +19,14 @@
         "ThiruValluvar-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ThiruValluvar-Regular.ttf" },
         "ThiruValluvar-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "woff/ThiruValluvar-Regular.woff" },
         "ThiruValluvar-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "woff/ThiruValluvar-Regular.woff2" },
-        "ThiruValluvarCTT-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ThiruValluvarCTT-Bold.ttf" },
-        "ThiruValluvarCTT-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "ThiruValluvarCTT-BoldItalic.ttf" },
-        "ThiruValluvarCTT-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "ThiruValluvarCTT-Italic.ttf" },
-        "ThiruValluvarCTT-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ThiruValluvarCTT-Regular.ttf" },
-        "ThiruValluvarIRU-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ThiruValluvarIRU-Bold.ttf" },
-        "ThiruValluvarIRU-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "ThiruValluvarIRU-BoldItalic.ttf" },
-        "ThiruValluvarIRU-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "ThiruValluvarIRU-Italic.ttf" },
-        "ThiruValluvarIRU-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ThiruValluvarIRU-Regular.ttf" }
+        "ThiruValluvarCTT-Bold.ttf": { "altfamily": "ThiruValluvarCTT", "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ThiruValluvarCTT-Bold.ttf" },
+        "ThiruValluvarCTT-BoldItalic.ttf": { "altfamily": "ThiruValluvarCTT", "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "ThiruValluvarCTT-BoldItalic.ttf" },
+        "ThiruValluvarCTT-Italic.ttf": { "altfamily": "ThiruValluvarCTT", "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "ThiruValluvarCTT-Italic.ttf" },
+        "ThiruValluvarCTT-Regular.ttf": { "altfamily": "ThiruValluvarCTT", "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ThiruValluvarCTT-Regular.ttf" },
+        "ThiruValluvarIRU-Bold.ttf": { "altfamily": "ThiruValluvarIRU", "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ThiruValluvarIRU-Bold.ttf" },
+        "ThiruValluvarIRU-BoldItalic.ttf": { "altfamily": "ThiruValluvarIRU", "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "ThiruValluvarIRU-BoldItalic.ttf" },
+        "ThiruValluvarIRU-Italic.ttf": { "altfamily": "ThiruValluvarIRU", "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "ThiruValluvarIRU-Italic.ttf" },
+        "ThiruValluvarIRU-Regular.ttf": { "altfamily": "ThiruValluvarIRU", "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ThiruValluvarIRU-Regular.ttf" }
     },
     "version": "0.701"
 }
