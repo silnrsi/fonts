@@ -20,6 +20,9 @@ These are documented in [Additional Family Metadata](/documentation/manifests.md
 
 Every separately-named font family has a unique *familyid* that is generally (not necessarily always!) formed by taking the family name, removing spaces, and making it lowercase. For example "Lisu Bosa" has *familyid* "lisubosa". This *familyid* is used as the key for all font metadata and as folder names in `/fonts`.
 
+The following "Font family records" section needs to be kept in sync with the corresponding section in 
+[results.md in the GitHub langfontfinder repository](https://github.com/silnrsi/langfontfinder/blob/main/docs/results.md)
+
 ## Font family records
 
 The metadata for a font family is in a *font family record* JSON object identified by *familyid*. The object contains the following fields, most of which are optional. Required fields are in bold:
