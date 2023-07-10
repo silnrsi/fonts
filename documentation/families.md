@@ -20,10 +20,7 @@ These are documented in [Additional Family Metadata](/documentation/manifests.md
 
 Every separately-named font family has a unique *familyid* that is generally (not necessarily always!) formed by taking the family name, removing spaces, and making it lowercase. For example "Lisu Bosa" has *familyid* "lisubosa". This *familyid* is used as the key for all font metadata and as folder names in `/fonts`.
 
-## families.json
-
-
-### Font family records
+## Font family records
 
 The metadata for a font family is in a *font family record* JSON object identified by *familyid*. The object contains the following fields, most of which are optional. Required fields are in bold:
 
@@ -46,7 +43,7 @@ The metadata for a font family is in a *font family record* JSON object identifi
 | version | [opt] The version of the font package being described. This is always current for SIL fonts. For non-SIL fonts the version number reflects the latest known version, although there may be updated versions available. |
 | ziproot | [opt] The name of the folder created when a .zip package is decompressed. Used to form *zippath* fields in *files* records. |
 
-#### *default* subobjects
+### *default* subobjects
 
 The *default* field is an object whose keys are font file types.
 
@@ -56,7 +53,7 @@ The *default* field is an object whose keys are font file types.
 | woff | [opt] Key in *files* subobjects to the default WOFF font file. |
 | woff2 | [opt] Key in *files* subobjects to the default WOFF2 font file. |
 
-#### *files* subobjects
+### *files* subobjects
 
 The *files* field is an object whose keys are filenames without any path. For each filename, there is an object of information with the following fields:
 
@@ -69,7 +66,7 @@ The *files* field is an object whose keys are filenames without any path. For ea
 | url | [opt] A direct download URL to this font file, if available. |
 | zippath | [opt] Most packages are distributed as a zip file with a top level directory within the zip. This field gives the complete path within the zip file to the font file (including that top level directory). |
 
-#### *axes* subobjects
+### *axes* subobjects
 
 The *axes* field within *files* records is a subobject whose keys are four-letter axis identifiers. There are [five standard registered axes](https://learn.microsoft.com/en-us/typography/opentype/spec/dvaraxisreg) although custom axes can be defined. The keys and their values identify a single style contained in a font family (e.g. Bold Italic). SIL fonts typically define styles using only these two axes:
 
@@ -80,7 +77,7 @@ The *axes* field within *files* records is a subobject whose keys are four-lette
 
 For example, the normal Regular weight of a font family will always be indicated by `{ "ital": 0 "wght": 400.0 }` and the Bold Italic by `{ "ital": 1, "wght": 700.0 }`.
 
-#### *googlefonts* subobjects
+### *googlefonts* subobjects
 
 The *googlefonts* field will contain information on how to access the fonts via the Google Fonts service. *Currently undefined pending further discussion.*
 
