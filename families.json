@@ -2125,17 +2125,26 @@
     "family": "Kay Pho Du",
     "familyid": "kayphodu",
     "files": {
-        "KayPhoDu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/KayPhoDu-Regular.ttf", "packagepath": "KayPhoDu-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/KayPhoDu-Regular.ttf", "zippath": "KayPhoDu-2.000/KayPhoDu-Regular.ttf" },
-        "KayPhoDu-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff", "packagepath": "web/KayPhoDu-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff", "zippath": "KayPhoDu-2.000/web/KayPhoDu-Regular.woff" },
-        "KayPhoDu-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff2", "packagepath": "web/KayPhoDu-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff2", "zippath": "KayPhoDu-2.000/web/KayPhoDu-Regular.woff2" }
+        "KayPhoDu-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/KayPhoDu-Bold.ttf", "packagepath": "KayPhoDu-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/KayPhoDu-Bold.ttf", "zippath": "KayPhoDu-3.000/KayPhoDu-Bold.ttf" },
+        "KayPhoDu-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-Bold.woff", "packagepath": "web/KayPhoDu-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-Bold.woff", "zippath": "KayPhoDu-3.000/web/KayPhoDu-Bold.woff" },
+        "KayPhoDu-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-Bold.woff2", "packagepath": "web/KayPhoDu-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-Bold.woff2", "zippath": "KayPhoDu-3.000/web/KayPhoDu-Bold.woff2" },
+        "KayPhoDu-Medium.ttf": { "altfamily": "Kay Pho Du Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/KayPhoDu-Medium.ttf", "packagepath": "KayPhoDu-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/KayPhoDu-Medium.ttf", "zippath": "KayPhoDu-3.000/KayPhoDu-Medium.ttf" },
+        "KayPhoDu-Medium.woff": { "altfamily": "Kay Pho Du Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-Medium.woff", "packagepath": "web/KayPhoDu-Medium.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-Medium.woff", "zippath": "KayPhoDu-3.000/web/KayPhoDu-Medium.woff" },
+        "KayPhoDu-Medium.woff2": { "altfamily": "Kay Pho Du Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-Medium.woff2", "packagepath": "web/KayPhoDu-Medium.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-Medium.woff2", "zippath": "KayPhoDu-3.000/web/KayPhoDu-Medium.woff2" },
+        "KayPhoDu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/KayPhoDu-Regular.ttf", "packagepath": "KayPhoDu-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/KayPhoDu-Regular.ttf", "zippath": "KayPhoDu-3.000/KayPhoDu-Regular.ttf" },
+        "KayPhoDu-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff", "packagepath": "web/KayPhoDu-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff", "zippath": "KayPhoDu-3.000/web/KayPhoDu-Regular.woff" },
+        "KayPhoDu-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff2", "packagepath": "web/KayPhoDu-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-Regular.woff2", "zippath": "KayPhoDu-3.000/web/KayPhoDu-Regular.woff2" },
+        "KayPhoDu-SemiBold.ttf": { "altfamily": "Kay Pho Du SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/KayPhoDu-SemiBold.ttf", "packagepath": "KayPhoDu-SemiBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/KayPhoDu-SemiBold.ttf", "zippath": "KayPhoDu-3.000/KayPhoDu-SemiBold.ttf" },
+        "KayPhoDu-SemiBold.woff": { "altfamily": "Kay Pho Du SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-SemiBold.woff", "packagepath": "web/KayPhoDu-SemiBold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-SemiBold.woff", "zippath": "KayPhoDu-3.000/web/KayPhoDu-SemiBold.woff" },
+        "KayPhoDu-SemiBold.woff2": { "altfamily": "Kay Pho Du SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/kayphodu/web/KayPhoDu-SemiBold.woff2", "packagepath": "web/KayPhoDu-SemiBold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/kayphodu/web/KayPhoDu-SemiBold.woff2", "zippath": "KayPhoDu-3.000/web/KayPhoDu-SemiBold.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/kayphodu/KayPhoDu-2.000.zip",
+    "packageurl": "https://software.sil.org/downloads/r/kayphodu/KayPhoDu-3.000.zip",
     "siteurl": "https://software.sil.org/kayphodu/",
     "source": "SIL",
     "status": "current",
-    "version": "2.000",
-    "ziproot": "KayPhoDu-2.000"
+    "version": "3.000",
+    "ziproot": "KayPhoDu-3.000"
 },
 "khmerbarkaew": {
     "distributable": false,

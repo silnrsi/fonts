@@ -1,17 +1,15 @@
 ---
 title: Kay Pho Du - About
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 ## About this project
 
-Kay Pho Du is a font for the Kayah Li script, based initially on the design of [Karenni](https://github.com/silnrsi/font-karenni), although the glyphs have been redrawn and a new Latin set has been added. It supports the full Kayah Li range of Unicode characters (U+A900..U+A92F).
+Kay Pho Du is a font for the Kayah Li script, based initially on the design of [Karenni](https://github.com/silnrsi/font-karenni), although the glyphs have been redrawn and a new Latin set has been added. There are four weights: Regular, Medium, SemiBold, and Bold. It supports the full Kayah Li range of Unicode characters (U+A900..U+A92F).
 
 ## Future plans
 
-These fonts are actively maintained and improved. In the near future we plan to add new Bold and other weights. If you are considering making a derivative of this package you may wish to wait until that broader set of fonts are released.
-
-Please send us your requests using the [form on the project website](https://software.sil.org/kayphodu/). If you are interested in helping us make the fonts better see the [Developer](developer.md) page.
+These fonts are actively maintained and improved. Please send us your requests using the [form on the project website](https://software.sil.org/kayphodu/). If you are interested in helping us make the fonts better see the [Developer](developer.md) page.
 
 ## Announcement list
 
@@ -23,7 +21,7 @@ You can subscribe using either of the two following options.
 
 - If you would rather not use a Google profile, you can subscribe any email address by sending a message to [sil-font-news+subscribe@groups.sil.org](mailto:sil-font-news+subscribe@groups.sil.org) and following the instructions you get in the confirmation message.
 
-Our font announcements are also available through Twitter [@silfonts](http://twitter.com/silfonts).
+Our font announcements are also available through Twitter [\@silfonts](http://twitter.com/silfonts).
 
 ## Supporting the project
 

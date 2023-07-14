@@ -1,12 +1,27 @@
 /*
 This file is from the Kay Pho Du project (https://software.sil.org/kayphodu).
-Copyright (c) 2019-2022 SIL International (http://www.sil.org/). This Font Software is
+Copyright (c) 2019-2023 SIL International (https://www.sil.org/). This Font Software is
 released under the MIT license (http://opensource.org/licenses/MIT).
 */
 @font-face {
     font-family: KayPhoDu-R;
     src: url("../../../web/KayPhoDu-Regular.woff2") format("woff2");
 }
+@font-face {
+    font-family: KayPhoDu-M;
+    src: url("../../../web/KayPhoDu-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: KayPhoDu-SB;
+    src: url("../../../web/KayPhoDu-SemiBold.woff2") format("woff2");
+}
+@font-face {
+    font-family: KayPhoDu-B;
+    src: url("../../../web/KayPhoDu-Bold.woff2") format("woff2");
+}
 
 .kayphodu-R { font-family: KayPhoDu-R; }
+.kayphodu-M { font-family: KayPhoDu-M; }
+.kayphodu-SB { font-family: KayPhoDu-SB; }
+.kayphodu-B { font-family: KayPhoDu-B; }
 
