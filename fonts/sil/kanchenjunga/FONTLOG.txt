@@ -1,0 +1,54 @@
+FONTLOG
+Kanchenjunga
+===================
+
+
+This file provides detailed information on the Kanchenjunga font.
+This information should be distributed along with the Kanchenjunga font and
+any derivative works.
+
+
+Basic Font Information
+----------------------
+
+Kanchenjunga is a font family for the Kirat Rai script of South Asia. It is named after the third highest mountain in the world.
+
+_Please note that this font is using codepoints that are not officially accepted into The Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is accepted into Unicode the encoding assignments may change._
+
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+### 2023-08-02 (SIL) Kanchenjunga version 1.000
+- Official release of Regular and Bold using provisional codepoints
+- Latin glyphs reimported from the Andika project (400 and 600 weight) at 100%
+
+### 2022-04-29 (SIL) Kanchenjunga Test A version 0.200
+- All Kirat Rai characters were added
+
+### 2021-09-07 (SIL) Kanchenjunga Test A version 0.100
+- New public repository and open source build workflow
+- Latin glyphs imported from the Andika project
+
+
+Acknowledgements
+----------------
+(Here is where contributors can be acknowledged. If you make modifications
+be sure to add your name (N), email (E), web-address (W) and description
+(D). This list is sorted by last name in alphabetical order.)
+
+N: Becca Spalinger
+E: fonts@sil.org
+W: https://software.sil.org/kanchenjunga
+D: Font design
+
+N: Lorna Evans
+E: fonts@sil.org
+W: https://software.sil.org/kanchenjunga
+D: Font production
+
+
+The Kanchenjunga project is maintained by SIL International.
+
+For more information please visit SIL International's website: https://software.sil.org/fonts/
