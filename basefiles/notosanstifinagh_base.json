@@ -21,11 +21,11 @@
         "NotoSansTifinaghTawellemmet-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansTifinaghTawellemmet-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTifinagh/full/ttf/NotoSansTifinaghTawellemmet-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/tifinagh/releases/download/NotoSansTifinagh-v2.005/NotoSansTifinagh-v2.005.zip",
-    "siteurl": "https://github.com/notofonts/tifinagh/releases/tag/NotoSansTifinagh-v2.005",
+    "packageurl": "https://github.com/notofonts/tifinagh/releases/download/NotoSansTifinagh-v2.006/NotoSansTifinagh-v2.006.zip",
+    "siteurl": "https://github.com/notofonts/tifinagh/releases/tag/NotoSansTifinagh-v2.006",
     "source": "Google",
     "status": "current",
-    "version": "2.005",
+    "version": "2.006",
     "ziproot": "NotoSansTifinagh"
 }
 }

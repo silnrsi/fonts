@@ -18,11 +18,11 @@
         "NotoSerifGujarati-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifGujarati-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGujarati/full/ttf/NotoSerifGujarati-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/gujarati/releases/download/NotoSerifGujarati-v2.102/NotoSerifGujarati-v2.102.zip",
-    "siteurl": "https://github.com/notofonts/gujarati/releases/tag/NotoSerifGujarati-v2.102",
+    "packageurl": "https://github.com/notofonts/gujarati/releases/download/NotoSerifGujarati-v2.104/NotoSerifGujarati-v2.104.zip",
+    "siteurl": "https://github.com/notofonts/gujarati/releases/tag/NotoSerifGujarati-v2.104",
     "source": "Google",
     "status": "current",
-    "version": "2.102",
+    "version": "2.104",
     "ziproot": "NotoSerifGujarati"
 }
 }

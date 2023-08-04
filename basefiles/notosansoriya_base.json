@@ -21,11 +21,11 @@
         "NotoSansOriya-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansOriya-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOriya/full/ttf/NotoSansOriya-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/oriya/releases/download/NotoSansOriya-v2.003/NotoSansOriya-v2.003.zip",
-    "siteurl": "https://github.com/notofonts/oriya/releases/tag/NotoSansOriya-v2.003",
+    "packageurl": "https://github.com/notofonts/oriya/releases/download/NotoSansOriya-v2.005/NotoSansOriya-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/oriya/releases/tag/NotoSansOriya-v2.005",
     "source": "Google",
     "status": "current",
-    "version": "2.003",
+    "version": "2.005",
     "ziproot": "NotoSansOriya"
 }
 }

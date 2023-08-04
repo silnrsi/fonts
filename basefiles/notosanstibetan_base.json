@@ -1,10 +1,11 @@
 {
 "notosanstibetan": {
     "distributable": true,
+    "fallback": "notoseriftibetan",
     "family": "Noto Sans Tibetan",
     "familyid": "notosanstibetan",
     "license": "OFL",
     "source": "Google",
-    "status": "current"
+    "status": "deprecated"
 }
 }

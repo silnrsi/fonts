@@ -45,11 +45,11 @@
         "NotoSerifSinhala-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifSinhala-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifSinhala/full/ttf/NotoSerifSinhala-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/sinhala/releases/download/NotoSerifSinhala-v2.006/NotoSerifSinhala-v2.006.zip",
-    "siteurl": "https://github.com/notofonts/sinhala/releases/tag/NotoSerifSinhala-v2.006",
+    "packageurl": "https://github.com/notofonts/sinhala/releases/download/NotoSerifSinhala-v2.007/NotoSerifSinhala-v2.007.zip",
+    "siteurl": "https://github.com/notofonts/sinhala/releases/tag/NotoSerifSinhala-v2.007",
     "source": "Google",
     "status": "current",
-    "version": "2.006",
+    "version": "2.007",
     "ziproot": "NotoSerifSinhala"
 }
 }

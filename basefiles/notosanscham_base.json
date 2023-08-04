@@ -18,11 +18,11 @@
         "NotoSansCham-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSansCham-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCham/full/ttf/NotoSansCham-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/cham/releases/download/NotoSansCham-v2.002/NotoSansCham-v2.002.zip",
-    "siteurl": "https://github.com/notofonts/cham/releases/tag/NotoSansCham-v2.002",
+    "packageurl": "https://github.com/notofonts/cham/releases/download/NotoSansCham-v2.003/NotoSansCham-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/cham/releases/tag/NotoSansCham-v2.003",
     "source": "Google",
     "status": "current",
-    "version": "2.002",
+    "version": "2.003",
     "ziproot": "NotoSansCham"
 }
 }

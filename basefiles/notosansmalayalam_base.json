@@ -1,7 +1,7 @@
 {
 "notosansmalayalam": {
     "defaults": {
-        "ttf": "NotoSansMalayalamUI-Regular.ttf"
+        "ttf": "NotoSansMalayalam-Regular.ttf"
     },
     "distributable": true,
     "family": "Noto Sans Malayalam",
@@ -81,11 +81,11 @@
         "NotoSansMalayalamUI-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansMalayalamUI-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMalayalam/full/ttf/NotoSansMalayalamUI-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/malayalam/releases/download/NotoSansMalayalam-v2.103/NotoSansMalayalam-v2.103.zip",
-    "siteurl": "https://github.com/notofonts/malayalam/releases/tag/NotoSansMalayalam-v2.103",
+    "packageurl": "https://github.com/notofonts/malayalam/releases/download/NotoSansMalayalam-v2.104/NotoSansMalayalam-v2.104.zip",
+    "siteurl": "https://github.com/notofonts/malayalam/releases/tag/NotoSansMalayalam-v2.104",
     "source": "Google",
     "status": "current",
-    "version": "2.103",
+    "version": "2.104",
     "ziproot": "NotoSansMalayalam"
 }
 }

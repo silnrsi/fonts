@@ -81,11 +81,11 @@
         "NotoSerifTamil-ThinItalic.ttf": { "axes": { "ital": 1, "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifTamil-ThinItalic.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTamil/full/ttf/NotoSerifTamil-ThinItalic.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/tamil/releases/download/NotoSerifTamil-v2.003/NotoSerifTamil-v2.003.zip",
-    "siteurl": "https://github.com/notofonts/tamil/releases/tag/NotoSerifTamil-v2.003",
+    "packageurl": "https://github.com/notofonts/tamil/releases/download/NotoSerifTamil-v2.004/NotoSerifTamil-v2.004.zip",
+    "siteurl": "https://github.com/notofonts/tamil/releases/tag/NotoSerifTamil-v2.004",
     "source": "Google",
     "status": "current",
-    "version": "2.003",
+    "version": "2.004",
     "ziproot": "NotoSerifTamil"
 }
 }

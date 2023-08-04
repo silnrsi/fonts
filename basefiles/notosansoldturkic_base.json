@@ -10,11 +10,11 @@
         "NotoSansOldTurkic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOldTurkic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOldTurkic/full/ttf/NotoSansOldTurkic-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/old-turkic/releases/download/NotoSansOldTurkic-v2.002/NotoSansOldTurkic-v2.002.zip",
-    "siteurl": "https://github.com/notofonts/old-turkic/releases/tag/NotoSansOldTurkic-v2.002",
+    "packageurl": "https://github.com/notofonts/old-turkic/releases/download/NotoSansOldTurkic-v2.003/NotoSansOldTurkic-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/old-turkic/releases/tag/NotoSansOldTurkic-v2.003",
     "source": "Google",
     "status": "current",
-    "version": "2.002",
+    "version": "2.003",
     "ziproot": "NotoSansOldTurkic"
 }
 }

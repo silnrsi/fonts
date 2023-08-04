@@ -1,10 +1,11 @@
 {
 "notosansmeroiticcursive": {
     "distributable": true,
+    "fallback": "notosansmeroitic",
     "family": "Noto Sans Meroitic Cursive",
     "familyid": "notosansmeroiticcursive",
     "license": "OFL",
     "source": "Google",
-    "status": "current"
+    "status": "deprecated"
 }
 }

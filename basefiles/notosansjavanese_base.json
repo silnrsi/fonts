@@ -11,11 +11,11 @@
         "NotoSansJavanese-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansJavanese-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansJavanese/full/ttf/NotoSansJavanese-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/javanese/releases/download/NotoSansJavanese-v2.004/NotoSansJavanese-v2.004.zip",
-    "siteurl": "https://github.com/notofonts/javanese/releases/tag/NotoSansJavanese-v2.004",
+    "packageurl": "https://github.com/notofonts/javanese/releases/download/NotoSansJavanese-v2.005/NotoSansJavanese-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/javanese/releases/tag/NotoSansJavanese-v2.005",
     "source": "Google",
     "status": "current",
-    "version": "2.004",
+    "version": "2.005",
     "ziproot": "NotoSansJavanese"
 }
 }

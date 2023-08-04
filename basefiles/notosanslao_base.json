@@ -45,11 +45,11 @@
         "NotoSansLao-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansLao-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLao/full/ttf/NotoSansLao-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/lao/releases/download/NotoSansLao-v2.002/NotoSansLao-v2.002.zip",
-    "siteurl": "https://github.com/notofonts/lao/releases/tag/NotoSansLao-v2.002",
+    "packageurl": "https://github.com/notofonts/lao/releases/download/NotoSansLao-v2.003/NotoSansLao-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/lao/releases/tag/NotoSansLao-v2.003",
     "source": "Google",
     "status": "current",
-    "version": "2.002",
+    "version": "2.003",
     "ziproot": "NotoSansLao"
 }
 }
