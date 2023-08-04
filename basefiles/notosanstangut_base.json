@@ -1,10 +1,11 @@
 {
 "notosanstangut": {
     "distributable": true,
+    "fallback": "notoseriftangut",
     "family": "Noto Sans Tangut",
     "familyid": "notosanstangut",
     "license": "OFL",
     "source": "Google",
-    "status": "current"
+    "status": "deprecated"
 }
 }
