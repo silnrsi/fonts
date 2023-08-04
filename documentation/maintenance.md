@@ -119,6 +119,22 @@ Here is an example of the basefile for a non-hosted font:
 }
 ```
 
+## Updating information on non-hosted Google Noto families
+
+_Note that the following process does not add information on any new families that may have been added to the Noto fonts. It only updates the information for families that have existing base files._ 
+
+- Pull all changes to the GFR repository.
+- Run the `updatenotobasefiles.py` script to grab the latest state.json data and update the `noto*_base.json` files: 
+
+```
+python3 tools/updatefamilydata.py
+```
+
+- Very carefully inspect the resulting changes in each affected base file. Most changes should be in version numbers.
+- Manually check and fix changes to families in packages that contain more than one font family. Discard any changes to *defaults* unless you are very sure that the default should change. For example, the script may try to change the *defaults* in Noto Sans Devanagari to `NotoSansDevanagariUI-Regular.ttf`.
+- Rebuild the `families.json` file.
+- Check your changes carefully, then commit and push your changes.
+
 ## Updating information on a non-hosted font family
 
 - Pull all changes to the GFR repository.
@@ -137,10 +153,6 @@ Validates a font manifest file. (needs documentation and example)
 ### createdraftfile.py
 
 Creates a draft font manifest or basefile based on the content of a folder. (needs documentation and example)
-
-### updatenotobasefiles.py
-
-This script reads the state.json file from the Google noto project and updates all the noto*_base.json files with the information found in state.json. (needs documentation and example?)
 
 ## Updating the FLO index.html based on README.md
 

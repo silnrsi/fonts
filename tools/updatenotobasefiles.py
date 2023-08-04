@@ -103,7 +103,7 @@ def doit(args):
                     continue
                 b = furl.split("/")
                 i = b.index("full")
-                data['ziproot'] = "/".join(b[:i-1])
+                data['ziproot'] = "/".join(b[i-1:i])
                 ppath = "/".join(b[i:])
                 axes = calc_axes(furl)
                 allaxes.update([k for k, v in axes.items() if v != default_axes.get(k, None)])
