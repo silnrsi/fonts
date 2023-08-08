@@ -56,10 +56,10 @@ def doit(args):
                 if not valid:
                     for logmess in logs:
                         logger.log(logmess[0], logmess[1])
-                    logger.log(f'{manifestname} invalid so {familyid} skipped')
+                    logger.log(f'{manifestpath} invalid so {familyid} skipped')
                     continue
             else:
-                logger.log(f'{manifestname} missing so {familyid} skipped')
+                logger.log(f'{manifestpath} missing so {familyid} skipped')
                 continue
             # Update fdata with data from manifest file
             for field in manifest.data:
