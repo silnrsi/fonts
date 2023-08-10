@@ -127,7 +127,7 @@ _Note that the following process does not add information on any new families th
 - Run the `updatenotobasefiles.py` script to grab the latest state.json data and update the `noto*_base.json` files: 
 
 ```
-python3 tools/updatefamilydata.py
+python3 tools/updatenotobasefiles.py
 ```
 
 - Very carefully inspect the resulting changes in each affected base file. Most changes should be in version numbers.
