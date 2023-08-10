@@ -3408,6 +3408,24 @@
     "version": "2.001",
     "ziproot": "NotoSansCherokee"
 },
+"notosanschorasmian": {
+    "defaults": {
+        "ttf": "NotoSansChorasmian-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Chorasmian",
+    "familyid": "notosanschorasmian",
+    "files": {
+        "NotoSansChorasmian-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansChorasmian-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansChorasmian/full/ttf/NotoSansChorasmian-Regular.ttf", "zippath": "NotoSansChorasmian/full/ttf/NotoSansChorasmian-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/chorasmian/releases/download/NotoSansChorasmian-v1.002/NotoSansChorasmian-v1.002.zip",
+    "siteurl": "https://github.com/notofonts/chorasmian/releases/tag/NotoSansChorasmian-v1.002",
+    "source": "Google",
+    "status": "current",
+    "version": "1.002",
+    "ziproot": "NotoSansChorasmian"
+},
 "notosanscoptic": {
     "defaults": {
         "ttf": "NotoSansCoptic-Regular.ttf"
@@ -3461,6 +3479,24 @@
     "status": "current",
     "version": "2.002",
     "ziproot": "NotoSansCypriot"
+},
+"notosanscyprominoan": {
+    "defaults": {
+        "ttf": "NotoSansCyproMinoan-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Cypro Minoan",
+    "familyid": "notosanscyprominoan",
+    "files": {
+        "NotoSansCyproMinoan-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansCyproMinoan-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCyproMinoan/full/ttf/NotoSansCyproMinoan-Regular.ttf", "zippath": "NotoSansCyproMinoan/full/ttf/NotoSansCyproMinoan-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/cypro-minoan/releases/download/NotoSansCyproMinoan-v1.503/NotoSansCyproMinoan-v1.503.zip",
+    "siteurl": "https://github.com/notofonts/cypro-minoan/releases/tag/NotoSansCyproMinoan-v1.503",
+    "source": "Google",
+    "status": "current",
+    "version": "1.503",
+    "ziproot": "NotoSansCyproMinoan"
 },
 "notosansdeseret": {
     "defaults": {
@@ -3615,6 +3651,24 @@
     "status": "current",
     "version": "2.004",
     "ziproot": "NotoSansElbasan"
+},
+"notosanselymaic": {
+    "defaults": {
+        "ttf": "NotoSansElymaic-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Elymaic",
+    "familyid": "notosanselymaic",
+    "files": {
+        "NotoSansElymaic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansElymaic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansElymaic/full/ttf/NotoSansElymaic-Regular.ttf", "zippath": "NotoSansElymaic/full/ttf/NotoSansElymaic-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/elymaic/releases/download/NotoSansElymaic-v1.001/NotoSansElymaic-v1.001.zip",
+    "siteurl": "https://github.com/notofonts/elymaic/releases/tag/NotoSansElymaic-v1.001",
+    "source": "Google",
+    "status": "current",
+    "version": "1.001",
+    "ziproot": "NotoSansElymaic"
 },
 "notosansethiopic": {
     "defaults": {
@@ -3953,6 +4007,27 @@
     "status": "current",
     "version": "2.004",
     "ziproot": "NotoSansGurmukhi"
+},
+"notosanshanifirohingya": {
+    "defaults": {
+        "ttf": "NotoSansHanifiRohingya-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Hanifi Rohingya",
+    "familyid": "notosanshanifirohingya",
+    "files": {
+        "NotoSansHanifiRohingya-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansHanifiRohingya-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-Bold.ttf", "zippath": "NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-Bold.ttf" },
+        "NotoSansHanifiRohingya-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansHanifiRohingya-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-Medium.ttf", "zippath": "NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-Medium.ttf" },
+        "NotoSansHanifiRohingya-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansHanifiRohingya-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-Regular.ttf", "zippath": "NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-Regular.ttf" },
+        "NotoSansHanifiRohingya-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansHanifiRohingya-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-SemiBold.ttf", "zippath": "NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/hanifi-rohingya/releases/download/NotoSansHanifiRohingya-v2.102/NotoSansHanifiRohingya-v2.102.zip",
+    "siteurl": "https://github.com/notofonts/hanifi-rohingya/releases/tag/NotoSansHanifiRohingya-v2.102",
+    "source": "Google",
+    "status": "current",
+    "version": "2.102",
+    "ziproot": "NotoSansHanifiRohingya"
 },
 "notosanshanunoo": {
     "defaults": {
@@ -4718,6 +4793,45 @@
     "version": "2.003",
     "ziproot": "NotoSansMarchen"
 },
+"notosansmasaramgondi": {
+    "defaults": {
+        "ttf": "NotoSansMasaramGondi-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Masaram Gondi",
+    "familyid": "notosansmasaramgondi",
+    "files": {
+        "NotoSansMasaramGondi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMasaramGondi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMasaramGondi/full/ttf/NotoSansMasaramGondi-Regular.ttf", "zippath": "NotoSansMasaramGondi/full/ttf/NotoSansMasaramGondi-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/masaram-gondi/releases/download/NotoSansMasaramGondi-v1.004/NotoSansMasaramGondi-v1.004.zip",
+    "siteurl": "https://github.com/notofonts/masaram-gondi/releases/tag/NotoSansMasaramGondi-v1.004",
+    "source": "Google",
+    "status": "current",
+    "version": "1.004",
+    "ziproot": "NotoSansMasaramGondi"
+},
+"notosansmedefaidrin": {
+    "defaults": {
+        "ttf": "NotoSansMedefaidrin-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Medefaidrin",
+    "familyid": "notosansmedefaidrin",
+    "files": {
+        "NotoSansMedefaidrin-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansMedefaidrin-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMedefaidrin/full/ttf/NotoSansMedefaidrin-Bold.ttf", "zippath": "NotoSansMedefaidrin/full/ttf/NotoSansMedefaidrin-Bold.ttf" },
+        "NotoSansMedefaidrin-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansMedefaidrin-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMedefaidrin/full/ttf/NotoSansMedefaidrin-Medium.ttf", "zippath": "NotoSansMedefaidrin/full/ttf/NotoSansMedefaidrin-Medium.ttf" },
+        "NotoSansMedefaidrin-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMedefaidrin-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMedefaidrin/full/ttf/NotoSansMedefaidrin-Regular.ttf", "zippath": "NotoSansMedefaidrin/full/ttf/NotoSansMedefaidrin-Regular.ttf" },
+        "NotoSansMedefaidrin-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansMedefaidrin-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMedefaidrin/full/ttf/NotoSansMedefaidrin-SemiBold.ttf", "zippath": "NotoSansMedefaidrin/full/ttf/NotoSansMedefaidrin-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/medefaidrin/releases/download/NotoSansMedefaidrin-v1.002/NotoSansMedefaidrin-v1.002.zip",
+    "siteurl": "https://github.com/notofonts/medefaidrin/releases/tag/NotoSansMedefaidrin-v1.002",
+    "source": "Google",
+    "status": "current",
+    "version": "1.002",
+    "ziproot": "NotoSansMedefaidrin"
+},
 "notosansmeeteimayek": {
     "defaults": {
         "ttf": "NotoSansMeeteiMayek-Regular.ttf"
@@ -4950,6 +5064,25 @@
     "version": "2.001",
     "ziproot": "NotoSansNabataean"
 },
+"notosansnagmundari": {
+    "defaults": {
+        "ttf": "NotoSansNagMundari-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Nag Mundari",
+    "familyid": "notosansnagmundari",
+    "files": {
+        "NotoSansNagMundari-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansNagMundari-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNagMundari/full/ttf/NotoSansNagMundari-Bold.ttf", "zippath": "NotoSansNagMundari/full/ttf/NotoSansNagMundari-Bold.ttf" },
+        "NotoSansNagMundari-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansNagMundari-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNagMundari/full/ttf/NotoSansNagMundari-Regular.ttf", "zippath": "NotoSansNagMundari/full/ttf/NotoSansNagMundari-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/nag-mundari/releases/download/NotoSansNagMundari-v1.000/NotoSansNagMundari-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/nag-mundari/releases/tag/NotoSansNagMundari-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSansNagMundari"
+},
 "notosansnandinagari": {
     "defaults": {
         "ttf": "NotoSansNandinagari-Regular.ttf"
@@ -5153,6 +5286,24 @@
     "status": "current",
     "version": "2.001",
     "ziproot": "NotoSansOldPersian"
+},
+"notosansoldsogdian": {
+    "defaults": {
+        "ttf": "NotoSansOldSogdian-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Old Sogdian",
+    "familyid": "notosansoldsogdian",
+    "files": {
+        "NotoSansOldSogdian-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOldSogdian-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOldSogdian/full/ttf/NotoSansOldSogdian-Regular.ttf", "zippath": "NotoSansOldSogdian/full/ttf/NotoSansOldSogdian-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/old-sogdian/releases/download/NotoSansOldSogdian-v2.002/NotoSansOldSogdian-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/old-sogdian/releases/tag/NotoSansOldSogdian-v2.002",
+    "source": "Google",
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansOldSogdian"
 },
 "notosansoldsoutharabian": {
     "defaults": {
@@ -5443,6 +5594,42 @@
     "source": "Google",
     "status": "current"
 },
+"notosanssharada": {
+    "defaults": {
+        "ttf": "NotoSansSharada-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Sharada",
+    "familyid": "notosanssharada",
+    "files": {
+        "NotoSansSharada-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSharada-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSharada/full/ttf/NotoSansSharada-Regular.ttf", "zippath": "NotoSansSharada/full/ttf/NotoSansSharada-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/sharada/releases/download/NotoSansSharada-v2.006/NotoSansSharada-v2.006.zip",
+    "siteurl": "https://github.com/notofonts/sharada/releases/tag/NotoSansSharada-v2.006",
+    "source": "Google",
+    "status": "current",
+    "version": "2.006",
+    "ziproot": "NotoSansSharada"
+},
+"notosansshavian": {
+    "defaults": {
+        "ttf": "NotoSansShavian-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Shavian",
+    "familyid": "notosansshavian",
+    "files": {
+        "NotoSansShavian-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansShavian-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansShavian/full/ttf/NotoSansShavian-Regular.ttf", "zippath": "NotoSansShavian/full/ttf/NotoSansShavian-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/shavian/releases/download/NotoSansShavian-v2.001/NotoSansShavian-v2.001.zip",
+    "siteurl": "https://github.com/notofonts/shavian/releases/tag/NotoSansShavian-v2.001",
+    "source": "Google",
+    "status": "current",
+    "version": "2.001",
+    "ziproot": "NotoSansShavian"
+},
 "notosansshuishu": {
     "distributable": true,
     "family": "Noto Sans Shuishu",
@@ -5468,6 +5655,14 @@
     "status": "current",
     "version": "2.005",
     "ziproot": "NotoSansSiddham"
+},
+"notosanssignwriting": {
+    "distributable": true,
+    "family": "Noto Sans SignWriting",
+    "familyid": "notosanssignwriting",
+    "license": "OFL",
+    "source": "Google",
+    "status": "current"
 },
 "notosanssinhala": {
     "defaults": {
@@ -5673,6 +5868,26 @@
     "status": "current",
     "version": "3.000",
     "ziproot": "NotoSansSyriac"
+},
+"notosanssyriaceastern": {
+    "defaults": {
+        "ttf": "NotoSansSyriacEastern-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Syriac Eastern",
+    "familyid": "notosanssyriaceastern",
+    "files": {
+        "NotoSansSyriacEastern-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSansSyriacEastern-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSyriacEastern/full/ttf/NotoSansSyriacEastern-Black.ttf", "zippath": "NotoSansSyriacEastern/full/ttf/NotoSansSyriacEastern-Black.ttf" },
+        "NotoSansSyriacEastern-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSyriacEastern-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSyriacEastern/full/ttf/NotoSansSyriacEastern-Regular.ttf", "zippath": "NotoSansSyriacEastern/full/ttf/NotoSansSyriacEastern-Regular.ttf" },
+        "NotoSansSyriacEastern-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSansSyriacEastern-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSyriacEastern/full/ttf/NotoSansSyriacEastern-Thin.ttf", "zippath": "NotoSansSyriacEastern/full/ttf/NotoSansSyriacEastern-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/syriac/releases/download/NotoSansSyriacEastern-v3.001/NotoSansSyriacEastern-v3.001.zip",
+    "siteurl": "https://github.com/notofonts/syriac/releases/tag/NotoSansSyriacEastern-v3.001",
+    "source": "Google",
+    "status": "current",
+    "version": "3.001",
+    "ziproot": "NotoSansSyriacEastern"
 },
 "notosanstagalog": {
     "defaults": {
@@ -6226,6 +6441,24 @@
     "version": "2.002",
     "ziproot": "NotoSansYi"
 },
+"notosanszanabazarsquare": {
+    "defaults": {
+        "ttf": "NotoSansZanabazarSquare-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Zanabazar Square",
+    "familyid": "notosanszanabazarsquare",
+    "files": {
+        "NotoSansZanabazarSquare-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansZanabazarSquare-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansZanabazarSquare/full/ttf/NotoSansZanabazarSquare-Regular.ttf", "zippath": "NotoSansZanabazarSquare/full/ttf/NotoSansZanabazarSquare-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/zanabazar-square/releases/download/NotoSansZanabazarSquare-v2.006/NotoSansZanabazarSquare-v2.006.zip",
+    "siteurl": "https://github.com/notofonts/zanabazar-square/releases/tag/NotoSansZanabazarSquare-v2.006",
+    "source": "Google",
+    "status": "current",
+    "version": "2.006",
+    "ziproot": "NotoSansZanabazarSquare"
+},
 "notoserif": {
     "distributable": true,
     "family": "Noto Serif",
@@ -6413,6 +6646,24 @@
     "status": "current",
     "version": "2.004",
     "ziproot": "NotoSerifDevanagari"
+},
+"notoserifdogra": {
+    "defaults": {
+        "ttf": "NotoSerifDogra-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Dogra",
+    "familyid": "notoserifdogra",
+    "files": {
+        "NotoSerifDogra-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifDogra-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifDogra/full/ttf/NotoSerifDogra-Regular.ttf", "zippath": "NotoSerifDogra/full/ttf/NotoSerifDogra-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/dogra/releases/download/NotoSerifDogra-v1.006/NotoSerifDogra-v1.006.zip",
+    "siteurl": "https://github.com/notofonts/dogra/releases/tag/NotoSerifDogra-v1.006",
+    "source": "Google",
+    "status": "current",
+    "version": "1.006",
+    "ziproot": "NotoSerifDogra"
 },
 "notoserifethiopic": {
     "defaults": {
@@ -6659,6 +6910,24 @@
     "version": "2.004",
     "ziproot": "NotoSerifKannada"
 },
+"notoserifkhitansmallscript": {
+    "defaults": {
+        "ttf": "NotoSerifKhitanSmallScript-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Khitan Small Script",
+    "familyid": "notoserifkhitansmallscript",
+    "files": {
+        "NotoSerifKhitanSmallScript-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifKhitanSmallScript-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifKhitanSmallScript/full/ttf/NotoSerifKhitanSmallScript-Regular.ttf", "zippath": "NotoSerifKhitanSmallScript/full/ttf/NotoSerifKhitanSmallScript-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/khitan-small-script/releases/download/NotoSerifKhitanSmallScript-v1.000/NotoSerifKhitanSmallScript-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/khitan-small-script/releases/tag/NotoSerifKhitanSmallScript-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSerifKhitanSmallScript"
+},
 "notoserifkhmer": {
     "defaults": {
         "ttf": "NotoSerifKhmer-Regular.ttf"
@@ -6772,6 +7041,24 @@
     "status": "current",
     "version": "2.003",
     "ziproot": "NotoSerifLao"
+},
+"notoserifmakasar": {
+    "defaults": {
+        "ttf": "NotoSerifMakasar-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Makasar",
+    "familyid": "notoserifmakasar",
+    "files": {
+        "NotoSerifMakasar-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifMakasar-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifMakasar/full/ttf/NotoSerifMakasar-Regular.ttf", "zippath": "NotoSerifMakasar/full/ttf/NotoSerifMakasar-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/makasar/releases/download/NotoSerifMakasar-v1.001/NotoSerifMakasar-v1.001.zip",
+    "siteurl": "https://github.com/notofonts/makasar/releases/tag/NotoSerifMakasar-v1.001",
+    "source": "Google",
+    "status": "current",
+    "version": "1.001",
+    "ziproot": "NotoSerifMakasar"
 },
 "notoserifmalayalam": {
     "defaults": {

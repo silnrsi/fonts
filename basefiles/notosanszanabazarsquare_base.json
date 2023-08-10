@@ -1,0 +1,20 @@
+{
+"notosanszanabazarsquare": {
+    "defaults": {
+        "ttf": "NotoSansZanabazarSquare-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Zanabazar Square",
+    "familyid": "notosanszanabazarsquare",
+    "files": {
+        "NotoSansZanabazarSquare-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansZanabazarSquare-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansZanabazarSquare/full/ttf/NotoSansZanabazarSquare-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/zanabazar-square/releases/download/NotoSansZanabazarSquare-v2.006/NotoSansZanabazarSquare-v2.006.zip",
+    "siteurl": "https://github.com/notofonts/zanabazar-square/releases/tag/NotoSansZanabazarSquare-v2.006",
+    "source": "Google",
+    "status": "current",
+    "version": "2.006",
+    "ziproot": "NotoSansZanabazarSquare"
+}
+}

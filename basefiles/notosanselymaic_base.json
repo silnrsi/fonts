@@ -1,0 +1,20 @@
+{
+"notosanselymaic": {
+    "defaults": {
+        "ttf": "NotoSansElymaic-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Elymaic",
+    "familyid": "notosanselymaic",
+    "files": {
+        "NotoSansElymaic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansElymaic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansElymaic/full/ttf/NotoSansElymaic-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/elymaic/releases/download/NotoSansElymaic-v1.001/NotoSansElymaic-v1.001.zip",
+    "siteurl": "https://github.com/notofonts/elymaic/releases/tag/NotoSansElymaic-v1.001",
+    "source": "Google",
+    "status": "current",
+    "version": "1.001",
+    "ziproot": "NotoSansElymaic"
+}
+}
