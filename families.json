@@ -4426,7 +4426,7 @@
     "familyid": "notosansleke",
     "license": "OFL",
     "source": "Google",
-    "status": "current"
+    "status": "deprecated"
 },
 "notosanslepcha": {
     "defaults": {
@@ -5449,7 +5449,7 @@
     "familyid": "notosansshuishu",
     "license": "OFL",
     "source": "Google",
-    "status": "current"
+    "status": "deprecated"
 },
 "notosanssiddham": {
     "defaults": {
