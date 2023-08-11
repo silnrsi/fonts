@@ -1,0 +1,22 @@
+{
+"notosanssyriaceastern": {
+    "defaults": {
+        "ttf": "NotoSansSyriacEastern-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Syriac Eastern",
+    "familyid": "notosanssyriaceastern",
+    "files": {
+        "NotoSansSyriacEastern-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSansSyriacEastern-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSyriacEastern/full/ttf/NotoSansSyriacEastern-Black.ttf" },
+        "NotoSansSyriacEastern-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSyriacEastern-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSyriacEastern/full/ttf/NotoSansSyriacEastern-Regular.ttf" },
+        "NotoSansSyriacEastern-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSansSyriacEastern-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSyriacEastern/full/ttf/NotoSansSyriacEastern-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/syriac/releases/download/NotoSansSyriacEastern-v3.001/NotoSansSyriacEastern-v3.001.zip",
+    "siteurl": "https://github.com/notofonts/syriac/releases/tag/NotoSansSyriacEastern-v3.001",
+    "source": "Google",
+    "status": "current",
+    "version": "3.001",
+    "ziproot": "NotoSansSyriacEastern"
+}
+}

@@ -1,0 +1,23 @@
+{
+"notosanshanifirohingya": {
+    "defaults": {
+        "ttf": "NotoSansHanifiRohingya-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Hanifi Rohingya",
+    "familyid": "notosanshanifirohingya",
+    "files": {
+        "NotoSansHanifiRohingya-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansHanifiRohingya-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-Bold.ttf" },
+        "NotoSansHanifiRohingya-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansHanifiRohingya-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-Medium.ttf" },
+        "NotoSansHanifiRohingya-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansHanifiRohingya-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-Regular.ttf" },
+        "NotoSansHanifiRohingya-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansHanifiRohingya-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansHanifiRohingya/full/ttf/NotoSansHanifiRohingya-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/hanifi-rohingya/releases/download/NotoSansHanifiRohingya-v2.102/NotoSansHanifiRohingya-v2.102.zip",
+    "siteurl": "https://github.com/notofonts/hanifi-rohingya/releases/tag/NotoSansHanifiRohingya-v2.102",
+    "source": "Google",
+    "status": "current",
+    "version": "2.102",
+    "ziproot": "NotoSansHanifiRohingya"
+}
+}

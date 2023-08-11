@@ -1,0 +1,21 @@
+{
+"notosansnagmundari": {
+    "defaults": {
+        "ttf": "NotoSansNagMundari-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Nag Mundari",
+    "familyid": "notosansnagmundari",
+    "files": {
+        "NotoSansNagMundari-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansNagMundari-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNagMundari/full/ttf/NotoSansNagMundari-Bold.ttf" },
+        "NotoSansNagMundari-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansNagMundari-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNagMundari/full/ttf/NotoSansNagMundari-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/nag-mundari/releases/download/NotoSansNagMundari-v1.000/NotoSansNagMundari-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/nag-mundari/releases/tag/NotoSansNagMundari-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSansNagMundari"
+}
+}
