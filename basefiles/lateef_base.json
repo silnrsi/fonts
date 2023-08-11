@@ -4,10 +4,10 @@
     "family": "Lateef",
     "familyid": "lateef",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/lateef/Lateef-4.000.zip",
+    "packageurl": "https://software.sil.org/downloads/r/lateef/Lateef-4.100.zip",
     "siteurl": "https://software.sil.org/lateef/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "Lateef-4.000"
+    "ziproot": "Lateef-4.100"
 }
 }

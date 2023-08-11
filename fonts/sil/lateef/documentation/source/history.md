@@ -1,7 +1,17 @@
 ---
 title: Lateef - Version History
-fontversion: 4.000
+fontversion: 4.100
 ---
+
+### 2023-08-11 (SIL WSTech team) Lateef version 4.100
+
+#### New
+
+- Added:
+    - FD42 ARABIC LIGATURE RADI ALLAAHU ANHAA
+    - FD47 ARABIC LIGATURE ALAYHI AS-SALAAM
+    - FDCF ARABIC LIGATURE SALAAMUHU ALAYNAA
+    - FDFD ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM
 
 ### 2023-04-14 (SIL WSTech team) Lateef version 4.000
 
@@ -267,7 +277,7 @@ fontversion: 4.000
 - Adjusted width of various whitespace characters to conform to best practice
 - Revised side-bearings for many glyphs
 - Revised width of kashida
-- Changed scaling for some quranic marks (combining) and adjusted weights
+- Changed scaling for some Quranic marks (combining) and adjusted weights
 - Improved mark positioning
 - Redesign 
     - U+0616 ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH (see https://www.unicode.org/versions/Unicode15.0.0/erratafixed.html)
@@ -311,7 +321,7 @@ fontversion: 4.000
 - Added alternates for End of Ayah (U+06DD) and changed default design
 - Design changes to U+0755, U+0756, U+075A
 - Design changes to U+06AC and U+06AD
-- Design changes to U+06DF..U+06E1 (to follow http://unicode.org/review/pr-73.html)
+- Design changes to U+06DF..U+06E1 (to follow https://unicode.org/review/pr-73.html)
 - U+06BA is now dotless in all positions
 - U+00A0 advanced width changed to match U+0020
 - Size of dagger alef (U+0670) is reduced above U+0678
