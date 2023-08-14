@@ -4495,14 +4495,6 @@
     "version": "2.003",
     "ziproot": "NotoSansLao"
 },
-"notosansleke": {
-    "distributable": true,
-    "family": "Noto Sans Leke",
-    "familyid": "notosansleke",
-    "license": "OFL",
-    "source": "Google",
-    "status": "deprecated"
-},
 "notosanslepcha": {
     "defaults": {
         "ttf": "NotoSansLepcha-Regular.ttf"
@@ -5629,14 +5621,6 @@
     "status": "current",
     "version": "2.001",
     "ziproot": "NotoSansShavian"
-},
-"notosansshuishu": {
-    "distributable": true,
-    "family": "Noto Sans Shuishu",
-    "familyid": "notosansshuishu",
-    "license": "OFL",
-    "source": "Google",
-    "status": "deprecated"
 },
 "notosanssiddham": {
     "defaults": {
