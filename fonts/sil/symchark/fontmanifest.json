@@ -1,0 +1,16 @@
+{
+"symchark": {
+    "defaults": {
+        "ttf": "SymCharK-Regular.ttf",
+        "woff": "SymCharK-Regular.woff",
+        "woff2": "SymCharK-Regular.woff2"
+    },
+    "family": "SymCharK",
+    "files": {
+        "SymCharK-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "SymCharK-Regular.ttf" },
+        "SymCharK-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/SymCharK-Regular.woff" },
+        "SymCharK-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/SymCharK-Regular.woff2" }
+    },
+    "version": "3.000"
+}
+}

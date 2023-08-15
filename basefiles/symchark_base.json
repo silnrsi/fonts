@@ -1,0 +1,13 @@
+{
+"symchark": {
+    "distributable": true,
+    "family": "SymCharK",
+    "familyid": "symchark",
+    "license": "OFL",
+    "packageurl": "https://github.com/silnrsi/font-symchar/releases/download/v3.000/SymCharK-3.000-dev-c8fbbc.zip",
+    "siteurl": "https://github.com/silnrsi/font-symchar",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "SymCharK-3.000-dev-c8fbbc"
+}
+}
