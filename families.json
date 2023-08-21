@@ -7738,6 +7738,7 @@
     "license": "OFL",
     "packageurl": "https://laoscript.net/download/saysettha_all.zip",
     "siteurl": "https://laoscript.net/download/",
+    "source": "Lao Script",
     "status": "current",
     "version": "2.201",
     "ziproot": ""
@@ -7747,6 +7748,7 @@
     "fallback": "saysettha",
     "family": "Saysettha MX",
     "familyid": "saysetthamx",
+    "source": "Lao Script",
     "status": "deprecated"
 },
 "scheherazade": {
