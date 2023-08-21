@@ -2476,10 +2476,10 @@
     "family": "Kyebogyi SIL",
     "familyid": "kyebogyisil",
     "files": {
-        "kyebogyisil.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "kyebogyisil.ttf", "zippath": "kyebogyisil.ttf" }
+        "kyebogyisil.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "kyebogyisil.ttf", "url": "https://github.com/silnrsi/font-kyebogyi/raw/master/srcs/Kyebogyi_SIL.ttf", "zippath": "kyebogyisil.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/silnrsi/font-kyebogyi/blob/master/srcs/Kyebogyi_SIL.ttf?raw=true",
+    "packageurl": "https://github.com/silnrsi/font-kyebogyi/raw/master/srcs/Kyebogyi_SIL.ttf",
     "siteurl": "https://github.com/silnrsi/font-kyebogyi",
     "source": "SIL",
     "version": "1.000"
