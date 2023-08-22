@@ -1,18 +1,14 @@
 {
 "kyebogyisil": {
-    "defaults": {
-        "ttf": "kyebogyisil.ttf"
-    },
     "distributable": true,
+    "fallback": "kayphodu",
     "family": "Kyebogyi SIL",
     "familyid": "kyebogyisil",
-    "files": {
-        "kyebogyisil.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "kyebogyisil.ttf", "url": "https://github.com/silnrsi/font-kyebogyi/raw/master/srcs/Kyebogyi_SIL.ttf" }
-    },
     "license": "OFL",
     "packageurl": "https://github.com/silnrsi/font-kyebogyi/raw/master/srcs/Kyebogyi_SIL.ttf",
     "siteurl": "https://github.com/silnrsi/font-kyebogyi",
     "source": "SIL",
+    "status": "deprecated",
     "version": "1.000"
 }
 }
