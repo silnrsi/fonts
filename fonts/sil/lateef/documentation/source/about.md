@@ -1,6 +1,6 @@
 ---
 title: Lateef - About
-fontversion: 4.100
+fontversion: 4.200
 ---
 
 ## About this project
@@ -32,7 +32,7 @@ You can subscribe using either of the two following options.
 
 - If you would rather not use a Google profile, you can subscribe any email address by sending a message to [sil-font-news+subscribe@groups.sil.org](mailto:sil-font-news+subscribe@groups.sil.org) and following the instructions you get in the confirmation message.
 
-Our font announcements are also available through Twitter [@silfonts](https://twitter.com/silfonts).
+Our font announcements are also available through Twitter [\@silfonts](https://twitter.com/silfonts).
 
 ## Supporting the project
 
