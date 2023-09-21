@@ -5,10 +5,22 @@
     src: url("../../fonts/sil/ruwudu/web/Ruwudu-Regular.woff2") format("woff2");
 }
 @font-face {
+    font-family: LPR;
+    font-weight: bold;
+    font-style: normal;
+    src: url("../../fonts/sil/ruwudu/web/Ruwudu-Bold.woff2") format("woff2");
+}
+@font-face {
     font-family: FLO;
     font-weight: normal;
     font-style: normal;
     src: url("https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: bold;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/ruwudu/web/Ruwudu-Bold.woff2") format("woff2");
 }
 
 .lpr {
