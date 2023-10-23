@@ -23,6 +23,6 @@
         "AwamiNastaliq-SemiBold.woff": { "altfamily": "Awami Nastaliq SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/AwamiNastaliq-SemiBold.woff" },
         "AwamiNastaliq-SemiBold.woff2": { "altfamily": "Awami Nastaliq SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/AwamiNastaliq-SemiBold.woff2" }
     },
-    "version": "3.100"
+    "version": "3.200"
 }
 }

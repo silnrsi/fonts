@@ -1,6 +1,6 @@
 ---
 title: Awami Nastaliq - Documentation
-fontversion: 3.100
+fontversion: 3.200
 ---
 
 Thank you for your interest in the Awami Nastaliq font. The Awami Nastaliq font does not provide complete coverage of all the characters defined in Unicode for Arabic script. Because the font style is specifically intended for languages using the Nastaliq style of Arabic script, the character set for this font is aimed at supporting those languages.
@@ -21,6 +21,4 @@ This documentation is a set of HTML pages that can be viewed in any modern web b
 - [Versions](versions.md) &#x2013; Sources for alternate versions
 - [Version history](history.md) &#x2013; Complete version history
 - [Announcement](announcement.md) &#x2013; Source for News announcement
-
-Additional information is also provided in other project files: [README.txt](../README.txt), [OFL.txt](../OFL.txt), [OFL-FAQ.txt](../OFL-FAQ.txt), and [FONTLOG.txt](../FONTLOG.txt).
 
