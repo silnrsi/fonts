@@ -1,6 +1,6 @@
 ---
 title: Narnoor - Developer Information
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 ## Welcome font developers!
@@ -18,9 +18,18 @@ The full source code for the Narnoor font is available on [Github](https://githu
 Font sources are in the [UFO3](http://unifiedfontobject.org/versions/ufo3/) format with font family structures defined using [designspace](https://github.com/fonttools/fonttools/tree/master/Doc/source/designspaceLib).
 OpenType source code is stored in the [.fea](https://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html) format in the UFO (features.fea) but is maintained in a separate file using the more efficient and powerful [.feax](https://github.com/silnrsi/pysilfont/blob/master/docs/feaextensions.rawmd) format.
 
-The fonts are built using a completely free and open source workflow using industry-standard tools ([fonttools](https://github.com/fonttools/fonttools)), a package of custom python scripts ([pysilfont](https://github.com/silnrsi/pysilfont)), and a build and packaging system ([Smith](https://github.com/silnrsi/smith)). The whole system is available in a preconfigured virtual machine using Windows Subsystem for Linux (WSL) and Docker.
+The fonts are built using a completely free and open source workflow using industry-standard tools ([fonttools](https://github.com/fonttools/fonttools)), a package of custom python scripts ([pysilfont](https://github.com/silnrsi/pysilfont)), and a build and packaging system ([Smith](https://github.com/silnrsi/smith)). The whole toolchain is available as a Docker container.
 
 Full instructions for setting up the tools and building SIL fonts are available on a dedicated web site: [SIL Font Development Notes](https://silnrsi.github.io/silfontdev/).
+
+For building variable fonts (at this time, an experimental format for SIL fonts) run (on Linux and macOS; Windows requires slightly different commands):
+
+- python3 -m venv variable
+- source variable/bin/activate
+- pip3 install gftools
+- fontmake -m source/Narnoor-VF.designspace -o variable
+
+The output will be in the `variable_ttf` directory.
 
 ## Contributing to the project
 

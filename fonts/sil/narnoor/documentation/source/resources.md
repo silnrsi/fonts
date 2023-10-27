@@ -1,6 +1,6 @@
 ---
 title: Narnoor - Resources
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 ## Requirements

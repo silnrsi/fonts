@@ -7,10 +7,22 @@
     },
     "family": "Narnoor",
     "files": {
+        "Narnoor-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Narnoor-Bold.ttf" },
+        "Narnoor-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Narnoor-Bold.woff" },
+        "Narnoor-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Narnoor-Bold.woff2" },
+        "Narnoor-ExtraBold.ttf": { "altfamily": "Narnoor ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "Narnoor-ExtraBold.ttf" },
+        "Narnoor-ExtraBold.woff": { "altfamily": "Narnoor ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Narnoor-ExtraBold.woff" },
+        "Narnoor-ExtraBold.woff2": { "altfamily": "Narnoor ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Narnoor-ExtraBold.woff2" },
+        "Narnoor-Medium.ttf": { "altfamily": "Narnoor Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Narnoor-Medium.ttf" },
+        "Narnoor-Medium.woff": { "altfamily": "Narnoor Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Narnoor-Medium.woff" },
+        "Narnoor-Medium.woff2": { "altfamily": "Narnoor Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Narnoor-Medium.woff2" },
         "Narnoor-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Narnoor-Regular.ttf" },
         "Narnoor-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Narnoor-Regular.woff" },
-        "Narnoor-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Narnoor-Regular.woff2" }
+        "Narnoor-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Narnoor-Regular.woff2" },
+        "Narnoor-SemiBold.ttf": { "altfamily": "Narnoor SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Narnoor-SemiBold.ttf" },
+        "Narnoor-SemiBold.woff": { "altfamily": "Narnoor SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Narnoor-SemiBold.woff" },
+        "Narnoor-SemiBold.woff2": { "altfamily": "Narnoor SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Narnoor-SemiBold.woff2" }
     },
-    "version": "2.000"
+    "version": "3.000"
 }
 }

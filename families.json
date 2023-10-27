@@ -2754,17 +2754,29 @@
     "family": "Narnoor",
     "familyid": "narnoor",
     "files": {
-        "Narnoor-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/Narnoor-Regular.ttf", "packagepath": "Narnoor-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/Narnoor-Regular.ttf", "zippath": "Narnoor-2.000/Narnoor-Regular.ttf" },
-        "Narnoor-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-Regular.woff", "packagepath": "web/Narnoor-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-Regular.woff", "zippath": "Narnoor-2.000/web/Narnoor-Regular.woff" },
-        "Narnoor-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-Regular.woff2", "packagepath": "web/Narnoor-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-Regular.woff2", "zippath": "Narnoor-2.000/web/Narnoor-Regular.woff2" }
+        "Narnoor-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/Narnoor-Bold.ttf", "packagepath": "Narnoor-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/Narnoor-Bold.ttf", "zippath": "Narnoor-3.000/Narnoor-Bold.ttf" },
+        "Narnoor-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-Bold.woff", "packagepath": "web/Narnoor-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-Bold.woff", "zippath": "Narnoor-3.000/web/Narnoor-Bold.woff" },
+        "Narnoor-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-Bold.woff2", "packagepath": "web/Narnoor-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-Bold.woff2", "zippath": "Narnoor-3.000/web/Narnoor-Bold.woff2" },
+        "Narnoor-ExtraBold.ttf": { "altfamily": "Narnoor ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/Narnoor-ExtraBold.ttf", "packagepath": "Narnoor-ExtraBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/Narnoor-ExtraBold.ttf", "zippath": "Narnoor-3.000/Narnoor-ExtraBold.ttf" },
+        "Narnoor-ExtraBold.woff": { "altfamily": "Narnoor ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-ExtraBold.woff", "packagepath": "web/Narnoor-ExtraBold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-ExtraBold.woff", "zippath": "Narnoor-3.000/web/Narnoor-ExtraBold.woff" },
+        "Narnoor-ExtraBold.woff2": { "altfamily": "Narnoor ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-ExtraBold.woff2", "packagepath": "web/Narnoor-ExtraBold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-ExtraBold.woff2", "zippath": "Narnoor-3.000/web/Narnoor-ExtraBold.woff2" },
+        "Narnoor-Medium.ttf": { "altfamily": "Narnoor Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/Narnoor-Medium.ttf", "packagepath": "Narnoor-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/Narnoor-Medium.ttf", "zippath": "Narnoor-3.000/Narnoor-Medium.ttf" },
+        "Narnoor-Medium.woff": { "altfamily": "Narnoor Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-Medium.woff", "packagepath": "web/Narnoor-Medium.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-Medium.woff", "zippath": "Narnoor-3.000/web/Narnoor-Medium.woff" },
+        "Narnoor-Medium.woff2": { "altfamily": "Narnoor Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-Medium.woff2", "packagepath": "web/Narnoor-Medium.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-Medium.woff2", "zippath": "Narnoor-3.000/web/Narnoor-Medium.woff2" },
+        "Narnoor-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/Narnoor-Regular.ttf", "packagepath": "Narnoor-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/Narnoor-Regular.ttf", "zippath": "Narnoor-3.000/Narnoor-Regular.ttf" },
+        "Narnoor-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-Regular.woff", "packagepath": "web/Narnoor-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-Regular.woff", "zippath": "Narnoor-3.000/web/Narnoor-Regular.woff" },
+        "Narnoor-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-Regular.woff2", "packagepath": "web/Narnoor-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-Regular.woff2", "zippath": "Narnoor-3.000/web/Narnoor-Regular.woff2" },
+        "Narnoor-SemiBold.ttf": { "altfamily": "Narnoor SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/Narnoor-SemiBold.ttf", "packagepath": "Narnoor-SemiBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/Narnoor-SemiBold.ttf", "zippath": "Narnoor-3.000/Narnoor-SemiBold.ttf" },
+        "Narnoor-SemiBold.woff": { "altfamily": "Narnoor SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-SemiBold.woff", "packagepath": "web/Narnoor-SemiBold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-SemiBold.woff", "zippath": "Narnoor-3.000/web/Narnoor-SemiBold.woff" },
+        "Narnoor-SemiBold.woff2": { "altfamily": "Narnoor SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/narnoor/web/Narnoor-SemiBold.woff2", "packagepath": "web/Narnoor-SemiBold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/narnoor/web/Narnoor-SemiBold.woff2", "zippath": "Narnoor-3.000/web/Narnoor-SemiBold.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/narnoor/Narnoor-2.000.zip",
+    "packageurl": "https://software.sil.org/downloads/r/narnoor/Narnoor-3.000.zip",
     "siteurl": "https://software.sil.org/narnoor/",
     "source": "SIL",
     "status": "current",
-    "version": "2.000",
-    "ziproot": "Narnoor-2.000"
+    "version": "3.000",
+    "ziproot": "Narnoor-3.000"
 },
 "nokyung": {
     "defaults": {

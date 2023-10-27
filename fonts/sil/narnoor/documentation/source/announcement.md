@@ -1,6 +1,4 @@
-fontversion: 2.000
+fontversion: 3.000
 
-- Redraw all Gunjala Gondi glyphs
-- Replace Latin characters with Source Sans
-- Remove Graphite shaping
-- Improve OpenType shaping
+- Add more weights (Medium, SemiBold, Bold, ExtraBold)
+- Latin characters are darker and smaller that the v2.000 release

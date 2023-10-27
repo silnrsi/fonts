@@ -1,10 +1,10 @@
 ---
 title: Narnoor - Product Site
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 ![Narnoor - Banner](assets/images/narnoor_banner.png){.fullsize}
-<!-- PRODUCT SITE IMAGE SRC https://software.sil.org/wp/wp-content/uploads/2019/12/narnoor_banner.png -->
+<!-- PRODUCT SITE IMAGE SRC https://software.sil.org/wp/wp-content/uploads/2020/01/Narnoor-sample_sm.png -->
 
 <h2 id="about">About</h2>
 
@@ -28,7 +28,7 @@ Narnoor can be used with any Unicode Gunjala keyboarding program. Mark Penny’s
 
 ### Can I make a web page using this font?
 
-Yes. You can create web pages that request that Narnoor be used to display them. In the download package we provide a WOFF font. See [Using SIL Fonts on Web Pages](http://software.sil.org/fonts/webfonts) for instructions on using fonts on web pages.
+Yes. You can create web pages that request that Narnoor be used to display them. In the download package we provide a WOFF font. See [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts) for instructions on using fonts on web pages.
 
 ### Can I make changes to the Narnoor font?
 

@@ -1,10 +1,7 @@
 ---
 title: Narnoor - About
-fontversion: 2.000
+fontversion: 3.000
 ---
-
-![Narnoor - Banner](assets/images/narnoor_banner.png){.fullsize}
-<!-- PRODUCT SITE IMAGE SRC https://software.sil.org/wp/wp-content/uploads/2022/08/narnoor_banner.png -->
 
 ## About this project
 
@@ -34,7 +31,7 @@ These fonts are provided at no cost, however they are expensive to produce and m
 
 ## About SIL International
 
-[SIL International](http://www.sil.org/) is a global, faith-based nonprofit that works with local communities around the world to develop language solutions that expand possibilities for a better life.
+[SIL International](https://www.sil.org/) is a global, faith-based nonprofit that works with local communities around the world to develop language solutions that expand possibilities for a better life.
 
 We are involved in approximately 1,350 active language projects in 104 countries. These projects impact more than 1.1 billion people within 1,600 local communities. SIL’s work brings together more than 4,300 staff from 89 countries who work alongside thousands more local partners and community volunteers worldwide. Our services are available without regard to religious belief, political ideology, gender, race or ethnic background.
 

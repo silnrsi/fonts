@@ -1,7 +1,12 @@
 ---
 title: Narnoor - Version History
-fontversion: 2.000
+fontversion: 3.000
 ---
+
+### 29 Sep 2023 (SIL International) Narnoor font version 3.000
+- Add more weights (Medium, SemiBold, Bold, ExtraBold)
+- Latin characters are from Source Sans at 96.67%
+- Latin characters are darker and smaller that the v2.000 release
 
 ### 21 Feb 2023 (SIL International) Narnoor font version 2.000
 - Redraw all Gunjala Gondi glyphs
