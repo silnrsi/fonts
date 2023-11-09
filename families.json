@@ -375,24 +375,27 @@
 "annapurnasil": {
     "defaults": {
         "ttf": "AnnapurnaSIL-Regular.ttf",
-        "woff": "AnnapurnaSIL-Regular.woff"
+        "woff": "AnnapurnaSIL-Regular.woff",
+        "woff2": "AnnapurnaSIL-Regular.woff2"
     },
     "distributable": true,
     "family": "Annapurna SIL",
     "familyid": "annapurnasil",
     "files": {
-        "AnnapurnaSIL-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasil/AnnapurnaSIL-Bold.ttf", "packagepath": "AnnapurnaSIL-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasil/AnnapurnaSIL-Bold.ttf", "zippath": "AnnapurnaSIL-1.204/AnnapurnaSIL-Bold.ttf" },
-        "AnnapurnaSIL-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasil/web/AnnapurnaSIL-Bold.woff", "packagepath": "web/AnnapurnaSIL-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasil/web/AnnapurnaSIL-Bold.woff", "zippath": "AnnapurnaSIL-1.204/web/AnnapurnaSIL-Bold.woff" },
-        "AnnapurnaSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasil/AnnapurnaSIL-Regular.ttf", "packagepath": "AnnapurnaSIL-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasil/AnnapurnaSIL-Regular.ttf", "zippath": "AnnapurnaSIL-1.204/AnnapurnaSIL-Regular.ttf" },
-        "AnnapurnaSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasil/web/AnnapurnaSIL-Regular.woff", "packagepath": "web/AnnapurnaSIL-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasil/web/AnnapurnaSIL-Regular.woff", "zippath": "AnnapurnaSIL-1.204/web/AnnapurnaSIL-Regular.woff" }
+        "AnnapurnaSIL-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasil/AnnapurnaSIL-Bold.ttf", "packagepath": "AnnapurnaSIL-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasil/AnnapurnaSIL-Bold.ttf", "zippath": "AnnapurnaSIL-2.000/AnnapurnaSIL-Bold.ttf" },
+        "AnnapurnaSIL-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasil/web/AnnapurnaSIL-Bold.woff", "packagepath": "web/AnnapurnaSIL-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasil/web/AnnapurnaSIL-Bold.woff", "zippath": "AnnapurnaSIL-2.000/web/AnnapurnaSIL-Bold.woff" },
+        "AnnapurnaSIL-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasil/web/AnnapurnaSIL-Bold.woff2", "packagepath": "web/AnnapurnaSIL-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasil/web/AnnapurnaSIL-Bold.woff2", "zippath": "AnnapurnaSIL-2.000/web/AnnapurnaSIL-Bold.woff2" },
+        "AnnapurnaSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasil/AnnapurnaSIL-Regular.ttf", "packagepath": "AnnapurnaSIL-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasil/AnnapurnaSIL-Regular.ttf", "zippath": "AnnapurnaSIL-2.000/AnnapurnaSIL-Regular.ttf" },
+        "AnnapurnaSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasil/web/AnnapurnaSIL-Regular.woff", "packagepath": "web/AnnapurnaSIL-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasil/web/AnnapurnaSIL-Regular.woff", "zippath": "AnnapurnaSIL-2.000/web/AnnapurnaSIL-Regular.woff" },
+        "AnnapurnaSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasil/web/AnnapurnaSIL-Regular.woff2", "packagepath": "web/AnnapurnaSIL-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasil/web/AnnapurnaSIL-Regular.woff2", "zippath": "AnnapurnaSIL-2.000/web/AnnapurnaSIL-Regular.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/annapurna/AnnapurnaSIL-1.204.zip",
+    "packageurl": "https://software.sil.org/downloads/r/annapurna/AnnapurnaSIL-2.000.zip",
     "siteurl": "https://software.sil.org/annapurna/",
     "source": "SIL",
     "status": "current",
-    "version": "1.204",
-    "ziproot": "AnnapurnaSIL-1.204"
+    "version": "2.000",
+    "ziproot": "AnnapurnaSIL-2.000"
 },
 "annapurnasilkham": {
     "distributable": true,
