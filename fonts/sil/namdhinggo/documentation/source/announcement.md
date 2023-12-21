@@ -1,6 +1,3 @@
-fontversion: 3.000
+fontversion: 3.100
 
-- Added additional weights: Medium, Semibold, Bold, ExtraBold
-- Remove SIL suffix from font name
-- Improved kerning
-- Added documentation
+-  Add single danda (U+0964)

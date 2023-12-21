@@ -1,6 +1,6 @@
 /*
 This file is from the Namdhinggo project (https://software.sil.org/namdhinggo/).
-Copyright (c) 2002-2022 SIL International (http://www.sil.org/),
+Copyright (c) 2002-2023 SIL International (https://www.sil.org/),
 with Reserved Font Name "Namdhinggo" and "SIL".
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 */
@@ -9,9 +9,24 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
     src: url("../../../web/Namdhinggo-Regular.woff2") format("woff2");
 }
 @font-face {
+    font-family: Namdhinggo-M;
+    src: url("../../../web/Namdhinggo-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: Namdhinggo-SB;
+    src: url("../../../web/Namdhinggo-SemiBold.woff2") format("woff2");
+}
+@font-face {
     font-family: Namdhinggo-B;
     src: url("../../../web/Namdhinggo-Bold.woff2") format("woff2");
 }
+@font-face {
+    font-family: Namdhinggo-XB;
+    src: url("../../../web/Namdhinggo-ExtraBold.woff2") format("woff2");
+}
 
-.namdhinggo-R { font-family: Namdhinggo-R; }
-.namdhinggo-B { font-family: Namdhinggo-B; }
+.namdhinggo-R  { font-family: Namdhinggo-R;  font-size: xx-large}
+.namdhinggo-M  { font-family: Namdhinggo-M;  font-size: xx-large}
+.namdhinggo-SB { font-family: Namdhinggo-SB; font-size: xx-large}
+.namdhinggo-B  { font-family: Namdhinggo-B;  font-size: xx-large}
+.namdhinggo-XB { font-family: Namdhinggo-XB; font-size: xx-large}

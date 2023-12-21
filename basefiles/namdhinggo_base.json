@@ -4,10 +4,10 @@
     "family": "Namdhinggo",
     "familyid": "namdhinggo",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/namdhinggo/Namdhinggo-3.000.zip",
+    "packageurl": "https://software.sil.org/downloads/r/namdhinggo/Namdhinggo-3.100.zip",
     "siteurl": "https://software.sil.org/Namdhinggo/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "Namdhinggo-3.000"
+    "ziproot": "Namdhinggo-3.100"
 }
 }

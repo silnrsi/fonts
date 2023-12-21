@@ -1,6 +1,6 @@
 ---
 title: Namdhinggo - Support
-fontversion: 3.000
+fontversion: 3.100
 ---
 
 ## Support options
@@ -15,7 +15,7 @@ For person-to-person support visit the [SIL Language Software Community](https:/
 
 ## Reporting bugs and feature requests
 
-If you have a bug to report or a suggestion for how we could improve the fonts please create an issue in the [Github Namdhinggo project]([Github](https://github.com/silnrsi/font-namdhinggo/issues) or contact us directly.
+If you have a bug to report or a suggestion for how we could improve the fonts please create an issue in the [Github Namdhinggo project](https://github.com/silnrsi/font-namdhinggo/issues) or contact us directly.
 
 ## Contact form
 

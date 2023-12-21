@@ -1,7 +1,13 @@
 ---
 title: Namdhinggo - Documentation
-fontversion: 3.000
+fontversion: 3.100
 ---
+
+<span class='namdhinggo-R normal'>ᤆᤢᤶᤛᤣ, ᤕᤠᤰᤌᤢᤱᤐᤠ᤺ᤴ ᤛᤠᤵᤋᤢᤶᤗᤥ</span>&nbsp;&nbsp;&nbsp;Regular<br>
+<span class='namdhinggo-M normal'>ᤆᤢᤶᤛᤣ, ᤕᤠᤰᤌᤢᤱᤐᤠ᤺ᤴ ᤛᤠᤵᤋᤢᤶᤗᤥ</span>&nbsp;&nbsp;&nbsp;Medium<br>
+<span class='namdhinggo-SB normal'>ᤆᤢᤶᤛᤣ, ᤕᤠᤰᤌᤢᤱᤐᤠ᤺ᤴ ᤛᤠᤵᤋᤢᤶᤗᤥ</span>&nbsp;&nbsp;&nbsp;SemiBold<br>
+<span class='namdhinggo-B normal'>ᤆᤢᤶᤛᤣ, ᤕᤠᤰᤌᤢᤱᤐᤠ᤺ᤴ ᤛᤠᤵᤋᤢᤶᤗᤥ</span>&nbsp;&nbsp;&nbsp;Bold<br>
+<span class='namdhinggo-XB normal'>ᤆᤢᤶᤛᤣ, ᤕᤠᤰᤌᤢᤱᤐᤠ᤺ᤴ ᤛᤠᤵᤋᤢᤶᤗᤥ</span>&nbsp;&nbsp;&nbsp;ExtraBold<br>
 
 Thank you for your interest in the Namdhinggo fonts for the Limbu script.
 
@@ -10,7 +16,6 @@ This documentation is a set of HTML pages that can be viewed in any modern web b
 - [About](about.md) — Information about this project and SIL International
 - [Resources](resources.md) — Help with installation and use
 - [FAQ](faq.md) — Common questions and answers
-- [Design](design.md) — History and background of the design
 - [Character set support](charset.md) — Details of Unicode characters that are supported
 - [Support](support.md) — How to get additional support
 - [Developer information](developer.md) — How to modify and build the fonts

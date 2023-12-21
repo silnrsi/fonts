@@ -23,6 +23,6 @@
         "Namdhinggo-SemiBold.woff": { "altfamily": "Namdhinggo SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Namdhinggo-SemiBold.woff" },
         "Namdhinggo-SemiBold.woff2": { "altfamily": "Namdhinggo SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Namdhinggo-SemiBold.woff2" }
     },
-    "version": "3.000"
+    "version": "3.100"
 }
 }

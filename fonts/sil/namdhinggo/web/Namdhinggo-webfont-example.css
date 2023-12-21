@@ -1,38 +1,51 @@
 /*
-Namdhinggo-webfont-example.html
-Namdhinggo
-This file is part of Namdhinggo font family (https://software.sil.org/namdhinggo/).
-
-Copyright (c) 2002-2022, SIL International (http://www.sil.org/),
+This file is from the Namdhinggo project (https://software.sil.org/namdhinggo/).
+Copyright (c) 2002-2023 SIL International (https://www.sil.org/)
 with Reserved Font Names "Namdhinggo" and "SIL".
-
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
-
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-You should have received a copy of the license along with this Font Software.
-If this is not the case, go to (http://scripts.sil.org/OFL) for all the details including a FAQ.
+This Font Software is licensed under the SIL Open Font License,
+Version 1.1 (https://openfontlicense.org).
 */
 
-/* use Namdhinggo - Regular in .woff format */
 @font-face {
-  font-family: NamdhinggoW;
+  font-family: Namdhinggo-R;
+  font-weight: 400;
   src: url(Namdhinggo-Regular.woff2);
 }
+@font-face {
+  font-family: Namdhinggo-M;
+  font-weight: 500;
+  src: url(Namdhinggo-Medium.woff2);
+}
+@font-face {
+  font-family: Namdhinggo-SB;
+  font-weight: 600;
+  src: url(Namdhinggo-SemiBold.woff2);
+}
+@font-face {
+  font-family: Namdhinggo-B;
+  font-weight: 700;
+  src: url(Namdhinggo-Bold.woff2);
+}
+@font-face {
+  font-family: Namdhinggo-XB;
+  font-weight: 700;
+  src: url(Namdhinggo-Bold.woff2);
+}
 
-/* set body to use Namdhinggo in .woff format */
+/* set body font */
 body {
-  font-family: NamdhinggoW, sans-serif;
+  font-family: Namdhinggo-M, sans-serif;
     /* fall back to sans serif so that it's really obvious if the fonts don't load */
 }
 
+/* different weights */
+.namdhinggo-R { font-family: Namdhinggo-R; }
+.namdhinggo-M { font-family: Namdhinggo-M; }
+.namdhinggo-SB { font-family: Namdhinggo-SB; }
+.namdhinggo-B { font-family: Namdhinggo-B; }
+.namdhinggo-XB { font-family: Namdhinggo-XB; }
+
 /* remove bold styling from heading */
-
 h1 {
-  font-weight: normal;
-}
-
-h2 {
   font-weight: normal;
 }

@@ -14,7 +14,7 @@
     <header>
         <h1 class="title">Namdhinggo - Character Set Support</h1>
     </header>
-    <p>Namdhinggo supports the Limbu script, the double danda from Devanagari, and a basic set of Latin characters.</p>
+    <p>Namdhinggo supports the Limbu script, the double danda from Devanagari, and a basic set of Latin characters. Inclusion of a basic Latin repertoire is provided as a convenience, e.g., for use in menus or for displaying markup in text files. These fonts are not intended for extensive Latin script use.</p>
     <h2 id="supported-characters">Supported characters</h2>
     <p>The following character ranges are supported by this font:</p>
     <table>
@@ -30,33 +30,94 @@
     </thead>
     <tbody>
     <tr class="odd">
-    <td>C0 Controls and Basic Latin</td>
+    <td>Basic Latin</td>
     <td>U+0020..U+007E</td>
     </tr>
     <tr class="even">
-    <td>C1 Controls and Latin-1 Supplement</td>
+    <td>Latin 1 Supplement</td>
     <td>U+00A0..U+00FF</td>
     </tr>
     <tr class="odd">
-    <td>Devanagari</td>
-    <td>U+0965 DEVANAGARI DOUBLE DANDA</td>
+    <td>Latin Extended A</td>
+    <td>U+0131, U+0152..U+0153, U+0160..U+0161, U+0178, U+017D..U+017E</td>
     </tr>
     <tr class="even">
-    <td>Limbu (complete)</td>
-    <td>U+1900..U+194F</td>
+    <td>Latin Extended B</td>
+    <td>U+0192</td>
     </tr>
     <tr class="odd">
+    <td>Spacing Modifier Letters</td>
+    <td>U+02C6..U+02C7, U+02D0, U+02D8..U+02DD</td>
+    </tr>
+    <tr class="even">
+    <td>Combining Diacritical Marks</td>
+    <td>U+034F</td>
+    </tr>
+    <tr class="odd">
+    <td>Greek And Coptic</td>
+    <td>U+03A9, U+03C0</td>
+    </tr>
+    <tr class="even">
+    <td>Devanagari</td>
+    <td>U+0964..U+0965</td>
+    </tr>
+    <tr class="odd">
+    <td>Limbu</td>
+    <td>U+1900..U+191E, U+1920..U+192B, U+1930..U+193B, U+1940, U+1944..U+194F</td>
+    </tr>
+    <tr class="even">
     <td>General Punctuation</td>
-    <td>U+2009, 200B, U+2013, U+2014, U+2018, U+2019, U+201C, U+201D, U+2020..U+2022, U+2026, U+2039, U+203A, U+2060</td>
+    <td>U+2000..U+200D, U+2010..U+2015, U+2018..U+201A, U+201C..U+201E, U+2020..U+2022, U+2026..U+2029, U+202F..U+2030, U+2039..U+203A, U+2044, U+2060</td>
+    </tr>
+    <tr class="odd">
+    <td>Superscripts And Subscripts</td>
+    <td>U+2074</td>
+    </tr>
+    <tr class="even">
+    <td>Currency Symbols</td>
+    <td>U+20A8, U+20AC, U+20B9</td>
+    </tr>
+    <tr class="odd">
+    <td>Letterlike Symbols</td>
+    <td>U+2122, U+2126</td>
+    </tr>
+    <tr class="even">
+    <td>Mathematical Operators</td>
+    <td>U+2202, U+2206, U+220F, U+2211..U+2212, U+2215, U+2219..U+221A, U+221E, U+222B, U+2248, U+2260, U+2264..U+2265</td>
+    </tr>
+    <tr class="odd">
+    <td>Control Pictures</td>
+    <td>U+2423</td>
     </tr>
     <tr class="even">
     <td>Geometric Shapes</td>
-    <td>U+25CC</td>
+    <td>U+25CA, U+25CC</td>
+    </tr>
+    <tr class="odd">
+    <td>Private Use Area</td>
+    <td>U+F130..U+F131</td>
+    </tr>
+    <tr class="even">
+    <td>Alphabetic Presentation Forms</td>
+    <td>U+FB01..U+FB02</td>
+    </tr>
+    <tr class="odd">
+    <td>Variation Selectors</td>
+    <td>U+FE00..U+FE0F</td>
+    </tr>
+    <tr class="even">
+    <td>Arabic Presentation Forms B</td>
+    <td>U+FEFF</td>
+    </tr>
+    <tr class="odd">
+    <td>Specials</td>
+    <td>U+FFFC..U+FFFD</td>
     </tr>
     </tbody>
     </table>
+    <p>The Devanagari "bit" is set in this font to prevent unwarranted font switching when U+0965 DEVANAGARI DOUBLE DANDA or U+0964 DEVANAGARI DANDA is used. However, U+0964 and U+0965 are the only characters from the Devanagari block in this font.</p>
     <footer class="footer">
-        <p>This guide is from the <a href="https://software.sil.org/namdhinggo/" title="" class="active">Namdhinggo project</a> version 3.000 and is copyright © 2002-2022 SIL International.</p>
+        <p>This guide is from the <a href="https://software.sil.org/namdhinggo/" title="" class="active">Namdhinggo project</a> version 3.100 and is copyright © 2002-2023 SIL International.</p>
     </footer>
 </article>
 </div>
