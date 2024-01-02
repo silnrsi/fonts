@@ -48,7 +48,7 @@ Internal processes:
 
 Fonts and related font software included in this collection are licensed according to the terms of the licenses included in individual font folders. In most cases this is the [SIL Open Font License](https://scripts.sil.org/ofl).
 
-All other contents, except where noted, are Copyright (c) 2021-2023, [SIL International](http://www.sil.org) and released under the MIT license - see [LICENSE](https://github.com/silnrsi/fonts/blob/main/LICENSE).
+All other contents, except where noted, are Copyright (c) 2021-2024, [SIL International](http://www.sil.org) and released under the MIT license - see [LICENSE](https://github.com/silnrsi/fonts/blob/main/LICENSE).
 
 **SIL International makes no guarantees regarding the ongoing availability of the fonts and data on this site. Individuals and organizations use these fonts and data at their own risk. SIL International maintains this collection but does not provide any technical support except for use by SIL and partners.**
 
