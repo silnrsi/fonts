@@ -11,6 +11,6 @@
         "SymCharK-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/SymCharK-Regular.woff" },
         "SymCharK-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/SymCharK-Regular.woff2" }
     },
-    "version": "3.000"
+    "version": "4.100"
 }
 }

@@ -4,10 +4,10 @@
     "family": "SymChar",
     "familyid": "symchar",
     "license": "OFL",
-    "packageurl": "https://github.com/silnrsi/font-symchar/releases/download/v3.000/SymChar-3.000-dev-c8fbbc.zip",
+    "packageurl": "https://github.com/silnrsi/font-symchar/releases/download/v4.100/SymChar-4.100-dev-e1fb16.zip",
     "siteurl": "https://github.com/silnrsi/font-symchar",
     "source": "SIL",
     "status": "current",
-    "ziproot": "SymChar-3.000-dev-c8fbbc"
+    "ziproot": "SymChar-4.100-dev-e1fb16"
 }
 }

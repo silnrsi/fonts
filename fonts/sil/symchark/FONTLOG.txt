@@ -12,6 +12,36 @@ that represent 'invisible' characters (such as NBSP). Font sources are in UFO3 f
 
 ChangeLog
 
+11 Mar 2024 (SIL font development team) SymChar version 4.100
+- Added
+    - U+E06A BACK REV 1
+
+18 Sep 2023 (SIL font development team) SymChar version 4.000
+- Added
+    - U+E08F IDEOGRAPHIC SPACE (U+3000) added
+- The following have been made generally taller, heavier, and wider:
+    - U+E077 ZERO WIDTH JOINER (U+200D) new design
+    - U+E078 WORD JOINER (U+2060) longer arms spaced further apart
+    - U+E079 ZERO WIDTH NON-JOINER (U+200C) larger arrows spaced further apart
+    - U+E07A COMBINING GRAPHEME JOINER (U+034F) larger arcs to match ZWJ
+    - U+E080 SPACE (U+0020) wider
+    - U+E081 ZERO WIDTH SPACE (U+200B) larger circles
+    - U+E082 NO-BREAK SPACE (U+00A0) wider with larger wedge
+    - U+E083 NARROW NO-BREAK SPACE (U+202F) narrrower with higher wedge
+    - U+E084 EN QUAD (U+2000) heavier strokes
+    - U+E085 EM QUAD (U+2001) heavier strokes
+    - U+E086 EN SPACE (U+2002) heavier strokes
+    - U+E087 EM SPACE (U+2003) heavier strokes
+    - U+E088 THREE-PER-EM SPACE (U+2004) numeral higher and larger
+    - U+E089 FOUR-PER-EM SPACE (U+2005) numeral higher and larger
+    - U+E08A SIX-PER-EM SPACE (U+2006) numeral higher and larger
+    - U+E08B FIGURE SPACE (U+2007) numeral higher and larger
+    - U+E08C PUNCTUATION SPACE (U+2008) wider with higher dots
+    - U+E08D THIN SPACE (U+2009) narrrower with higher wedge
+    - U+E08E HAIR SPACE (U+200A) thinner with higher closer dots
+    - U+E090 LEFT-TO-RIGHT MARK (U+200E) larger arrow
+    - U+E091 RIGHT-TO-LEFT MARK (U+200F) larger arrow
+
 14 Aug 2023 (SIL font development team) SymChar version 3.000
 - new name SymChar (Symbols for Characters)
 - extra glyphs as requested by application developers

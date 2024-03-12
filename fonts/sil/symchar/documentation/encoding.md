@@ -18,6 +18,7 @@ Image | USV | Fonts | Description | Represents
 ![](images/img_E08C.png) | U+E08C | SK | PUNCTUATION SPACE | U+2008
 ![](images/img_E08D.png) | U+E08D | SK | THIN SPACE | U+2009
 ![](images/img_E08E.png) | U+E08E | SK | HAIR SPACE | U+200A
+![](images/img_E08F.png) | U+E08F | SK | IDEOGRAPHIC SPACE | U+3000
 ![](images/img_E081.png) | U+E081 | SK | ZERO WIDTH SPACE | U+200B
 ![](images/img_E079.png) | U+E079 | SK | ZERO WIDTH NON-JOINER | U+200C
 ![](images/img_E075.png) | U+E075 | SK | ZERO WIDTH NON-JOINER (iOS) | U+200C
@@ -67,6 +68,7 @@ Image | USV | Fonts | Description | Represents
 ![](images/img_E021.png) | U+E021 | SK | back_1 | 
 ![](images/img_E022.png) | U+E022 | SK | back_2 | 
 ![](images/img_E072.png) | U+E072 | SK | back_rev | 
+![](images/img_E06A.png) | U+E06A | SK | back_rev_1 | 
 ![](images/img_E005.png) | U+E005 | SK | enter | 
 ![](images/img_E071.png) | U+E071 | SK | enter_rev | 
 ![](images/img_E006.png) | U+E006 | SK | next | 
