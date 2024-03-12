@@ -7993,6 +7993,50 @@
     "version": "4.000",
     "ziproot": "Surma-4.000"
 },
+"symchar": {
+    "defaults": {
+        "ttf": "SymChar-Regular.ttf",
+        "woff": "SymChar-Regular.woff",
+        "woff2": "SymChar-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "SymChar",
+    "familyid": "symchar",
+    "files": {
+        "SymChar-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/symchar/SymChar-Regular.ttf", "packagepath": "SymChar-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/symchar/SymChar-Regular.ttf", "zippath": "SymChar-4.100-dev-e1fb16/SymChar-Regular.ttf" },
+        "SymChar-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/symchar/web/SymChar-Regular.woff", "packagepath": "web/SymChar-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/symchar/web/SymChar-Regular.woff", "zippath": "SymChar-4.100-dev-e1fb16/web/SymChar-Regular.woff" },
+        "SymChar-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/symchar/web/SymChar-Regular.woff2", "packagepath": "web/SymChar-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/symchar/web/SymChar-Regular.woff2", "zippath": "SymChar-4.100-dev-e1fb16/web/SymChar-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/silnrsi/font-symchar/releases/download/v4.100/SymChar-4.100-dev-e1fb16.zip",
+    "siteurl": "https://github.com/silnrsi/font-symchar",
+    "source": "SIL",
+    "status": "current",
+    "version": "4.100",
+    "ziproot": "SymChar-4.100-dev-e1fb16"
+},
+"symchark": {
+    "defaults": {
+        "ttf": "SymCharK-Regular.ttf",
+        "woff": "SymCharK-Regular.woff",
+        "woff2": "SymCharK-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "SymCharK",
+    "familyid": "symchark",
+    "files": {
+        "SymCharK-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/symchark/SymCharK-Regular.ttf", "packagepath": "SymCharK-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/symchark/SymCharK-Regular.ttf", "zippath": "SymCharK-4.100-dev-e1fb16/SymCharK-Regular.ttf" },
+        "SymCharK-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/symchark/web/SymCharK-Regular.woff", "packagepath": "web/SymCharK-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/symchark/web/SymCharK-Regular.woff", "zippath": "SymCharK-4.100-dev-e1fb16/web/SymCharK-Regular.woff" },
+        "SymCharK-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/symchark/web/SymCharK-Regular.woff2", "packagepath": "web/SymCharK-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/symchark/web/SymCharK-Regular.woff2", "zippath": "SymCharK-4.100-dev-e1fb16/web/SymCharK-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/silnrsi/font-symchar/releases/download/v4.100/SymCharK-4.100-dev-e1fb16.zip",
+    "siteurl": "https://github.com/silnrsi/font-symchar",
+    "source": "SIL",
+    "status": "current",
+    "version": "4.100",
+    "ziproot": "SymCharK-4.100-dev-e1fb16"
+},
 "tagmukay": {
     "defaults": {
         "ttf": "Tagmukay-Regular.ttf",
