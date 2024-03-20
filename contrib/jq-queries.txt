@@ -1,0 +1,25 @@
+
+jq is a json processor (https://jqlang.github.io/jq/)
+Here are some possibly useful queries to run against families.json:
+
+Find all fonts which are redistributable (along with the download URL and the version):
+jq 'map({family: .family, distributable: .distributable | select( . != false ), source: .source, packageurl: .packageurl, version: .version })' families.json 
+
+Find all fonts which are not redistributable:
+jq 'map({family: .family, distributable: .distributable | select( . != true ), source: .source})' families.json 
+
+Find all fonts which are not released under the OFL:
+jq 'map({family: .family, license: .license | select( . != "OFL" ), source: .source})' families.json 
+
+Find all fonts which status is not current:
+jq 'map({family: .family, status: .status | select( . != "current" ), source: .source})' families.json 
+
+Find all fonts which have some sort of fallback:
+jq 'map({family: .family, status: .status, fallback: .fallback})' families.json
+
+
+
+Get some numbers on the licensing landscape (using the miller filter from https://github.com/johnkerl/miller):
+jq 'map({family: .family, license: .license, source: .source})' families.json | mlr --ijson --ocsv uniq -c -g license then sort -r count
+
+
