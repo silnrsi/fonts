@@ -1,4 +1,3 @@
-
 jq is a json processor (https://jqlang.github.io/jq/)
 Here are some possibly useful queries to run against families.json:
 
@@ -15,11 +14,7 @@ Find all fonts which status is not current:
 jq 'map({family: .family, status: .status | select( . != "current" ), source: .source})' families.json 
 
 Find all fonts which have some sort of fallback:
-jq 'map({family: .family, status: .status, fallback: .fallback})' families.json
-
-
+jq 'map({family: .family, status: .status, fallback: .fallback | select ( . )})' families.json
 
 Get some numbers on the licensing landscape (using the miller filter from https://github.com/johnkerl/miller):
-jq 'map({family: .family, license: .license, source: .source})' families.json | mlr --ijson --ocsv uniq -c -g license then sort -r count
-
-
+jq 'map({family: .family, license: .license, source: .source})' families.json | mlr --ijson --ocsv uniq -c -g license then sort -f license then sort -nr count
