@@ -13,8 +13,13 @@ jq 'map({family: .family, license: .license | select( . != "OFL" ), source: .sou
 Find all fonts which status is not current:
 jq 'map({family: .family, status: .status | select( . != "current" ), source: .source})' families.json 
 
-Find all fonts which have some sort of fallback:
-jq 'map({family: .family, status: .status, fallback: .fallback | select ( . )})' families.json
+Find all fonts for which licensing is not clearly provided:
+jq 'map({family: .family, source: .source, license: .license | select( . == null )})' families.json 
+
+Find out about the fallback status of all fonts (including null):
+jq 'map({family: .family, status: .status, fallback: .fallback})' families.json
 
 Get some numbers on the licensing landscape (using the miller filter from https://github.com/johnkerl/miller):
 jq 'map({family: .family, license: .license, source: .source})' families.json | mlr --ijson --ocsv uniq -c -g license then sort -f license then sort -nr count
+
+
