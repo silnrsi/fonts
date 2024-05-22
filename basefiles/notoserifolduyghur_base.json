@@ -1,0 +1,20 @@
+{
+"notoserifolduyghur": {
+    "defaults": {
+        "ttf": "NotoSerifOldUyghur-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Old Uyghur",
+    "familyid": "notoserifolduyghur",
+    "files": {
+        "NotoSerifOldUyghur-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifOldUyghur-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifOldUyghur/full/ttf/NotoSerifOldUyghur-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/old-uyghur/releases/download/NotoSerifOldUyghur-v1.003/NotoSerifOldUyghur-v1.003.zip",
+    "siteurl": "https://github.com/notofonts/old-uyghur/releases/tag/NotoSerifOldUyghur-v1.003",
+    "source": "Google",
+    "status": "current",
+    "version": "1.003",
+    "ziproot": "NotoSerifOldUyghur"
+}
+}
