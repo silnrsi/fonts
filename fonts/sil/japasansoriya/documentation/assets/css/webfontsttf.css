@@ -1,0 +1,17 @@
+/*
+This file is from the SIL Fontdocs project (https://github.com/silnrsi/fontdocs).
+Copyright (c) 2021 SIL International (http://www.sil.org/). This Font Software is
+released under the MIT license (http://opensource.org/licenses/MIT).
+*/
+@font-face {
+    font-family: JapaSansOriya-R;
+    src: url("../../../results/JapaSansOriya-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: JapaSansOriya-B;
+    src: url("../../../results/JapaSansOriya-Bold.ttf") format("truetype");
+}
+
+.japa-R { font-family: JapaSansOriya-R; }
+.japa-B { font-family: JapaSansOriya-B; }
+

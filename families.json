@@ -2081,20 +2081,20 @@
     "family": "Japa Sans Oriya",
     "familyid": "japasansoriya",
     "files": {
-        "JapaSansOriya-Bold.ttf": { "axes": { "ital": 0, "wdth": 100.0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/JapaSansOriya-Bold.ttf", "packagepath": "JapaSansOriya-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/JapaSansOriya-Bold.ttf", "zippath": "JapaSansOriya-2.100/JapaSansOriya-Bold.ttf" },
-        "JapaSansOriya-Bold.woff": { "axes": { "ital": 0, "wdth": 100.0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/woff/JapaSansOriya-Bold.woff", "packagepath": "woff/JapaSansOriya-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/woff/JapaSansOriya-Bold.woff", "zippath": "JapaSansOriya-2.100/woff/JapaSansOriya-Bold.woff" },
-        "JapaSansOriya-Bold.woff2": { "axes": { "ital": 0, "wdth": 100.0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/woff/JapaSansOriya-Bold.woff2", "packagepath": "woff/JapaSansOriya-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/woff/JapaSansOriya-Bold.woff2", "zippath": "JapaSansOriya-2.100/woff/JapaSansOriya-Bold.woff2" },
-        "JapaSansOriya-Regular.ttf": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/JapaSansOriya-Regular.ttf", "packagepath": "JapaSansOriya-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/JapaSansOriya-Regular.ttf", "zippath": "JapaSansOriya-2.100/JapaSansOriya-Regular.ttf" },
-        "JapaSansOriya-Regular.woff": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/woff/JapaSansOriya-Regular.woff", "packagepath": "woff/JapaSansOriya-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/woff/JapaSansOriya-Regular.woff", "zippath": "JapaSansOriya-2.100/woff/JapaSansOriya-Regular.woff" },
-        "JapaSansOriya-Regular.woff2": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/woff/JapaSansOriya-Regular.woff2", "packagepath": "woff/JapaSansOriya-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/woff/JapaSansOriya-Regular.woff2", "zippath": "JapaSansOriya-2.100/woff/JapaSansOriya-Regular.woff2" }
+        "JapaSansOriya-Bold.ttf": { "axes": { "ital": 0, "wdth": 100.0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/JapaSansOriya-Bold.ttf", "packagepath": "JapaSansOriya-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/JapaSansOriya-Bold.ttf", "zippath": "JapaSansOriya-2.200/JapaSansOriya-Bold.ttf" },
+        "JapaSansOriya-Bold.woff": { "axes": { "ital": 0, "wdth": 100.0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/web/JapaSansOriya-Bold.woff", "packagepath": "web/JapaSansOriya-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/web/JapaSansOriya-Bold.woff", "zippath": "JapaSansOriya-2.200/web/JapaSansOriya-Bold.woff" },
+        "JapaSansOriya-Bold.woff2": { "axes": { "ital": 0, "wdth": 100.0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/web/JapaSansOriya-Bold.woff2", "packagepath": "web/JapaSansOriya-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/web/JapaSansOriya-Bold.woff2", "zippath": "JapaSansOriya-2.200/web/JapaSansOriya-Bold.woff2" },
+        "JapaSansOriya-Regular.ttf": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/JapaSansOriya-Regular.ttf", "packagepath": "JapaSansOriya-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/JapaSansOriya-Regular.ttf", "zippath": "JapaSansOriya-2.200/JapaSansOriya-Regular.ttf" },
+        "JapaSansOriya-Regular.woff": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/web/JapaSansOriya-Regular.woff", "packagepath": "web/JapaSansOriya-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/web/JapaSansOriya-Regular.woff", "zippath": "JapaSansOriya-2.200/web/JapaSansOriya-Regular.woff" },
+        "JapaSansOriya-Regular.woff2": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/japasansoriya/web/JapaSansOriya-Regular.woff2", "packagepath": "web/JapaSansOriya-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/japasansoriya/web/JapaSansOriya-Regular.woff2", "zippath": "JapaSansOriya-2.200/web/JapaSansOriya-Regular.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/silnrsi/font-japa-sans-oriya/releases/download/v2.100/JapaSansOriya-2.100.zip",
+    "packageurl": "https://github.com/silnrsi/font-japa-sans-oriya/releases/download/v2.200/JapaSansOriya-2.200.zip",
     "siteurl": "https://github.com/silnrsi/font-japa-sans-oriya",
     "source": "SIL",
     "status": "current",
-    "version": "2.100",
-    "ziproot": "JapaSansOriya-2.100"
+    "version": "2.200",
+    "ziproot": "JapaSansOriya-2.200"
 },
 "kalinga": {
     "distributable": false,

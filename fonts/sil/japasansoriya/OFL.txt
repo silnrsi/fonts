@@ -1,10 +1,10 @@
 Latin and original Oriya copyright (c) 2015-2019 Google LLC
-Additions and enhancements copyright (c) 2020-2021 SIL International (http://www.sil.org/)
+Additions and enhancements copyright (c) 2020-2024 SIL International (https://www.sil.org/)
 with Reserved Font Names "Japa" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://openfontlicense.org
 
 
 -----------------------------------------------------------
