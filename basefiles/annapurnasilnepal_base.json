@@ -5,10 +5,10 @@
     "family": "Annapurna SIL Nepal",
     "familyid": "annapurnasilnepal",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/annapurna/AnnapurnaSIL-Nepal-1.204.zip",
+    "packageurl": "https://software.sil.org/downloads/r/annapurna/AnnapurnaSILNepal-2.100.zip",
     "siteurl": "https://software.sil.org/annapurna/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "AnnapurnaSIL-Nepal-1.204"
+    "ziproot": "AnnapurnaSILNepal-2.100"
 }
 }
