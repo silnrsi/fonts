@@ -1,13 +1,13 @@
 {
 "annapurnasilnepal": {
     "defaults": {
-        "ttf": "AnnapurnaSIL-Nepal-Regular.ttf"
+        "ttf": "AnnapurnaSILNepal-Regular.ttf"
     },
     "family": "Annapurna SIL",
     "files": {
-        "AnnapurnaSIL-Nepal-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AnnapurnaSIL-Nepal-Bold.ttf" },
-        "AnnapurnaSIL-Nepal-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AnnapurnaSIL-Nepal-Regular.ttf" }
+        "AnnapurnaSILNepal-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AnnapurnaSILNepal-Bold.ttf" },
+        "AnnapurnaSILNepal-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AnnapurnaSILNepal-Regular.ttf" }
     },
-    "version": "1.204"
+    "version": "2.100"
 }
 }
