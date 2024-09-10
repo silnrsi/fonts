@@ -5,7 +5,7 @@ We welcome other developers who wish to get involved in supporting and enhancing
 
 ## Permissions granted by the OFL
 
-SIL’s fonts are licensed according to the terms of the [SIL Open Font License](https://scripts.sil.org/OFL). The OFL allows the fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. For details see the OFL.txt and OFL-FAQ.txt files in the package.
+SIL’s fonts are licensed according to the terms of the [SIL Open Font License](https://openfontlicense.org/). The OFL allows the fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. For details see the OFL.txt and OFL-FAQ.txt files in the package.
 
 ## Building the fonts from source code
 
@@ -13,13 +13,14 @@ Font sources are published in a [Github project](https://github.com/silnrsi/font
 
 Font sources are in the [UFO3](http://unifiedfontobject.org/versions/ufo3/) format with font family structures defined using [designspace](https://github.com/fonttools/fonttools/tree/master/Doc/source/designspaceLib). 
 
-The fonts are built using a completely free and open source workflow using industry-standard tools ([fonttools](https://github.com/fonttools/fonttools)), a package of custom python scripts ([pysilfont](https://github.com/silnrsi/pysilfont)), and a build and packaging system ([Smith](https://github.com/silnrsi/smith)). The whole toolchain is available as a Docker container.
+The fonts are built using a completely free and open source workflow using industry-standard tools ([fonttools](https://github.com/fonttools/fonttools)), a package of custom Python scripts ([pysilfont](https://github.com/silnrsi/pysilfont)), and a build and packaging system ([Smith](https://github.com/silnrsi/smith)). The whole toolchain is available as a Docker container. 
 
-Full instructions for setting up the tools and building SIL fonts are available on a dedicated web site: [SIL Font Development Notes](https://silnrsi.github.io/silfontdev/).
+Full instructions for setting up the tools and building SIL fonts are available on a dedicated web site: [SIL Font Development Guide](https://silnrsi.github.io/silfontdev/).
 
 ## Building
 
 The Kanchenjunga project can be built from source using [smith](https://github.com/silnrsi/smith). This is done via the sequence:
+
 ```
     smith distclean
     smith configure
@@ -29,12 +30,14 @@ The Kanchenjunga project can be built from source using [smith](https://github.c
 ### Adding characters
 
 After base characters to the font, the following files will also need updating:
+
 - `glyph_data.csv` -- used to set glyph orders and psnames in the built font
 - `tests/*.ftml` -- see below
 
 ### Generated test files
 
 After adding characters or additional behaviors to the font, test files should be created or enhanced to test the new behaviors. The test files are manually created:
+
 - `tests/AllChars.ftml`
 - `tests/Positioning.ftml`
 

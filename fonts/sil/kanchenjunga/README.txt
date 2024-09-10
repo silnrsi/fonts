@@ -1,16 +1,14 @@
 # Kanchenjunga 
 
-_Please note that this font is using codepoints that are not officially accepted into The Unicode Standard. The Kirat Rai script has been accepted for encoding into the standard, but those codepoints can always change. Once the script is accepted into Unicode the encoding assignments may change._
+_The Kirat Rai script was officially encoded in the Unicode Standard version 16.0. Kanchenjunga version 1.000 was released in 2023 with provisional codepoints. However, those codepoints did not change, so if you used Kanchenjunga version 1.000, no data conversion will be necessary._
 
-Kanchenjunga is a font for the Kirat Rai script. 
+Kanchenjunga is a font family for the Kirat Rai script of South Asia. It is named after the third highest mountain in the world.
 
 For more details about this project, including its design history and acknowledgements see [FONTLOG.txt](FONTLOG.txt).
 
 For copyright and licensing information - including any Reserved Font Names - see [OFL.txt](OFL.txt).
 
 For practical information about using, modifying and redistributing this font see [OFL-FAQ.txt](OFL-FAQ.txt).
-
-_Please note that this font is not yet encoded according to The Unicode Standard, as the Kirat Rai script has not yet been accepted into the standard. The letters are currently given temporary assignments while encoding proposals are in process. Once the script is accepted into Unicode the encoding assignments may change._
 
 ## Developer notes
 

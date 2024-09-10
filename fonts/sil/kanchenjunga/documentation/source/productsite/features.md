@@ -7,6 +7,9 @@ This page uses web fonts (WOFF) to demonstrate font features and should display 
 
 *If this document is not displaying correctly a PDF version is also provided in the documentation/pdf folder of the release package.*
 
+## Customizing with TypeTuner
+
+For applications that do not make use of the OpenType Character Variant features, you can now download fonts customized with the variant glyphs you choose. Read the [Font Features](features) page, visit [TypeTuner Web](https://scripts.sil.org/ttw/fonts2go.cgi), then to choose the variants and download your font.
 
 ### Character variants
 
@@ -17,36 +20,36 @@ There are some character shape differences which can be accessed by using OpenTy
 <span class='affects'>Affects: U+16D49</span>
 
 Feature        | Sample | Feature setting
-:------------- | ---------------: | :------------- 
-Standard | <span dir="rtl" class='Kanchenjunga-R normal'>&#x16D49;</span>| `cv05=0`
-Alternate | <span dir="rtl" class='Kanchenjunga-cv05-1-R normal'>&#x16D49;</span>| `cv05=1`
+:------------- | :--------------- | :------------- 
+Standard | <span class='Kanchenjunga-R normal'>&#x16D49;</span>| `cv05=0`
+Alternate | <span class='Kanchenjunga-cv05-1-R normal'>&#x16D49;</span>| `cv05=1`
 
 #### Ta 
 
 <span class='affects'>Affects: U+16D52</span>
 
 Feature        | Sample | Feature setting
-:------------- | ---------------: | :------------- 
-Standard | <span dir="rtl" class='Kanchenjunga-R normal'>&#x16D52;</span>| `cv15=0`
-Alternate | <span dir="rtl" class='Kanchenjunga-cv15-1-R normal'>&#x16D52;</span>| `cv15=1`
+:------------- | :--------------- | :------------- 
+Standard | <span class='Kanchenjunga-R normal'>&#x16D52;</span>| `cv15=0`
+Alternate | <span class='Kanchenjunga-cv15-1-R normal'>&#x16D52;</span>| `cv15=1`
 
 #### Ma 
 
 <span class='affects'>Affects: U+16D5B</span>
 
 Feature        | Sample | Feature setting
-:------------- | ---------------: | :------------- 
-Standard | <span dir="rtl" class='Kanchenjunga-R normal'>&#x16D5B;</span>| `cv25=0`
-Alternate | <span dir="rtl" class='Kanchenjunga-cv25-1-R normal'>&#x16D5B;</span>| `cv25=1`
+:------------- | :--------------- | :------------- 
+Standard  | <span class='Kanchenjunga-R normal'>&#x16D5B;</span>| `cv25=0`
+Alternate | <span class='Kanchenjunga-cv25-1-R normal'>&#x16D5B;</span>| `cv25=1`
 
 #### Ha 
 
 <span class='affects'>Affects: U+16D62</span>
 
 Feature        | Sample | Feature setting
-:------------- | ---------------: | :------------- 
-Standard | <span dir="rtl" class='Kanchenjunga-R normal'>&#x16D62;</span>| `cv35=0`
-Alternate | <span dir="rtl" class='Kanchenjunga-cv35-1-R normal'>&#x16D62;</span>| `cv35=1`
+:------------- | :--------------- | :------------- 
+Standard | <span class='Kanchenjunga-R normal'>&#x16D62;</span>| `cv35=0`
+Alternate | <span class='Kanchenjunga-cv35-1-R normal'>&#x16D62;</span>| `cv35=1`
 
 
 

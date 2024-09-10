@@ -10,10 +10,16 @@
         "Kanchenjunga-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Kanchenjunga-Bold.ttf" },
         "Kanchenjunga-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Kanchenjunga-Bold.woff" },
         "Kanchenjunga-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Kanchenjunga-Bold.woff2" },
+        "Kanchenjunga-Medium.ttf": { "altfamily": "Kanchenjunga Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Kanchenjunga-Medium.ttf" },
+        "Kanchenjunga-Medium.woff": { "altfamily": "Kanchenjunga Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Kanchenjunga-Medium.woff" },
+        "Kanchenjunga-Medium.woff2": { "altfamily": "Kanchenjunga Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Kanchenjunga-Medium.woff2" },
         "Kanchenjunga-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Kanchenjunga-Regular.ttf" },
         "Kanchenjunga-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Kanchenjunga-Regular.woff" },
-        "Kanchenjunga-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Kanchenjunga-Regular.woff2" }
+        "Kanchenjunga-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Kanchenjunga-Regular.woff2" },
+        "Kanchenjunga-SemiBold.ttf": { "altfamily": "Kanchenjunga SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Kanchenjunga-SemiBold.ttf" },
+        "Kanchenjunga-SemiBold.woff": { "altfamily": "Kanchenjunga SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Kanchenjunga-SemiBold.woff" },
+        "Kanchenjunga-SemiBold.woff2": { "altfamily": "Kanchenjunga SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Kanchenjunga-SemiBold.woff2" }
     },
-    "version": "1.000"
+    "version": "2.000"
 }
 }

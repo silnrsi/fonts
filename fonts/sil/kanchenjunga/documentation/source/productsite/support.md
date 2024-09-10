@@ -15,5 +15,5 @@ If you have a bug to report or a suggestion for how we could improve the font pl
 
 ## Contact form
 
-If the documentation and community fail to answer your question or need further help using the font, please contact us using [the form on the Kanchenjunga web site](https://software.sil.org/kanchenjunga/about/contact/).
+If the documentation and community fail to answer your question or need further help using the font, please contact us using [this contact form](https://software.sil.org/kanchenjunga/about/contact/).
 

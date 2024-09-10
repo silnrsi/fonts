@@ -1,6 +1,6 @@
 ---
 title: Kanchenjunga - Documentation
-fontversion: 1.000
+fontversion: 2.000
 ---
 
 Thank you for your interest in the Kanchenjunga font. Kanchenjunga supports the Kirat Rai script.
