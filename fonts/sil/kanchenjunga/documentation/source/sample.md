@@ -1,6 +1,6 @@
 ---
 title: Kanchenjunga - Type Sample
-fontversion: 2.000
+fontversion: 2.001
 ---
 
 This document demonstrates all of the characters in the font. It is organized by Unicode block. At the end is a sample demonstrating Kirat Rai in a sample of running text.

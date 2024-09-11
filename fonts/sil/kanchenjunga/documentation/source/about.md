@@ -1,6 +1,6 @@
 ---
 title: Kanchenjunga - About
-fontversion: 2.000
+fontversion: 2.001
 ---
 
 ## About this project

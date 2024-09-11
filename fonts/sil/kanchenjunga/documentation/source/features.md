@@ -1,6 +1,6 @@
 ---
 title: Kanchenjunga - Font Features
-fontversion: 2.000
+fontversion: 2.001
 ---
 
 Kanchenjunga is an OpenType-enabled font family that supports the Kirat Rai script. It includes a number of optional features that provide alternative rendering that might be preferable for use in some contexts. The sections below enumerate the details of these features. Whether these features are available to users will depend on both the application and the rendering technology being used. Some applications let the user control certain features such as Character Variants to turn on the rendering of variant characters. However, at this point, most applications do not make use of those features.

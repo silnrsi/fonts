@@ -1,6 +1,6 @@
 ---
 title: Kanchenjunga - Versions and Changes
-fontversion: 2.000
+fontversion: 2.001
 ---
 
 ## Announcement list
@@ -12,8 +12,6 @@ Our font announcements are also available through X (formerly Twitter) [\@silfon
 ## Current versions
 
 The latest version of the font is always available from the [Kanchenjunga download page](https://software.sil.org/kanchenjunga/download) as a .zip archive for all major platforms.
-
-This font package is also available in the [SIL software repository for Ubuntu](https://packages.sil.org/). Users can subscribe to this software repository and get current versions and updates automatically.
 
 ## Change history
 

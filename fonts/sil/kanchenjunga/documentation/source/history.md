@@ -1,7 +1,10 @@
 ---
 title: Kanchenjunga - Version History
-fontversion: 2.000
+fontversion: 2.001
 ---
+
+### 11 Sep 2024 (WSTech team) Kanchenjunga Version 2.001 
+- Updated documentation to indicate Unicode 16.0 support for the script
 
 ### 10 Sep 2024 (WSTech team) Kanchenjunga Version 2.000 
 - Official release of Regular, Medium, SemiBold, and Bold using official Unicode codepoints

@@ -27,7 +27,7 @@ Other suggestions are listed here: [Using Font Features](https://software.sil.or
 
 Web font versions of this font (in WOFF and WOFF2 formats) are available in the `web` folder. These can be copied to a web server and used as fonts on web pages. A very basic HTML/CSS demo page is also included. For more information on the options and techniques available for using these fonts on web pages see [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts).
 
-## Text conversion
+## <a id="conv"></a>Text conversion
 
 Since this script was only encoded in 2024, people may wish to convert documents from custom-encoded fonts to the provisional Unicode codepoints. TECkit is one program that can be used for character encoding conversion. TECkit allows users to write their own custom conversion mappings. The TECkit package is available for download from SIL’s [TECkit](https://software.sil.org/teckit/) Web site. The [SIL Converters](https://software.sil.org/silconverters/) software will be an important tool in data conversion.
 

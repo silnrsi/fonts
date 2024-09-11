@@ -1,6 +1,6 @@
 ---
 title: Kanchenjunga - Frequently Asked Questions
-fontversion: 2.000
+fontversion: 2.001
 ---
 
 Many questions can be answered by consulting the following FAQ pages. Here are a few sample questions answered in each FAQ:
@@ -25,7 +25,7 @@ Kanchenjunga is the world’s third highest mountain, situated on the border bet
 
 #### *How is this font different from v1.000 which was released before it was officially in the Unicode Standard?*
 
-The Kirat Rai script was officially encoded in the Unicode Standard version 17.0. Kanchenjunga version 1.000 was released in 2023 with provisional codepoints. However, those codepoints did not change, so if you used Kanchenjunga version 1.000, no data conversion will be necessary. The only difference is that the font now includes a Medium and SemiBold weight in addition to the Regular and Bold that were released with version 1.000.
+The Kirat Rai script was officially encoded in the Unicode Standard version 16.0. Kanchenjunga version 1.000 was released in 2023 with provisional codepoints. However, those codepoints did not change, so if you used Kanchenjunga version 1.000, no data conversion will be necessary. The only difference is that the font now includes a Medium and SemiBold weight in addition to the Regular and Bold that were released with version 1.000.
 
 #### *I would like to use the variants defined in Character Variants. How do I type these using the Kanchenjunga font? How do I use these variants?*
 

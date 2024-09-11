@@ -1,6 +1,6 @@
 ---
 title: Kanchenjunga - Character Set Support
-fontversion: 2.000
+fontversion: 2.001
 ---
 
 The Kanchenjunga font supports the characters in the Kirat Rai block. The script is used by the Bantawa language of Sikkim in India.

@@ -20,6 +20,6 @@
         "Kanchenjunga-SemiBold.woff": { "altfamily": "Kanchenjunga SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Kanchenjunga-SemiBold.woff" },
         "Kanchenjunga-SemiBold.woff2": { "altfamily": "Kanchenjunga SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Kanchenjunga-SemiBold.woff2" }
     },
-    "version": "2.000"
+    "version": "2.001"
 }
 }
