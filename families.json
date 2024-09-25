@@ -403,6 +403,26 @@
     "family": "Annapurna SIL Kham",
     "familyid": "annapurnasilkham"
 },
+"annapurnasilnepal": {
+    "defaults": {
+        "ttf": "AnnapurnaSILNepal-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "annapurnasil",
+    "family": "Annapurna SIL Nepal",
+    "familyid": "annapurnasilnepal",
+    "files": {
+        "AnnapurnaSILNepal-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasilnepal/AnnapurnaSILNepal-Bold.ttf", "packagepath": "AnnapurnaSILNepal-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasilnepal/AnnapurnaSILNepal-Bold.ttf", "zippath": "AnnapurnaSILNepal-2.100/AnnapurnaSILNepal-Bold.ttf" },
+        "AnnapurnaSILNepal-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/annapurnasilnepal/AnnapurnaSILNepal-Regular.ttf", "packagepath": "AnnapurnaSILNepal-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/annapurnasilnepal/AnnapurnaSILNepal-Regular.ttf", "zippath": "AnnapurnaSILNepal-2.100/AnnapurnaSILNepal-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/annapurna/AnnapurnaSILNepal-2.100.zip",
+    "siteurl": "https://software.sil.org/annapurna/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.100",
+    "ziproot": "AnnapurnaSILNepal-2.100"
+},
 "apparatussil": {
     "distributable": true,
     "fallback": "charissil",

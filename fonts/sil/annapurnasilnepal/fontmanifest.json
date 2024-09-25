@@ -3,7 +3,7 @@
     "defaults": {
         "ttf": "AnnapurnaSILNepal-Regular.ttf"
     },
-    "family": "Annapurna SIL",
+    "family": "Annapurna SIL Nepal",
     "files": {
         "AnnapurnaSILNepal-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AnnapurnaSILNepal-Bold.ttf" },
         "AnnapurnaSILNepal-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AnnapurnaSILNepal-Regular.ttf" }
