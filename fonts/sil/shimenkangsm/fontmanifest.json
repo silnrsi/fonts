@@ -1,0 +1,13 @@
+{
+"shimenkangsm": {
+    "defaults": {
+        "ttf": "ShimenkanGSM-Regular.ttf"
+    },
+    "family": "Shimenkan GSM",
+    "files": {
+        "ShimenkanGSM-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ShimenkanGSM-Bold.ttf" },
+        "ShimenkanGSM-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ShimenkanGSM-Regular.ttf" }
+    },
+    "version": "1.000"
+}
+}

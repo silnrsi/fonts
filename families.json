@@ -7640,6 +7640,25 @@
     "version": "3.000",
     "ziproot": "Ruwudu-3.000"
 },
+"salaowu": {
+    "defaults": {
+        "ttf": "Salaowu-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Salaowu",
+    "familyid": "salaowu",
+    "files": {
+        "Salaowu-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/salaowu/Salaowu-Bold.ttf", "packagepath": "Salaowu-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/salaowu/Salaowu-Bold.ttf", "zippath": "Salaowu-1.000/Salaowu-Bold.ttf" },
+        "Salaowu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/salaowu/Salaowu-Regular.ttf", "packagepath": "Salaowu-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/salaowu/Salaowu-Regular.ttf", "zippath": "Salaowu-1.000/Salaowu-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/Salaowu-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "Salaowu-1.000"
+},
 "sapushan": {
     "defaults": {
         "ttf": "Sapushan-Regular.ttf"
@@ -7901,6 +7920,63 @@
     "status": "current",
     "version": "1.000",
     "ziproot": "Shimenkan-1.000"
+},
+"shimenkangsm": {
+    "defaults": {
+        "ttf": "ShimenkanGSM-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Shimenkan GSM",
+    "familyid": "shimenkangsm",
+    "files": {
+        "ShimenkanGSM-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/shimenkangsm/ShimenkanGSM-Bold.ttf", "packagepath": "ShimenkanGSM-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/shimenkangsm/ShimenkanGSM-Bold.ttf", "zippath": "ShimenkanGSM-1.000/ShimenkanGSM-Bold.ttf" },
+        "ShimenkanGSM-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/shimenkangsm/ShimenkanGSM-Regular.ttf", "packagepath": "ShimenkanGSM-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/shimenkangsm/ShimenkanGSM-Regular.ttf", "zippath": "ShimenkanGSM-1.000/ShimenkanGSM-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/ShimenkanGSM-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "ShimenkanGSM-1.000"
+},
+"shimenkanmas": {
+    "defaults": {
+        "ttf": "ShimenkanMAS-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Shimenkan MAS",
+    "familyid": "shimenkanmas",
+    "files": {
+        "ShimenkanMAS-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/shimenkanmas/ShimenkanMAS-Bold.ttf", "packagepath": "ShimenkanMAS-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/shimenkanmas/ShimenkanMAS-Bold.ttf", "zippath": "ShimenkanMAS-1.000/ShimenkanMAS-Bold.ttf" },
+        "ShimenkanMAS-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/shimenkanmas/ShimenkanMAS-Regular.ttf", "packagepath": "ShimenkanMAS-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/shimenkanmas/ShimenkanMAS-Regular.ttf", "zippath": "ShimenkanMAS-1.000/ShimenkanMAS-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/ShimenkanMAS-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "ShimenkanMAS-1.000"
+},
+"shimenkanzonghe": {
+    "defaults": {
+        "ttf": "ShimenkanZonghe-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Shimenkan Zonghe",
+    "familyid": "shimenkanzonghe",
+    "files": {
+        "ShimenkanZonghe-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/shimenkanzonghe/ShimenkanZonghe-Bold.ttf", "packagepath": "ShimenkanZonghe-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/shimenkanzonghe/ShimenkanZonghe-Bold.ttf", "zippath": "ShimenkanZonghe-1.000/ShimenkanZonghe-Bold.ttf" },
+        "ShimenkanZonghe-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/shimenkanzonghe/ShimenkanZonghe-Regular.ttf", "packagepath": "ShimenkanZonghe-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/shimenkanzonghe/ShimenkanZonghe-Regular.ttf", "zippath": "ShimenkanZonghe-1.000/ShimenkanZonghe-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/ShimenkanZonghe-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "ShimenkanZonghe-1.000"
 },
 "shishan": {
     "distributable": true,

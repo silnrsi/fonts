@@ -1,0 +1,13 @@
+{
+"salaowu": {
+    "defaults": {
+        "ttf": "Salaowu-Regular.ttf"
+    },
+    "family": "Salaowu",
+    "files": {
+        "Salaowu-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Salaowu-Bold.ttf" },
+        "Salaowu-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Salaowu-Regular.ttf" }
+    },
+    "version": "1.000"
+}
+}

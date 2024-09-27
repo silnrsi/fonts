@@ -1,0 +1,13 @@
+{
+"shimenkangsm": {
+    "distributable": true,
+    "family": "Shimenkan GSM",
+    "familyid": "shimenkangsm",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/ShimenkanGSM-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "ShimenkanGSM-1.000"
+}
+}

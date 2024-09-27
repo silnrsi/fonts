@@ -1,0 +1,13 @@
+{
+"shimenkanzonghe": {
+    "defaults": {
+        "ttf": "ShimenkanZonghe-Regular.ttf"
+    },
+    "family": "Shimenkan Zonghe",
+    "files": {
+        "ShimenkanZonghe-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ShimenkanZonghe-Bold.ttf" },
+        "ShimenkanZonghe-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ShimenkanZonghe-Regular.ttf" }
+    },
+    "version": "1.000"
+}
+}

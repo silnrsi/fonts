@@ -1,0 +1,13 @@
+{
+"salaowu": {
+    "distributable": true,
+    "family": "Salaowu",
+    "familyid": "salaowu",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/shimenkan/Salaowu-1.000.zip",
+    "siteurl": "https://software.sil.org/shimenkan/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "Salaowu-1.000"
+}
+}

@@ -1,0 +1,13 @@
+{
+"shimenkanmas": {
+    "defaults": {
+        "ttf": "ShimenkanMAS-Regular.ttf"
+    },
+    "family": "Shimenkan MAS",
+    "files": {
+        "ShimenkanMAS-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ShimenkanMAS-Bold.ttf" },
+        "ShimenkanMAS-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ShimenkanMAS-Regular.ttf" }
+    },
+    "version": "1.000"
+}
+}
