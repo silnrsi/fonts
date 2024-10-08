@@ -15,5 +15,5 @@ jobs:
         event-type: families-updated
         client-payload: >- 
           {
-            "release": "true"
+            "release": true
           }
