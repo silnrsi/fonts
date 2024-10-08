@@ -15,5 +15,5 @@ jobs:
         event-type: families-updated
         client-payload: >- 
           {
-            "release": "${{ endsWith(github.ref, '/release') }}"
+            "release": "true"
           }
