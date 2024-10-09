@@ -4,10 +4,10 @@
     "family": "Awami Nastaliq",
     "familyid": "awaminastaliq",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/awami/AwamiNastaliq-3.200.zip",
+    "packageurl": "https://software.sil.org/downloads/r/awami/AwamiNastaliq-3.300.zip",
     "siteurl": "https://software.sil.org/awami/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "AwamiNastaliq-3.200"
+    "ziproot": "AwamiNastaliq-3.300"
 }
 }

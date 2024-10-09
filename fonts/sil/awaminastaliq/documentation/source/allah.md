@@ -1,7 +1,11 @@
 ---
 title: Awami Nastaliq - Rendering the Allah ligature
-fontversion: 3.200
+fontversion: 3.300
 ---
+
+<font color="red">Note:</font> |
+------------- | ---------------
+**This page will only display properly in Mozilla Firefox. Also, Graphite must be enabled. See [Using Graphite in Mozilla Firefox](https://graphite.sil.org/graphite_firefox).** |
 
 In certain types of literature, the name *Allah* and words related to this name are given unique rendering. Unicode has a *presentation form* character (U+FDF2 ARABIC LIGATURE ALLAH ISOLATED FORM) that implements this rendering and, while this can work (in some fonts) for the word in isolation, it doesn’t help users obtain special rendering in other contexts where it is desired. 
 
