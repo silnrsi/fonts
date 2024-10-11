@@ -22,7 +22,6 @@ def doit(args):
     logger = args.logger
     # Raise loglevel to I if not on commandline
     if 'loglevel' not in args.params:
-        # logger.__setattr__('loglevel', 'I') 
         setattr(logger, 'loglevel', 'I')
 
     (repopath, silpath, otherpath, basespath) = setpaths(logger)
