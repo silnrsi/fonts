@@ -20,6 +20,11 @@ fields =  ['familyid', 'family', 'fallback', 'version', 'siteurl', 'packageurl',
 
 def doit(args):
     logger = args.logger
+    # Raise loglevel to I if not on commandline
+    if 'loglevel' not in args.params:
+        # logger.__setattr__('loglevel', 'I') 
+        setattr(logger, 'loglevel', 'I')
+
     (repopath, silpath, otherpath, basespath) = setpaths(logger)
     silfamilies = os.listdir(silpath)
     otherfamilies = os.listdir(otherpath)
@@ -36,12 +41,12 @@ def doit(args):
         if not valid:
             for logmess in logs:
                 logger.log(logmess[0], logmess[1])
-            logger.log(f'{basename} invalid so skipped')
+            logger.log(f'{basename} invalid so skipped', 'E')
             continue
         familyid = base.id
         fdata = {x: base.data[x] for x in base.data if x not in ("hosturl", "filesroot")} # hosturl and filesroot are in base files but not families.json
 
-        logger.log(f'Processing {familyid}', "P")
+        logger.log(f'Processing {familyid}', "I")
         if familyid in silfamilies + otherfamilies: # Has folder in the fonts repo so font manifest is required
             if familyid in silfamilies:
                 manifestpath = os.path.join(silpath, familyid,"fontmanifest.json")
@@ -56,10 +61,10 @@ def doit(args):
                 if not valid:
                     for logmess in logs:
                         logger.log(logmess[0], logmess[1])
-                    logger.log(f'{manifestpath} invalid so {familyid} skipped')
+                    logger.log(f'{manifestpath} invalid so {familyid} skipped', 'E')
                     continue
             else:
-                logger.log(f'{manifestpath} missing so {familyid} skipped')
+                logger.log(f'{manifestpath} missing so {familyid} skipped', 'E')
                 continue
             # Update fdata with data from manifest file
             for field in manifest.data:
