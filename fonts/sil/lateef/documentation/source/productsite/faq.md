@@ -8,7 +8,7 @@ Many questions can be answered by consulting the following FAQ pages. Here are a
     - *Will you add support for script...?*
     - *WIll you help me...?*
 
-- [The SIL Open Font License (OFL-FAQ)](https://scripts.sil.org/OFL-FAQ_web)
+- [The SIL Open Font License (OFL-FAQ)](https://openfontlicense.org/ofl-faq/)
     - *Can I use this font for...?*
     - *Can I modify the font and then include it in...*
     - *If I use the font on a web page do I have to include an acknowledgement?*
@@ -46,9 +46,9 @@ To obtain Lateef fonts with digit kerning disabled:
 
 ### *What are the differences between the **Lateef** and **LateefGR** fonts?*
 
-The most obvious difference is that **Lateef** only provides OpenType support and **LateefGR** only provides Graphite support. For a complete list of the differences between **Lateef** version 1.001 and **LateefGR**, you can read the [Release 1.200 announcement](https://software.sil.org/lateef/release-1-200/). 
+The most obvious difference is that **Lateef** only provides OpenType support and **LateefGR** only provides Graphite support. For a complete list of the differences between **Lateef** version 1.001 and **LateefGR**, you can read the [Release announcements](https://software.sil.org/lateef/news/). 
 
-This version of **Lateef** is an OpenType font that includes all the kerning support that is currently only found in **LateefGR**. It also includes many more characters than were in **LateefGR** and **Lateef** version 1.001. Read the [Release 2.000 announcement](https://software.sil.org/lateef/release-2-000/) for all the changes in this font.
+The most recent version of **Lateef** is an OpenType font that includes all the kerning support that was included in **LateefGR** (and more). It also includes many more characters than were in **LateefGR** and **Lateef** version 1.001. 
 
 ### *What characters are included with this release?*
 

@@ -1,6 +1,6 @@
 ---
 title: Lateef - Design
-fontversion: 4.200
+fontversion: 4.300
 ---
 
 Lateef provides a &#x201c;simplified&#x201d; rendering of Arabic script, using basic connecting glyphs but not including a wide variety of additional ligatures or contextual alternates (only the required lam-alef ligatures). This simplified style is often preferred for clarity, especially in non-Arabic languages.
@@ -23,12 +23,12 @@ Type samples showing some of the inventory of glyphs can be found here:
 
 Examples of some text is shown below. 
 
-![Lateef Sample - Seven weights](assets/images/weights.png){.fullsize}
+![Lateef Sample - Seven weights](../assets/images/weights.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/lateef/wp-content/uploads/sites/30/2022/06/weights.png -->
 <figcaption>Lateef Sample - Seven weights</figcaption>
 
 
-![Lateef Sample - Genesis 11](assets/images/LateefArabicGen11_LO.png){.fullsize}
+![Lateef Sample - Genesis 11](../assets/images/LateefArabicGen11_LO.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/lateef/wp-content/uploads/sites/30/2022/06/LateefArabicGen11_LO.png -->
 <figcaption>Lateef Sample - Genesis 11</figcaption>
 

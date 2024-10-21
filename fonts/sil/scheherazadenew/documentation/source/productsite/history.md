@@ -1,4 +1,27 @@
 
+### 2024-10-21 (SIL WSTech team) Scheherazade New version 4.300
+
+#### New
+
+- Added:
+  - U+0897 ARABIC PEPET
+  - U+10EC2 ARABIC LETTER DAL WITH TWO DOTS VERTICALLY BELOW
+  - U+10EC3 ARABIC LETTER TAH WITH TWO DOTS VERTICALLY BELOW
+  - U+10EC4 ARABIC LETTER KAF WITH TWO DOTS VERTICALLY BELOW
+  - U+10EFC ARABIC COMBINING ALEF OVERLAY
+- Added support for Kashmiri language
+- Added facility to override default language behavior through feature selection
+- Added support for cv76 (dagger alef) on spacing characters and tatweel
+
+#### Improved
+
+- Minor anchor adjustment on U+06D6
+- Enhanced positioning of U+06E2 ARABIC SMALL HIGH MEEM ISOLATED FORM next to adjacent vowel marks
+- Tweaks to the design of some of the honorifics
+- Improved alef+mark positioning to reduce collisions
+- Improved madda reordering to comply with UAX #53
+- Documentation enhancements
+
 ### 2023-04-14 (SIL WSTech team) Scheherazade New version 4.000
 
 #### New
@@ -11,11 +34,13 @@
   - U+10EFD ARABIC SMALL LOW WORD SAKTA
   - U+10EFE ARABIC SMALL LOW WORD QASR
   - U+10EFF ARABIC SMALL LOW WORD MADDA
+- New features:
+  - cv49 - Heh Doachashmee
 
 #### Improved
 - Changed Kurdish language to support a U+06BE Heh Doachashmee alternate rather than U+0647 Heh alternate
 - Redesigned
-  - U+0616 ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH (see https://www.unicode.org/versions/Unicode15.0.0/erratafixed.html)
+  - U+0616 ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH (see [https://www.unicode.org/versions/Unicode15.0.0/erratafixed.html](https://www.unicode.org/versions/Unicode15.0.0/erratafixed.html))
   - Slight adjustments to:
     - gaf-like characters (such as U+06AF ARABIC LETTER GAF)
     - U+0601 ARABIC SIGN SANAH

@@ -1,9 +1,9 @@
 ---
 title: Harmattan - Design
-fontversion: 4.000
+fontversion: 4.300
 ---
 
-The original font on which Harmattan was based was an [OFL](http://scripts.sil.org/ofl)-licensed typeface called **Fouta AS**, designed for one specific region in West Africa. However, significant design changes have been made as the font has been extended to handle a wider variety of languages using the Arabic script. Harmattan, named after the trade winds that blow during the dry season in West Africa, is designed in a Warsh style to suit the needs of languages using the Arabic script in West Africa. The Latin letters are a subset of the [Andika](http://software.sil.org/andika) font. 
+The original font on which Harmattan was based was an [OFL](https://openfontlicense.org/)-licensed typeface called **Fouta AS**, designed for one specific region in West Africa. However, significant design changes have been made as the font has been extended to handle a wider variety of languages using the Arabic script. Harmattan, named after the trade winds that blow during the dry season in West Africa, is designed in a Warsh style to suit the needs of languages using the Arabic script in West Africa. The Latin letters are a subset of the [Andika](https://software.sil.org/andika) font. 
 
 Four fonts from this typeface family are included in the *Harmattan* release:
 
@@ -19,11 +19,11 @@ Type samples showing some of the inventory of glyphs can be found here:
 
 Examples of some text is shown below. 
 
-![Harmattan Sample - Four weights](assets/images/weights.png){.fullsize}
+![Harmattan Sample - Four weights](../assets/images/weights.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/harmattan/wp-content/uploads/sites/31/2023/04/weights.png -->
 <figcaption>Harmattan Sample - Four weights</figcaption>
 
-![Harmattan Sample - Genesis 11](assets/images/HarmattanArabicGen11.png){.fullsize}
+![Harmattan Sample - Genesis 11](../assets/images/HarmattanArabicGen11.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/harmattan/wp-content/uploads/sites/31/2020/06/HarmattanArabicGen11.png -->
 <figcaption>Harmattan Sample - Genesis 11</figcaption>
 

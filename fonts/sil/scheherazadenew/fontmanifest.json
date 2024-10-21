@@ -20,6 +20,6 @@
         "ScheherazadeNew-SemiBold.woff": { "altfamily": "Scheherazade New SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/ScheherazadeNew-SemiBold.woff" },
         "ScheherazadeNew-SemiBold.woff2": { "altfamily": "Scheherazade New SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/ScheherazadeNew-SemiBold.woff2" }
     },
-    "version": "4.000"
+    "version": "4.300"
 }
 }

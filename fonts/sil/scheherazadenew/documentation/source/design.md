@@ -1,6 +1,6 @@
 ---
 title: Scheherazade New - Design
-fontversion: 4.000
+fontversion: 4.300
 ---
 
 Scheherazade New provides a “simplified” rendering of Arabic script, using basic connecting glyphs but not including a wide variety of additional ligatures or contextual alternates (only the required lam-alef ligatures). This simplified style is often preferred for clarity, especially in non-Arabic languages, but may not be considered appropriate in situations where a more elaborate style of calligraphy is preferred.
@@ -20,12 +20,12 @@ Type samples showing some of the inventory of glyphs can be found here:
 
 Examples of some text is shown below. 
 
-![Scheherazade New Sample - Four weights](assets/images/weights.png){.fullsize}
+![Scheherazade New Sample - Four weights](../assets/images/weights.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/scheherazade/wp-content/uploads/sites/29/2023/04/weights.png -->
 <figcaption>Scheherazade New Sample - Four weights</figcaption>
  
 
-![Scheherazade New Sample - Genesis 11](assets/images/ScheherazadeGen11.png){.fullsize}
+![Scheherazade New Sample - Genesis 11](../assets/images/ScheherazadeGen11.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/scheherazade/wp-content/uploads/sites/29/2016/03/ScheherazadeGen11.png -->
 <figcaption>Scheherazade New Sample - Genesis 11</figcaption>
 

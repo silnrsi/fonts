@@ -1,4 +1,26 @@
 
+### 2024-10-21 (SIL WSTech team) Harmattan version 4.300
+
+#### New
+
+- Added:
+  - U+0897 ARABIC PEPET
+  - U+10EC2 ARABIC LETTER DAL WITH TWO DOTS VERTICALLY BELOW
+  - U+10EC3 ARABIC LETTER TAH WITH TWO DOTS VERTICALLY BELOW
+  - U+10EC4 ARABIC LETTER KAF WITH TWO DOTS VERTICALLY BELOW
+  - U+10EFC ARABIC COMBINING ALEF OVERLAY
+- Added support for Kashmiri language
+- Added facility to override default language behavior through feature selection
+- Added support for cv76 (dagger alef) on spacing characters and tatweel
+
+#### Improved
+
+- Enhanced positioning of U+06E2 ARABIC SMALL HIGH MEEM ISOLATED FORM next to adjacent vowel marks
+- Adjusted design of U+0883 ARABIC TATWEEL WITH OVERSTRUCK HAMZA
+- Improved alef+mark positioning to reduce collisions
+- Improved madda reordering to comply with UAX #53
+- Documentation enhancements
+
 ### 2023-04-14 (SIL WSTech team) Harmattan version 4.000
 
 #### New
@@ -95,7 +117,7 @@
 - Changed default for U+0657 ARABIC INVERTED DAMMA from "open" to "filled"  
 - Changed Kurdish language to support a U+06BE Heh Doachashmee alternate rather than U+0647 Heh alternate
 - Redesign 
-  - U+0616 ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH (see https://www.unicode.org/versions/Unicode15.0.0/erratafixed.html)
+  - U+0616 ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH (see [https://www.unicode.org/versions/Unicode15.0.0/erratafixed.html](https://www.unicode.org/versions/Unicode15.0.0/erratafixed.html))
   - U+0674 ARABIC LETTER HIGH HAMZA
   - U+0675 ARABIC LETTER HIGH HAMZA ALEF
   - U+0676 ARABIC LETTER HIGH HAMZA WAW
@@ -105,6 +127,7 @@
   - U+06C7 ARABIC LETTER U
 
 #### Removed
+- Removed Graphite support from production font
 - Removed features: 
   - Alef diacritic placement (cv02)
   - Arabic U (cv50)
@@ -162,7 +185,7 @@
   - Increased spacing after reh-like characters
   - African qaf, African noon, African feh added (in the Unicode pipeline)
   - A few minor anchor point tweaks
-- Changed default behavior for cv62 to have the kasra in the "lowered" postion
+- Changed default behavior for cv62 to have the kasra in the "lowered" position
   - Removed cv62 as an OpenType feature. It is now only available through Graphite or TypeTunerWeb
 - Default linespacing adjusted to handle tallest base character with shadda and lowest base character so these are not clipped 
 - Added Normal and Loose linespacing adjustments for TypeTunerWeb

@@ -20,6 +20,6 @@
         "Harmattan-SemiBold.woff": { "altfamily": "Harmattan SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Harmattan-SemiBold.woff" },
         "Harmattan-SemiBold.woff2": { "altfamily": "Harmattan SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Harmattan-SemiBold.woff2" }
     },
-    "version": "4.000"
+    "version": "4.300"
 }
 }

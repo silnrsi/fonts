@@ -8,17 +8,17 @@
     "family": "Scheherazade New Rohingya",
     "familyid": "scheherazadenewrohingya",
     "files": {
-        "ScheherazadeNewRohingya-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNewRohingya-4.000/ScheherazadeNewRohingya-Bold.ttf" },
-        "ScheherazadeNewRohingya-SemiBold.ttf": { "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "ScheherazadeNewRohingya-4.000/ScheherazadeNewRohingya-SemiBold.ttf" },
-        "ScheherazadeNewRohingya-Medium.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "ScheherazadeNewRohingya-4.000/ScheherazadeNewRohingya-Medium.ttf" },
-        "ScheherazadeNewRohingya-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewRohingya-4.000/ScheherazadeNewRohingya-Regular.ttf" }
+        "ScheherazadeNewRohingya-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNewRohingya-4.300/ScheherazadeNewRohingya-Bold.ttf" },
+        "ScheherazadeNewRohingya-SemiBold.ttf": { "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "ScheherazadeNewRohingya-4.300/ScheherazadeNewRohingya-SemiBold.ttf" },
+        "ScheherazadeNewRohingya-Medium.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "ScheherazadeNewRohingya-4.300/ScheherazadeNewRohingya-Medium.ttf" },
+        "ScheherazadeNewRohingya-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewRohingya-4.300/ScheherazadeNewRohingya-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Rohingya",
     "siteurl": "https://software.sil.org/scheherazade/",
     "source": "SIL",
     "status": "archived",
-    "version": "4.000",
+    "version": "4.300",
     "ziproot": ""
 }
 }
