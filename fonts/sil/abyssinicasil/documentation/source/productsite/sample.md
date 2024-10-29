@@ -37,8 +37,8 @@ This document demonstrates all of the characters in the font. It is organized by
 <span class='abyssinica-R normal'>    –—‘’‚“”„†‡•…‰‹›※⁄⁠</span>
 
 ### Superscripts and Subscripts
-<span class='abyssinica-R normal'>⁰⁴⁵⁶⁷⁸⁹</span>
 
+<span class='abyssinica-R normal'>⁰⁴⁵⁶⁷⁸⁹ &#x2080;&#x2081;&#x2082;&#x2083;&#x2084;&#x2085;&#x2086;&#x2087;&#x2088;&#x2089;</span>
 
 ### Currency Symbols:
 
@@ -48,6 +48,10 @@ This document demonstrates all of the characters in the font. It is organized by
 
 <span class='abyssinica-R normal'>™Ω ∂∅∆∏∑∙√∞∫≈≠≤≥ ␣ ◊ ◌ ✓</span>
 
+### Enclosed Alphanumerics
+
+<span class='abyssinica-R normal'>&#x2460;&#x2461;&#x2462;&#x2463;&#x2464;&#x2465;&#x2466;&#x2467;&#x2468;</span>
+
 ### Ethiopic:
 
 #### Syllables:
@@ -55,8 +59,7 @@ This document demonstrates all of the characters in the font. It is organized by
 <span class='abyssinica-R normal'>ሀሁሂሃሄህሆሇ ለሉሊላሌልሎሏ ሐሑሒሓሔሕሖሗ መሙሚማሜምሞሟ ሠሡሢሣሤሥሦሧ ረሩሪራሬርሮሯ ሰሱሲሳሴስሶሷ ሸሹሺሻሼሽሾሿ ቀቁቂቃቄቅቆቇ ቈቊቋቌቍ ቐቑቒቓቔቕ ቖቘቚቛቜቝ በቡቢባቤብቦቧ ቨቩቪቫቬቭቮቯ ተቱቲታቴትቶቷ ቸቹቺቻቼችቾቿ ኀኁኂኃኄኅኆኇ ኈኊኋኌኍ ነኑኒናኔንኖኗ ኘኙኚኛኜኝኞኟ አኡኢኣኤእኦ ኧከኩኪካኬክኮኯ ኰኲኳኴኵ ኸኹኺኻኼኽኾዀዂዃዄዅ ወዉዊዋዌውዎዏ ዐዑዒዓዔዕዖ ዘዙዚዛዜዝዞዟ ዠዡዢዣዤዥዦዧ የዩዪያዬይዮዯ ደዱዲዳዴድዶዷ ዸዹዺዻዼዽዾዿ ጀጁጂጃጄጅጆጇ ገጉጊጋጌግጎጏጐጒጓጔጕ ጘጙጚጛጜጝጞጟ ጠጡጢጣጤጥጦጧ ጨጩጪጫጬጭጮጯ ጰጱጲጳጴጵጶጷ ጸጹጺጻጼጽጾጿ ፀፁፂፃፄፅፆፇ ፈፉፊፋፌፍፎፏ ፐፑፒፓፔፕፖፗ ፘ ፙ ፚ</span>
 
 #### Combining Marks
-<span class='abyssinica-R normal'>◌፞◌፟◌፝</br>
-ሆ፞ሆ፟ሆ፝</span>
+<span class='abyssinica-R normal'>◌፞◌፟◌፝</br>&#x1206;&#x135e;&#x1206;&#x135f;&#x1206;&#x135d; &#x1206;&#x135e;&#x0301;&#x1206;&#x135f;&#x0301;&#x1206;&#x135d;&#x135f;</span>
 
 #### Punctuation
 <span class='abyssinica-R normal'>፠፡።፣፤፥፦፧፨</span>

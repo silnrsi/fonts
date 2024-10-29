@@ -5,7 +5,7 @@ This font is supported by all major operating systems (macOS, Windows, Linux-bas
 
 ## Installation
 
-Install the font by decompressing the .zip archive and installing the font using the standard font installation process for .ttf (TrueType/OpenType) fonts for your platform. For additional tips see the help page on [Font installation](https://software.sil.org/fonts/installation).
+Install the fonts by decompressing the .zip archive and installing the fonts using the standard font installation process for .ttf (TrueType/OpenType) fonts for your platform. For additional tips see the help page on [Font installation](https://software.sil.org/fonts/installation).
 
 ## Keyboarding and character set support
 
@@ -38,17 +38,17 @@ See [Character set support](charset) for details of the Unicode characters suppo
 
 This font will work normally like any other font in most applications. If the writing system requires special diacritic positioning the application/OS will need to support OpenType.
 
-Abyssinica SIL is designed to work with two advanced font technologies, [Graphite](https://graphite.sil.org/) and OpenType. To take advantage of the advanced typographic capabilities of this font, you must be using applications that provide an adequate level of support for Graphite or OpenType.
+If special font features are to be activated the application will need to provide a way to turn on the feature or choose the feature setting. Details of current application support, and specific techniques for activating features, are on the [Using Font Features](https://software.sil.org/fonts/features) help page.
 
-Other suggestions are listed here: [Using Font Features](https://software.sil.org/fonts/features/). 
+Although this current font supports only OpenType, previous versions provided support for the Graphite technology. Graphite was supported through version 2.2. These older versions remain available from our [Previous Versions archive](https://software.sil.org/abyssinica/download/previous-versions).
 
 ## Web fonts
 
-Web font versions of this font (in WOFF and WOFF2 formats) are available in the `web` folder. These can be copied to a web server and used as fonts on web pages. A very basic HTML/CSS demo page is also included. For more information on the options and techniques available for using these fonts on web pages see [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts).
+Web font versions of these fonts (in WOFF and WOFF2 formats) are available in the `web` folder. These can be copied to a web server and used as fonts on web pages. A very basic HTML/CSS demo page is also included. For more information on the options and techniques available for using these fonts on web pages see [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts).
 
 ## Text conversion
 
-This font is encoded according to [The Unicode Standard](https://unicode.org). If you have text that uses a legacy, non-Unicode encoding there are tools that can help you convert that text for use with Unicode fonts. See [Introduction to Text Conversion and Transliteration](https://scriptsource.org/entry/xlzd6n5aqt).
+This font is encoded according to [The Unicode Standard](https://www.unicode.org/). If you have text that uses a legacy, non-Unicode encoding there are tools that can help you convert that text for use with Unicode fonts. See [Introduction to Text Conversion and Transliteration](https://scriptsource.org/entry/xlzd6n5aqt).
 
 In order to use this font with existing data that was created for use with fonts developed using custom-encoded fonts, it is necessary to re-type or convert data to produce data that is encoded in conformance with the Unicode Standard. [SIL Converters](https://software.sil.org/silconverters/) and/or [TECkit](https://software.sil.org/teckit/) can be used for character encoding conversion. TECkit allows users to write their own custom conversion mappings.
 

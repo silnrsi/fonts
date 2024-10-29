@@ -1,6 +1,6 @@
 ---
 title: Abyssinica SIL - Design
-fontversion: 2.201
+fontversion: 2.300
 ---
 
 Abyssinica SIL is based on Ethiopic calligraphic traditions. 
@@ -17,7 +17,7 @@ Type samples showing some of the inventory of glyphs can be found here:
 
 A sample from one page is shown below. 
 
-![Abyssinica SIL Sample - Ethiopic syllables](assets/images/AbyssinicaTypeSamplev2.png){.fullsize}
+![Abyssinica SIL Sample - Ethiopic syllables](../assets/images/AbyssinicaTypeSamplev2.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/abyssinica/wp-content/uploads/sites/26/2019/09/AbyssinicaTypeSamplev2.png -->
 <figcaption>Abyssinica SIL Sample - Ethiopic syllables</figcaption>
 

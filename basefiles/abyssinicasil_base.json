@@ -4,10 +4,10 @@
     "family": "Abyssinica SIL",
     "familyid": "abyssinicasil",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/abyssinica/AbyssinicaSIL-2.201.zip",
+    "packageurl": "https://software.sil.org/downloads/r/abyssinica/AbyssinicaSIL-2.300.zip",
     "siteurl": "https://software.sil.org/abyssinica/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "AbyssinicaSIL-2.201"
+    "ziproot": "AbyssinicaSIL-2.300"
 }
 }

@@ -29,17 +29,17 @@
     "family": "Abyssinica SIL",
     "familyid": "abyssinicasil",
     "files": {
-        "AbyssinicaSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/abyssinicasil/AbyssinicaSIL-Regular.ttf", "packagepath": "AbyssinicaSIL-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/abyssinicasil/AbyssinicaSIL-Regular.ttf", "zippath": "AbyssinicaSIL-2.201/AbyssinicaSIL-Regular.ttf" },
-        "AbyssinicaSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/abyssinicasil/web/AbyssinicaSIL-Regular.woff", "packagepath": "web/AbyssinicaSIL-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/abyssinicasil/web/AbyssinicaSIL-Regular.woff", "zippath": "AbyssinicaSIL-2.201/web/AbyssinicaSIL-Regular.woff" },
-        "AbyssinicaSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/abyssinicasil/web/AbyssinicaSIL-Regular.woff2", "packagepath": "web/AbyssinicaSIL-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/abyssinicasil/web/AbyssinicaSIL-Regular.woff2", "zippath": "AbyssinicaSIL-2.201/web/AbyssinicaSIL-Regular.woff2" }
+        "AbyssinicaSIL-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/abyssinicasil/AbyssinicaSIL-Regular.ttf", "packagepath": "AbyssinicaSIL-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/abyssinicasil/AbyssinicaSIL-Regular.ttf", "zippath": "AbyssinicaSIL-2.300/AbyssinicaSIL-Regular.ttf" },
+        "AbyssinicaSIL-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/abyssinicasil/web/AbyssinicaSIL-Regular.woff", "packagepath": "web/AbyssinicaSIL-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/abyssinicasil/web/AbyssinicaSIL-Regular.woff", "zippath": "AbyssinicaSIL-2.300/web/AbyssinicaSIL-Regular.woff" },
+        "AbyssinicaSIL-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/abyssinicasil/web/AbyssinicaSIL-Regular.woff2", "packagepath": "web/AbyssinicaSIL-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/abyssinicasil/web/AbyssinicaSIL-Regular.woff2", "zippath": "AbyssinicaSIL-2.300/web/AbyssinicaSIL-Regular.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/abyssinica/AbyssinicaSIL-2.201.zip",
+    "packageurl": "https://software.sil.org/downloads/r/abyssinica/AbyssinicaSIL-2.300.zip",
     "siteurl": "https://software.sil.org/abyssinica/",
     "source": "SIL",
     "status": "current",
-    "version": "2.201",
-    "ziproot": "AbyssinicaSIL-2.201"
+    "version": "2.300",
+    "ziproot": "AbyssinicaSIL-2.300"
 },
 "akatab": {
     "defaults": {
