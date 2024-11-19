@@ -15,5 +15,5 @@ jobs:
         event-type: families-updated
         client-payload: >- 
           {
-            "release": true
+            "environment": ["production", "staging"]
           }
