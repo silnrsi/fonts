@@ -14,6 +14,6 @@
         "Padauk-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Padauk-Regular.woff" },
         "Padauk-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Padauk-Regular.woff2" }
     },
-    "version": "5.001"
+    "version": "5.100"
 }
 }
