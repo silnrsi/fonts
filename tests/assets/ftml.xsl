@@ -42,7 +42,7 @@
 				<xsl:value-of select="ftml/head/comment"/>
 			</xsl:attribute>
 		</meta>
-		<meta name="author" content="NRSI, SIL International: scripts.sil.org"/>
+		<meta name="author" content="NRSI, SIL Global: scripts.sil.org"/>
     	<link rel="preconnect" href="https://fonts.googleapis.com"/>
 		
 		<!-- Any Google font references need the stylesheet links output here-->

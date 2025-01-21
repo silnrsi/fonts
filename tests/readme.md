@@ -31,7 +31,7 @@ To make a new set of tests for a font family:
 - Change the gfhref in the header of the .md file(s) to use the appropriate Google Fonts href for the font family and all its styles
 - Customize the .md file(s) for your particular project
 - Add your files to the `tests/maketests` script based on the examples there
-- Run the script with `./makedocs` to generate the HTML files
+- Run the script with `./maketests` (in the `tests` folder) to generate the HTML files
 - Pull any changes to the repo since you cloned (important!) in case others have made changes
 - Commit your changes to your local repository and push them to the origin `main` branch
 
@@ -50,4 +50,4 @@ To update the tests later:
 
 ## Acknowledgements
 
-Test contents, unless another source is named, are copyright (c) 2022, SIL International (http://www.sil.org) and released under the MIT license. 
+Test contents, unless another source is named, are copyright (c) 2022-2025, SIL Global (http://www.sil.org) and released under the MIT license.
