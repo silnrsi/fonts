@@ -1,0 +1,72 @@
+@font-face {
+    font-family: LPR;
+    font-weight: 400;
+    font-style: normal;
+    src: url("../../fonts/sil/padauk/web/Padauk-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR;
+    font-weight: 700;
+    font-style: normal;
+    src: url("../../fonts/sil/padauk/web/Padauk-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPRbook;
+    font-weight: 400;
+    font-style: normal;
+    src: url("../../fonts/sil/padaukbook/web/PadaukBook-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPRbook;
+    font-weight: 700;
+    font-style: normal;
+    src: url("../../fonts/sil/padaukbook/web/PadaukBook-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: 400;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/padauk/web/Padauk-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/padauk/web/Padauk-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLObook;
+    font-weight: 400;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/padaukbook/web/PadaukBook-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLObook;
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/sil/padaukbook/web/PadaukBook-Bold.woff2") format("woff2");
+}
+.lpr {
+    font-family: 'LPR', sans-serif;
+    font-size: 22px;
+}
+.lprbook {
+    font-family: 'LPRbook', sans-serif;
+    font-size: 22px;
+}
+.gf {
+    font-family: 'Padauk', sans-serif;
+    font-size: 22px;
+}
+.flo {
+    font-family: 'FLO', sans-serif;
+    font-size: 22px;
+}
+.flobook {
+    font-family: 'FLObook', sans-serif;
+    font-size: 22px;
+}
+
+body {
+    text-align: start;
+}

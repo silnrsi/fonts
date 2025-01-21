@@ -40,6 +40,9 @@ pandoc -s -f markdown-smart --template assets/testtemplate.html nuosusil/test_ma
 echo "     > Padauk"
 pandoc -s -f markdown-smart --template assets/testtemplate.html padauk/test_main.md -o padauk/test_main.html
 
+echo "     > Padauk Book"
+pandoc -s -f markdown-smart --template assets/testtemplate.html padaukbook/test_main.md -o padaukbook/test_main.html
+
 echo "     > Ruwudu"
 pandoc -s -f markdown-smart --template assets/testtemplate.html ruwudu/test_main.md -o ruwudu/test_main.html
 
