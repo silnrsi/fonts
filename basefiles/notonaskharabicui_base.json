@@ -13,11 +13,11 @@
         "NotoNaskhArabicUI-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoNaskhArabicUI-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabicUI/full/ttf/NotoNaskhArabicUI-SemiBold.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/arabic/releases/download/NotoNaskhArabicUI-v2.014/NotoNaskhArabicUI-v2.014.zip",
-    "siteurl": "https://github.com/notofonts/arabic/releases/tag/NotoNaskhArabicUI-v2.014",
+    "packageurl": "https://github.com/notofonts/arabic/releases/download/NotoNaskhArabicUI-v2.017/NotoNaskhArabicUI-v2.017.zip",
+    "siteurl": "https://github.com/notofonts/arabic/releases/tag/NotoNaskhArabicUI-v2.017",
     "source": "Google",
     "status": "current",
-    "version": "2.014",
+    "version": "2.017",
     "ziproot": "NotoNaskhArabicUI"
 }
 }

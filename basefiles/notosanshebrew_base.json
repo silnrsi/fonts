@@ -45,11 +45,11 @@
         "NotoSansHebrew-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansHebrew-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansHebrew/full/ttf/NotoSansHebrew-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/hebrew/releases/download/NotoSansHebrew-v2.003/NotoSansHebrew-v2.003.zip",
-    "siteurl": "https://github.com/notofonts/hebrew/releases/tag/NotoSansHebrew-v2.003",
+    "packageurl": "https://github.com/notofonts/hebrew/releases/download/NotoSansHebrew-v3.001/NotoSansHebrew-v3.001.zip",
+    "siteurl": "https://github.com/notofonts/hebrew/releases/tag/NotoSansHebrew-v3.001",
     "source": "Google",
     "status": "current",
-    "version": "2.003",
+    "version": "3.001",
     "ziproot": "NotoSansHebrew"
 }
 }

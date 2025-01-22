@@ -1,7 +1,7 @@
 {
 "notosansgujarati": {
     "defaults": {
-        "ttf": "NotoSansGujarati-Regular.ttf"
+        "ttf": "NotoSansGujaratiUI-Regular.ttf"
     },
     "distributable": true,
     "family": "Noto Sans Gujarati",
@@ -81,11 +81,11 @@
         "NotoSansGujaratiUI-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansGujaratiUI-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGujarati/full/ttf/NotoSansGujaratiUI-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/gujarati/releases/download/NotoSansGujarati-v2.104/NotoSansGujarati-v2.104.zip",
-    "siteurl": "https://github.com/notofonts/gujarati/releases/tag/NotoSansGujarati-v2.104",
+    "packageurl": "https://github.com/notofonts/gujarati/releases/download/NotoSansGujarati-v2.106/NotoSansGujarati-v2.106.zip",
+    "siteurl": "https://github.com/notofonts/gujarati/releases/tag/NotoSansGujarati-v2.106",
     "source": "Google",
     "status": "current",
-    "version": "2.104",
+    "version": "2.106",
     "ziproot": "NotoSansGujarati"
 }
 }

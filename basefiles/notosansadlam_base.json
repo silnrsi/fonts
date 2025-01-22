@@ -11,11 +11,11 @@
         "NotoSansAdlam-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansAdlam-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansAdlam/full/ttf/NotoSansAdlam-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/adlam/releases/download/NotoSansAdlam-v3.001/NotoSansAdlam-v3.001.zip",
-    "siteurl": "https://github.com/notofonts/adlam/releases/tag/NotoSansAdlam-v3.001",
+    "packageurl": "https://github.com/notofonts/adlam/releases/download/NotoSansAdlam-v3.002/NotoSansAdlam-v3.002.zip",
+    "siteurl": "https://github.com/notofonts/adlam/releases/tag/NotoSansAdlam-v3.002",
     "source": "Google",
     "status": "current",
-    "version": "3.001",
+    "version": "3.002",
     "ziproot": "NotoSansAdlam"
 }
 }

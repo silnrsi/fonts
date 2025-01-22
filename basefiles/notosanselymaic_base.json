@@ -10,11 +10,11 @@
         "NotoSansElymaic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansElymaic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansElymaic/full/ttf/NotoSansElymaic-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/elymaic/releases/download/NotoSansElymaic-v1.001/NotoSansElymaic-v1.001.zip",
-    "siteurl": "https://github.com/notofonts/elymaic/releases/tag/NotoSansElymaic-v1.001",
+    "packageurl": "https://github.com/notofonts/elymaic/releases/download/NotoSansElymaic-v1.002/NotoSansElymaic-v1.002.zip",
+    "siteurl": "https://github.com/notofonts/elymaic/releases/tag/NotoSansElymaic-v1.002",
     "source": "Google",
     "status": "current",
-    "version": "1.001",
+    "version": "1.002",
     "ziproot": "NotoSansElymaic"
 }
 }

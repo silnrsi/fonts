@@ -13,11 +13,11 @@
         "NotoSansSundanese-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansSundanese-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSundanese/full/ttf/NotoSansSundanese-SemiBold.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/sundanese/releases/download/NotoSansSundanese-v2.004/NotoSansSundanese-v2.004.zip",
-    "siteurl": "https://github.com/notofonts/sundanese/releases/tag/NotoSansSundanese-v2.004",
+    "packageurl": "https://github.com/notofonts/sundanese/releases/download/NotoSansSundanese-v2.005/NotoSansSundanese-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/sundanese/releases/tag/NotoSansSundanese-v2.005",
     "source": "Google",
     "status": "current",
-    "version": "2.004",
+    "version": "2.005",
     "ziproot": "NotoSansSundanese"
 }
 }

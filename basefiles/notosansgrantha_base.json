@@ -10,11 +10,11 @@
         "NotoSansGrantha-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansGrantha-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGrantha/full/ttf/NotoSansGrantha-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/grantha/releases/download/NotoSansGrantha-v2.003/NotoSansGrantha-v2.003.zip",
-    "siteurl": "https://github.com/notofonts/grantha/releases/tag/NotoSansGrantha-v2.003",
+    "packageurl": "https://github.com/notofonts/grantha/releases/download/NotoSansGrantha-v2.005/NotoSansGrantha-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/grantha/releases/tag/NotoSansGrantha-v2.005",
     "source": "Google",
     "status": "current",
-    "version": "2.003",
+    "version": "2.005",
     "ziproot": "NotoSansGrantha"
 }
 }

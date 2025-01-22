@@ -10,11 +10,11 @@
         "NotoSansChorasmian-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansChorasmian-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansChorasmian/full/ttf/NotoSansChorasmian-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/chorasmian/releases/download/NotoSansChorasmian-v1.002/NotoSansChorasmian-v1.002.zip",
-    "siteurl": "https://github.com/notofonts/chorasmian/releases/tag/NotoSansChorasmian-v1.002",
+    "packageurl": "https://github.com/notofonts/chorasmian/releases/download/NotoSansChorasmian-v1.004/NotoSansChorasmian-v1.004.zip",
+    "siteurl": "https://github.com/notofonts/chorasmian/releases/tag/NotoSansChorasmian-v1.004",
     "source": "Google",
     "status": "current",
-    "version": "1.002",
+    "version": "1.004",
     "ziproot": "NotoSansChorasmian"
 }
 }

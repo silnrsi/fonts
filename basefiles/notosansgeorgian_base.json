@@ -45,11 +45,11 @@
         "NotoSansGeorgian-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansGeorgian-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGeorgian/full/ttf/NotoSansGeorgian-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/georgian/releases/download/NotoSansGeorgian-v2.002/NotoSansGeorgian-v2.002.zip",
-    "siteurl": "https://github.com/notofonts/georgian/releases/tag/NotoSansGeorgian-v2.002",
+    "packageurl": "https://github.com/notofonts/georgian/releases/download/NotoSansGeorgian-v2.005/NotoSansGeorgian-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/georgian/releases/tag/NotoSansGeorgian-v2.005",
     "source": "Google",
     "status": "current",
-    "version": "2.002",
+    "version": "2.005",
     "ziproot": "NotoSansGeorgian"
 }
 }

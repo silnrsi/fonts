@@ -18,11 +18,11 @@
         "NotoSerifKannada-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifKannada-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifKannada/full/ttf/NotoSerifKannada-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/kannada/releases/download/NotoSerifKannada-v2.004/NotoSerifKannada-v2.004.zip",
-    "siteurl": "https://github.com/notofonts/kannada/releases/tag/NotoSerifKannada-v2.004",
+    "packageurl": "https://github.com/notofonts/kannada/releases/download/NotoSerifKannada-v2.005/NotoSerifKannada-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/kannada/releases/tag/NotoSerifKannada-v2.005",
     "source": "Google",
     "status": "current",
-    "version": "2.004",
+    "version": "2.005",
     "ziproot": "NotoSerifKannada"
 }
 }

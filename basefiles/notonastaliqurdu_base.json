@@ -11,11 +11,11 @@
         "NotoNastaliqUrdu-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoNastaliqUrdu-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNastaliqUrdu/full/ttf/NotoNastaliqUrdu-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/nastaliq/releases/download/NotoNastaliqUrdu-v3.007/NotoNastaliqUrdu-v3.007.zip",
-    "siteurl": "https://github.com/notofonts/nastaliq/releases/tag/NotoNastaliqUrdu-v3.007",
+    "packageurl": "https://github.com/notofonts/nastaliq/releases/download/NotoNastaliqUrdu-v4.000/NotoNastaliqUrdu-v4.000.zip",
+    "siteurl": "https://github.com/notofonts/nastaliq/releases/tag/NotoNastaliqUrdu-v4.000",
     "source": "Google",
     "status": "current",
-    "version": "3.007",
+    "version": "4.000",
     "ziproot": "NotoNastaliqUrdu"
 }
 }

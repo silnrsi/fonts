@@ -10,11 +10,11 @@
         "NotoSansOldSogdian-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansOldSogdian-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansOldSogdian/full/ttf/NotoSansOldSogdian-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/old-sogdian/releases/download/NotoSansOldSogdian-v2.002/NotoSansOldSogdian-v2.002.zip",
-    "siteurl": "https://github.com/notofonts/old-sogdian/releases/tag/NotoSansOldSogdian-v2.002",
+    "packageurl": "https://github.com/notofonts/old-sogdian/releases/download/NotoSansOldSogdian-v2.003/NotoSansOldSogdian-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/old-sogdian/releases/tag/NotoSansOldSogdian-v2.003",
     "source": "Google",
     "status": "current",
-    "version": "2.002",
+    "version": "2.003",
     "ziproot": "NotoSansOldSogdian"
 }
 }

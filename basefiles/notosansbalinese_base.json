@@ -13,11 +13,11 @@
         "NotoSansBalinese-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansBalinese-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBalinese/full/ttf/NotoSansBalinese-SemiBold.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/balinese/releases/download/NotoSansBalinese-v2.004/NotoSansBalinese-v2.004.zip",
-    "siteurl": "https://github.com/notofonts/balinese/releases/tag/NotoSansBalinese-v2.004",
+    "packageurl": "https://github.com/notofonts/balinese/releases/download/NotoSansBalinese-v2.006/NotoSansBalinese-v2.006.zip",
+    "siteurl": "https://github.com/notofonts/balinese/releases/tag/NotoSansBalinese-v2.006",
     "source": "Google",
     "status": "current",
-    "version": "2.004",
+    "version": "2.006",
     "ziproot": "NotoSansBalinese"
 }
 }

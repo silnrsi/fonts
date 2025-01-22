@@ -81,11 +81,11 @@
         "NotoSans-ThinItalic.ttf": { "axes": { "ital": 1, "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSans-ThinItalic.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSans/full/ttf/NotoSans-ThinItalic.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSans-v2.012/NotoSans-v2.012.zip",
-    "siteurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/tag/NotoSans-v2.012",
+    "packageurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSans-v2.015/NotoSans-v2.015.zip",
+    "siteurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/tag/NotoSans-v2.015",
     "source": "Google",
     "status": "current",
-    "version": "2.012",
+    "version": "2.015",
     "ziproot": "NotoSans"
 }
 }

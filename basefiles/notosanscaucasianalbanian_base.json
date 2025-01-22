@@ -10,11 +10,11 @@
         "NotoSansCaucasianAlbanian-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansCaucasianAlbanian-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansCaucasianAlbanian/full/ttf/NotoSansCaucasianAlbanian-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/caucasian-albanian/releases/download/NotoSansCaucasianAlbanian-v2.004/NotoSansCaucasianAlbanian-v2.004.zip",
-    "siteurl": "https://github.com/notofonts/caucasian-albanian/releases/tag/NotoSansCaucasianAlbanian-v2.004",
+    "packageurl": "https://github.com/notofonts/caucasian-albanian/releases/download/NotoSansCaucasianAlbanian-v2.005/NotoSansCaucasianAlbanian-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/caucasian-albanian/releases/tag/NotoSansCaucasianAlbanian-v2.005",
     "source": "Google",
     "status": "current",
-    "version": "2.004",
+    "version": "2.005",
     "ziproot": "NotoSansCaucasianAlbanian"
 }
 }

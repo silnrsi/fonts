@@ -13,11 +13,11 @@
         "NotoSansTangsa-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansTangsa-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTangsa/full/ttf/NotoSansTangsa-SemiBold.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/tangsa/releases/download/NotoSansTangsa-v1.505/NotoSansTangsa-v1.505.zip",
-    "siteurl": "https://github.com/notofonts/tangsa/releases/tag/NotoSansTangsa-v1.505",
+    "packageurl": "https://github.com/notofonts/tangsa/releases/download/NotoSansTangsa-v1.506/NotoSansTangsa-v1.506.zip",
+    "siteurl": "https://github.com/notofonts/tangsa/releases/tag/NotoSansTangsa-v1.506",
     "source": "Google",
     "status": "current",
-    "version": "1.505",
+    "version": "1.506",
     "ziproot": "NotoSansTangsa"
 }
 }

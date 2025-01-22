@@ -10,11 +10,11 @@
         "NotoSansMeroitic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMeroitic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMeroitic/full/ttf/NotoSansMeroitic-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/meroitic/releases/download/NotoSansMeroitic-v2.001/NotoSansMeroitic-v2.001.zip",
-    "siteurl": "https://github.com/notofonts/meroitic/releases/tag/NotoSansMeroitic-v2.001",
+    "packageurl": "https://github.com/notofonts/meroitic/releases/download/NotoSansMeroitic-v2.002/NotoSansMeroitic-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/meroitic/releases/tag/NotoSansMeroitic-v2.002",
     "source": "Google",
     "status": "current",
-    "version": "2.001",
+    "version": "2.002",
     "ziproot": "NotoSansMeroitic"
 }
 }

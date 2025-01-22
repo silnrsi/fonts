@@ -10,11 +10,11 @@
         "NotoSansInscriptionalPahlavi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansInscriptionalPahlavi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansInscriptionalPahlavi/full/ttf/NotoSansInscriptionalPahlavi-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/inscriptional-pahlavi/releases/download/NotoSansInscriptionalPahlavi-v2.003/NotoSansInscriptionalPahlavi-v2.003.zip",
-    "siteurl": "https://github.com/notofonts/inscriptional-pahlavi/releases/tag/NotoSansInscriptionalPahlavi-v2.003",
+    "packageurl": "https://github.com/notofonts/inscriptional-pahlavi/releases/download/NotoSansInscriptionalPahlavi-v2.004/NotoSansInscriptionalPahlavi-v2.004.zip",
+    "siteurl": "https://github.com/notofonts/inscriptional-pahlavi/releases/tag/NotoSansInscriptionalPahlavi-v2.004",
     "source": "Google",
     "status": "current",
-    "version": "2.003",
+    "version": "2.004",
     "ziproot": "NotoSansInscriptionalPahlavi"
 }
 }
