@@ -1,0 +1,60 @@
+<html>
+<!--
+This file is from the Busra project (https://software.sil.org/busra/).
+Copyright (c) 2003-2025 SIL Global (http://www.sil.org/) with Reserved
+Font Names "Busra" and "SIL". This Font Software is licensed under the SIL
+Open Font License, Version 1.1 (https://openfontlicense.org/).
+-->
+<head>
+	<link rel="stylesheet" href="Busra-webfont-example.css" type="text/css">
+</head>
+<body>
+<div style="font-size: 150%;">
+	
+<h1>Using Busra webfonts</h1>
+
+<p>The page demonstrates how to use the WOFF2 version of Busra for web pages, using a local copy of the .woff2 file in this archive. For more information on this technique - and how to use the normal TrueType version as a web font - see <a href="https://software.sil.org/fonts/webfonts/">Using SIL Fonts on Web Pages</a>.</p>
+
+<p>The body of this document is styled using an external stylesheet, with Busra set as the default font, and loaded directly as a WOFF2 file using the @font-face rule. If you're seeing a sans-serif font here then it is working. Otherwise the text will be in a serif or your browser default. This technique is supported in all modern browsers.</p>
+	
+<p>To see specifically how these techniques are specified in the CSS and HTML view the source to this page and the accompanying CSS file.</p>
+
+<h2>Test General behavior of Khmer script in webfonts</h2>
+
+<p>Khmer sample text (taken from <a href='https://www.ohchr.org/sites/default/files/UDHR/Documents/UDHR_Translations/khm.pdf'>Universal Declaration of Human Rights - Khmer</a>):</p>
+<p>សេចក្ដីប្រកាសជាសកលស្ដីពីសិទ្ធិមនុស្សនេះ ជាឧត្ដមគតិរួមដែលប្រជាពលរដ្ឋគ្រប់ៗប្រទេស និង ប្រជាជាតិទាំងអស់ត្រូវធ្វើឱ្យបានសម្រេច ដើម្បីឱ្យបុគ្គលគ្រប់ៗរូប និងអង្គការសង្គមទាំងអស់ ដោយ រក្សាខ្ជាប់ជានិច្ចក្នុងស្មារតីរបស់ខ្លួន នូវសេចក្ដីប្រកាសនេះ ខិតខំប្រឹងប្រែងបណ្ដុះបណ្ដាលការគោរពសិទ្ធិ និងសេរីភាពទាំងនេះ តាមរយៈការបង្រៀននិងការអប់រំ ហើយនិងខំប្រឹង ប្រែងធានាឱ្យមានការទទួល ស្គាល់ និងការអនុវត្ដជាសកល និងដោយស័ក្ដិសិទ្ធិ នូវសិទ្ធិនិងសេរីភាព ដោយវិធានការជាតិ និងអន្ដរជាតិ ដែលមានលក្ខណៈរីកចម្រើនជាលំដាប់ ទាំងក្នុងចំណោមប្រជាពលរដ្ឋនៃរដ្ឋសមាជិក ទាំងក្នុងចំណោម ប្រជាពលរដ្ឋ ដែនដីដែលស្ថិតនៅក្រោមដែនសមត្ថកិច្ចនៃរដ្ឋទាំងនោះ។</p>
+
+<h2>Busra user-selectable features</h2>
+
+<p>The Busra font includes a number of optional features that provide alternative rendering that might be preferable for use in some contexts. The examples below show the results of applying these features. Whether these features are available to users will depend on both the application and the rendering technology being used. The OpenType features are used in other browsers. Further documentation of these features is available in the documentation folder of the font download.</p>
+
+<p>To see specifically how these techniques are specified in the CSS and HTML, view the source to this page and the accompanying CSS file.</p>
+
+<p><b>Stylistic Set 1 (Variant forms)</b><br>
+Standard - feature ss01=0<br>
+ឱ ឳ ក៌ ក័<br>
+Alternate - feature ss01=1<br>
+<span class="ss01">ឱ ឳ ក៌ ក័</span></p>
+
+<p><b>Stylistic Set 2 (Hooked coengs)</b><br>
+Standard - feature ss02=0<br>
+ក្ឃ  ក្ឈ  ក្ឈៅ<br>
+Alternate - feature ss02=1<br>
+<span class="ss02">ក្ឃ  ក្ឈ  ក្ឈៅ</span></p>
+
+<p><b>Stylistic Set 3 (Alternate ka)</b><br>
+Standard - feature ss03=0<br>
+ក កា កៅ<br>
+Alternate - feature ss03=1<br>
+<span class="ss03">ក កា កៅ</span></p>
+	
+<p><b>Stylistic Set 4 (Alternate coeng-Nho)</b><br>
+Standard - feature ss04=0<br>
+ក្ញ<br>
+Alternate - feature ss04=1<br>
+<span class="ss04">ក្ញ</span></p>
+
+<p style="font-size: 75%;"> &copy; 2025 SIL Global </p>
+    
+</body>
+</html>

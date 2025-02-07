@@ -1,0 +1,55 @@
+/*
+This file is from the Busra project (https://software.sil.org/busra/).
+Copyright (c) 2003-2025 SIL Global (https://www.sil.org/) with Reserved
+Font Names "Busra" and "SIL". This Font Software is licensed under the SIL
+Open Font License, Version 1.1 (https://openfontlicense.org/).
+*/
+
+/* use Busra-Regular in .woff2 format */
+@font-face {
+    font-family: Busra;
+    src: url(Busra-Regular.woff2);
+  }
+  
+  /* set body to use Busra */
+  body {
+    font-family: Busra, serif;
+      /* fall back to sans serif so that it's really obvious if the fonts don't load */
+  }
+  /* remove bold styling from heading */
+  h1 {
+    font-weight: normal;
+  }
+
+  /* enable stylistic set 1 */
+  .ss01 {
+    font-feature-settings: "ss01" 1;
+    -moz-font-feature-settings: "ss01" 1;
+    -ms-font-feature-settings: "ss01" 1;
+    -webkit-font-feature-settings: "ss01" 1;
+  }
+  
+  /* enable stylistic set 2 */
+  .ss02 {
+    font-feature-settings: "ss02" 1;
+    -moz-font-feature-settings: "ss02" 1;
+    -ms-font-feature-settings: "ss02" 1;
+    -webkit-font-feature-settings: "ss02" 1;
+  }
+  
+  /* enable stylistic set 3 */
+  .ss03 {
+    font-feature-settings: "ss03" 1;
+    -moz-font-feature-settings: "ss03" 1;
+    -ms-font-feature-settings: "ss03" 1;
+    -webkit-font-feature-settings: "ss03" 1;
+  }
+    
+  /* enable stylistic set 4 */
+  .ss04 {
+    font-feature-settings: "ss04" 1;
+    -moz-font-feature-settings: "ss04" 1;
+    -ms-font-feature-settings: "ss04" 1;
+    -webkit-font-feature-settings: "ss04" 1;
+  }
+   

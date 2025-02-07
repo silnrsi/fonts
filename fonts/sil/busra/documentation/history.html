@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <title>Busra - Version History</title>
+    <meta name="author" content="SIL Writing Systems Technology">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <link rel="stylesheet" href="./assets/css/theme.css">
+    <link rel="stylesheet" href="./assets/css/webfonts.css">
+</head>
+<body>
+<div class="container">
+<article class="article">
+    <header>
+        <h1 class="title">Busra - Version History</h1>
+    </header>
+    <p>Busra is based on an earlier font that is part of a larger
+    package of Khmer script fonts called Mondulkiri. Earlier forms of
+    Busra were called “Khmer Mondulkiri book” and “Khmer Busra”.
+    Significant changes exist between the earlier versions and this
+    Busra release:</p>
+    <h2 id="change-history">Change history</h2>
+    <h3 id="february-2025-sil-wstech-team-busra-version-9.000">7
+    February 2025 (SIL WSTech Team) Busra version 9.000</h3>
+    <ul>
+    <li>The font family is now called "Busra" so it and the old "Khmer
+    Busra" can be installed at the same time.</li>
+    <li>There are six weights: ExtraLight, Light, Regular, Medium,
+    SemiBold, and Bold. This also replaces the older Khmer Mondulkiri
+    family.</li>
+    <li>Oblique (italic) styles are not included but will be provided in
+    a later release.</li>
+    <li>Glyph outlines have been revised and improved.</li>
+    <li>OpenType support has been rewritten, supporting latest best
+    practice in Khmer text encoding; see <a
+    href="https://www.unicode.org/notes/tn61">UTN #61: Khmer Encoding
+    Structure</a>.</li>
+    <li>Support for Graphite and AAT rendering has been removed.</li>
+    <li>Latin glyphs have been replaced with ones specifically designed
+    to work well with the Khmer glyphs.</li>
+    <li>Default line spacing has updated to best practice. This could
+    affect older Windows apps.</li>
+    <li>Three font formats are provided: OpenType (.ttf) for desktop use
+    and WOFF/WOFF2 for the web.</li>
+    </ul>
+    <h3
+    id="september-2014-diethelm-kanjahn-mondulkiri-font-family-version-7.100">8
+    September 2014 (Diethelm Kanjahn) Mondulkiri Font Family version
+    7.100</h3>
+    <ul>
+    <li>Mondulkiri changes:
+    <ul>
+    <li>The hinting has been improved, the difference between regular
+    and bold is visible on screen in much smaller font sizes than
+    before.</li>
+    <li>A few bugs were addressed: the disappearing of glyphs on Mac in
+    certain strings that do not occur in correctly typed text, a
+    positioning problem in some Tampuan words on Mac, one syllable in
+    Bunong text on Windows/Linux.</li>
+    <li>Minor changes in diacritic placement, mostly on Mac. Coeng Kho
+    and coeng Ttha were modified.</li>
+    <li>Glyphs were added - mostly in the phonetic symbols section. The
+    shaping tables for Mac were streamlined and are now the same as for
+    the Busra font.</li>
+    </ul></li>
+    <li>Busra changes:
+    <ul>
+    <li>The fonts now have AAT tables so that they work on Mac OS X</li>
+    <li>many glyphs were added, the glyph range is the same as in
+    Mondulkiri 7.100</li>
+    <li>many glyph shapes and diacritic placements were improved
+    slightly</li>
+    <li>the ligatures of some consonants with the 'sra-a', 'sra-oo' and
+    'sra-ou' have changed and are now the same as in Mondulkiri.</li>
+    <li>hinting has been improved</li>
+    <li>most other changes from Mondulkiri 5.300 to 5.513 are now also
+    in Busra 7.100</li>
+    <li>The descender value was changed which may affect line
+    spacing.</li>
+    </ul></li>
+    </ul>
+    <h3
+    id="october-2012-diethelm-kanjahn-mondulkiri-font-family-version-5.300">31
+    October 2012 (Diethelm Kanjahn) Mondulkiri Font Family version
+    5.300</h3>
+    <ul>
+    <li>Split Khmer Mondulkiri fonts from older fonts release</li>
+    <li>Support for Apple's AAT rendering system (tested in OS X 10.6.8)
+    as well as Microsoft OpenType tables.</li>
+    <li>Support for typographical features to be used under OS X with
+    software that does support them (like Pages or TextEdit, but
+    apparently not MS Word or LibreOffice).</li>
+    <li>Support for 'Stylistic Sets' that provide similar options in
+    OpenType as the 'typographical features' in OS X. These Stylistic
+    Sets work in Adobe software (tested with CS5 and 5.5 on PC), but not
+    in MS Word. MS Word 2010 does support Stylistic Sets, but apparently
+    only for Latin scripts.</li>
+    <li>Support for Khmer Unicode in Adobe CS5 and CS5.5. Two of the
+    Stylistic Sets address the remaining problems. Please refer to the
+    documentation on stylistic sets.</li>
+    <li>Many Latin script characters have been added. The bold fonts now
+    have also bold Latin characters.</li>
+    <li>Some of the vowel-a ligatures have been changed (e.g.
+    Cho-AA).</li>
+    <li>Many characters have been slightly modified. Most significantly
+    the 'hooks' or 'hair' of some coengs have been removed (e.g.
+    coeng-Kho, coeng-Ha, coeng-Qa).</li>
+    <li>The positioning of many characters was modified.</li>
+    <li>Many other smaller modifications of glyphs and rules.</li>
+    <li>To prevent register shifters from being rendered as subscript
+    zero-width-non-joiner has now to be inserted before the register
+    shifter in accordance with The Unicode Standard. Also
+    zero-width-joiner has to be in this position now to force the
+    alternative rendering.</li>
+    <li>Increased the descender by a small amount so that second level
+    elements are no longer cut off.</li>
+    <li>For users of the Tampuan language: coeng-vo after coeng-ro and
+    shifting of samyuk before reahmuk are now enabled by default. The
+    Tampuan option now only covers the width of space and the permission
+    to use samyuk after reahmuk.</li>
+    <li>The support for the use of vowels and coengs with independent
+    vowels in OS X is limited. If there is a real need for improvement
+    please contact the font designer.</li>
+    <li>Changed position of quotes (U+2018-9, 201C-D) and mirrored
+    U+201C.</li>
+    </ul>
+    <h3
+    id="november-2010-diethelm-kanjahn-mondulkiri-font-family-version-5.300">9
+    November 2010 (Diethelm Kanjahn) Mondulkiri Font Family version
+    5.300</h3>
+    <ul>
+    <li>First version released under the SIL Open Font License</li>
+    <li>First version released on https://scripts.sil.org</li>
+    <li>Added fonts: Ratanakiri, all italic typefaces</li>
+    <li>Renamed fonts: Busra and Oureang</li>
+    <li>Major OpenType code revisions</li>
+    <li>Corrections of outlines to comply with TTF conventions</li>
+    <li>Many small edits of the outlines</li>
+    <li>Outlines are now TrueType outlines</li>
+    <li>Improved hinting</li>
+    <li>Added characters</li>
+    <li>Size of Khmer base characters now equivalent to Roman capital
+    letters.</li>
+    </ul>
+    <h3
+    id="september-2005-diethelm-kanjahn-mondulkiri-font-family-version-1.1">16
+    September 2005 (Diethelm Kanjahn) Mondulkiri Font Family version
+    1.1</h3>
+    <ul>
+    <li>OpenType and Graphite test fonts</li>
+    </ul>
+    <h3
+    id="april-2003-diethelm-kanjahn-mondulkiri-font-family-version-0.9">12
+    April 2003 (Diethelm Kanjahn) Mondulkiri Font Family version
+    0.9</h3>
+    <ul>
+    <li>first public release as legacy fonts</li>
+    </ul>
+    <footer class="footer">
+        <p>This guide is from the <a href="https://software.sil.org/busra/" title="" class="active">Busra project</a> version 9 and is copyright © 2003-2025 SIL Global.</p>
+    </footer>
+</article>
+</div>
+</body>
+</html>

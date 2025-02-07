@@ -1,0 +1,31 @@
+{
+"busra": {
+    "defaults": {
+        "ttf": "Busra-Regular.ttf",
+        "woff": "Busra-Regular.woff",
+        "woff2": "Busra-Regular.woff2"
+    },
+    "family": "Busra",
+    "files": {
+        "Busra-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Busra-Bold.ttf" },
+        "Busra-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Busra-Bold.woff" },
+        "Busra-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Busra-Bold.woff2" },
+        "Busra-ExtraLight.ttf": { "altfamily": "Busra ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "Busra-ExtraLight.ttf" },
+        "Busra-ExtraLight.woff": { "altfamily": "Busra ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "web/Busra-ExtraLight.woff" },
+        "Busra-ExtraLight.woff2": { "altfamily": "Busra ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "web/Busra-ExtraLight.woff2" },
+        "Busra-Light.ttf": { "altfamily": "Busra Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Busra-Light.ttf" },
+        "Busra-Light.woff": { "altfamily": "Busra Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/Busra-Light.woff" },
+        "Busra-Light.woff2": { "altfamily": "Busra Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/Busra-Light.woff2" },
+        "Busra-Medium.ttf": { "altfamily": "Busra Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Busra-Medium.ttf" },
+        "Busra-Medium.woff": { "altfamily": "Busra Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Busra-Medium.woff" },
+        "Busra-Medium.woff2": { "altfamily": "Busra Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Busra-Medium.woff2" },
+        "Busra-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Busra-Regular.ttf" },
+        "Busra-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Busra-Regular.woff" },
+        "Busra-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Busra-Regular.woff2" },
+        "Busra-SemiBold.ttf": { "altfamily": "Busra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Busra-SemiBold.ttf" },
+        "Busra-SemiBold.woff": { "altfamily": "Busra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Busra-SemiBold.woff" },
+        "Busra-SemiBold.woff2": { "altfamily": "Busra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Busra-SemiBold.woff2" }
+    },
+    "version": "9.000"
+}
+}

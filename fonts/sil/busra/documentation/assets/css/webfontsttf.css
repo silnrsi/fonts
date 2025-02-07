@@ -1,0 +1,35 @@
+/*
+This file is from the SIL Busra font project (https://github.com/silnrsi/font-busra).
+Copyright (c) 2021-2025 SIL Global (https://www.sil.org/). This Font Software is
+released under the MIT license (https://opensource.org/licenses/MIT).
+*/
+@font-face {
+    font-family: Busra-EL;
+    src: url("../../../results/Busra-ExtraLight.ttf") format("truetype");
+}
+@font-face {
+    font-family: Busra-L;
+    src: url("../../../results/Busra-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: Busra-R;
+    src: url("../../../results/Busra-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: Busra-M;
+    src: url("../../../results/Busra-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: Busra-SB;
+    src: url("../../../results/Busra-SemiBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Busra-B;
+    src: url("../../../results/Busra-Bold.ttf") format("truetype");
+}
+.busra-EL { font-family: Busra-EL; font-size: 125%; }
+.busra-L  { font-family: Busra-L;  font-size: 125%; }
+.busra-R  { font-family: Busra-R;  font-size: 125%; }
+.busra-M  { font-family: Busra-M;  font-size: 125%; }
+.busra-SB { font-family: Busra-SB; font-size: 125%; }
+.busra-B  { font-family: Busra-B;  font-size: 125%; }

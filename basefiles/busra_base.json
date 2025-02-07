@@ -1,0 +1,13 @@
+{
+"busra": {
+    "distributable": true,
+    "family": "Busra",
+    "familyid": "busra",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/busra/Busra-9.000.zip",
+    "siteurl": "https://software.sil.org/busra/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "Busra-9.000"
+}
+}

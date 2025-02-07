@@ -576,6 +576,43 @@
     "siteurl": "https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/",
     "version": "2.000"
 },
+"busra": {
+    "defaults": {
+        "ttf": "Busra-Regular.ttf",
+        "woff": "Busra-Regular.woff",
+        "woff2": "Busra-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Busra",
+    "familyid": "busra",
+    "files": {
+        "Busra-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/Busra-Bold.ttf", "packagepath": "Busra-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/Busra-Bold.ttf", "zippath": "Busra-9.000/Busra-Bold.ttf" },
+        "Busra-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-Bold.woff", "packagepath": "web/Busra-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-Bold.woff", "zippath": "Busra-9.000/web/Busra-Bold.woff" },
+        "Busra-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-Bold.woff2", "packagepath": "web/Busra-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-Bold.woff2", "zippath": "Busra-9.000/web/Busra-Bold.woff2" },
+        "Busra-ExtraLight.ttf": { "altfamily": "Busra ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/Busra-ExtraLight.ttf", "packagepath": "Busra-ExtraLight.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/Busra-ExtraLight.ttf", "zippath": "Busra-9.000/Busra-ExtraLight.ttf" },
+        "Busra-ExtraLight.woff": { "altfamily": "Busra ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-ExtraLight.woff", "packagepath": "web/Busra-ExtraLight.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-ExtraLight.woff", "zippath": "Busra-9.000/web/Busra-ExtraLight.woff" },
+        "Busra-ExtraLight.woff2": { "altfamily": "Busra ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-ExtraLight.woff2", "packagepath": "web/Busra-ExtraLight.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-ExtraLight.woff2", "zippath": "Busra-9.000/web/Busra-ExtraLight.woff2" },
+        "Busra-Light.ttf": { "altfamily": "Busra Light", "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/Busra-Light.ttf", "packagepath": "Busra-Light.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/Busra-Light.ttf", "zippath": "Busra-9.000/Busra-Light.ttf" },
+        "Busra-Light.woff": { "altfamily": "Busra Light", "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-Light.woff", "packagepath": "web/Busra-Light.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-Light.woff", "zippath": "Busra-9.000/web/Busra-Light.woff" },
+        "Busra-Light.woff2": { "altfamily": "Busra Light", "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-Light.woff2", "packagepath": "web/Busra-Light.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-Light.woff2", "zippath": "Busra-9.000/web/Busra-Light.woff2" },
+        "Busra-Medium.ttf": { "altfamily": "Busra Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/Busra-Medium.ttf", "packagepath": "Busra-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/Busra-Medium.ttf", "zippath": "Busra-9.000/Busra-Medium.ttf" },
+        "Busra-Medium.woff": { "altfamily": "Busra Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-Medium.woff", "packagepath": "web/Busra-Medium.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-Medium.woff", "zippath": "Busra-9.000/web/Busra-Medium.woff" },
+        "Busra-Medium.woff2": { "altfamily": "Busra Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-Medium.woff2", "packagepath": "web/Busra-Medium.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-Medium.woff2", "zippath": "Busra-9.000/web/Busra-Medium.woff2" },
+        "Busra-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/Busra-Regular.ttf", "packagepath": "Busra-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/Busra-Regular.ttf", "zippath": "Busra-9.000/Busra-Regular.ttf" },
+        "Busra-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-Regular.woff", "packagepath": "web/Busra-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-Regular.woff", "zippath": "Busra-9.000/web/Busra-Regular.woff" },
+        "Busra-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-Regular.woff2", "packagepath": "web/Busra-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-Regular.woff2", "zippath": "Busra-9.000/web/Busra-Regular.woff2" },
+        "Busra-SemiBold.ttf": { "altfamily": "Busra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/Busra-SemiBold.ttf", "packagepath": "Busra-SemiBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/Busra-SemiBold.ttf", "zippath": "Busra-9.000/Busra-SemiBold.ttf" },
+        "Busra-SemiBold.woff": { "altfamily": "Busra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-SemiBold.woff", "packagepath": "web/Busra-SemiBold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-SemiBold.woff", "zippath": "Busra-9.000/web/Busra-SemiBold.woff" },
+        "Busra-SemiBold.woff2": { "altfamily": "Busra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/busra/web/Busra-SemiBold.woff2", "packagepath": "web/Busra-SemiBold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/busra/web/Busra-SemiBold.woff2", "zippath": "Busra-9.000/web/Busra-SemiBold.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/busra/Busra-9.000.zip",
+    "siteurl": "https://software.sil.org/busra/",
+    "source": "SIL",
+    "status": "current",
+    "version": "9.000",
+    "ziproot": "Busra-9.000"
+},
 "calibri": {
     "distributable": false,
     "fallback": "charissil",
