@@ -28,6 +28,9 @@ pandoc -s -f markdown-smart --template assets/testtemplate.html gentiumplus/test
 echo "     > Harmattan"
 pandoc -s -f markdown-smart --template assets/testtemplate.html harmattan/test_main.md -o harmattan/test_main.html
 
+echo "     > Japa Sans Oriya"
+pandoc -s -f markdown-smart --template assets/testtemplate.html japasansoriya/test_main.md -o japasansoriya/test_main.html
+
 echo "     > Lateef"
 pandoc -s -f markdown-smart --template assets/testtemplate.html lateef/test_main.md -o lateef/test_main.html
 
