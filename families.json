@@ -330,6 +330,37 @@
     "family": "Andika SEB",
     "familyid": "andikaseb"
 },
+"andikasix": {
+    "defaults": {
+        "ttf": "AndikaSix-Regular.ttf",
+        "woff": "AndikaSix-Regular.woff",
+        "woff2": "AndikaSix-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Andika Six",
+    "familyid": "andikasix",
+    "files": {
+        "AndikaSix-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/AndikaSix-Bold.ttf", "packagepath": "AndikaSix-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/AndikaSix-Bold.ttf", "zippath": "AndikaSix-6.210/AndikaSix-Bold.ttf" },
+        "AndikaSix-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/web/AndikaSix-Bold.woff", "packagepath": "web/AndikaSix-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/web/AndikaSix-Bold.woff", "zippath": "AndikaSix-6.210/web/AndikaSix-Bold.woff" },
+        "AndikaSix-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/web/AndikaSix-Bold.woff2", "packagepath": "web/AndikaSix-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/web/AndikaSix-Bold.woff2", "zippath": "AndikaSix-6.210/web/AndikaSix-Bold.woff2" },
+        "AndikaSix-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/AndikaSix-BoldItalic.ttf", "packagepath": "AndikaSix-BoldItalic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/AndikaSix-BoldItalic.ttf", "zippath": "AndikaSix-6.210/AndikaSix-BoldItalic.ttf" },
+        "AndikaSix-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/web/AndikaSix-BoldItalic.woff", "packagepath": "web/AndikaSix-BoldItalic.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/web/AndikaSix-BoldItalic.woff", "zippath": "AndikaSix-6.210/web/AndikaSix-BoldItalic.woff" },
+        "AndikaSix-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/web/AndikaSix-BoldItalic.woff2", "packagepath": "web/AndikaSix-BoldItalic.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/web/AndikaSix-BoldItalic.woff2", "zippath": "AndikaSix-6.210/web/AndikaSix-BoldItalic.woff2" },
+        "AndikaSix-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/AndikaSix-Italic.ttf", "packagepath": "AndikaSix-Italic.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/AndikaSix-Italic.ttf", "zippath": "AndikaSix-6.210/AndikaSix-Italic.ttf" },
+        "AndikaSix-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/web/AndikaSix-Italic.woff", "packagepath": "web/AndikaSix-Italic.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/web/AndikaSix-Italic.woff", "zippath": "AndikaSix-6.210/web/AndikaSix-Italic.woff" },
+        "AndikaSix-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/web/AndikaSix-Italic.woff2", "packagepath": "web/AndikaSix-Italic.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/web/AndikaSix-Italic.woff2", "zippath": "AndikaSix-6.210/web/AndikaSix-Italic.woff2" },
+        "AndikaSix-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/AndikaSix-Regular.ttf", "packagepath": "AndikaSix-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/AndikaSix-Regular.ttf", "zippath": "AndikaSix-6.210/AndikaSix-Regular.ttf" },
+        "AndikaSix-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/web/AndikaSix-Regular.woff", "packagepath": "web/AndikaSix-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/web/AndikaSix-Regular.woff", "zippath": "AndikaSix-6.210/web/AndikaSix-Regular.woff" },
+        "AndikaSix-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/andikasix/web/AndikaSix-Regular.woff2", "packagepath": "web/AndikaSix-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/andikasix/web/AndikaSix-Regular.woff2", "zippath": "AndikaSix-6.210/web/AndikaSix-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/andika/AndikaSix-6.210.zip",
+    "siteurl": "https://software.sil.org/andika/",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.210",
+    "ziproot": "AndikaSix-6.210"
+},
 "andikatat": {
     "defaults": {
         "ttf": "AndikaTat-Regular.ttf"

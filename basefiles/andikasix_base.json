@@ -1,0 +1,13 @@
+{
+"andikasix": {
+    "distributable": true,
+    "family": "Andika Six",
+    "familyid": "andikasix",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/andika/AndikaSix-6.210.zip",
+    "siteurl": "https://software.sil.org/andika/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "AndikaSix-6.210"
+}
+}
