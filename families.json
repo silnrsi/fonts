@@ -7834,6 +7834,7 @@
     "fallback": "saysettha",
     "family": "Saysettha MX",
     "familyid": "saysetthamx",
+    "license": "OFL",
     "source": "Lao Script",
     "status": "deprecated"
 },
