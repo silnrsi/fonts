@@ -1,10 +1,23 @@
 {
 "notoserifnphmong": {
+    "defaults": {
+        "ttf": "NotoSerifNPHmong-Regular.ttf"
+    },
     "distributable": true,
-    "family": "Noto Serif NP Hmong",
+    "family": "Noto Serif Nyiakeng Puachue Hmong",
     "familyid": "notoserifnphmong",
+    "files": {
+        "NotoSerifNPHmong-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifNPHmong-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifNPHmong/full/ttf/NotoSerifNPHmong-Bold.ttf" },
+        "NotoSerifNPHmong-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifNPHmong-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifNPHmong/full/ttf/NotoSerifNPHmong-Medium.ttf" },
+        "NotoSerifNPHmong-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifNPHmong-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifNPHmong/full/ttf/NotoSerifNPHmong-Regular.ttf" },
+        "NotoSerifNPHmong-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifNPHmong-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifNPHmong/full/ttf/NotoSerifNPHmong-SemiBold.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/nyiakeng-puachue-hmong/releases/download/NotoSerifNPHmong-v1.001/NotoSerifNPHmong-v1.001.zip",
+    "siteurl": "https://github.com/notofonts/nyiakeng-puachue-hmong/releases/tag/NotoSerifNPHmong-v1.001",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "1.001",
+    "ziproot": "NotoSerifNPHmong"
 }
 }
