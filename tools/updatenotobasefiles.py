@@ -130,9 +130,14 @@ def doit(args):
             else:
                 logger.log(f'Invalid base file {f}', "E")
                 logger.log(logs, "E")
+            # Remove family from allfamilies so we can see what is left
+            del allfamilies[family]
+
+    # Show any families not already represented in basefiles
+    if args.family is None:
+        for k in allfamilies.keys():
+            logger.log(f'Family {k} not represented in base files')
 
 def cmd(): execute("", doit, argspec)
 
 if __name__ == "__main__": cmd()
-
-
