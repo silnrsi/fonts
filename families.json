@@ -5882,6 +5882,21 @@
     "version": "2.004",
     "ziproot": "NotoSansSylotiNagri"
 },
+"notosanssymbols2": {
+    "defaults": {
+        "ttf": "NotoSansSymbols2-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Symbols 2",
+    "familyid": "notosanssymbols2",
+    "files": {
+        "NotoSansSymbols2-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSymbols2-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols2/full/ttf/NotoSansSymbols2-Regular.ttf" }
+    },
+    "license": "OFL",
+    "source": "Google",
+    "status": "current",
+    "version": "2.008"
+},
 "notosanssyriac": {
     "defaults": {
         "ttf": "NotoSansSyriac-Regular.ttf"
