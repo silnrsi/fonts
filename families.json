@@ -7521,6 +7521,26 @@
     "version": "1.001",
     "ziproot": "NotoSerifYezidi"
 },
+"nototraditionalnushu": {
+    "defaults": {
+        "ttf": "NotoTraditionalNushu-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Traditional Nushu",
+    "familyid": "nototraditionalnushu",
+    "files": {
+        "NotoTraditionalNushu-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoTraditionalNushu-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoTraditionalNushu/full/ttf/NotoTraditionalNushu-Bold.ttf", "zippath": "NotoTraditionalNushu/full/ttf/NotoTraditionalNushu-Bold.ttf" },
+        "NotoTraditionalNushu-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoTraditionalNushu-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoTraditionalNushu/full/ttf/NotoTraditionalNushu-Light.ttf", "zippath": "NotoTraditionalNushu/full/ttf/NotoTraditionalNushu-Light.ttf" },
+        "NotoTraditionalNushu-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoTraditionalNushu-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoTraditionalNushu/full/ttf/NotoTraditionalNushu-Regular.ttf", "zippath": "NotoTraditionalNushu/full/ttf/NotoTraditionalNushu-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/nushu/releases/download/NotoTraditionalNushu-v2.003/NotoTraditionalNushu-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/nushu/releases/tag/NotoTraditionalNushu-v2.003",
+    "source": "Google",
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoTraditionalNushu"
+},
 "nuosusil": {
     "defaults": {
         "ttf": "NuosuSIL-Regular.ttf",
