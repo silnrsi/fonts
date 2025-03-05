@@ -5690,12 +5690,22 @@
     "ziproot": "NotoSansSiddham"
 },
 "notosanssignwriting": {
+    "defaults": {
+        "ttf": "NotoSansSignWriting-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans SignWriting",
     "familyid": "notosanssignwriting",
+    "files": {
+        "NotoSansSignWriting-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSignWriting-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSignWriting/full/ttf/NotoSansSignWriting-Regular.ttf", "zippath": "NotoSansSignWriting/full/ttf/NotoSansSignWriting-Regular.ttf" }
+    },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/sign-writing/releases/download/NotoSansSignWriting-v2.005/NotoSansSignWriting-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/sign-writing/releases/tag/NotoSansSignWriting-v2.005",
     "source": "Google",
-    "status": "current"
+    "status": "current",
+    "version": "2.005",
+    "ziproot": "NotoSansSignWriting"
 },
 "notosanssinhala": {
     "defaults": {
