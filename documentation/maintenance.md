@@ -2,6 +2,14 @@
 
 These processes require the [pysilfont](https://github.com/silnrsi/pysilfont) library to be installed.
 
+Use the following steps:
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install silfont[git] git+https://github.com/silnrsi/pysilfont.git@master
+pip install brotli
+```
+
 ## Rebuilding the families.json file
 
 Whenever a change is made to the fonts or font metadata the final step is always to rebuild the `families.json` file. Run this command from the repo root before committing your changes:
@@ -121,10 +129,10 @@ Here is an example of the basefile for a non-hosted font:
 
 ## Updating information on non-hosted Google Noto families
 
-_Note that the following process does not add information on any new families that may have been added to the Noto fonts. It only updates the information for families that have existing base files._ 
+_Note that the following process does not add information on any new families that may have been added to the Noto fonts. It only updates the information for families that have existing base files._
 
 - Pull all changes to the GFR repository.
-- Run the `updatenotobasefiles.py` script to grab the latest state.json data and update the `noto*_base.json` files: 
+- Run the `updatenotobasefiles.py` script to grab the latest state.json data and update the `noto*_base.json` files:
 
 ```
 python3 tools/updatenotobasefiles.py
