@@ -14,7 +14,7 @@ This collection is not intended as a primary end-user source of SIL fonts or inf
   - Full documentation, including graphics
   - Contact forms for making requests and reporting problems
 - **If you need help with using SIL fonts** see our [Font Help Guides](https://software.sil.org/fonts/guides/) as well as individual font product sites.
-- **If you want to develop fonts or contribute to SIL font projects** see [Font Development Best Practices](https://silnrsi.github.io/FDBP/en-US/Introduction.html) and [SIL Font Development Notes](https://silnrsi.github.io/silfontdev/en-US/index.html).
+- **If you want to develop fonts or contribute to SIL font projects** see [Font Development Best Practices](https://silnrsi.github.io/FDBP/en-US/Introduction.html) and [SIL Font Development Guide](https://silnrsi.github.io/silfontdev/en-US/index.html).
 - **If you need a keyboard or keyboard software** see [Keyman](https://keyman.com/).
 - **If you are a developer and want an API that will provide information on appropriate fonts for a writing system** see the [Language Font Finder Service](https://github.com/silnrsi/langfontfinder). This collection contains much of the font metadata used by that service but not the corresponding writing system information.
 
@@ -46,9 +46,8 @@ Internal processes:
 
 ## Limitations, licenses, and terms of use
 
-Fonts and related font software included in this collection are licensed according to the terms of the licenses included in individual font folders. In most cases this is the [SIL Open Font License](https://scripts.sil.org/ofl).
+Fonts and related font software included in this collection are licensed according to the terms of the licenses included in individual font folders. In most cases this is the [SIL Open Font License](https://openfontlicense.org).
 
 All other contents, except where noted, are Copyright (c) 2021-2025, [SIL Global](http://www.sil.org) and released under the MIT license - see [LICENSE](https://github.com/silnrsi/fonts/blob/main/LICENSE).
 
 **SIL Global makes no guarantees regarding the ongoing availability of the fonts and data on this site. Individuals and organizations use these fonts and data at their own risk. SIL Global maintains this collection but does not provide any technical support except for use by SIL and partners.**
-
