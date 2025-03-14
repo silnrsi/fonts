@@ -1,8 +1,6 @@
 # Maintenance Processes
 
-These processes require the [pysilfont](https://github.com/silnrsi/pysilfont) library to be installed.
-
-Use the following steps:
+These processes require the [pysilfont](https://github.com/silnrsi/pysilfont) library to be installed. Use the following steps:
 ```
 python3 -m venv venv
 source venv/bin/activate
@@ -10,17 +8,24 @@ pip install silfont[git] git+https://github.com/silnrsi/pysilfont.git@master
 pip install brotli
 ```
 
-## Rebuilding the families.json file
+Here are the various processes:
+[Adding a new hosted font](#adding-a-new-hosted-font-package), [updating a hosted font](#updating-a-hosted-font-package), [removing a hosted font](#removing-a-hosted-font-package), [adding information on a non-hosted font family](#adding-information-on-a-non-hosted-font-family), [updating information on a non-hosted font](#updating-information-on-a-non-hosted-font-family), [updating information on non-hosted Noto fonts](#updating-information-on-non-hosted-google-noto-families), [rebuilding the main families.json](#rebuilding-the-familiesjson-file-mandatory-final-step), [details about the helper scripts: checkmanifest and createdraftfile](#other-tools), [updating the FLO index.html based on README.md](#updating-the-flo-indexhtml-based-on-readmemd)
 
-Whenever a change is made to the fonts or font metadata the final step is always to rebuild the `families.json` file. Run this command from the repo root before committing your changes:
+
+
+## Rebuilding the families.json file (mandatory final step)
+
+Whenever a change is made to the fonts or font metadata the final step is always to rebuild the `families.json` file. Always run this command from the repo root before committing your changes:
 
 ```
 python3 tools/updatefamilydata.py
 ```
 
-**Do not make changes to the `families.json` file directly - those changes will be wiped out when the file is rebuilt. Make all changes to either `familyid_base.json` or `fontmanifest.json` files, then rebuild `families.json`.**
+**WARNING: Do not make changes to the `families.json` file directly - those changes will be wiped out when the file is rebuilt. Make all changes to either `familyid_base.json` or `fontmanifest.json` files, then rebuild `families.json`** as a final step.
 
 ## Adding a new hosted font package
+
+_(hosted fonts are only from SIL and close partners, see below for non-hosted fonts)_
 
 To add a new hosted font to GFR/FLO:
 
@@ -77,7 +82,7 @@ And the accompanying basefile:
 To update a hosted font package:
 
 - Pull all changes to the GFR repository.
-- Copy the complete contents of the updated font release package into the existing *familyid* folder. Be careful to remove any files that are no longer part of the package but retain any handcrafted `fontmanifest.json` file.
+- Copy the complete contents of the updated font release package into the existing *familyid/* folder. Be careful to remove any files that are no longer part of the package but retain any handcrafted `fontmanifest.json` file.
 - Check the `fontmanifest.json` file and update the info if necessary, particularly the *version*.
 - Update the `familyid_base.json` basefile, and carefully check data that may change between versions, such as *packagepath* and *ziproot*.
 - Rebuild the `families.json` file.
@@ -96,9 +101,10 @@ To update a hosted font package:
 - Pull all changes to the GFR repository.
 - Double-check that there is no info on the font family already in `families.json`.
 - Determine the appropriate *familyid*, based on the common font family name, lowercased, and with spaces removed.
-- Download the font package to your local drive as a reference to its contents and to test the download link(s). Do not copy this into the repository.
-- Create a `familyid_base.json` basefile in `/basefiles` containing all appropriate fields. This should include *defaults*, *files*, and *version*, based on what is found in the download package. Although may of the fields in `families.json` are technically optional, please include as many of them as you can. See other basefiles for examples.
-- Rebuild the `families.json` file.
+- Download the font package to your local drive as a reference to its contents and to test the download link(s). Make a new folder under `local/datafiles/`. **IMPORTANT: Do not commit any of these files into the repository, the whole local/ folder should be ignored by git anyway but be careful**.
+- Create a `familyid_base.json` basefile then place it into the `basefiles/` folder containing all appropriate fields. This should include *defaults*, *files*, and *version*, based on what is found in the download package. Although many of the fields in `families.json` are technically optional, please include as many of them as you can. See other basefiles for examples. (You can also use `tools/createdraftfile.py` as a helper, see the [tools section for more details](#other-tools)). _Make sure to review the file manually carefully. Some font projects may leave .ttf files you don't want with suffixes like `input.ttf` or `volt.ttf` inside their release zip and we don't want to offer these intermediary source files._  Unlike for hosted fonts the `defaults`, `files` and `version` fields are necessary.
+Non-hosted fonts don't need a `fontmanifest.json` file.
+- Rebuild the `families.json` file (using `tools/updatefamilydata.py`)
 - Check your changes carefully, then commit and push your changes.
 
 Here is an example of the basefile for a non-hosted font:
@@ -152,15 +158,27 @@ python3 tools/updatenotobasefiles.py
 
 ## Other tools
 
-Some of the scripts in `/tools` were written only for short-term use as the collection was assembled. However, there are some tools that may be useful in creating and maintaining font metadata:
+Some of the scripts in `tools/` were written only for short-term use as the collection was assembled. However, there are some tools that may be useful in creating and maintaining font metadata:
 
 ### checkmanifest.py
 
-Validates a font manifest file. (needs documentation and example)
+Validates a font manifest file. For example:
+
+```
+python3 tools/checkmanifest.py fonts/other/bailey/fontmanifest.json
+```
+This is important so that filepaths match the information given to the system.
+
 
 ### createdraftfile.py
 
-Creates a draft font manifest or basefile based on the content of a folder. (needs documentation and example)
+Creates a draft font manifest `fontmanifest.json` or basefile `familyid_base.json` based on the content of a folder. For example:
+
+```
+mdkir -p local/datafiles/
+python3 tools/createdraftfile.py -t ttf -f my/path/familyid/ familyid
+```
+This creates a draft file `familyid_data.json` file in `local/datafiles/` that you can copy into a `fontmanifest.json` file. Then by removing the *defaults*, *files*, and *version* fields for hosted fonts (leave them in for non-hosted fonts) and filing in the *distributable*, *familyid*, *license*, *packageurl*, *siteurl*, *source*, *status* and *ziproot* fields you can create a `familyid_base.json` file.
 
 ## Updating the FLO index.html based on README.md
 
