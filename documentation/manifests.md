@@ -2,8 +2,8 @@
 
 The data in `families.json` comes from two sources:
 
-- `fontmanifest.json` files in individual font family folders
-- `familyid_base.json` files in `basefiles`
+- `fontmanifest.json` files in individual font family folders in the `fonts/` folder
+- `familyid_base.json` files in the `basefiles/` folder
 
 ## Font manifests
 
@@ -34,7 +34,7 @@ The *files* field is an object whose keys are filenames without any path. For ea
 
 | Field | Description |
 | ----- | ----------- |
-| **axes** | A subobject keyed by font axis and a float value.  See *axes* section below. | 
+| **axes** | A subobject keyed by font axis and a float value.  See *axes* section below. |
 | altfamily | [opt] An alternative family name if different from the *family* field in the main font family description. This is typically used by legacy RIBBI-only applications to provide access to multi-weight font families, particularly on Windows. This is often found in *stylemapfamilyname* properties in designspace instances. |
 | **packagepath** | [opt] The path to the font file inside the main package relative to the root. |
 
@@ -72,7 +72,7 @@ Here is an example of the font manifest for Abyssinica SIL:
 
 Basefiles are used to define all information that ends up in `families.json` that is not included in `fontmanifest.json` files. The format is identical to `families.json` but without data that is present in a `fontmanifest.json` file for that *familyid*.
 
-Every font family (*familyid*) included in `families.json` will have a corresponding `familyid_base.json` file in `/basefiles`.
+Every font family (*familyid*) included in `families.json` will have a corresponding `familyid_base.json` file in the `basefiles/` folder.
 
 Here is an example of the basefile for Abyssinica SIL:
 
