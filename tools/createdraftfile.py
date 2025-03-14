@@ -109,7 +109,7 @@ def doit(args) :
         version = 0.0
         family = ""
 
-    if not re.match("^[0-9]\.[0-9][0-9][0-9]$", version):
+    if not re.match(r"^[0-9]\.[0-9][0-9][0-9]$", version):
         logger.log('Version not of form n.nnn so will need checking/editing', "W")
 
     data = {
