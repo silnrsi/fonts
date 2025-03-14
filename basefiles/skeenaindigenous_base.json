@@ -1,0 +1,45 @@
+{
+"skeenaindigenous": {
+    "defaults": {
+        "ttf": "SkeenaIndigenous-Roman.ttf",
+        "woff2": "SkeenaIndigenous-Regular.woff2"
+    },
+    "distributable": true,
+    "fallback": "",
+    "family": "Skeena Indigenous",
+    "familyid": "skeenaindigenous",
+    "files": {
+        "SkeenaIndigenous-Black.ttf": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-Black.ttf" },
+        "SkeenaIndigenous-Black.woff2": { "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-Black.woff2" },
+        "SkeenaIndigenous-BlackItalic.ttf": { "axes": { "ital": 1, "wght": 900.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-BlackItalic.ttf" },
+        "SkeenaIndigenous-BlackItalic.woff2": { "axes": { "ital": 1, "wght": 900.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-BlackItalic.woff2" },
+        "SkeenaIndigenous-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-Bold.ttf" },
+        "SkeenaIndigenous-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-Bold.woff2" },
+        "SkeenaIndigenous-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-BoldItalic.ttf" },
+        "SkeenaIndigenous-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-BoldItalic.woff2" },
+        "SkeenaIndigenous-ExtraBold.ttf": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-ExtraBold.ttf" },
+        "SkeenaIndigenous-ExtraBold.woff2": { "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-ExtraBold.woff2" },
+        "SkeenaIndigenous-ExtraBoldItalic.ttf": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-ExtraBoldItalic.ttf" },
+        "SkeenaIndigenous-ExtraBoldItalic.woff2": { "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-ExtraBoldItalic.woff2" },
+        "SkeenaIndigenous-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-Italic.woff2" },
+        "SkeenaIndigenous-Medium.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-Medium.ttf" },
+        "SkeenaIndigenous-Medium.woff2": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-Medium.woff2" },
+        "SkeenaIndigenous-MediumItalic.ttf": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-MediumItalic.ttf" },
+        "SkeenaIndigenous-MediumItalic.woff2": { "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-MediumItalic.woff2" },
+        "SkeenaIndigenous-Regular.input.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "source/SkeenaIndigenous-Regular.input.ttf" },
+        "SkeenaIndigenous-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-Regular.ttf" },
+        "SkeenaIndigenous-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-Regular.woff2" },
+        "SkeenaIndigenous-Semibold.ttf": { "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-Semibold.ttf" },
+        "SkeenaIndigenous-Semibold.woff2": { "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-Semibold.woff2" },
+        "SkeenaIndigenous-SemiboldItalic.ttf": { "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "fonts/TTF/SkeenaIndigenous-SemiboldItalic.ttf" },
+        "SkeenaIndigenous-SemiboldItalic.woff2": { "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "fonts/TTFWOFF2/SkeenaIndigenous-SemiboldItalic.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/microsoft/Skeena-Indigenous-Typeface/archive/refs/tags/v0.901-beta-patch.zip",
+    "siteurl": "https://github.com/microsoft/Skeena-Indigenous-Typeface/",
+    "source": "Microsoft", 
+    "status": "current",
+    "version": "0.901-beta-patch",
+    "ziproot": "Skeena-Indigenous-Typeface-0.901-beta-patch.zip"
+}
+}
