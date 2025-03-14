@@ -167,5 +167,5 @@ Creates a draft font manifest or basefile based on the content of a folder. (nee
 The single HTML page on FLO is derived from the README.md file. To regenerate the file run the following command (requires pandoc):
 
 ```
-pandoc -s -f markdown-smart --template documentation/assets/html/template.html README.md -o index.html --metadata title="SIL International"
+pandoc -s -f markdown-smart --template documentation/assets/html/template.html README.md -o index.html --metadata title="SIL Global"
 ```
