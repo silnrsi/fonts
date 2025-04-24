@@ -14,6 +14,6 @@
         "JapaSansOriya-Regular.woff": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/JapaSansOriya-Regular.woff" },
         "JapaSansOriya-Regular.woff2": { "axes": { "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/JapaSansOriya-Regular.woff2" }
     },
-    "version": "2.200"
+    "version": "2.300"
 }
 }

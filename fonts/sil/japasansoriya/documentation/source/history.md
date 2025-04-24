@@ -1,7 +1,16 @@
 ---
 title: Japa Sans Oriya - Version History
-fontversion: 2.200
+fontversion: 2.300
 ---
+
+### 24 Apr 2025 (SIL WSTech team) Japa Sans Oriya version 2.300
+
+- Add nadana conjunct
+- Position dot over eMatra on conjuncts as well as consonants
+- Improve combining mark ligatures
+- Removed
+  - U+0242 LATIN SMALL LETTER GLOTTAL STOP
+  - U+A78C LATIN SMALL LETTER SALTILLO
 
 ### 3 June 2024 (SIL WSTech team) Japa Sans Oriya version 2.200
 

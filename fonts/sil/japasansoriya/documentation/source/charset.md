@@ -1,6 +1,6 @@
 ---
 title: Japa Sans Oriya - Character Set Support
-fontversion: 2.200
+fontversion: 2.300
 ---
 
 This font supports almost 400 characters from [The Unicode Standard](https://unicode.org/). The font supports Oriya conjuncts as well as character variants and stylistic sets providing alternates for a number of characters. These variants are documented in [Font features](features.md).
@@ -14,7 +14,7 @@ Unicode block | Japa Sans Oriya support
 C0 Controls and Basic Latin|U+0020..U+007E
 C1 Controls and Latin-1 Supplement|U+00A0..U+00FF
 Latin Extended-A|U+0131, U+0152..U+0153, U+0160..U+0161, U+0178, U+017D..U+017E
-Latin Extended-B|U+0192, U+0242
+Latin Extended-B|U+0192
 IPA Extensions|U+0294
 Spacing Modifier Letters|U+02BC, U+02C0, U+02C6, U+02C7, U+02C9, U+02D0, U+02D8..U+02DD
 Combining Diacritical Marks|U+0307..U+0308, U+034F
@@ -29,6 +29,5 @@ Mathematical Operators|U+2212, U+2215
 Geometric Shapes|U+25CC
 Supplemental Punctuation|U+2E22..U+2E25
 Alphabetic Presentation Forms|U+FB01..U+FB02
-Latin Extended-D|U+A78C
 Variation Selectors|U+FE00..U+FE0F
 
