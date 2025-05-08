@@ -7993,6 +7993,15 @@
     "version": "4.300",
     "ziproot": ""
 },
+"seisunuwar": {
+    "distributable": true,
+    "family": "SEI Sunuwar",
+    "familyid": "seisunuwar",
+    "license": "OFL",
+    "siteurl": "https://github.com/ScriptEncodingInitiative/sunuwar/tree/main/sei",
+    "source": "SEI",
+    "status": "current"
+},
 "shimenkan": {
     "defaults": {
         "ttf": "Shimenkan-Regular.ttf"
