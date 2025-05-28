@@ -16,6 +16,9 @@ jq 'map({family: .family, status: .status | select( . != "current" ), source: .s
 Find all fonts for which licensing is not clearly provided:
 jq 'map({family: .family, source: .source, license: .license | select( . == null )})' families.json 
 
+Find all fonts for which the version number is not provided:
+jq 'map({family: .family, version: .version | select( . == null  ), status: .status | select( . != "deprecated"), source: .source})' families.json
+
 Find out about the fallback status of all fonts (including null):
 jq 'map({family: .family, status: .status, fallback: .fallback})' families.json
 
