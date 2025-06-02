@@ -16,10 +16,22 @@
         "Andika-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "Andika-Italic.ttf" },
         "Andika-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/Andika-Italic.woff" },
         "Andika-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/Andika-Italic.woff2" },
+        "Andika-Medium.ttf": { "altfamily": "Andika Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Andika-Medium.ttf" },
+        "Andika-Medium.woff": { "altfamily": "Andika Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Andika-Medium.woff" },
+        "Andika-Medium.woff2": { "altfamily": "Andika Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Andika-Medium.woff2" },
+        "Andika-MediumItalic.ttf": { "altfamily": "Andika Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "Andika-MediumItalic.ttf" },
+        "Andika-MediumItalic.woff": { "altfamily": "Andika Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/Andika-MediumItalic.woff" },
+        "Andika-MediumItalic.woff2": { "altfamily": "Andika Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/Andika-MediumItalic.woff2" },
         "Andika-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Andika-Regular.ttf" },
         "Andika-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Andika-Regular.woff" },
-        "Andika-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Andika-Regular.woff2" }
+        "Andika-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Andika-Regular.woff2" },
+        "Andika-SemiBold.ttf": { "altfamily": "Andika SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Andika-SemiBold.ttf" },
+        "Andika-SemiBold.woff": { "altfamily": "Andika SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Andika-SemiBold.woff" },
+        "Andika-SemiBold.woff2": { "altfamily": "Andika SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Andika-SemiBold.woff2" },
+        "Andika-SemiBoldItalic.ttf": { "altfamily": "Andika SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "Andika-SemiBoldItalic.ttf" },
+        "Andika-SemiBoldItalic.woff": { "altfamily": "Andika SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/Andika-SemiBoldItalic.woff" },
+        "Andika-SemiBoldItalic.woff2": { "altfamily": "Andika SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/Andika-SemiBoldItalic.woff2" }
     },
-    "version": "6.200"
+    "version": "7.000"
 }
 }

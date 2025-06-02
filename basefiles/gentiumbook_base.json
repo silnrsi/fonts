@@ -1,0 +1,13 @@
+{
+"gentiumbook": {
+    "distributable": true,
+    "family": "Gentium Book",
+    "familyid": "gentiumbook",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/gentium/GentiumBook-7.000.zip",
+    "siteurl": "https://software.sil.org/gentium/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "GentiumBook-7.000"
+}
+}

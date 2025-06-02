@@ -1,0 +1,37 @@
+{
+"charis": {
+    "defaults": {
+        "ttf": "Charis-Regular.ttf",
+        "woff": "Charis-Regular.woff",
+        "woff2": "Charis-Regular.woff2"
+    },
+    "family": "Charis",
+    "files": {
+        "Charis-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Charis-Bold.ttf" },
+        "Charis-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Charis-Bold.woff" },
+        "Charis-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Charis-Bold.woff2" },
+        "Charis-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "Charis-BoldItalic.ttf" },
+        "Charis-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/Charis-BoldItalic.woff" },
+        "Charis-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/Charis-BoldItalic.woff2" },
+        "Charis-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "Charis-Italic.ttf" },
+        "Charis-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/Charis-Italic.woff" },
+        "Charis-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/Charis-Italic.woff2" },
+        "Charis-Medium.ttf": { "altfamily": "Charis Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Charis-Medium.ttf" },
+        "Charis-Medium.woff": { "altfamily": "Charis Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Charis-Medium.woff" },
+        "Charis-Medium.woff2": { "altfamily": "Charis Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Charis-Medium.woff2" },
+        "Charis-MediumItalic.ttf": { "altfamily": "Charis Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "Charis-MediumItalic.ttf" },
+        "Charis-MediumItalic.woff": { "altfamily": "Charis Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/Charis-MediumItalic.woff" },
+        "Charis-MediumItalic.woff2": { "altfamily": "Charis Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/Charis-MediumItalic.woff2" },
+        "Charis-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Charis-Regular.ttf" },
+        "Charis-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Charis-Regular.woff" },
+        "Charis-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Charis-Regular.woff2" },
+        "Charis-SemiBold.ttf": { "altfamily": "Charis SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Charis-SemiBold.ttf" },
+        "Charis-SemiBold.woff": { "altfamily": "Charis SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Charis-SemiBold.woff" },
+        "Charis-SemiBold.woff2": { "altfamily": "Charis SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Charis-SemiBold.woff2" },
+        "Charis-SemiBoldItalic.ttf": { "altfamily": "Charis SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "Charis-SemiBoldItalic.ttf" },
+        "Charis-SemiBoldItalic.woff": { "altfamily": "Charis SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/Charis-SemiBoldItalic.woff" },
+        "Charis-SemiBoldItalic.woff2": { "altfamily": "Charis SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/Charis-SemiBoldItalic.woff2" }
+    },
+    "version": "7.000"
+}
+}

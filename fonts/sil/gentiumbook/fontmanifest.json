@@ -1,0 +1,37 @@
+{
+"gentiumbook": {
+    "defaults": {
+        "ttf": "GentiumBook-Regular.ttf",
+        "woff": "GentiumBook-Regular.woff",
+        "woff2": "GentiumBook-Regular.woff2"
+    },
+    "family": "Gentium Book",
+    "files": {
+        "GentiumBook-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "GentiumBook-Bold.ttf" },
+        "GentiumBook-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/GentiumBook-Bold.woff" },
+        "GentiumBook-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/GentiumBook-Bold.woff2" },
+        "GentiumBook-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "GentiumBook-BoldItalic.ttf" },
+        "GentiumBook-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/GentiumBook-BoldItalic.woff" },
+        "GentiumBook-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/GentiumBook-BoldItalic.woff2" },
+        "GentiumBook-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "GentiumBook-Italic.ttf" },
+        "GentiumBook-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/GentiumBook-Italic.woff" },
+        "GentiumBook-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/GentiumBook-Italic.woff2" },
+        "GentiumBook-Medium.ttf": { "altfamily": "Gentium Book Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "GentiumBook-Medium.ttf" },
+        "GentiumBook-Medium.woff": { "altfamily": "Gentium Book Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/GentiumBook-Medium.woff" },
+        "GentiumBook-Medium.woff2": { "altfamily": "Gentium Book Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/GentiumBook-Medium.woff2" },
+        "GentiumBook-MediumItalic.ttf": { "altfamily": "Gentium Book Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "GentiumBook-MediumItalic.ttf" },
+        "GentiumBook-MediumItalic.woff": { "altfamily": "Gentium Book Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/GentiumBook-MediumItalic.woff" },
+        "GentiumBook-MediumItalic.woff2": { "altfamily": "Gentium Book Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/GentiumBook-MediumItalic.woff2" },
+        "GentiumBook-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumBook-Regular.ttf" },
+        "GentiumBook-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/GentiumBook-Regular.woff" },
+        "GentiumBook-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/GentiumBook-Regular.woff2" },
+        "GentiumBook-SemiBold.ttf": { "altfamily": "Gentium Book SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "GentiumBook-SemiBold.ttf" },
+        "GentiumBook-SemiBold.woff": { "altfamily": "Gentium Book SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/GentiumBook-SemiBold.woff" },
+        "GentiumBook-SemiBold.woff2": { "altfamily": "Gentium Book SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/GentiumBook-SemiBold.woff2" },
+        "GentiumBook-SemiBoldItalic.ttf": { "altfamily": "Gentium Book SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "GentiumBook-SemiBoldItalic.ttf" },
+        "GentiumBook-SemiBoldItalic.woff": { "altfamily": "Gentium Book SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/GentiumBook-SemiBoldItalic.woff" },
+        "GentiumBook-SemiBoldItalic.woff2": { "altfamily": "Gentium Book SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/GentiumBook-SemiBoldItalic.woff2" }
+    },
+    "version": "7.000"
+}
+}

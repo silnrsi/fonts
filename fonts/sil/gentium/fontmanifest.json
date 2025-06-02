@@ -1,0 +1,43 @@
+{
+"gentium": {
+    "defaults": {
+        "ttf": "Gentium-Regular.ttf",
+        "woff": "Gentium-Regular.woff",
+        "woff2": "Gentium-Regular.woff2"
+    },
+    "family": "Gentium",
+    "files": {
+        "Gentium-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Gentium-Bold.ttf" },
+        "Gentium-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Gentium-Bold.woff" },
+        "Gentium-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Gentium-Bold.woff2" },
+        "Gentium-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "Gentium-BoldItalic.ttf" },
+        "Gentium-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/Gentium-BoldItalic.woff" },
+        "Gentium-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/Gentium-BoldItalic.woff2" },
+        "Gentium-ExtraBold.ttf": { "altfamily": "Gentium ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "Gentium-ExtraBold.ttf" },
+        "Gentium-ExtraBold.woff": { "altfamily": "Gentium ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Gentium-ExtraBold.woff" },
+        "Gentium-ExtraBold.woff2": { "altfamily": "Gentium ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Gentium-ExtraBold.woff2" },
+        "Gentium-ExtraBoldItalic.ttf": { "altfamily": "Gentium ExtraBold", "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "Gentium-ExtraBoldItalic.ttf" },
+        "Gentium-ExtraBoldItalic.woff": { "altfamily": "Gentium ExtraBold", "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "web/Gentium-ExtraBoldItalic.woff" },
+        "Gentium-ExtraBoldItalic.woff2": { "altfamily": "Gentium ExtraBold", "axes": { "ital": 1, "wght": 800.0 }, "packagepath": "web/Gentium-ExtraBoldItalic.woff2" },
+        "Gentium-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "Gentium-Italic.ttf" },
+        "Gentium-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/Gentium-Italic.woff" },
+        "Gentium-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/Gentium-Italic.woff2" },
+        "Gentium-Medium.ttf": { "altfamily": "Gentium Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Gentium-Medium.ttf" },
+        "Gentium-Medium.woff": { "altfamily": "Gentium Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Gentium-Medium.woff" },
+        "Gentium-Medium.woff2": { "altfamily": "Gentium Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Gentium-Medium.woff2" },
+        "Gentium-MediumItalic.ttf": { "altfamily": "Gentium Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "Gentium-MediumItalic.ttf" },
+        "Gentium-MediumItalic.woff": { "altfamily": "Gentium Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/Gentium-MediumItalic.woff" },
+        "Gentium-MediumItalic.woff2": { "altfamily": "Gentium Medium", "axes": { "ital": 1, "wght": 500.0 }, "packagepath": "web/Gentium-MediumItalic.woff2" },
+        "Gentium-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Gentium-Regular.ttf" },
+        "Gentium-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Gentium-Regular.woff" },
+        "Gentium-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Gentium-Regular.woff2" },
+        "Gentium-SemiBold.ttf": { "altfamily": "Gentium SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Gentium-SemiBold.ttf" },
+        "Gentium-SemiBold.woff": { "altfamily": "Gentium SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Gentium-SemiBold.woff" },
+        "Gentium-SemiBold.woff2": { "altfamily": "Gentium SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Gentium-SemiBold.woff2" },
+        "Gentium-SemiBoldItalic.ttf": { "altfamily": "Gentium SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "Gentium-SemiBoldItalic.ttf" },
+        "Gentium-SemiBoldItalic.woff": { "altfamily": "Gentium SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/Gentium-SemiBoldItalic.woff" },
+        "Gentium-SemiBoldItalic.woff2": { "altfamily": "Gentium SemiBold", "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "web/Gentium-SemiBoldItalic.woff2" }
+    },
+    "version": "7.000"
+}
+}

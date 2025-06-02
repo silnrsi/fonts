@@ -1,0 +1,69 @@
+/*
+This file is from the Gentium project (https://software.sil.org/gentium/).
+Copyright (c) 2003-2025 SIL Global (https://www.sil.org/) with Reserved
+Font Names "Gentium" and "SIL". This Font Software is licensed under the SIL
+Open Font License, Version 1.1 (https://openfontlicense.org).
+*/
+
+/* use Gentium Book - Regular in .woff2 format */
+@font-face {
+  font-family: GentiumBookW;
+  font-weight: 400;
+  src: url(GentiumBook-Regular.woff2);
+}
+/* use Gentium Book - Medium in .woff2 format */
+@font-face {
+  font-family: GentiumBookW;
+  font-weight: 500;
+  src: url(GentiumBook-Medium.woff2);
+}
+/* use Gentium Book - SemiBold in .woff2 format */
+@font-face {
+  font-family: GentiumBookW;
+  font-weight: 600;
+  src: url(GentiumBook-SemiBold.woff2);
+}
+/* use Gentium Book - Bold in .woff2 format */
+@font-face {
+	font-family: GentiumBookW;
+  font-weight: 700;
+	src: url(GentiumBook-Bold.woff2);
+}
+/* use Gentium Book - Italic in .woff2 format */
+@font-face {
+  font-family: GentiumBookW;
+  font-weight: 400;
+  font-style: italic;
+  src: url(GentiumBook-Italic.woff2);
+}
+/* use Gentium Book - MediumItalic in .woff2 format */
+@font-face {
+  font-family: GentiumBookW;
+  font-weight: 500;
+  font-style: italic;
+  src: url(GentiumBook-MediumItalic.woff2);
+}
+/* use Gentium Book - SemiBoldItalic in .woff2 format */
+@font-face {
+  font-family: GentiumBookW;
+  font-weight: 600;
+  font-style: italic;
+  src: url(GentiumBook-SemiBoldItalic.woff2);
+}
+/* use Gentium Book - BoldItalic in .woff2 format */
+@font-face {
+	font-family: GentiumBookW;
+  font-weight: 700;
+  font-style: italic;
+	src: url(GentiumBook-BoldItalic.woff2);
+}
+
+/* set body to use GentiumBook */
+body {
+  font-family: GentiumBookW, sans-serif;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+/* remove bold styling from heading */
+h1 {
+  font-weight: normal;	
+}

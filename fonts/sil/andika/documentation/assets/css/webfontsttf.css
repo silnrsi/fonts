@@ -1,17 +1,47 @@
 /*
 This file is from the Andika project (https://software.sil.org/andika/).
-Copyright (c) 2004-2023 SIL International (http://www.sil.org/) with Reserved
+Copyright (c) 2004-2025 SIL Global (https://www.sil.org/) with Reserved
 Font Names "Andika" and "SIL". This Font Software is licensed under the SIL
-Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
+Open Font License, Version 1.1 (https://openfontlicense.org).
 */
 @font-face {
     font-family: Andika-R;
     src: url("../../../results/Andika-Regular.ttf") format("truetype");
 }
 @font-face {
+    font-family: Andika-M;
+    src: url("../../../results/Andika-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: Andika-SB;
+    src: url("../../../results/Andika-SemiBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Andika-B;
+    src: url("../../../results/Andika-Bold.ttf") format("truetype");
+}
+@font-face {
     font-family: Andika-I;
     src: url("../../../results/Andika-Italic.ttf") format("truetype");
 }
+@font-face {
+    font-family: Andika-MI;
+    src: url("../../../results/Andika-MediumItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Andika-SBI;
+    src: url("../../../results/Andika-SemiBoldItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Andika-BI;
+    src: url("../../../results/Andika-BoldItalic.ttf") format("truetype");
+}
 
 .andika-R { font-family: Andika-R; }
+.andika-M { font-family: Andika-M; }
+.andika-SB { font-family: Andika-SB; }
+.andika-B { font-family: Andika-B; }
 .andika-I { font-family: Andika-I; }
+.andika-MI { font-family: Andika-MI; }
+.andika-SBI { font-family: Andika-SBI; }
+.andika-BI { font-family: Andika-BI; }
