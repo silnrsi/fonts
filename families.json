@@ -2164,6 +2164,22 @@
     "version": "2.300",
     "ziproot": "JapaSansOriya-2.300"
 },
+"jomolhari": {
+    "defaults": {
+        "ttf": "Jomolhari-Regular.ttf"
+    },
+    "distributable": true,
+    "fallback": "notoseriftibetan",
+    "family": "Jomolhari",
+    "familyid": "jomolhari",
+    "files": {
+        "Jomolhari-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Jomolhari-Regular.ttf" }
+    },
+    "license": "OFL",
+    "siteurl": "https://fonts.google.com/specimen/Jomolhari",
+    "source": "Google",
+    "version": "1.000"
+},
 "kalinga": {
     "distributable": false,
     "fallback": "japasansoriya",
