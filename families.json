@@ -195,7 +195,7 @@
         "AndikaAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-Regular.ttf", "zippath": "AndikaAmArea-6.200/AndikaAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=AmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&version=6.200&pkg=AmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -241,7 +241,7 @@
         "AndikaCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-Regular.ttf", "zippath": "AndikaCompact-6.200/AndikaCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&version=6.200&pkg=Compact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -299,7 +299,7 @@
         "AndikaMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaMali-6.200/AndikaMali-Regular.ttf", "zippath": "AndikaMali-6.200/AndikaMali-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=Mali",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&version=6.200&pkg=Mali",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -388,7 +388,7 @@
         "AndikaTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-Regular.ttf", "zippath": "AndikaTat-6.200/AndikaTat-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=Tat",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&version=6.200&pkg=Tat",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1216,7 +1216,7 @@
         "DoulosSILAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILAmArea-6.200/DoulosSILAmArea-Regular.ttf", "zippath": "DoulosSILAmArea-6.200/DoulosSILAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=AmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&version=6.200&pkg=AmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1267,7 +1267,7 @@
         "DoulosSILCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILCompact-6.200/DoulosSILCompact-Regular.ttf", "zippath": "DoulosSILCompact-6.200/DoulosSILCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&version=6.200&pkg=Compact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1322,7 +1322,7 @@
         "DoulosSILLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracy-6.200/DoulosSILLiteracy-Regular.ttf", "zippath": "DoulosSILLiteracy-6.200/DoulosSILLiteracy-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Literacy",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&version=6.200&pkg=Literacy",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1341,7 +1341,7 @@
         "DoulosSILLiteracyAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracyAmArea-6.200/DoulosSILLiteracyAmArea-Regular.ttf", "zippath": "DoulosSILLiteracyAmArea-6.200/DoulosSILLiteracyAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyAmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&version=6.200&pkg=LiteracyAmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1360,7 +1360,7 @@
         "DoulosSILLiteracyCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracyCompact-6.200/DoulosSILLiteracyCompact-Regular.ttf", "zippath": "DoulosSILLiteracyCompact-6.200/DoulosSILLiteracyCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyCompact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&version=6.200&pkg=LiteracyCompact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1379,7 +1379,7 @@
         "DoulosSILMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILMali-6.200/DoulosSILMali-Regular.ttf", "zippath": "DoulosSILMali-6.200/DoulosSILMali-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Mali",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&version=6.200&pkg=Mali",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1410,7 +1410,7 @@
         "DoulosSILTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILTat-6.200/DoulosSILTat-Regular.ttf", "zippath": "DoulosSILTat-6.200/DoulosSILTat-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Tat",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&version=6.200&pkg=Tat",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",

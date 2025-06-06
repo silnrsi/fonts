@@ -11,7 +11,7 @@
         "DoulosSILMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILMali-6.200/DoulosSILMali-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Mali",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&version=6.200&pkg=Mali",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",

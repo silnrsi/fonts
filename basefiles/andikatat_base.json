@@ -14,7 +14,7 @@
         "AndikaTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=Tat",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&version=6.200&pkg=Tat",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
