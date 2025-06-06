@@ -14,7 +14,7 @@
         "AndikaCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=Compact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",

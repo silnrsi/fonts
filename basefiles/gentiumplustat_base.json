@@ -18,7 +18,7 @@
         "GentiumPlusTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Tat",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Tat",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",

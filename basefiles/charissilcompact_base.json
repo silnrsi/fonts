@@ -14,7 +14,7 @@
         "CharisSILCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILCompact-6.200/CharisSILCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Compact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",

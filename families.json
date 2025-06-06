@@ -195,7 +195,7 @@
         "AndikaAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-Regular.ttf", "zippath": "AndikaAmArea-6.200/AndikaAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=AmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=AmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -241,7 +241,7 @@
         "AndikaCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaCompact-6.200/AndikaCompact-Regular.ttf", "zippath": "AndikaCompact-6.200/AndikaCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=Compact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -299,7 +299,7 @@
         "AndikaMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaMali-6.200/AndikaMali-Regular.ttf", "zippath": "AndikaMali-6.200/AndikaMali-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=Mali",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=Mali",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -388,7 +388,7 @@
         "AndikaTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaTat-6.200/AndikaTat-Regular.ttf", "zippath": "AndikaTat-6.200/AndikaTat-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=Tat",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=Tat",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -785,7 +785,7 @@
         "CharisSILAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILAmArea-6.200/CharisSILAmArea-Regular.ttf", "zippath": "CharisSILAmArea-6.200/CharisSILAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=AmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=AmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -819,7 +819,7 @@
         "CharisSILCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILCompact-6.200/CharisSILCompact-Regular.ttf", "zippath": "CharisSILCompact-6.200/CharisSILCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Compact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -895,7 +895,7 @@
         "CharisSILLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILLiteracy-6.200/CharisSILLiteracy-Regular.ttf", "zippath": "CharisSILLiteracy-6.200/CharisSILLiteracy-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Literacy",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Literacy",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -917,7 +917,7 @@
         "CharisSILLiteracyAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILLiteracyAmArea-6.200/CharisSILLiteracyAmArea-Regular.ttf", "zippath": "CharisSILLiteracyAmArea-6.200/CharisSILLiteracyAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=LiteracyAmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=LiteracyAmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -939,7 +939,7 @@
         "CharisSILLiteracyCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILLiteracyCompact-6.200/CharisSILLiteracyCompact-Regular.ttf", "zippath": "CharisSILLiteracyCompact-6.200/CharisSILLiteracyCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=LiteracyCompact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=LiteracyCompact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -961,7 +961,7 @@
         "CharisSILMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILMali-6.200/CharisSILMali-Regular.ttf", "zippath": "CharisSILMali-6.200/CharisSILMali-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Mali",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Mali",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -995,7 +995,7 @@
         "CharisSILTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILTat-6.200/CharisSILTat-Regular.ttf", "zippath": "CharisSILTat-6.200/CharisSILTat-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Tat",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Tat",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1216,7 +1216,7 @@
         "DoulosSILAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILAmArea-6.200/DoulosSILAmArea-Regular.ttf", "zippath": "DoulosSILAmArea-6.200/DoulosSILAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=AmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=AmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1267,7 +1267,7 @@
         "DoulosSILCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILCompact-6.200/DoulosSILCompact-Regular.ttf", "zippath": "DoulosSILCompact-6.200/DoulosSILCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Compact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1322,7 +1322,7 @@
         "DoulosSILLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracy-6.200/DoulosSILLiteracy-Regular.ttf", "zippath": "DoulosSILLiteracy-6.200/DoulosSILLiteracy-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Literacy",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Literacy",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1341,7 +1341,7 @@
         "DoulosSILLiteracyAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracyAmArea-6.200/DoulosSILLiteracyAmArea-Regular.ttf", "zippath": "DoulosSILLiteracyAmArea-6.200/DoulosSILLiteracyAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyAmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyAmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1360,7 +1360,7 @@
         "DoulosSILLiteracyCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracyCompact-6.200/DoulosSILLiteracyCompact-Regular.ttf", "zippath": "DoulosSILLiteracyCompact-6.200/DoulosSILLiteracyCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyCompact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyCompact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1379,7 +1379,7 @@
         "DoulosSILMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILMali-6.200/DoulosSILMali-Regular.ttf", "zippath": "DoulosSILMali-6.200/DoulosSILMali-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Mali",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Mali",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1410,7 +1410,7 @@
         "DoulosSILTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILTat-6.200/DoulosSILTat-Regular.ttf", "zippath": "DoulosSILTat-6.200/DoulosSILTat-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Tat",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=Tat",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1719,7 +1719,7 @@
         "GentiumPlusAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-Regular.ttf", "zippath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=AmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=AmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1745,7 +1745,7 @@
         "GentiumPlusCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Regular.ttf", "zippath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Compact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1771,7 +1771,7 @@
         "GentiumPlusLitAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Regular.ttf", "zippath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitAmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitAmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1797,7 +1797,7 @@
         "GentiumPlusLitComp-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-Regular.ttf", "zippath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitComp",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitComp",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1823,7 +1823,7 @@
         "GentiumPlusLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Regular.ttf", "zippath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Literacy",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Literacy",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1871,7 +1871,7 @@
         "GentiumPlusMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumPlusMali-Regular.ttf", "zippath": "GentiumPlusMali-6.200/GentiumPlusMali-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Mali",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Mali",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1897,7 +1897,7 @@
         "GentiumPlusTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Regular.ttf", "zippath": "GentiumPlusTat-6.200/GentiumPlusTat-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Tat",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Tat",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -1978,7 +1978,7 @@
         "GentiumPlusAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-Regular.ttf", "zippath": "GentiumPlusAmArea-6.200/GentiumPlusAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=AmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=AmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -2016,7 +2016,7 @@
         "GentiumPlusCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Regular.ttf", "zippath": "GentiumPlusCompact-6.200/GentiumPlusCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Compact",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -2078,7 +2078,7 @@
         "GentiumPlusLitAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Regular.ttf", "zippath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitAmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitAmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -2104,7 +2104,7 @@
         "GentiumPlusLitComp-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-Regular.ttf", "zippath": "GentiumPlusLitComp-6.200/GentiumPlusLitComp-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitComp",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitComp",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -2130,7 +2130,7 @@
         "GentiumPlusLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Regular.ttf", "zippath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Literacy",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Literacy",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -2178,7 +2178,7 @@
         "GentiumPlusMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusMali-6.200/GentiumPlusMali-Regular.ttf", "zippath": "GentiumPlusMali-6.200/GentiumPlusMali-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Mali",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Mali",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -2216,7 +2216,7 @@
         "GentiumPlusTat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusTat-6.200/GentiumPlusTat-Regular.ttf", "zippath": "GentiumPlusTat-6.200/GentiumPlusTat-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Tat",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Tat",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
@@ -8115,7 +8115,7 @@
         "ScheherazadeNewCompact-SemiBold.ttf": { "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "ScheherazadeNewCompact-4.300/ScheherazadeNewCompact-SemiBold.ttf", "zippath": "ScheherazadeNewCompact-4.300/ScheherazadeNewCompact-SemiBold.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Compact",
     "siteurl": "https://software.sil.org/scheherazade/",
     "source": "SIL",
     "status": "archived",
@@ -8137,7 +8137,7 @@
         "ScheherazadeNewRohingya-SemiBold.ttf": { "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "ScheherazadeNewRohingya-4.300/ScheherazadeNewRohingya-SemiBold.ttf", "zippath": "ScheherazadeNewRohingya-4.300/ScheherazadeNewRohingya-SemiBold.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Rohingya",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Rohingya",
     "siteurl": "https://software.sil.org/scheherazade/",
     "source": "SIL",
     "status": "archived",

@@ -18,7 +18,7 @@
         "GentiumPlusLiteracy-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLiteracy-6.200/GentiumPlusLiteracy-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Literacy",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=Literacy",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",

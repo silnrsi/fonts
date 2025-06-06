@@ -14,7 +14,7 @@
         "CharisSILMali-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "CharisSILMali-6.200/CharisSILMali-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Mali",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=CharisSIL&pkg=Mali",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",

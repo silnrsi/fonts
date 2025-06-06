@@ -18,7 +18,7 @@
         "GentiumPlusLitAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "GentiumPlusLitAmArea-6.200/GentiumPlusLitAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitAmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=GentiumPlus&pkg=LitAmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",

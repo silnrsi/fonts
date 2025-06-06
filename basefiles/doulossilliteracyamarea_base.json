@@ -11,7 +11,7 @@
         "DoulosSILLiteracyAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "DoulosSILLiteracyAmArea-6.200/DoulosSILLiteracyAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyAmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=DoulosSIL&pkg=LiteracyAmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",

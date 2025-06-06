@@ -14,7 +14,7 @@
         "ScheherazadeNewCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewCompact-4.300/ScheherazadeNewCompact-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Compact",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Compact",
     "siteurl": "https://software.sil.org/scheherazade/",
     "source": "SIL",
     "status": "archived",

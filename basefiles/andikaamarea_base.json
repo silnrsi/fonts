@@ -14,7 +14,7 @@
         "AndikaAmArea-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AndikaAmArea-6.200/AndikaAmArea-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://scripts.sil.org/ttw/fonts2go.cgi?family=Andika&pkg=AmArea",
+    "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=Andika&pkg=AmArea",
     "siteurl": "https://software.sil.org/lcgfonts/download/",
     "source": "SIL",
     "status": "archived",
