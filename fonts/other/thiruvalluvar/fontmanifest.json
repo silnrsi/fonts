@@ -2,32 +2,19 @@
 "thiruvalluvar": {
     "defaults": {
         "ttf": "ThiruValluvar-Regular.ttf",
-        "woff": "ThiruValluvar-Regular.woff",
         "woff2": "ThiruValluvar-Regular.woff2"
     },
     "family": "ThiruValluvar",
     "files": {
         "ThiruValluvar-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ThiruValluvar-Bold.ttf" },
-        "ThiruValluvar-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "woff/ThiruValluvar-Bold.woff" },
-        "ThiruValluvar-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "woff/ThiruValluvar-Bold.woff2" },
+        "ThiruValluvar-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/ThiruValluvar-Bold.woff2" },
         "ThiruValluvar-BoldItalic.ttf": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "ThiruValluvar-BoldItalic.ttf" },
-        "ThiruValluvar-BoldItalic.woff": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "woff/ThiruValluvar-BoldItalic.woff" },
-        "ThiruValluvar-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "woff/ThiruValluvar-BoldItalic.woff2" },
+        "ThiruValluvar-BoldItalic.woff2": { "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "web/ThiruValluvar-BoldItalic.woff2" },
         "ThiruValluvar-Italic.ttf": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "ThiruValluvar-Italic.ttf" },
-        "ThiruValluvar-Italic.woff": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "woff/ThiruValluvar-Italic.woff" },
-        "ThiruValluvar-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "woff/ThiruValluvar-Italic.woff2" },
+        "ThiruValluvar-Italic.woff2": { "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "web/ThiruValluvar-Italic.woff2" },
         "ThiruValluvar-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ThiruValluvar-Regular.ttf" },
-        "ThiruValluvar-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "woff/ThiruValluvar-Regular.woff" },
-        "ThiruValluvar-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "woff/ThiruValluvar-Regular.woff2" },
-        "ThiruValluvarCTT-Bold.ttf": { "altfamily": "ThiruValluvarCTT", "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ThiruValluvarCTT-Bold.ttf" },
-        "ThiruValluvarCTT-BoldItalic.ttf": { "altfamily": "ThiruValluvarCTT", "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "ThiruValluvarCTT-BoldItalic.ttf" },
-        "ThiruValluvarCTT-Italic.ttf": { "altfamily": "ThiruValluvarCTT", "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "ThiruValluvarCTT-Italic.ttf" },
-        "ThiruValluvarCTT-Regular.ttf": { "altfamily": "ThiruValluvarCTT", "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ThiruValluvarCTT-Regular.ttf" },
-        "ThiruValluvarIRU-Bold.ttf": { "altfamily": "ThiruValluvarIRU", "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ThiruValluvarIRU-Bold.ttf" },
-        "ThiruValluvarIRU-BoldItalic.ttf": { "altfamily": "ThiruValluvarIRU", "axes": { "ital": 1, "wght": 700.0 }, "packagepath": "ThiruValluvarIRU-BoldItalic.ttf" },
-        "ThiruValluvarIRU-Italic.ttf": { "altfamily": "ThiruValluvarIRU", "axes": { "ital": 1, "wght": 400.0 }, "packagepath": "ThiruValluvarIRU-Italic.ttf" },
-        "ThiruValluvarIRU-Regular.ttf": { "altfamily": "ThiruValluvarIRU", "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ThiruValluvarIRU-Regular.ttf" }
+        "ThiruValluvar-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/ThiruValluvar-Regular.woff2" }
     },
-    "version": "0.701"
+    "version": "0.901"
 }
 }

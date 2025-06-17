@@ -1,16 +1,13 @@
-This Font Software is Copyright (c) 2009-2021, NLCI (http://www.nlci.in/fonts/)
+This Font Software is Copyright (c) 2009-2025, NLCI (http://www.nlci.in/fonts/)
 with Reserved Font Names "ThiruValluvar" and "Auvaiyar" and "Vaigai" and "NLCI".
-Latin glyphs in ThiruValluvar and Vaigai are Copyright (c) 2003-2019, SIL International (http://www.sil.org/)
+Latin glyphs in ThiruValluvar and Auvaiyar are Copyright (c) 2003-2019, SIL International (https://www.sil.org/)
 with Reserved Font Names "Gentium" and "SIL".
-Latin glyphs in Auvaiyar are Copyright (c) 1997-2019, SIL International (http://www.sil.org/)
+Latin glyphs in Vaigai are Copyright (c) 1997-2019, SIL International (https://www.sil.org/)
 with Reserved Font Names "Charis" and "SIL".
-Indian Rupee Sign Copyright (c) 2007-2017, SIL International (http://www.sil.org/)
-with Reserved Font Names "Annapurna" and "SIL".
-Runic glyph Copyright (c) 2017 Google Inc. (http://www.google.com/get/noto/)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://openfontlicense.org
 
 
 -----------------------------------------------------------

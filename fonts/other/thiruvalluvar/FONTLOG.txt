@@ -10,24 +10,25 @@ Basic Font Information
 
 Pan Tamil font designed to support all the languages using the Tamil script.
 
-Known issues
-------------
-Old style glyphs need to be enabled in a ss
-Reph stype RA needs to be enabled, maybe in a cv
-U+0BB6 need major changes.
-U+0BD0 needs to be slightly visually changed.
-U+0BF3 needs to have right sten removed.
-U+0BF7 needs a curl at the top.
-U+0BFA needs a curl at the top.
-u0B95_u0BC2.old in Auvaiyar needs to be redrawn to match the overall style.
-U+20B9 needs to be made italic in the Italic and Bold Italic faces
-The ring in u1CF5 needs to be removed
-u0B99_u0BCD.alt in Auvaiyar needs to be copied from u0B99_u0BCD and then copy the ring-shaped pulli from u0B82
-
 ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+16 Jun 2025 (Dev NLCI) NLCI Tamil fonts version 0.901
+- Rebuild fonts with updated toolchain for new package layout
+22 Dec 2023 (Dev NLCI) NLCI Tamil fonts version 0.900
+- Make language specific fonts work in more applications
+- Bold and Italic nuktas (in all font families now)
+16 Dec 2022 (Dev NLCI) NLCI Tamil fonts version 0.800
+- Make cv01 work in OpenType
+- Improved positioning of nuktas in the italic faces
+- Bold and Italic nuktas (in ThiruValluvar only for now)
+- Increase line spacing for IRU fonts
+- Use lighter weight Latin; Gentium at 90% for ThiruValluvar and Auvaiyar, Charis at 80% for Vaigai
+- Improve width of spaces
+- Removed vowel modifier U+16C7 RUNIC LETTER IWAZ EOH
+- More options for nukta and dot above
+- Corrected contour directions
 31 May 2021 (Dev NLCI) NLCI Tamil fonts version 0.701
 - More positioning for vowel modifiers
 - One less language specific font
@@ -68,7 +69,7 @@ ChangeLog
 19 Mar 2018 (Dev NLCI) NLCI Tamil fonts version 0.300
 - Regenerate sources from original, hacked legacy fonts with an updated mapping
 14 Aug 2015 (Dev NLCI) NLCI Tamil fonts version 0.271
-- Latin glyphs are from Charis SIL (http://scripts.sil.org/CharisSILfont)
+- Latin glyphs are from Charis SIL (https://software.sil.org/charis/)
 
 Acknowledgements
 ----------------

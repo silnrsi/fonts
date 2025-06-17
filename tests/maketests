@@ -55,5 +55,7 @@ pandoc -s -f markdown-smart --template assets/testtemplate.html scheherazadenew/
 echo "     > Tai Heritage Pro"
 pandoc -s -f markdown-smart --template assets/testtemplate.html taiheritagepro/test_main.md -o taiheritagepro/test_main.html
 
+echo "     > Thiruvalluvar"
+pandoc -s -f markdown-smart --template assets/testtemplate.html thiruvalluvar/test_main.md -o thiruvalluvar/test_main.html
 
 echo "-----Completed!"

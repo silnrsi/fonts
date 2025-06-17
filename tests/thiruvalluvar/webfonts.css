@@ -1,0 +1,65 @@
+@font-face {    
+    font-family: LPR;
+    font-weight: normal;
+    font-style: normal;
+    src: url("../../fonts/other/thiruvalluvar/web/ThiruValluvar-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR;
+    font-weight: bold;
+    font-style: normal;
+    src: url("../../fonts/other/thiruvalluvar/web/ThiruValluvar-Bold.woff2") format("woff2");
+}
+@font-face {    
+    font-family: LPR;
+    font-weight: normal;
+    font-style: italic;
+    src: url("../../fonts/other/thiruvalluvar/web/ThiruValluvar-RegularItalic.woff2") format("woff2");
+}
+@font-face {
+    font-family: LPR;
+    font-weight: bold;
+    font-style: italic;
+    src: url("../../fonts/other/thiruvalluvar/web/ThiruValluvar-BoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: FLO;
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/web/ThiruValluvar-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: bold;
+    font-style: normal;
+    src: url("https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/web/ThiruValluvar-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: normal;
+    font-style: italic;
+    src: url("https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/web/ThiruValluvar-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: FLO;
+    font-weight: bold;
+    font-style: italic;
+    src: url("https://fonts.languagetechnology.org/fonts/other/thiruvalluvar/web/ThiruValluvar-Bold.woff2") format("woff2");
+}
+
+.lpr {
+    font-family: 'LPR', sans-serif;
+    font-size: 22px;
+}
+.flo {
+    font-family: 'FLO', sans-serif;
+    font-size: 22px;
+}
+.gf {
+    font-family: 'Noto Serif Tamil', sans-serif;
+    font-size: 22px;
+}
+body {
+    text-align: start;
+}
