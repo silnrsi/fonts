@@ -8320,11 +8320,11 @@
         "SkeenaIndigenous-SemiboldItalic.woff2": { "axes": { "ital": 1, "wght": 600.0 }, "packagepath": "TTFWOFF2/SkeenaIndigenous-SemiboldItalic.woff2", "zippath": "SkeenaIndigenous/TTFWOFF2/SkeenaIndigenous-SemiboldItalic.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/microsoft/Skeena-Indigenous-Typeface/releases/download/v0.91-beta/fonts.zip",
+    "packageurl": "https://github.com/microsoft/Skeena-Indigenous-Typeface/releases/download/v1.00/fonts.zip",
     "siteurl": "https://github.com/microsoft/Skeena-Indigenous-Typeface/",
     "source": "Microsoft",
     "status": "current",
-    "version": "0.91-beta",
+    "version": "1.00",
     "ziproot": "SkeenaIndigenous"
 },
 "sophianubian": {
