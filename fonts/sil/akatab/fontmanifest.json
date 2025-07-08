@@ -26,6 +26,6 @@
         "Akatab-SemiBold.woff": { "altfamily": "Akatab SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Akatab-SemiBold.woff" },
         "Akatab-SemiBold.woff2": { "altfamily": "Akatab SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Akatab-SemiBold.woff2" }
     },
-    "version": "4.000"
+    "version": "4.100"
 }
 }
