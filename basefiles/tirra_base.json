@@ -1,0 +1,13 @@
+{
+"tirra": {
+    "distributable": true,
+    "family": "Tirra",
+    "familyid": "tirra",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/tirra/Tirra-4.100.zip",
+    "siteurl": "https://software.sil.org/tirra/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "Tirra-4.100"
+}
+}

@@ -8544,6 +8544,43 @@
     "license": "proprietary",
     "source": "Microsoft"
 },
+"tirra": {
+    "defaults": {
+        "ttf": "Tirra-Regular.ttf",
+        "woff": "Tirra-Regular.woff",
+        "woff2": "Tirra-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Tirra",
+    "familyid": "tirra",
+    "files": {
+        "Tirra-Black.ttf": { "altfamily": "Tirra Black", "axes": { "ital": 0, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/Tirra-Black.ttf", "packagepath": "Tirra-Black.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/Tirra-Black.ttf", "zippath": "Tirra-4.100/Tirra-Black.ttf" },
+        "Tirra-Black.woff": { "altfamily": "Tirra Black", "axes": { "ital": 0, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-Black.woff", "packagepath": "web/Tirra-Black.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-Black.woff", "zippath": "Tirra-4.100/web/Tirra-Black.woff" },
+        "Tirra-Black.woff2": { "altfamily": "Tirra Black", "axes": { "ital": 0, "wght": 900.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-Black.woff2", "packagepath": "web/Tirra-Black.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-Black.woff2", "zippath": "Tirra-4.100/web/Tirra-Black.woff2" },
+        "Tirra-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/Tirra-Bold.ttf", "packagepath": "Tirra-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/Tirra-Bold.ttf", "zippath": "Tirra-4.100/Tirra-Bold.ttf" },
+        "Tirra-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-Bold.woff", "packagepath": "web/Tirra-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-Bold.woff", "zippath": "Tirra-4.100/web/Tirra-Bold.woff" },
+        "Tirra-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-Bold.woff2", "packagepath": "web/Tirra-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-Bold.woff2", "zippath": "Tirra-4.100/web/Tirra-Bold.woff2" },
+        "Tirra-ExtraBold.ttf": { "altfamily": "Tirra ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/Tirra-ExtraBold.ttf", "packagepath": "Tirra-ExtraBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/Tirra-ExtraBold.ttf", "zippath": "Tirra-4.100/Tirra-ExtraBold.ttf" },
+        "Tirra-ExtraBold.woff": { "altfamily": "Tirra ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-ExtraBold.woff", "packagepath": "web/Tirra-ExtraBold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-ExtraBold.woff", "zippath": "Tirra-4.100/web/Tirra-ExtraBold.woff" },
+        "Tirra-ExtraBold.woff2": { "altfamily": "Tirra ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-ExtraBold.woff2", "packagepath": "web/Tirra-ExtraBold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-ExtraBold.woff2", "zippath": "Tirra-4.100/web/Tirra-ExtraBold.woff2" },
+        "Tirra-Medium.ttf": { "altfamily": "Tirra Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/Tirra-Medium.ttf", "packagepath": "Tirra-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/Tirra-Medium.ttf", "zippath": "Tirra-4.100/Tirra-Medium.ttf" },
+        "Tirra-Medium.woff": { "altfamily": "Tirra Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-Medium.woff", "packagepath": "web/Tirra-Medium.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-Medium.woff", "zippath": "Tirra-4.100/web/Tirra-Medium.woff" },
+        "Tirra-Medium.woff2": { "altfamily": "Tirra Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-Medium.woff2", "packagepath": "web/Tirra-Medium.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-Medium.woff2", "zippath": "Tirra-4.100/web/Tirra-Medium.woff2" },
+        "Tirra-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/Tirra-Regular.ttf", "packagepath": "Tirra-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/Tirra-Regular.ttf", "zippath": "Tirra-4.100/Tirra-Regular.ttf" },
+        "Tirra-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-Regular.woff", "packagepath": "web/Tirra-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-Regular.woff", "zippath": "Tirra-4.100/web/Tirra-Regular.woff" },
+        "Tirra-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-Regular.woff2", "packagepath": "web/Tirra-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-Regular.woff2", "zippath": "Tirra-4.100/web/Tirra-Regular.woff2" },
+        "Tirra-SemiBold.ttf": { "altfamily": "Tirra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/Tirra-SemiBold.ttf", "packagepath": "Tirra-SemiBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/Tirra-SemiBold.ttf", "zippath": "Tirra-4.100/Tirra-SemiBold.ttf" },
+        "Tirra-SemiBold.woff": { "altfamily": "Tirra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-SemiBold.woff", "packagepath": "web/Tirra-SemiBold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-SemiBold.woff", "zippath": "Tirra-4.100/web/Tirra-SemiBold.woff" },
+        "Tirra-SemiBold.woff2": { "altfamily": "Tirra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/tirra/web/Tirra-SemiBold.woff2", "packagepath": "web/Tirra-SemiBold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/tirra/web/Tirra-SemiBold.woff2", "zippath": "Tirra-4.100/web/Tirra-SemiBold.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/tirra/Tirra-4.100.zip",
+    "siteurl": "https://software.sil.org/tirra/",
+    "source": "SIL",
+    "status": "current",
+    "version": "4.100",
+    "ziproot": "Tirra-4.100"
+},
 "traditionalarabic": {
     "distributable": false,
     "fallback": "scheherazadenew",

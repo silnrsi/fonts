@@ -1,0 +1,31 @@
+{
+"tirra": {
+    "defaults": {
+        "ttf": "Tirra-Regular.ttf",
+        "woff": "Tirra-Regular.woff",
+        "woff2": "Tirra-Regular.woff2"
+    },
+    "family": "Tirra",
+    "files": {
+        "Tirra-Black.ttf": { "altfamily": "Tirra Black", "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "Tirra-Black.ttf" },
+        "Tirra-Black.woff": { "altfamily": "Tirra Black", "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "web/Tirra-Black.woff" },
+        "Tirra-Black.woff2": { "altfamily": "Tirra Black", "axes": { "ital": 0, "wght": 900.0 }, "packagepath": "web/Tirra-Black.woff2" },
+        "Tirra-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Tirra-Bold.ttf" },
+        "Tirra-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Tirra-Bold.woff" },
+        "Tirra-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Tirra-Bold.woff2" },
+        "Tirra-ExtraBold.ttf": { "altfamily": "Tirra ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "Tirra-ExtraBold.ttf" },
+        "Tirra-ExtraBold.woff": { "altfamily": "Tirra ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Tirra-ExtraBold.woff" },
+        "Tirra-ExtraBold.woff2": { "altfamily": "Tirra ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Tirra-ExtraBold.woff2" },
+        "Tirra-Medium.ttf": { "altfamily": "Tirra Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Tirra-Medium.ttf" },
+        "Tirra-Medium.woff": { "altfamily": "Tirra Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Tirra-Medium.woff" },
+        "Tirra-Medium.woff2": { "altfamily": "Tirra Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Tirra-Medium.woff2" },
+        "Tirra-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Tirra-Regular.ttf" },
+        "Tirra-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Tirra-Regular.woff" },
+        "Tirra-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Tirra-Regular.woff2" },
+        "Tirra-SemiBold.ttf": { "altfamily": "Tirra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Tirra-SemiBold.ttf" },
+        "Tirra-SemiBold.woff": { "altfamily": "Tirra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Tirra-SemiBold.woff" },
+        "Tirra-SemiBold.woff2": { "altfamily": "Tirra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Tirra-SemiBold.woff2" }
+    },
+    "version": "4.100"
+}
+}
