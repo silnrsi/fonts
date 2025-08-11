@@ -8,17 +8,17 @@
     "family": "Scheherazade New Compact",
     "familyid": "scheherazadenewcompact",
     "files": {
-        "ScheherazadeNewCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNewCompact-4.300/ScheherazadeNewCompact-Bold.ttf" },
-        "ScheherazadeNewCompact-SemiBold.ttf": { "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "ScheherazadeNewCompact-4.300/ScheherazadeNewCompact-SemiBold.ttf" },
-        "ScheherazadeNewCompact-Medium.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "ScheherazadeNewCompact-4.300/ScheherazadeNewCompact-Medium.ttf" },
-        "ScheherazadeNewCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewCompact-4.300/ScheherazadeNewCompact-Regular.ttf" }
+        "ScheherazadeNewCompact-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "ScheherazadeNewCompact-4.400/ScheherazadeNewCompact-Bold.ttf" },
+        "ScheherazadeNewCompact-SemiBold.ttf": { "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "ScheherazadeNewCompact-4.400/ScheherazadeNewCompact-SemiBold.ttf" },
+        "ScheherazadeNewCompact-Medium.ttf": { "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "ScheherazadeNewCompact-4.400/ScheherazadeNewCompact-Medium.ttf" },
+        "ScheherazadeNewCompact-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "ScheherazadeNewCompact-4.400/ScheherazadeNewCompact-Regular.ttf" }
     },
     "license": "OFL",
     "packageurl": "https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi?family=ScheherazadeNew&pkg=Compact",
     "siteurl": "https://software.sil.org/scheherazade/",
     "source": "SIL",
     "status": "archived",
-    "version": "4.300",
+    "version": "4.400",
     "ziproot": ""
 }
 }
