@@ -4,10 +4,10 @@
     "family": "Harmattan",
     "familyid": "harmattan",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/harmattan/Harmattan-4.300.zip",
+    "packageurl": "https://software.sil.org/downloads/r/harmattan/Harmattan-4.400.zip",
     "siteurl": "https://software.sil.org/harmattan/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "Harmattan-4.300"
+    "ziproot": "Harmattan-4.400"
 }
 }

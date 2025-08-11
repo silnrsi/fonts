@@ -4,10 +4,10 @@
     "family": "Scheherazade New",
     "familyid": "scheherazadenew",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/scheherazade/ScheherazadeNew-4.300.zip",
+    "packageurl": "https://software.sil.org/downloads/r/scheherazade/ScheherazadeNew-4.400.zip",
     "siteurl": "https://software.sil.org/scheherazade/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "ScheherazadeNew-4.300"
+    "ziproot": "ScheherazadeNew-4.400"
 }
 }

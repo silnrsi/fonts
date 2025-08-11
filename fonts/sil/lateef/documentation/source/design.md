@@ -1,6 +1,6 @@
 ---
 title: Lateef - Design
-fontversion: 4.300
+fontversion: 4.400
 ---
 
 Lateef provides a &#x201c;simplified&#x201d; rendering of Arabic script, using basic connecting glyphs but not including a wide variety of additional ligatures or contextual alternates (only the required lam-alef ligatures). This simplified style is often preferred for clarity, especially in non-Arabic languages.
@@ -43,3 +43,7 @@ In certain types of literature, the name *Allah* and words related to this name 
 ## Font Features
 
 Alternate glyphs that are available through features are demonstrated in the [Features](features.md) document. 
+
+SIL Global is the creator of the Lateef fonts, and is the owner of all proprietary rights therein.
+
+*Lateef* is a trademark of SIL Global.

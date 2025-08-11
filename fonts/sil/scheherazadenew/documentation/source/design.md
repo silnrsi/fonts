@@ -1,6 +1,6 @@
 ---
 title: Scheherazade New - Design
-fontversion: 4.300
+fontversion: 4.400
 ---
 
 Scheherazade New provides a “simplified” rendering of Arabic script, using basic connecting glyphs but not including a wide variety of additional ligatures or contextual alternates (only the required lam-alef ligatures). This simplified style is often preferred for clarity, especially in non-Arabic languages, but may not be considered appropriate in situations where a more elaborate style of calligraphy is preferred.
@@ -41,7 +41,10 @@ For a complete list of honorific ligatures included in Scheherazade New, see [Ho
 
 In certain types of literature, the name *Allah* and words related to this name are given unique rendering. For a list of the rendering rules, see [Rendering the Allah ligature](allah.md).
 
-
 ## Font Features
 
 Alternate glyphs that are available through features are demonstrated in the [Features](features.md) document. 
+
+SIL Global is the creator of the Scheherazade fonts, and is the owner of all proprietary rights therein.
+
+*Scheherazade* is a trademark of SIL Global.
