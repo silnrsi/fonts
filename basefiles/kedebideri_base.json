@@ -1,0 +1,13 @@
+{
+"kedebideri": {
+    "distributable": true,
+    "family": "Kedebideri",
+    "familyid": "kedebideri",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/kedebideri/Kedebideri-3.000.zip",
+    "siteurl": "https://software.sil.org/kedebideri/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "Kedebideri-3.000"
+}
+}

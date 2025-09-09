@@ -1,0 +1,31 @@
+{
+"kedebideri": {
+    "defaults": {
+        "ttf": "Kedebideri-Regular.ttf",
+        "woff": "Kedebideri-Regular.woff",
+        "woff2": "Kedebideri-Regular.woff2"
+    },
+    "family": "Kedebideri",
+    "files": {
+        "Kedebideri-Black.ttf": { "altfamily": "Kedebideri Black", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 900.0 }, "packagepath": "Kedebideri-Black.ttf" },
+        "Kedebideri-Black.woff": { "altfamily": "Kedebideri Black", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 900.0 }, "packagepath": "web/Kedebideri-Black.woff" },
+        "Kedebideri-Black.woff2": { "altfamily": "Kedebideri Black", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 900.0 }, "packagepath": "web/Kedebideri-Black.woff2" },
+        "Kedebideri-Bold.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "Kedebideri-Bold.ttf" },
+        "Kedebideri-Bold.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "web/Kedebideri-Bold.woff" },
+        "Kedebideri-Bold.woff2": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 700.0 }, "packagepath": "web/Kedebideri-Bold.woff2" },
+        "Kedebideri-ExtraBold.ttf": { "altfamily": "Kedebideri ExtraBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 800.0 }, "packagepath": "Kedebideri-ExtraBold.ttf" },
+        "Kedebideri-ExtraBold.woff": { "altfamily": "Kedebideri ExtraBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 800.0 }, "packagepath": "web/Kedebideri-ExtraBold.woff" },
+        "Kedebideri-ExtraBold.woff2": { "altfamily": "Kedebideri ExtraBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 800.0 }, "packagepath": "web/Kedebideri-ExtraBold.woff2" },
+        "Kedebideri-Medium.ttf": { "altfamily": "Kedebideri Medium", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 500.0 }, "packagepath": "Kedebideri-Medium.ttf" },
+        "Kedebideri-Medium.woff": { "altfamily": "Kedebideri Medium", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 500.0 }, "packagepath": "web/Kedebideri-Medium.woff" },
+        "Kedebideri-Medium.woff2": { "altfamily": "Kedebideri Medium", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 500.0 }, "packagepath": "web/Kedebideri-Medium.woff2" },
+        "Kedebideri-Regular.ttf": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "Kedebideri-Regular.ttf" },
+        "Kedebideri-Regular.woff": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/Kedebideri-Regular.woff" },
+        "Kedebideri-Regular.woff2": { "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 400.0 }, "packagepath": "web/Kedebideri-Regular.woff2" },
+        "Kedebideri-SemiBold.ttf": { "altfamily": "Kedebideri SemiBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 600.0 }, "packagepath": "Kedebideri-SemiBold.ttf" },
+        "Kedebideri-SemiBold.woff": { "altfamily": "Kedebideri SemiBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 600.0 }, "packagepath": "web/Kedebideri-SemiBold.woff" },
+        "Kedebideri-SemiBold.woff2": { "altfamily": "Kedebideri SemiBold", "axes": { "XXXX": 0.0, "ital": 0, "wdth": 100.0, "wght": 600.0 }, "packagepath": "web/Kedebideri-SemiBold.woff2" }
+    },
+    "version": "3.000"
+}
+}
