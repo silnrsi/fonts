@@ -1,6 +1,6 @@
 ---
 title: Kedebideri - Character Set Support
-fontversion: 3.000
+fontversion: 3.001
 ---
 
 The Kedebideri font supports the characters in the Beria Erfe block. 

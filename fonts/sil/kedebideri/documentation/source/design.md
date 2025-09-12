@@ -1,6 +1,6 @@
 ---
 title: Kedebideri - Design
-fontversion: 3.000
+fontversion: 3.001
 ---
 
 The Kedebideri font supports the Beria Erfe script which is used for the Zaghawa Beria language of Sudan and Chad.

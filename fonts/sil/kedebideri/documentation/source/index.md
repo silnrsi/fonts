@@ -1,6 +1,6 @@
 ---
 title: Kedebideri - Documentation
-fontversion: 3.000
+fontversion: 3.001
 ---
 
 Thank you for your interest in the Kedebideri fonts. This font family supports the Zaghawa Beria language using the Beria Erfe script. 

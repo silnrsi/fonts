@@ -1,7 +1,11 @@
 ---
 title: Kedebideri - Version History
-fontversion: 3.000
+fontversion: 3.001
 ---
+
+### 12 Sept 2025 (WSTech team) Kedebideri version 3.001
+
+  - Fixed outline of U+16EB7 BERIA ERFE CAPITAL LETTER WASSE
 
 ### 9 Sept 2025 (WSTech team) Kedebideri version 3.000
 

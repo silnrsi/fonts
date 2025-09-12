@@ -1,6 +1,6 @@
 ---
 title: Kedebideri - Type Sample
-fontversion: 3.000
+fontversion: 3.001
 ---
 
 This document demonstrates all of the characters in the font. It is organized by Unicode block. At the end is a paragraph demonstrating Beria Erfe in running text.
@@ -87,7 +87,7 @@ Regular:<span dir="ltr" class='Kedebideri-R normal'> &#x16EA0; &#x16EA1; &#x16EA
 </span>
 
 <!-- PRODUCT SITE ONLY
-[font id='Kedebideri' face='Kedebideri-Regular' face='Kedebideri-Bold' size='150%']
+[font id='Kedebideri' face='Kedebideri-Regular' bold='Kedebideri-Bold' size='150%']
 -->
 
 

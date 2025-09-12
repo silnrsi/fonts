@@ -1,6 +1,6 @@
 ---
 title: Kedebideri - Resources
-fontversion: 3.000
+fontversion: 3.001
 ---
 
 ## Requirements
