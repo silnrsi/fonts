@@ -1,6 +1,6 @@
 ---
 title: Busra - Character Set Support
-fontversion: 9.000
+fontversion: 9.100
 ---
 
 This font supports over 500 characters from [The Unicode Standard](https://unicode.org/) as well as basic Latin and some [Private Use Area (PUA)](https://github.com/silnrsi/unicode-resources/blob/main/sil-pua/docs/pua-assignments.md) characters.

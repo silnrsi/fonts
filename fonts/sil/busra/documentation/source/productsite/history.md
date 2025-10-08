@@ -3,6 +3,12 @@ Busra is based on an earlier font that is part of a larger package of Khmer scri
 
 ## Change history
 
+### 7 October 2025 (SIL WSTech Team) Busra version 9.100
+- OpenType fixes for particular character sequences
+- Improved diacritic positioning
+- Redesigned Coeng CHA
+- New `ss05` feature for alternate form of ssa+aa ligature
+
 ### 7 February 2025 (SIL WSTech Team) Busra version 9.000
 - The font family is now called "Busra" so it and the old "Khmer Busra" can be installed at the same time.
 - There are six weights: ExtraLight, Light, Regular, Medium, SemiBold, and Bold. This also replaces the older Khmer Mondulkiri family.

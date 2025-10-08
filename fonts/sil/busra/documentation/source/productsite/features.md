@@ -49,9 +49,20 @@ Feature        | Sample | Feature setting
 Standard | <span class='busra-R normal'        >&#x1780;&#x17D2;&#x1789;</span>| `ss04=0`
 Alternate | <span class='busra-ss04-1-R normal'>&#x1780;&#x17D2;&#x1789;</span>| `ss04=1`
 
+#### Alternate ssa+aa ligature <a id="ss05"></a>
+
+This feature gives an alternate form of ssa+aa ligature used in minority languages.
+
+<span class='affects'>Affects: U+179E U+17B6,  U+179E U+17C5</span>
+
+Feature        | Sample | Feature setting
+:------------- | :--------------- | :-------------
+Standard | <span class="busra-R normal">&#x179E;&#x17B6; &#x179E;&#x17C5;</span>| `ss05=0`
+Alternate | <span class="busra-R normal" style='font-feature-settings: "ss05" 1'>&#x179E;&#x17B6; &#x179E;&#x17C5;</span>| `ss05=1`
 
 [font id='busra' face='Busra-Regular' size='150%']
 [font id='busra-ss01-1' face='Busra-Regular' size='150%' feats='ss01 1']
 [font id='busra-ss02-1' face='Busra-Regular' size='150%' feats='ss02 1']
 [font id='busra-ss03-1' face='Busra-Regular' size='150%' feats='ss03 1']
 [font id='busra-ss04-1' face='Busra-Regular' size='150%' feats='ss04 1']
+[font id='busra-ss05-1' face='Busra-Regular' size='150%' feats='ss05 1']

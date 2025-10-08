@@ -1,6 +1,6 @@
 ---
 title: Busra - Font Features
-fontversion: 9.000
+fontversion: 9.100
 ---
 
 Busra is an OpenType-enabled font family that supports the Khmer script. It includes a number of optional features that provide alternative rendering that might be preferable for use in some contexts. The sections below list the details of these features. Whether these features are available to users will depend on both the application and the rendering technology being used. Some applications let the user control certain features such as Character Variants to turn on the rendering of variant characters. However, at this point, most applications do not make use of those features.
@@ -53,6 +53,16 @@ Feature        | Sample | Feature setting
 Standard | <span class='busra-R normal'        >&#x1780;&#x17D2;&#x1789;</span>| `ss04=0`
 Alternate | <span class='busra-R normal' style='font-feature-settings: "ss04" 1'>&#x1780;&#x17D2;&#x1789;</span>| `ss04=1`
 
+#### Alternate ssa+aa ligature <a id="ss05"></a>
+
+This feature gives an alternate form of ssa+aa ligature used in minority languages.
+
+<span class='affects'>Affects: U+179E U+17B6,  U+179E U+17C5</span>
+
+Feature        | Sample | Feature setting
+:------------- | :--------------- | :-------------
+Standard | <span class="busra-R normal">&#x179E;&#x17B6; &#x179E;&#x17C5;</span>| `ss05=0`
+Alternate | <span class="busra-R normal" style='font-feature-settings: "ss05" 1'>&#x179E;&#x17B6; &#x179E;&#x17C5;</span>| `ss05=1`
 
 <!-- PRODUCT SITE ONLY
 [font id='busra' face='Busra-Regular' size='150%']

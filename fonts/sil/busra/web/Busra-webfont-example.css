@@ -52,4 +52,11 @@ Open Font License, Version 1.1 (https://openfontlicense.org/).
     -ms-font-feature-settings: "ss04" 1;
     -webkit-font-feature-settings: "ss04" 1;
   }
+     /* enable stylistic set 4 */
+  .ss05 {
+    font-feature-settings: "ss05" 1;
+    -moz-font-feature-settings: "ss05" 1;
+    -ms-font-feature-settings: "ss05" 1;
+    -webkit-font-feature-settings: "ss05" 1;
+  }
    

@@ -1,6 +1,6 @@
 ---
 title: Busra - About
-fontversion: 9.000
+fontversion: 9.100
 ---
 
 ## About this project
@@ -49,4 +49,4 @@ Our Vision: We long to see people flourishing in community using the languages t
 
 Our Mission: Inspired by God’s love, we advocate, build capacity, and work with local communities to apply language expertise that advances meaningful development, education, and engagement with Scripture.
 
-[SIL Language Technology](https://software.sil.org/) supports these activities by developing [software](https://software.sil.org/products/), [fonts](https://software.sil.org/fonts/), and [keyboard technologies](https://keyman.com/).
+[SIL Language Technology](https://software.sil.org/) supports these activities by developing [software](https://software.sil.org/software-products/), [fonts](https://software.sil.org/fonts/), and [keyboard technologies](https://keyman.com/).

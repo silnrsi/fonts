@@ -1,6 +1,6 @@
 ---
 title: Busra - Design
-fontversion: 9.000
+fontversion: 9.100
 ---
 
 Six fonts for this typeface family are included in the *Busra* release:
