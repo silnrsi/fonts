@@ -10,10 +10,16 @@
         "PadaukBook-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "PadaukBook-Bold.ttf" },
         "PadaukBook-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/PadaukBook-Bold.woff" },
         "PadaukBook-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/PadaukBook-Bold.woff2" },
+        "PadaukBook-Medium.ttf": { "altfamily": "Padauk Book Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "PadaukBook-Medium.ttf" },
+        "PadaukBook-Medium.woff": { "altfamily": "Padauk Book Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/PadaukBook-Medium.woff" },
+        "PadaukBook-Medium.woff2": { "altfamily": "Padauk Book Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/PadaukBook-Medium.woff2" },
         "PadaukBook-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "PadaukBook-Regular.ttf" },
         "PadaukBook-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/PadaukBook-Regular.woff" },
-        "PadaukBook-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/PadaukBook-Regular.woff2" }
+        "PadaukBook-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/PadaukBook-Regular.woff2" },
+        "PadaukBook-SemiBold.ttf": { "altfamily": "Padauk Book SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "PadaukBook-SemiBold.ttf" },
+        "PadaukBook-SemiBold.woff": { "altfamily": "Padauk Book SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/PadaukBook-SemiBold.woff" },
+        "PadaukBook-SemiBold.woff2": { "altfamily": "Padauk Book SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/PadaukBook-SemiBold.woff2" }
     },
-    "version": "5.100"
+    "version": "6.000"
 }
 }

@@ -10,10 +10,19 @@
         "Padauk-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Padauk-Bold.ttf" },
         "Padauk-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Padauk-Bold.woff" },
         "Padauk-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/Padauk-Bold.woff2" },
+        "Padauk-ExtraBold.ttf": { "altfamily": "Padauk ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "Padauk-ExtraBold.ttf" },
+        "Padauk-ExtraBold.woff": { "altfamily": "Padauk ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Padauk-ExtraBold.woff" },
+        "Padauk-ExtraBold.woff2": { "altfamily": "Padauk ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "web/Padauk-ExtraBold.woff2" },
+        "Padauk-Medium.ttf": { "altfamily": "Padauk Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Padauk-Medium.ttf" },
+        "Padauk-Medium.woff": { "altfamily": "Padauk Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Padauk-Medium.woff" },
+        "Padauk-Medium.woff2": { "altfamily": "Padauk Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/Padauk-Medium.woff2" },
         "Padauk-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Padauk-Regular.ttf" },
         "Padauk-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Padauk-Regular.woff" },
-        "Padauk-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Padauk-Regular.woff2" }
+        "Padauk-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Padauk-Regular.woff2" },
+        "Padauk-SemiBold.ttf": { "altfamily": "Padauk SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Padauk-SemiBold.ttf" },
+        "Padauk-SemiBold.woff": { "altfamily": "Padauk SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Padauk-SemiBold.woff" },
+        "Padauk-SemiBold.woff2": { "altfamily": "Padauk SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Padauk-SemiBold.woff2" }
     },
-    "version": "5.100"
+    "version": "6.000"
 }
 }

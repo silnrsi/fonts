@@ -4,10 +4,10 @@
     "family": "Padauk Book",
     "familyid": "padaukbook",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/padauk/Padauk-5.100.zip",
+    "packageurl": "https://software.sil.org/downloads/r/padauk/PadaukBook-6.000.zip",
     "siteurl": "https://software.sil.org/padauk/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "Padauk-5.100"
+    "ziproot": "PadaukBook-6.000"
 }
 }
