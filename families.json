@@ -1150,6 +1150,49 @@
     "version": "3.000",
     "ziproot": ""
 },
+"deemawso": {
+    "defaults": {
+        "ttf": "Deemawso-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Deemawso",
+    "familyid": "deemawso",
+    "files": {
+        "Deemawso-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/deemawso/Deemawso-Bold.ttf", "packagepath": "Deemawso-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/deemawso/Deemawso-Bold.ttf", "zippath": "Deemawso-6.000/Deemawso-Bold.ttf" },
+        "Deemawso-ExtraBold.ttf": { "altfamily": "Deemawso ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/deemawso/Deemawso-ExtraBold.ttf", "packagepath": "Deemawso-ExtraBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/deemawso/Deemawso-ExtraBold.ttf", "zippath": "Deemawso-6.000/Deemawso-ExtraBold.ttf" },
+        "Deemawso-Medium.ttf": { "altfamily": "Deemawso Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/deemawso/Deemawso-Medium.ttf", "packagepath": "Deemawso-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/deemawso/Deemawso-Medium.ttf", "zippath": "Deemawso-6.000/Deemawso-Medium.ttf" },
+        "Deemawso-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/deemawso/Deemawso-Regular.ttf", "packagepath": "Deemawso-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/deemawso/Deemawso-Regular.ttf", "zippath": "Deemawso-6.000/Deemawso-Regular.ttf" },
+        "Deemawso-SemiBold.ttf": { "altfamily": "Deemawso SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/deemawso/Deemawso-SemiBold.ttf", "packagepath": "Deemawso-SemiBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/deemawso/Deemawso-SemiBold.ttf", "zippath": "Deemawso-6.000/Deemawso-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/padauk/Deemawso-6.000.zip",
+    "siteurl": "https://github.com/silnrsi/font-padauk/releases/",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.000",
+    "ziproot": "Deemawso-6.000"
+},
+"deemawsobook": {
+    "defaults": {
+        "ttf": "DeemawsoBook-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Deemawso Book",
+    "familyid": "deemawsobook",
+    "files": {
+        "DeemawsoBook-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/deemawsobook/DeemawsoBook-Bold.ttf", "packagepath": "DeemawsoBook-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/deemawsobook/DeemawsoBook-Bold.ttf", "zippath": "DeemawsoBook-6.000/DeemawsoBook-Bold.ttf" },
+        "DeemawsoBook-Medium.ttf": { "altfamily": "Deemawso Book Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/deemawsobook/DeemawsoBook-Medium.ttf", "packagepath": "DeemawsoBook-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/deemawsobook/DeemawsoBook-Medium.ttf", "zippath": "DeemawsoBook-6.000/DeemawsoBook-Medium.ttf" },
+        "DeemawsoBook-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/deemawsobook/DeemawsoBook-Regular.ttf", "packagepath": "DeemawsoBook-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/deemawsobook/DeemawsoBook-Regular.ttf", "zippath": "DeemawsoBook-6.000/DeemawsoBook-Regular.ttf" },
+        "DeemawsoBook-SemiBold.ttf": { "altfamily": "Deemawso Book SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/deemawsobook/DeemawsoBook-SemiBold.ttf", "packagepath": "DeemawsoBook-SemiBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/deemawsobook/DeemawsoBook-SemiBold.ttf", "zippath": "DeemawsoBook-6.000/DeemawsoBook-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/padauk/DeemawsoBook-6.000.zip",
+    "siteurl": "https://github.com/silnrsi/font-padauk/releases/",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.000",
+    "ziproot": "DeemawsoBook-6.000"
+},
 "dokchampa": {
     "distributable": false,
     "fallback": "notosanslao",
@@ -3008,6 +3051,49 @@
     "status": "archived",
     "version": "2.000",
     "ziproot": ""
+},
+"namkiokhamti": {
+    "defaults": {
+        "ttf": "NamkioKhamti-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Namkio Khamti",
+    "familyid": "namkiokhamti",
+    "files": {
+        "NamkioKhamti-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/namkiokhamti/NamkioKhamti-Bold.ttf", "packagepath": "NamkioKhamti-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/namkiokhamti/NamkioKhamti-Bold.ttf", "zippath": "NamkioKhamti-6.000/NamkioKhamti-Bold.ttf" },
+        "NamkioKhamti-ExtraBold.ttf": { "altfamily": "Namkio Khamti ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/namkiokhamti/NamkioKhamti-ExtraBold.ttf", "packagepath": "NamkioKhamti-ExtraBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/namkiokhamti/NamkioKhamti-ExtraBold.ttf", "zippath": "NamkioKhamti-6.000/NamkioKhamti-ExtraBold.ttf" },
+        "NamkioKhamti-Medium.ttf": { "altfamily": "Namkio Khamti Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/namkiokhamti/NamkioKhamti-Medium.ttf", "packagepath": "NamkioKhamti-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/namkiokhamti/NamkioKhamti-Medium.ttf", "zippath": "NamkioKhamti-6.000/NamkioKhamti-Medium.ttf" },
+        "NamkioKhamti-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/namkiokhamti/NamkioKhamti-Regular.ttf", "packagepath": "NamkioKhamti-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/namkiokhamti/NamkioKhamti-Regular.ttf", "zippath": "NamkioKhamti-6.000/NamkioKhamti-Regular.ttf" },
+        "NamkioKhamti-SemiBold.ttf": { "altfamily": "Namkio Khamti SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/namkiokhamti/NamkioKhamti-SemiBold.ttf", "packagepath": "NamkioKhamti-SemiBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/namkiokhamti/NamkioKhamti-SemiBold.ttf", "zippath": "NamkioKhamti-6.000/NamkioKhamti-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/padauk/NamkioKhamti-6.000.zip",
+    "siteurl": "https://github.com/silnrsi/font-padauk/releases/",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.000",
+    "ziproot": "NamkioKhamti-6.000"
+},
+"namkiokhamtibook": {
+    "defaults": {
+        "ttf": "NamkioKhamtiBook-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Namkio Khamti Book",
+    "familyid": "namkiokhamtibook",
+    "files": {
+        "NamkioKhamtiBook-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/namkiokhamtibook/NamkioKhamtiBook-Bold.ttf", "packagepath": "NamkioKhamtiBook-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/namkiokhamtibook/NamkioKhamtiBook-Bold.ttf", "zippath": "NamkioKhamtiBook-6.000/NamkioKhamtiBook-Bold.ttf" },
+        "NamkioKhamtiBook-Medium.ttf": { "altfamily": "Namkio Khamti Book Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/namkiokhamtibook/NamkioKhamtiBook-Medium.ttf", "packagepath": "NamkioKhamtiBook-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/namkiokhamtibook/NamkioKhamtiBook-Medium.ttf", "zippath": "NamkioKhamtiBook-6.000/NamkioKhamtiBook-Medium.ttf" },
+        "NamkioKhamtiBook-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/namkiokhamtibook/NamkioKhamtiBook-Regular.ttf", "packagepath": "NamkioKhamtiBook-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/namkiokhamtibook/NamkioKhamtiBook-Regular.ttf", "zippath": "NamkioKhamtiBook-6.000/NamkioKhamtiBook-Regular.ttf" },
+        "NamkioKhamtiBook-SemiBold.ttf": { "altfamily": "Namkio Khamti Book SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/namkiokhamtibook/NamkioKhamtiBook-SemiBold.ttf", "packagepath": "NamkioKhamtiBook-SemiBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/namkiokhamtibook/NamkioKhamtiBook-SemiBold.ttf", "zippath": "NamkioKhamtiBook-6.000/NamkioKhamtiBook-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/padauk/NamkioKhamtiBook-6.000.zip",
+    "siteurl": "https://github.com/silnrsi/font-padauk/releases/",
+    "source": "SIL",
+    "status": "current",
+    "version": "6.000",
+    "ziproot": "NamkioKhamtiBook-6.000"
 },
 "narnoor": {
     "defaults": {

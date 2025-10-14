@@ -1,11 +1,11 @@
 {
-"padaukbook": {
+"namkiokhamtibook": {
     "distributable": true,
     "family": "Namkio Khamti Book",
     "familyid": "namkiokhamtibook",
     "license": "OFL",
     "packageurl": "https://software.sil.org/downloads/r/padauk/NamkioKhamtiBook-6.000.zip",
-    "siteurl": "https://software.sil.org/padauk/",
+    "siteurl": "https://github.com/silnrsi/font-padauk/releases/",
     "source": "SIL",
     "status": "current",
     "ziproot": "NamkioKhamtiBook-6.000"
