@@ -1,0 +1,13 @@
+{
+"padaukbook": {
+    "distributable": true,
+    "family": "Deemawso Book",
+    "familyid": "deemawsobook",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/padauk/DeemawsoBook-6.000.zip",
+    "siteurl": "https://software.sil.org/padauk/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "DeemawsoBook-6.000"
+}
+}

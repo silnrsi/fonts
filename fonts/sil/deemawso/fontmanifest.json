@@ -1,0 +1,16 @@
+{
+"deemawso": {
+    "defaults": {
+        "ttf": "Deemawso-Regular.ttf"
+    },
+    "family": "Deemawso",
+    "files": {
+        "Deemawso-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "Deemawso-Bold.ttf" },
+        "Deemawso-ExtraBold.ttf": { "altfamily": "Deemawso ExtraBold", "axes": { "ital": 0, "wght": 800.0 }, "packagepath": "Deemawso-ExtraBold.ttf" },
+        "Deemawso-Medium.ttf": { "altfamily": "Deemawso Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "Deemawso-Medium.ttf" },
+        "Deemawso-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Deemawso-Regular.ttf" },
+        "Deemawso-SemiBold.ttf": { "altfamily": "Deemawso SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "Deemawso-SemiBold.ttf" }
+    },
+    "version": "6.000"
+}
+}

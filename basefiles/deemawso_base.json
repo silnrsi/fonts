@@ -1,0 +1,13 @@
+{
+"padauk": {
+    "distributable": true,
+    "family": "Deemawso",
+    "familyid": "deemawso",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/padauk/Deemawso-6.000.zip",
+    "siteurl": "https://software.sil.org/padauk/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "Deemawso-6.000"
+}
+}
