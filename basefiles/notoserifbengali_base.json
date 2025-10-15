@@ -45,11 +45,11 @@
         "NotoSerifBengali-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSerifBengali-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifBengali/full/ttf/NotoSerifBengali-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/bengali/releases/download/NotoSerifBengali-v2.003/NotoSerifBengali-v2.003.zip",
-    "siteurl": "https://github.com/notofonts/bengali/releases/tag/NotoSerifBengali-v2.003",
+    "packageurl": "https://github.com/notofonts/bengali/releases/download/NotoSerifBengali-v3.000/NotoSerifBengali-v3.000.zip",
+    "siteurl": "https://github.com/notofonts/bengali/releases/tag/NotoSerifBengali-v3.000",
     "source": "Google",
     "status": "current",
-    "version": "2.003",
+    "version": "3.000",
     "ziproot": "NotoSerifBengali"
 }
 }
