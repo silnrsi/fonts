@@ -1,6 +1,6 @@
 ---
 title: Awami Nastaliq - Developer information
-fontversion: 3.300
+fontversion: 3.400
 ---
 
 ## Welcome font developers!
@@ -41,6 +41,14 @@ Because of the complex kerning and collision avoidance logic, builds can take up
 `-d` should normally be omitted when building the fonts. However, when developing/debugging a font using Graide, the `-d` must be used to prevent some optimizations that are incompatible with Graide. 
 
 `--regOnly` causes smith to build the Regular weight only. This is useful during development and debugging.
+
+This would just build Regular:
+
+```
+    smith distclean
+    smith configure
+    smith build -d --regOnly -v -j1
+```
 
 ## Modifying the font
 
@@ -128,4 +136,4 @@ Once you have this setting in effect, you can load the FTML documents directly i
 
 We warmly welcome contributions to the fonts, such as new glyphs, enhanced smart font code, or bug fixes. The [brief overview of contributing changes](https://silnrsi.github.io/silfontdev/en-US/Contributing_Changes.html) is a good place to begin. The next step is to contact us by responding to an existing issue or creating an issue in the Github repository and expressing your interest. We can then work together to plan and integrate your contributions.
 
-To enable us to accept contributions in a way that honors your contribution and respects your copyright while preserving long-term flexibility for open source licensing, you would also need to agree to the **SIL International Contributor License Agreement for Font Software (v1.0)** prior to sending us your contribution. To read more about this requirement and find out how to submit the required form, please visit the [CLA information page](https://software.sil.org/fontcla).
+To enable us to accept contributions in a way that honors your contribution and respects your copyright while preserving long-term flexibility for open source licensing, you would also need to agree to the **SIL Global Contributor License Agreement for Font Software (v1.0)** prior to sending us your contribution. To read more about this requirement and find out how to submit the required form, please visit the [CLA information page](https://software.sil.org/fontcla).
