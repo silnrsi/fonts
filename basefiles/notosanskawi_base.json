@@ -1,0 +1,21 @@
+{
+"notosanskawi": {
+    "defaults": {
+        "ttf": "NotoSansKawi-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Kawi",
+    "familyid": "notosanskawi",
+    "files": {
+        "NotoSansKawi-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansKawi-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKawi/full/ttf/NotoSansKawi-Bold.ttf" },
+        "NotoSansKawi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansKawi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKawi/full/ttf/NotoSansKawi-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/kawi/releases/download/NotoSansKawi-v1.000/NotoSansKawi-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/kawi/releases/tag/NotoSansKawi-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSansKawi"
+}
+}

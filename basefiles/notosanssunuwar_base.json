@@ -1,0 +1,20 @@
+{
+"notosanssunuwar": {
+    "defaults": {
+        "ttf": "NotoSansSunuwar-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Sunuwar",
+    "familyid": "notosanssunuwar",
+    "files": {
+        "NotoSansSunuwar-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSunuwar-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSunuwar/full/ttf/NotoSansSunuwar-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/sunuwar/releases/download/NotoSansSunuwar-v1.000/NotoSansSunuwar-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/sunuwar/releases/tag/NotoSansSunuwar-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSansSunuwar"
+}
+}

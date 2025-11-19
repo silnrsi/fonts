@@ -1,0 +1,20 @@
+{
+"notoserifbalinese": {
+    "defaults": {
+        "ttf": "NotoSerifBalinese-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Balinese",
+    "familyid": "notoserifbalinese",
+    "files": {
+        "NotoSerifBalinese-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifBalinese-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifBalinese/full/ttf/NotoSerifBalinese-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/balinese/releases/download/NotoSerifBalinese-v2.007/NotoSerifBalinese-v2.007.zip",
+    "siteurl": "https://github.com/notofonts/balinese/releases/tag/NotoSerifBalinese-v2.007",
+    "source": "Google",
+    "status": "current",
+    "version": "2.007",
+    "ziproot": "NotoSerifBalinese"
+}
+}

@@ -136,7 +136,23 @@ def doit(args):
     # Show any families not already represented in basefiles
     if args.family is None:
         for k in allfamilies.keys():
-            logger.log(f'Family {k} not represented in base files')
+            logger.log(f'Adding base file for {k}')
+            familyid = k.lower().replace(' ', '')
+            data = {
+                "distributable": True,
+                "family": k,
+                "familyid": familyid,
+                "license": "OFL",
+                "source": "Google",
+                "status": "current"
+            }
+            base = {
+                familyid: data
+            }
+            base_filename = f'{familyid}_base.json'
+            base_pathname = os.path.join(basespath, base_filename)
+            with open(base_pathname, 'w') as base_file:
+                json.dump(base, base_file)
 
 def cmd(): execute("", doit, argspec)
 

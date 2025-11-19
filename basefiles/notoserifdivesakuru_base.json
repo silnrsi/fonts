@@ -1,0 +1,20 @@
+{
+"notoserifdivesakuru": {
+    "defaults": {
+        "ttf": "NotoSerifDivesAkuru-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Dives Akuru",
+    "familyid": "notoserifdivesakuru",
+    "files": {
+        "NotoSerifDivesAkuru-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifDivesAkuru-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifDivesAkuru/full/ttf/NotoSerifDivesAkuru-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/dives-akuru/releases/download/NotoSerifDivesAkuru-v2.000/NotoSerifDivesAkuru-v2.000.zip",
+    "siteurl": "https://github.com/notofonts/dives-akuru/releases/tag/NotoSerifDivesAkuru-v2.000",
+    "source": "Google",
+    "status": "current",
+    "version": "2.000",
+    "ziproot": "NotoSerifDivesAkuru"
+}
+}

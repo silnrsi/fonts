@@ -1,0 +1,21 @@
+{
+"notoserifkhojki": {
+    "defaults": {
+        "ttf": "NotoSerifKhojki-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Khojki",
+    "familyid": "notoserifkhojki",
+    "files": {
+        "NotoSerifKhojki-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifKhojki-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifKhojki/full/ttf/NotoSerifKhojki-Bold.ttf" },
+        "NotoSerifKhojki-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifKhojki-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifKhojki/full/ttf/NotoSerifKhojki-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/khojki/releases/download/NotoSerifKhojki-v2.005/NotoSerifKhojki-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/khojki/releases/tag/NotoSerifKhojki-v2.005",
+    "source": "Google",
+    "status": "current",
+    "version": "2.005",
+    "ziproot": "NotoSerifKhojki"
+}
+}

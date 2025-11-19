@@ -1,0 +1,21 @@
+{
+"notoseriftest": {
+    "defaults": {
+        "ttf": "NotoSerifTest-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Test",
+    "familyid": "notoseriftest",
+    "files": {
+        "NotoSerifTest-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifTest-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTest/full/ttf/NotoSerifTest-Bold.ttf" },
+        "NotoSerifTest-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifTest-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTest/full/ttf/NotoSerifTest-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/test/releases/download/NotoSerifTest-v1.000/NotoSerifTest-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/test/releases/tag/NotoSerifTest-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSerifTest"
+}
+}

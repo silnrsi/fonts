@@ -1,0 +1,28 @@
+{
+"notosanssymbols": {
+    "defaults": {
+        "ttf": "NotoSansSymbols-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Symbols",
+    "familyid": "notosanssymbols",
+    "files": {
+        "NotoSansSymbols-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSansSymbols-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Black.ttf" },
+        "NotoSansSymbols-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansSymbols-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Bold.ttf" },
+        "NotoSansSymbols-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSansSymbols-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-ExtraBold.ttf" },
+        "NotoSansSymbols-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSansSymbols-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-ExtraLight.ttf" },
+        "NotoSansSymbols-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSansSymbols-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Light.ttf" },
+        "NotoSansSymbols-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansSymbols-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Medium.ttf" },
+        "NotoSansSymbols-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSymbols-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Regular.ttf" },
+        "NotoSansSymbols-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansSymbols-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-SemiBold.ttf" },
+        "NotoSansSymbols-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSansSymbols-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/symbols/releases/download/NotoSansSymbols-v2.003/NotoSansSymbols-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/symbols/releases/tag/NotoSansSymbols-v2.003",
+    "source": "Google",
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSansSymbols"
+}
+}

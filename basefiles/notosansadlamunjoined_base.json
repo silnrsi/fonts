@@ -1,0 +1,21 @@
+{
+"notosansadlamunjoined": {
+    "defaults": {
+        "ttf": "NotoSansAdlamUnjoined-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Adlam Unjoined",
+    "familyid": "notosansadlamunjoined",
+    "files": {
+        "NotoSansAdlamUnjoined-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansAdlamUnjoined-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansAdlamUnjoined/full/ttf/NotoSansAdlamUnjoined-Bold.ttf" },
+        "NotoSansAdlamUnjoined-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansAdlamUnjoined-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansAdlamUnjoined/full/ttf/NotoSansAdlamUnjoined-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/adlam/releases/download/NotoSansAdlamUnjoined-v3.003/NotoSansAdlamUnjoined-v3.003.zip",
+    "siteurl": "https://github.com/notofonts/adlam/releases/tag/NotoSansAdlamUnjoined-v3.003",
+    "source": "Google",
+    "status": "current",
+    "version": "3.003",
+    "ziproot": "NotoSansAdlamUnjoined"
+}
+}

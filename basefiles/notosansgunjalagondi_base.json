@@ -1,0 +1,23 @@
+{
+"notosansgunjalagondi": {
+    "defaults": {
+        "ttf": "NotoSansGunjalaGondi-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Gunjala Gondi",
+    "familyid": "notosansgunjalagondi",
+    "files": {
+        "NotoSansGunjalaGondi-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansGunjalaGondi-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Bold.ttf" },
+        "NotoSansGunjalaGondi-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansGunjalaGondi-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Medium.ttf" },
+        "NotoSansGunjalaGondi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansGunjalaGondi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Regular.ttf" },
+        "NotoSansGunjalaGondi-Semibold.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansGunjalaGondi-Semibold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Semibold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/gunjala-gondi/releases/download/NotoSansGunjalaGondi-v1.004/NotoSansGunjalaGondi-v1.004.zip",
+    "siteurl": "https://github.com/notofonts/gunjala-gondi/releases/tag/NotoSansGunjalaGondi-v1.004",
+    "source": "Google",
+    "status": "current",
+    "version": "1.004",
+    "ziproot": "NotoSansGunjalaGondi"
+}
+}

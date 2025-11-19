@@ -1,0 +1,20 @@
+{
+"notofangsongkssrotated": {
+    "defaults": {
+        "ttf": "NotoFangsongKSSRotated-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Fangsong KSSRotated",
+    "familyid": "notofangsongkssrotated",
+    "files": {
+        "NotoFangsongKSSRotated-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoFangsongKSSRotated-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoFangsongKSSRotated/full/ttf/NotoFangsongKSSRotated-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/khitan-small-script/releases/download/NotoFangsongKSSRotated-v1.000/NotoFangsongKSSRotated-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/khitan-small-script/releases/tag/NotoFangsongKSSRotated-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoFangsongKSSRotated"
+}
+}

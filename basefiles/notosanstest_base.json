@@ -1,0 +1,20 @@
+{
+"notosanstest": {
+    "defaults": {
+        "ttf": "NotoSansTest-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Test",
+    "familyid": "notosanstest",
+    "files": {
+        "NotoSansTest-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansTest-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTest/full/ttf/NotoSansTest-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/test/releases/download/NotoSansTest-v1.002/NotoSansTest-v1.002.zip",
+    "siteurl": "https://github.com/notofonts/test/releases/tag/NotoSansTest-v1.002",
+    "source": "Google",
+    "status": "current",
+    "version": "1.002",
+    "ziproot": "NotoSansTest"
+}
+}

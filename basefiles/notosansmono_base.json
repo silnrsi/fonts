@@ -1,0 +1,13 @@
+{
+"notosansmono": {
+    "distributable": true,
+    "family": "Noto Sans Mono",
+    "familyid": "notosansmono",
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSansMono-v2.014/NotoSansMono-v2.014.zip",
+    "siteurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/tag/NotoSansMono-v2.014",
+    "source": "Google",
+    "status": "current",
+    "version": "2.014"
+}
+}

@@ -1,0 +1,20 @@
+{
+"notosansmath": {
+    "defaults": {
+        "ttf": "NotoSansMath-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Math",
+    "familyid": "notosansmath",
+    "files": {
+        "NotoSansMath-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMath-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMath/full/ttf/NotoSansMath-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/math/releases/download/NotoSansMath-v3.000/NotoSansMath-v3.000.zip",
+    "siteurl": "https://github.com/notofonts/math/releases/tag/NotoSansMath-v3.000",
+    "source": "Google",
+    "status": "current",
+    "version": "3.000",
+    "ziproot": "NotoSansMath"
+}
+}

@@ -1,0 +1,28 @@
+{
+"notokufiarabic": {
+    "defaults": {
+        "ttf": "NotoKufiArabic-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Kufi Arabic",
+    "familyid": "notokufiarabic",
+    "files": {
+        "NotoKufiArabic-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoKufiArabic-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Black.ttf" },
+        "NotoKufiArabic-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoKufiArabic-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Bold.ttf" },
+        "NotoKufiArabic-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoKufiArabic-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-ExtraBold.ttf" },
+        "NotoKufiArabic-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoKufiArabic-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-ExtraLight.ttf" },
+        "NotoKufiArabic-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoKufiArabic-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Light.ttf" },
+        "NotoKufiArabic-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoKufiArabic-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Medium.ttf" },
+        "NotoKufiArabic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoKufiArabic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Regular.ttf" },
+        "NotoKufiArabic-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoKufiArabic-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-SemiBold.ttf" },
+        "NotoKufiArabic-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoKufiArabic-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/arabic/releases/download/NotoKufiArabic-v2.110/NotoKufiArabic-v2.110.zip",
+    "siteurl": "https://github.com/notofonts/arabic/releases/tag/NotoKufiArabic-v2.110",
+    "source": "Google",
+    "status": "current",
+    "version": "2.110",
+    "ziproot": "NotoKufiArabic"
+}
+}
