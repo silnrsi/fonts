@@ -3363,11 +3363,11 @@
         "NotoSansArabic-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansArabic-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabic/full/ttf/NotoSansArabic-Thin.ttf", "zippath": "NotoSansArabic/full/ttf/NotoSansArabic-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/arabic/releases/download/NotoSansArabic-v2.012/NotoSansArabic-v2.012.zip",
-    "siteurl": "https://github.com/notofonts/arabic/releases/tag/NotoSansArabic-v2.012",
+    "packageurl": "https://github.com/notofonts/arabic/releases/download/NotoSansArabic-v2.013/NotoSansArabic-v2.013.zip",
+    "siteurl": "https://github.com/notofonts/arabic/releases/tag/NotoSansArabic-v2.013",
     "source": "Google",
     "status": "current",
-    "version": "2.012",
+    "version": "2.013",
     "ziproot": "NotoSansArabic"
 },
 "notosansarmenian": {
@@ -5852,11 +5852,11 @@
         "NotoSansRejang-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansRejang-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansRejang/full/ttf/NotoSansRejang-Regular.ttf", "zippath": "NotoSansRejang/full/ttf/NotoSansRejang-Regular.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/rejang/releases/download/NotoSansRejang-v2.002/NotoSansRejang-v2.002.zip",
-    "siteurl": "https://github.com/notofonts/rejang/releases/tag/NotoSansRejang-v2.002",
+    "packageurl": "https://github.com/notofonts/rejang/releases/download/NotoSansRejang-v2.003/NotoSansRejang-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/rejang/releases/tag/NotoSansRejang-v2.003",
     "source": "Google",
     "status": "current",
-    "version": "2.002",
+    "version": "2.003",
     "ziproot": "NotoSansRejang"
 },
 "notosansrunic": {
