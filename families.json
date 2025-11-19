@@ -3151,6 +3151,107 @@
     "version": "1.490",
     "ziproot": "Nokyung-1.490-dev-e7e323M"
 },
+"notofangsongkssrotated": {
+    "defaults": {
+        "ttf": "NotoFangsongKSSRotated-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Fangsong KSSRotated",
+    "familyid": "notofangsongkssrotated",
+    "files": {
+        "NotoFangsongKSSRotated-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoFangsongKSSRotated-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoFangsongKSSRotated/full/ttf/NotoFangsongKSSRotated-Regular.ttf", "zippath": "NotoFangsongKSSRotated/full/ttf/NotoFangsongKSSRotated-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/khitan-small-script/releases/download/NotoFangsongKSSRotated-v1.000/NotoFangsongKSSRotated-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/khitan-small-script/releases/tag/NotoFangsongKSSRotated-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoFangsongKSSRotated"
+},
+"notofangsongkssvertical": {
+    "defaults": {
+        "ttf": "NotoFangsongKSSVertical-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Fangsong KSSVertical",
+    "familyid": "notofangsongkssvertical",
+    "files": {
+        "NotoFangsongKSSVertical-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoFangsongKSSVertical-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoFangsongKSSVertical/full/ttf/NotoFangsongKSSVertical-Regular.ttf", "zippath": "NotoFangsongKSSVertical/full/ttf/NotoFangsongKSSVertical-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/khitan-small-script/releases/download/NotoFangsongKSSVertical-v1.000/NotoFangsongKSSVertical-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/khitan-small-script/releases/tag/NotoFangsongKSSVertical-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoFangsongKSSVertical"
+},
+"notokufiarabic": {
+    "defaults": {
+        "ttf": "NotoKufiArabic-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Kufi Arabic",
+    "familyid": "notokufiarabic",
+    "files": {
+        "NotoKufiArabic-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoKufiArabic-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Black.ttf", "zippath": "NotoKufiArabic/full/ttf/NotoKufiArabic-Black.ttf" },
+        "NotoKufiArabic-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoKufiArabic-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Bold.ttf", "zippath": "NotoKufiArabic/full/ttf/NotoKufiArabic-Bold.ttf" },
+        "NotoKufiArabic-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoKufiArabic-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-ExtraBold.ttf", "zippath": "NotoKufiArabic/full/ttf/NotoKufiArabic-ExtraBold.ttf" },
+        "NotoKufiArabic-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoKufiArabic-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-ExtraLight.ttf", "zippath": "NotoKufiArabic/full/ttf/NotoKufiArabic-ExtraLight.ttf" },
+        "NotoKufiArabic-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoKufiArabic-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Light.ttf", "zippath": "NotoKufiArabic/full/ttf/NotoKufiArabic-Light.ttf" },
+        "NotoKufiArabic-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoKufiArabic-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Medium.ttf", "zippath": "NotoKufiArabic/full/ttf/NotoKufiArabic-Medium.ttf" },
+        "NotoKufiArabic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoKufiArabic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Regular.ttf", "zippath": "NotoKufiArabic/full/ttf/NotoKufiArabic-Regular.ttf" },
+        "NotoKufiArabic-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoKufiArabic-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-SemiBold.ttf", "zippath": "NotoKufiArabic/full/ttf/NotoKufiArabic-SemiBold.ttf" },
+        "NotoKufiArabic-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoKufiArabic-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoKufiArabic/full/ttf/NotoKufiArabic-Thin.ttf", "zippath": "NotoKufiArabic/full/ttf/NotoKufiArabic-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/arabic/releases/download/NotoKufiArabic-v2.110/NotoKufiArabic-v2.110.zip",
+    "siteurl": "https://github.com/notofonts/arabic/releases/tag/NotoKufiArabic-v2.110",
+    "source": "Google",
+    "status": "current",
+    "version": "2.110",
+    "ziproot": "NotoKufiArabic"
+},
+"notomusic": {
+    "defaults": {
+        "ttf": "NotoMusic-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Music",
+    "familyid": "notomusic",
+    "files": {
+        "NotoMusic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoMusic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoMusic/full/ttf/NotoMusic-Regular.ttf", "zippath": "NotoMusic/full/ttf/NotoMusic-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/music/releases/download/NotoMusic-v2.003/NotoMusic-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/music/releases/tag/NotoMusic-v2.003",
+    "source": "Google",
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoMusic"
+},
+"notonaskharabic": {
+    "defaults": {
+        "ttf": "NotoNaskhArabic-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Naskh Arabic",
+    "familyid": "notonaskharabic",
+    "files": {
+        "NotoNaskhArabic-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoNaskhArabic-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabic/full/ttf/NotoNaskhArabic-Bold.ttf", "zippath": "NotoNaskhArabic/full/ttf/NotoNaskhArabic-Bold.ttf" },
+        "NotoNaskhArabic-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoNaskhArabic-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabic/full/ttf/NotoNaskhArabic-Medium.ttf", "zippath": "NotoNaskhArabic/full/ttf/NotoNaskhArabic-Medium.ttf" },
+        "NotoNaskhArabic-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoNaskhArabic-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabic/full/ttf/NotoNaskhArabic-Regular.ttf", "zippath": "NotoNaskhArabic/full/ttf/NotoNaskhArabic-Regular.ttf" },
+        "NotoNaskhArabic-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoNaskhArabic-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoNaskhArabic/full/ttf/NotoNaskhArabic-SemiBold.ttf", "zippath": "NotoNaskhArabic/full/ttf/NotoNaskhArabic-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/arabic/releases/download/NotoNaskhArabic-v2.020/NotoNaskhArabic-v2.020.zip",
+    "siteurl": "https://github.com/notofonts/arabic/releases/tag/NotoNaskhArabic-v2.020",
+    "source": "Google",
+    "status": "current",
+    "version": "2.020",
+    "ziproot": "NotoNaskhArabic"
+},
 "notonaskharabicui": {
     "defaults": {
         "ttf": "NotoNaskhArabicUI-Regular.ttf"
@@ -3190,6 +3291,32 @@
     "status": "current",
     "version": "4.000",
     "ziproot": "NotoNastaliqUrdu"
+},
+"notorashihebrew": {
+    "defaults": {
+        "ttf": "NotoRashiHebrew-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Rashi Hebrew",
+    "familyid": "notorashihebrew",
+    "files": {
+        "NotoRashiHebrew-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoRashiHebrew-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoRashiHebrew/full/ttf/NotoRashiHebrew-Black.ttf", "zippath": "NotoRashiHebrew/full/ttf/NotoRashiHebrew-Black.ttf" },
+        "NotoRashiHebrew-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoRashiHebrew-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoRashiHebrew/full/ttf/NotoRashiHebrew-Bold.ttf", "zippath": "NotoRashiHebrew/full/ttf/NotoRashiHebrew-Bold.ttf" },
+        "NotoRashiHebrew-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoRashiHebrew-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoRashiHebrew/full/ttf/NotoRashiHebrew-ExtraBold.ttf", "zippath": "NotoRashiHebrew/full/ttf/NotoRashiHebrew-ExtraBold.ttf" },
+        "NotoRashiHebrew-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoRashiHebrew-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoRashiHebrew/full/ttf/NotoRashiHebrew-ExtraLight.ttf", "zippath": "NotoRashiHebrew/full/ttf/NotoRashiHebrew-ExtraLight.ttf" },
+        "NotoRashiHebrew-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoRashiHebrew-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoRashiHebrew/full/ttf/NotoRashiHebrew-Light.ttf", "zippath": "NotoRashiHebrew/full/ttf/NotoRashiHebrew-Light.ttf" },
+        "NotoRashiHebrew-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoRashiHebrew-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoRashiHebrew/full/ttf/NotoRashiHebrew-Medium.ttf", "zippath": "NotoRashiHebrew/full/ttf/NotoRashiHebrew-Medium.ttf" },
+        "NotoRashiHebrew-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoRashiHebrew-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoRashiHebrew/full/ttf/NotoRashiHebrew-Regular.ttf", "zippath": "NotoRashiHebrew/full/ttf/NotoRashiHebrew-Regular.ttf" },
+        "NotoRashiHebrew-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoRashiHebrew-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoRashiHebrew/full/ttf/NotoRashiHebrew-SemiBold.ttf", "zippath": "NotoRashiHebrew/full/ttf/NotoRashiHebrew-SemiBold.ttf" },
+        "NotoRashiHebrew-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoRashiHebrew-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoRashiHebrew/full/ttf/NotoRashiHebrew-Thin.ttf", "zippath": "NotoRashiHebrew/full/ttf/NotoRashiHebrew-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/hebrew/releases/download/NotoRashiHebrew-v1.007/NotoRashiHebrew-v1.007.zip",
+    "siteurl": "https://github.com/notofonts/hebrew/releases/tag/NotoRashiHebrew-v1.007",
+    "source": "Google",
+    "status": "current",
+    "version": "1.007",
+    "ziproot": "NotoRashiHebrew"
 },
 "notosans": {
     "defaults": {
@@ -3299,6 +3426,25 @@
     "version": "3.002",
     "ziproot": "NotoSansAdlam"
 },
+"notosansadlamunjoined": {
+    "defaults": {
+        "ttf": "NotoSansAdlamUnjoined-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Adlam Unjoined",
+    "familyid": "notosansadlamunjoined",
+    "files": {
+        "NotoSansAdlamUnjoined-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansAdlamUnjoined-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansAdlamUnjoined/full/ttf/NotoSansAdlamUnjoined-Bold.ttf", "zippath": "NotoSansAdlamUnjoined/full/ttf/NotoSansAdlamUnjoined-Bold.ttf" },
+        "NotoSansAdlamUnjoined-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansAdlamUnjoined-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansAdlamUnjoined/full/ttf/NotoSansAdlamUnjoined-Regular.ttf", "zippath": "NotoSansAdlamUnjoined/full/ttf/NotoSansAdlamUnjoined-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/adlam/releases/download/NotoSansAdlamUnjoined-v3.003/NotoSansAdlamUnjoined-v3.003.zip",
+    "siteurl": "https://github.com/notofonts/adlam/releases/tag/NotoSansAdlamUnjoined-v3.003",
+    "source": "Google",
+    "status": "current",
+    "version": "3.003",
+    "ziproot": "NotoSansAdlamUnjoined"
+},
 "notosansanatolianhieroglyphs": {
     "defaults": {
         "ttf": "NotoSansAnatolianHieroglyphs-Regular.ttf"
@@ -3369,6 +3515,59 @@
     "status": "current",
     "version": "2.013",
     "ziproot": "NotoSansArabic"
+},
+"notosansarabicui": {
+    "defaults": {
+        "ttf": "NotoSansArabicUI-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Arabic UI",
+    "familyid": "notosansarabicui",
+    "files": {
+        "NotoSansArabicUI-Black.ttf": { "axes": { "wdth": 100, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansArabicUI-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-Black.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-Black.ttf" },
+        "NotoSansArabicUI-Bold.ttf": { "axes": { "wdth": 100, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansArabicUI-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-Bold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-Bold.ttf" },
+        "NotoSansArabicUI-Condensed.ttf": { "axes": { "wdth": 75, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansArabicUI-Condensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-Condensed.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-Condensed.ttf" },
+        "NotoSansArabicUI-CondensedBlack.ttf": { "axes": { "wdth": 75, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansArabicUI-CondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedBlack.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedBlack.ttf" },
+        "NotoSansArabicUI-CondensedBold.ttf": { "axes": { "wdth": 75, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansArabicUI-CondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedBold.ttf" },
+        "NotoSansArabicUI-CondensedExtraBold.ttf": { "axes": { "wdth": 75, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansArabicUI-CondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedExtraBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedExtraBold.ttf" },
+        "NotoSansArabicUI-CondensedExtraLight.ttf": { "axes": { "wdth": 75, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansArabicUI-CondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedExtraLight.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedExtraLight.ttf" },
+        "NotoSansArabicUI-CondensedLight.ttf": { "axes": { "wdth": 75, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansArabicUI-CondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedLight.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedLight.ttf" },
+        "NotoSansArabicUI-CondensedMedium.ttf": { "axes": { "wdth": 75, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansArabicUI-CondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedMedium.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedMedium.ttf" },
+        "NotoSansArabicUI-CondensedSemiBold.ttf": { "axes": { "wdth": 75, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansArabicUI-CondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedSemiBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedSemiBold.ttf" },
+        "NotoSansArabicUI-CondensedThin.ttf": { "axes": { "wdth": 75, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansArabicUI-CondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedThin.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-CondensedThin.ttf" },
+        "NotoSansArabicUI-ExtraBold.ttf": { "axes": { "wdth": 100, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraBold.ttf" },
+        "NotoSansArabicUI-ExtraCondensed.ttf": { "axes": { "wdth": 62.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensed.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensed.ttf" },
+        "NotoSansArabicUI-ExtraCondensedBlack.ttf": { "axes": { "wdth": 62.5, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraCondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedBlack.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedBlack.ttf" },
+        "NotoSansArabicUI-ExtraCondensedBold.ttf": { "axes": { "wdth": 62.5, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraCondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedBold.ttf" },
+        "NotoSansArabicUI-ExtraCondensedExtraBold.ttf": { "axes": { "wdth": 62.5, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraCondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedExtraBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedExtraBold.ttf" },
+        "NotoSansArabicUI-ExtraCondensedExtraLight.ttf": { "axes": { "wdth": 62.5, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraCondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedExtraLight.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedExtraLight.ttf" },
+        "NotoSansArabicUI-ExtraCondensedLight.ttf": { "axes": { "wdth": 62.5, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraCondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedLight.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedLight.ttf" },
+        "NotoSansArabicUI-ExtraCondensedMedium.ttf": { "axes": { "wdth": 62.5, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraCondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedMedium.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedMedium.ttf" },
+        "NotoSansArabicUI-ExtraCondensedSemiBold.ttf": { "axes": { "wdth": 62.5, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraCondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedSemiBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedSemiBold.ttf" },
+        "NotoSansArabicUI-ExtraCondensedThin.ttf": { "axes": { "wdth": 62.5, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraCondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedThin.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraCondensedThin.ttf" },
+        "NotoSansArabicUI-ExtraLight.ttf": { "axes": { "wdth": 100, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansArabicUI-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraLight.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-ExtraLight.ttf" },
+        "NotoSansArabicUI-Light.ttf": { "axes": { "wdth": 100, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansArabicUI-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-Light.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-Light.ttf" },
+        "NotoSansArabicUI-Medium.ttf": { "axes": { "wdth": 100, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansArabicUI-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-Medium.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-Medium.ttf" },
+        "NotoSansArabicUI-Regular.ttf": { "axes": { "wdth": 100, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansArabicUI-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-Regular.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-Regular.ttf" },
+        "NotoSansArabicUI-SemiBold.ttf": { "axes": { "wdth": 100, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansArabicUI-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiBold.ttf" },
+        "NotoSansArabicUI-SemiCondensed.ttf": { "axes": { "wdth": 87.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansArabicUI-SemiCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensed.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensed.ttf" },
+        "NotoSansArabicUI-SemiCondensedBlack.ttf": { "axes": { "wdth": 87.5, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansArabicUI-SemiCondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedBlack.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedBlack.ttf" },
+        "NotoSansArabicUI-SemiCondensedBold.ttf": { "axes": { "wdth": 87.5, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansArabicUI-SemiCondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedBold.ttf" },
+        "NotoSansArabicUI-SemiCondensedExtraBold.ttf": { "axes": { "wdth": 87.5, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansArabicUI-SemiCondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedExtraBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedExtraBold.ttf" },
+        "NotoSansArabicUI-SemiCondensedExtraLight.ttf": { "axes": { "wdth": 87.5, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansArabicUI-SemiCondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedExtraLight.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedExtraLight.ttf" },
+        "NotoSansArabicUI-SemiCondensedLight.ttf": { "axes": { "wdth": 87.5, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansArabicUI-SemiCondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedLight.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedLight.ttf" },
+        "NotoSansArabicUI-SemiCondensedMedium.ttf": { "axes": { "wdth": 87.5, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansArabicUI-SemiCondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedMedium.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedMedium.ttf" },
+        "NotoSansArabicUI-SemiCondensedSemiBold.ttf": { "axes": { "wdth": 87.5, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansArabicUI-SemiCondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedSemiBold.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedSemiBold.ttf" },
+        "NotoSansArabicUI-SemiCondensedThin.ttf": { "axes": { "wdth": 87.5, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansArabicUI-SemiCondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedThin.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-SemiCondensedThin.ttf" },
+        "NotoSansArabicUI-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansArabicUI-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansArabicUI/full/ttf/NotoSansArabicUI-Thin.ttf", "zippath": "NotoSansArabicUI/full/ttf/NotoSansArabicUI-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/arabic/releases/download/NotoSansArabicUI-v2.011/NotoSansArabicUI-v2.011.zip",
+    "siteurl": "https://github.com/notofonts/arabic/releases/tag/NotoSansArabicUI-v2.011",
+    "source": "Google",
+    "status": "current",
+    "version": "2.011",
+    "ziproot": "NotoSansArabicUI"
 },
 "notosansarmenian": {
     "defaults": {
@@ -4254,6 +4453,27 @@
     "version": "2.106",
     "ziproot": "NotoSansGujarati"
 },
+"notosansgunjalagondi": {
+    "defaults": {
+        "ttf": "NotoSansGunjalaGondi-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Gunjala Gondi",
+    "familyid": "notosansgunjalagondi",
+    "files": {
+        "NotoSansGunjalaGondi-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansGunjalaGondi-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Bold.ttf", "zippath": "NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Bold.ttf" },
+        "NotoSansGunjalaGondi-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansGunjalaGondi-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Medium.ttf", "zippath": "NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Medium.ttf" },
+        "NotoSansGunjalaGondi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansGunjalaGondi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Regular.ttf", "zippath": "NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Regular.ttf" },
+        "NotoSansGunjalaGondi-Semibold.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansGunjalaGondi-Semibold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Semibold.ttf", "zippath": "NotoSansGunjalaGondi/full/ttf/NotoSansGunjalaGondi-Semibold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/gunjala-gondi/releases/download/NotoSansGunjalaGondi-v1.004/NotoSansGunjalaGondi-v1.004.zip",
+    "siteurl": "https://github.com/notofonts/gunjala-gondi/releases/tag/NotoSansGunjalaGondi-v1.004",
+    "source": "Google",
+    "status": "current",
+    "version": "1.004",
+    "ziproot": "NotoSansGunjalaGondi"
+},
 "notosansgurmukhi": {
     "defaults": {
         "ttf": "NotoSansGurmukhiUI-Regular.ttf"
@@ -4471,6 +4691,24 @@
     "version": "2.002",
     "ziproot": "NotoSansImperialAramaic"
 },
+"notosansindicsiyaqnumbers": {
+    "defaults": {
+        "ttf": "NotoSansIndicSiyaqNumbers-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Indic Siyaq Numbers",
+    "familyid": "notosansindicsiyaqnumbers",
+    "files": {
+        "NotoSansIndicSiyaqNumbers-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansIndicSiyaqNumbers-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansIndicSiyaqNumbers/full/ttf/NotoSansIndicSiyaqNumbers-Regular.ttf", "zippath": "NotoSansIndicSiyaqNumbers/full/ttf/NotoSansIndicSiyaqNumbers-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/indic-siyaq-numbers/releases/download/NotoSansIndicSiyaqNumbers-v2.002/NotoSansIndicSiyaqNumbers-v2.002.zip",
+    "siteurl": "https://github.com/notofonts/indic-siyaq-numbers/releases/tag/NotoSansIndicSiyaqNumbers-v2.002",
+    "source": "Google",
+    "status": "current",
+    "version": "2.002",
+    "ziproot": "NotoSansIndicSiyaqNumbers"
+},
 "notosansinscriptionalpahlavi": {
     "defaults": {
         "ttf": "NotoSansInscriptionalPahlavi-Regular.ttf"
@@ -4640,6 +4878,25 @@
     "status": "current",
     "version": "2.006",
     "ziproot": "NotoSansKannada"
+},
+"notosanskawi": {
+    "defaults": {
+        "ttf": "NotoSansKawi-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Kawi",
+    "familyid": "notosanskawi",
+    "files": {
+        "NotoSansKawi-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansKawi-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKawi/full/ttf/NotoSansKawi-Bold.ttf", "zippath": "NotoSansKawi/full/ttf/NotoSansKawi-Bold.ttf" },
+        "NotoSansKawi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansKawi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansKawi/full/ttf/NotoSansKawi-Regular.ttf", "zippath": "NotoSansKawi/full/ttf/NotoSansKawi-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/kawi/releases/download/NotoSansKawi-v1.000/NotoSansKawi-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/kawi/releases/tag/NotoSansKawi-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSansKawi"
 },
 "notosanskayahli": {
     "defaults": {
@@ -4829,6 +5086,59 @@
     "status": "current",
     "version": "2.003",
     "ziproot": "NotoSansLao"
+},
+"notosanslaolooped": {
+    "defaults": {
+        "ttf": "NotoSansLaoLooped-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Lao Looped",
+    "familyid": "notosanslaolooped",
+    "files": {
+        "NotoSansLaoLooped-Black.ttf": { "axes": { "wdth": 100, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Black.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Black.ttf" },
+        "NotoSansLaoLooped-Bold.ttf": { "axes": { "wdth": 100, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Bold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Bold.ttf" },
+        "NotoSansLaoLooped-Condensed.ttf": { "axes": { "wdth": 75, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-Condensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Condensed.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Condensed.ttf" },
+        "NotoSansLaoLooped-CondensedBlack.ttf": { "axes": { "wdth": 75, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-CondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedBlack.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedBlack.ttf" },
+        "NotoSansLaoLooped-CondensedBold.ttf": { "axes": { "wdth": 75, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-CondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedBold.ttf" },
+        "NotoSansLaoLooped-CondensedExtraBold.ttf": { "axes": { "wdth": 75, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-CondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedExtraBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedExtraBold.ttf" },
+        "NotoSansLaoLooped-CondensedExtraLight.ttf": { "axes": { "wdth": 75, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-CondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedExtraLight.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedExtraLight.ttf" },
+        "NotoSansLaoLooped-CondensedLight.ttf": { "axes": { "wdth": 75, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-CondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedLight.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedLight.ttf" },
+        "NotoSansLaoLooped-CondensedMedium.ttf": { "axes": { "wdth": 75, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-CondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedMedium.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedMedium.ttf" },
+        "NotoSansLaoLooped-CondensedSemiBold.ttf": { "axes": { "wdth": 75, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-CondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedSemiBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedSemiBold.ttf" },
+        "NotoSansLaoLooped-CondensedThin.ttf": { "axes": { "wdth": 75, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-CondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedThin.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-CondensedThin.ttf" },
+        "NotoSansLaoLooped-ExtraBold.ttf": { "axes": { "wdth": 100, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraBold.ttf" },
+        "NotoSansLaoLooped-ExtraCondensed.ttf": { "axes": { "wdth": 62.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensed.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensed.ttf" },
+        "NotoSansLaoLooped-ExtraCondensedBlack.ttf": { "axes": { "wdth": 62.5, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraCondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedBlack.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedBlack.ttf" },
+        "NotoSansLaoLooped-ExtraCondensedBold.ttf": { "axes": { "wdth": 62.5, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraCondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedBold.ttf" },
+        "NotoSansLaoLooped-ExtraCondensedExtraBold.ttf": { "axes": { "wdth": 62.5, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraCondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedExtraBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedExtraBold.ttf" },
+        "NotoSansLaoLooped-ExtraCondensedExtraLight.ttf": { "axes": { "wdth": 62.5, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraCondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedExtraLight.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedExtraLight.ttf" },
+        "NotoSansLaoLooped-ExtraCondensedLight.ttf": { "axes": { "wdth": 62.5, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraCondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedLight.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedLight.ttf" },
+        "NotoSansLaoLooped-ExtraCondensedMedium.ttf": { "axes": { "wdth": 62.5, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraCondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedMedium.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedMedium.ttf" },
+        "NotoSansLaoLooped-ExtraCondensedSemiBold.ttf": { "axes": { "wdth": 62.5, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraCondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedSemiBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedSemiBold.ttf" },
+        "NotoSansLaoLooped-ExtraCondensedThin.ttf": { "axes": { "wdth": 62.5, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraCondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedThin.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraCondensedThin.ttf" },
+        "NotoSansLaoLooped-ExtraLight.ttf": { "axes": { "wdth": 100, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraLight.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-ExtraLight.ttf" },
+        "NotoSansLaoLooped-Light.ttf": { "axes": { "wdth": 100, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Light.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Light.ttf" },
+        "NotoSansLaoLooped-Medium.ttf": { "axes": { "wdth": 100, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Medium.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Medium.ttf" },
+        "NotoSansLaoLooped-Regular.ttf": { "axes": { "wdth": 100, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Regular.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Regular.ttf" },
+        "NotoSansLaoLooped-SemiBold.ttf": { "axes": { "wdth": 100, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiBold.ttf" },
+        "NotoSansLaoLooped-SemiCondensed.ttf": { "axes": { "wdth": 87.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-SemiCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensed.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensed.ttf" },
+        "NotoSansLaoLooped-SemiCondensedBlack.ttf": { "axes": { "wdth": 87.5, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-SemiCondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedBlack.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedBlack.ttf" },
+        "NotoSansLaoLooped-SemiCondensedBold.ttf": { "axes": { "wdth": 87.5, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-SemiCondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedBold.ttf" },
+        "NotoSansLaoLooped-SemiCondensedExtraBold.ttf": { "axes": { "wdth": 87.5, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-SemiCondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedExtraBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedExtraBold.ttf" },
+        "NotoSansLaoLooped-SemiCondensedExtraLight.ttf": { "axes": { "wdth": 87.5, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-SemiCondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedExtraLight.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedExtraLight.ttf" },
+        "NotoSansLaoLooped-SemiCondensedLight.ttf": { "axes": { "wdth": 87.5, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-SemiCondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedLight.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedLight.ttf" },
+        "NotoSansLaoLooped-SemiCondensedMedium.ttf": { "axes": { "wdth": 87.5, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-SemiCondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedMedium.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedMedium.ttf" },
+        "NotoSansLaoLooped-SemiCondensedSemiBold.ttf": { "axes": { "wdth": 87.5, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-SemiCondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedSemiBold.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedSemiBold.ttf" },
+        "NotoSansLaoLooped-SemiCondensedThin.ttf": { "axes": { "wdth": 87.5, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-SemiCondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedThin.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-SemiCondensedThin.ttf" },
+        "NotoSansLaoLooped-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansLaoLooped-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Thin.ttf", "zippath": "NotoSansLaoLooped/full/ttf/NotoSansLaoLooped-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/lao/releases/download/NotoSansLaoLooped-v1.002/NotoSansLaoLooped-v1.002.zip",
+    "siteurl": "https://github.com/notofonts/lao/releases/tag/NotoSansLaoLooped-v1.002",
+    "source": "Google",
+    "status": "current",
+    "version": "1.002",
+    "ziproot": "NotoSansLaoLooped"
 },
 "notosanslepcha": {
     "defaults": {
@@ -5138,6 +5448,42 @@
     "version": "1.005",
     "ziproot": "NotoSansMasaramGondi"
 },
+"notosansmath": {
+    "defaults": {
+        "ttf": "NotoSansMath-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Math",
+    "familyid": "notosansmath",
+    "files": {
+        "NotoSansMath-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMath-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMath/full/ttf/NotoSansMath-Regular.ttf", "zippath": "NotoSansMath/full/ttf/NotoSansMath-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/math/releases/download/NotoSansMath-v3.000/NotoSansMath-v3.000.zip",
+    "siteurl": "https://github.com/notofonts/math/releases/tag/NotoSansMath-v3.000",
+    "source": "Google",
+    "status": "current",
+    "version": "3.000",
+    "ziproot": "NotoSansMath"
+},
+"notosansmayannumerals": {
+    "defaults": {
+        "ttf": "NotoSansMayanNumerals-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Mayan Numerals",
+    "familyid": "notosansmayannumerals",
+    "files": {
+        "NotoSansMayanNumerals-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansMayanNumerals-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMayanNumerals/full/ttf/NotoSansMayanNumerals-Regular.ttf", "zippath": "NotoSansMayanNumerals/full/ttf/NotoSansMayanNumerals-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/mayan-numerals/releases/download/NotoSansMayanNumerals-v2.001/NotoSansMayanNumerals-v2.001.zip",
+    "siteurl": "https://github.com/notofonts/mayan-numerals/releases/tag/NotoSansMayanNumerals-v2.001",
+    "source": "Google",
+    "status": "current",
+    "version": "2.001",
+    "ziproot": "NotoSansMayanNumerals"
+},
 "notosansmedefaidrin": {
     "defaults": {
         "ttf": "NotoSansMedefaidrin-Regular.ttf"
@@ -5283,6 +5629,17 @@
     "status": "current",
     "version": "3.002",
     "ziproot": "NotoSansMongolian"
+},
+"notosansmono": {
+    "distributable": true,
+    "family": "Noto Sans Mono",
+    "familyid": "notosansmono",
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSansMono-v2.014/NotoSansMono-v2.014.zip",
+    "siteurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/tag/NotoSansMono-v2.014",
+    "source": "Google",
+    "status": "current",
+    "version": "2.014"
 },
 "notosansmro": {
     "defaults": {
@@ -5484,6 +5841,43 @@
     "status": "current",
     "version": "2.004",
     "ziproot": "NotoSansNKo"
+},
+"notosansnkounjoined": {
+    "defaults": {
+        "ttf": "NotoSansNKoUnjoined-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans NKo Unjoined",
+    "familyid": "notosansnkounjoined",
+    "files": {
+        "NotoSansNKoUnjoined-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansNKoUnjoined-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNKoUnjoined/full/ttf/NotoSansNKoUnjoined-Bold.ttf", "zippath": "NotoSansNKoUnjoined/full/ttf/NotoSansNKoUnjoined-Bold.ttf" },
+        "NotoSansNKoUnjoined-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansNKoUnjoined-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNKoUnjoined/full/ttf/NotoSansNKoUnjoined-Regular.ttf", "zippath": "NotoSansNKoUnjoined/full/ttf/NotoSansNKoUnjoined-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/nko/releases/download/NotoSansNKoUnjoined-v2.004/NotoSansNKoUnjoined-v2.004.zip",
+    "siteurl": "https://github.com/notofonts/nko/releases/tag/NotoSansNKoUnjoined-v2.004",
+    "source": "Google",
+    "status": "current",
+    "version": "2.004",
+    "ziproot": "NotoSansNKoUnjoined"
+},
+"notosansnushu": {
+    "defaults": {
+        "ttf": "NotoSansNushu-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Nushu",
+    "familyid": "notosansnushu",
+    "files": {
+        "NotoSansNushu-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansNushu-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansNushu/full/ttf/NotoSansNushu-Regular.ttf", "zippath": "NotoSansNushu/full/ttf/NotoSansNushu-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/nushu/releases/download/NotoSansNushu-v1.003/NotoSansNushu-v1.003.zip",
+    "siteurl": "https://github.com/notofonts/nushu/releases/tag/NotoSansNushu-v1.003",
+    "source": "Google",
+    "status": "current",
+    "version": "1.003",
+    "ziproot": "NotoSansNushu"
 },
 "notosansogham": {
     "defaults": {
@@ -6100,6 +6494,24 @@
     "version": "2.005",
     "ziproot": "NotoSansSundanese"
 },
+"notosanssunuwar": {
+    "defaults": {
+        "ttf": "NotoSansSunuwar-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Sunuwar",
+    "familyid": "notosanssunuwar",
+    "files": {
+        "NotoSansSunuwar-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSunuwar-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSunuwar/full/ttf/NotoSansSunuwar-Regular.ttf", "zippath": "NotoSansSunuwar/full/ttf/NotoSansSunuwar-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/sunuwar/releases/download/NotoSansSunuwar-v1.000/NotoSansSunuwar-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/sunuwar/releases/tag/NotoSansSunuwar-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSansSunuwar"
+},
 "notosanssylotinagri": {
     "defaults": {
         "ttf": "NotoSansSylotiNagri-Regular.ttf"
@@ -6117,6 +6529,32 @@
     "status": "current",
     "version": "2.004",
     "ziproot": "NotoSansSylotiNagri"
+},
+"notosanssymbols": {
+    "defaults": {
+        "ttf": "NotoSansSymbols-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Symbols",
+    "familyid": "notosanssymbols",
+    "files": {
+        "NotoSansSymbols-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSansSymbols-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Black.ttf", "zippath": "NotoSansSymbols/full/ttf/NotoSansSymbols-Black.ttf" },
+        "NotoSansSymbols-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansSymbols-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Bold.ttf", "zippath": "NotoSansSymbols/full/ttf/NotoSansSymbols-Bold.ttf" },
+        "NotoSansSymbols-ExtraBold.ttf": { "axes": { "wght": 800.0 }, "packagepath": "full/ttf/NotoSansSymbols-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-ExtraBold.ttf", "zippath": "NotoSansSymbols/full/ttf/NotoSansSymbols-ExtraBold.ttf" },
+        "NotoSansSymbols-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSansSymbols-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-ExtraLight.ttf", "zippath": "NotoSansSymbols/full/ttf/NotoSansSymbols-ExtraLight.ttf" },
+        "NotoSansSymbols-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSansSymbols-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Light.ttf", "zippath": "NotoSansSymbols/full/ttf/NotoSansSymbols-Light.ttf" },
+        "NotoSansSymbols-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansSymbols-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Medium.ttf", "zippath": "NotoSansSymbols/full/ttf/NotoSansSymbols-Medium.ttf" },
+        "NotoSansSymbols-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSymbols-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Regular.ttf", "zippath": "NotoSansSymbols/full/ttf/NotoSansSymbols-Regular.ttf" },
+        "NotoSansSymbols-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansSymbols-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-SemiBold.ttf", "zippath": "NotoSansSymbols/full/ttf/NotoSansSymbols-SemiBold.ttf" },
+        "NotoSansSymbols-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSansSymbols-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols/full/ttf/NotoSansSymbols-Thin.ttf", "zippath": "NotoSansSymbols/full/ttf/NotoSansSymbols-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/symbols/releases/download/NotoSansSymbols-v2.003/NotoSansSymbols-v2.003.zip",
+    "siteurl": "https://github.com/notofonts/symbols/releases/tag/NotoSansSymbols-v2.003",
+    "source": "Google",
+    "status": "current",
+    "version": "2.003",
+    "ziproot": "NotoSansSymbols"
 },
 "notosanssymbols2": {
     "defaults": {
@@ -6172,6 +6610,26 @@
     "status": "current",
     "version": "3.001",
     "ziproot": "NotoSansSyriacEastern"
+},
+"notosanssyriacwestern": {
+    "defaults": {
+        "ttf": "NotoSansSyriacWestern-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Syriac Western",
+    "familyid": "notosanssyriacwestern",
+    "files": {
+        "NotoSansSyriacWestern-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSansSyriacWestern-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSyriacWestern/full/ttf/NotoSansSyriacWestern-Black.ttf", "zippath": "NotoSansSyriacWestern/full/ttf/NotoSansSyriacWestern-Black.ttf" },
+        "NotoSansSyriacWestern-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSyriacWestern-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSyriacWestern/full/ttf/NotoSansSyriacWestern-Regular.ttf", "zippath": "NotoSansSyriacWestern/full/ttf/NotoSansSyriacWestern-Regular.ttf" },
+        "NotoSansSyriacWestern-Thin.ttf": { "axes": { "wght": 100.0 }, "packagepath": "full/ttf/NotoSansSyriacWestern-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSyriacWestern/full/ttf/NotoSansSyriacWestern-Thin.ttf", "zippath": "NotoSansSyriacWestern/full/ttf/NotoSansSyriacWestern-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/syriac/releases/download/NotoSansSyriacWestern-v3.001/NotoSansSyriacWestern-v3.001.zip",
+    "siteurl": "https://github.com/notofonts/syriac/releases/tag/NotoSansSyriacWestern-v3.001",
+    "source": "Google",
+    "status": "current",
+    "version": "3.001",
+    "ziproot": "NotoSansSyriacWestern"
 },
 "notosanstagalog": {
     "defaults": {
@@ -6373,6 +6831,24 @@
     "version": "2.004",
     "ziproot": "NotoSansTamil"
 },
+"notosanstamilsupplement": {
+    "defaults": {
+        "ttf": "NotoSansTamilSupplement-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Tamil Supplement",
+    "familyid": "notosanstamilsupplement",
+    "files": {
+        "NotoSansTamilSupplement-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansTamilSupplement-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTamilSupplement/full/ttf/NotoSansTamilSupplement-Regular.ttf", "zippath": "NotoSansTamilSupplement/full/ttf/NotoSansTamilSupplement-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/tamil/releases/download/NotoSansTamilSupplement-v2.001/NotoSansTamilSupplement-v2.001.zip",
+    "siteurl": "https://github.com/notofonts/tamil/releases/tag/NotoSansTamilSupplement-v2.001",
+    "source": "Google",
+    "status": "current",
+    "version": "2.001",
+    "ziproot": "NotoSansTamilSupplement"
+},
 "notosanstangsa": {
     "defaults": {
         "ttf": "NotoSansTangsa-Regular.ttf"
@@ -6500,6 +6976,24 @@
     "version": "2.005",
     "ziproot": "NotoSansTelugu"
 },
+"notosanstest": {
+    "defaults": {
+        "ttf": "NotoSansTest-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Test",
+    "familyid": "notosanstest",
+    "files": {
+        "NotoSansTest-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansTest-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansTest/full/ttf/NotoSansTest-Regular.ttf", "zippath": "NotoSansTest/full/ttf/NotoSansTest-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/test/releases/download/NotoSansTest-v1.002/NotoSansTest-v1.002.zip",
+    "siteurl": "https://github.com/notofonts/test/releases/tag/NotoSansTest-v1.002",
+    "source": "Google",
+    "status": "current",
+    "version": "1.002",
+    "ziproot": "NotoSansTest"
+},
 "notosansthaana": {
     "defaults": {
         "ttf": "NotoSansThaana-Regular.ttf"
@@ -6578,6 +7072,59 @@
     "status": "current",
     "version": "2.002",
     "ziproot": "NotoSansThai"
+},
+"notosansthailooped": {
+    "defaults": {
+        "ttf": "NotoSansThaiLooped-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Thai Looped",
+    "familyid": "notosansthailooped",
+    "files": {
+        "NotoSansThaiLooped-Black.ttf": { "axes": { "wdth": 100, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Black.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Black.ttf" },
+        "NotoSansThaiLooped-Bold.ttf": { "axes": { "wdth": 100, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Bold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Bold.ttf" },
+        "NotoSansThaiLooped-Condensed.ttf": { "axes": { "wdth": 75, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-Condensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Condensed.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Condensed.ttf" },
+        "NotoSansThaiLooped-CondensedBlack.ttf": { "axes": { "wdth": 75, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-CondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedBlack.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedBlack.ttf" },
+        "NotoSansThaiLooped-CondensedBold.ttf": { "axes": { "wdth": 75, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-CondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedBold.ttf" },
+        "NotoSansThaiLooped-CondensedExtraBold.ttf": { "axes": { "wdth": 75, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-CondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedExtraBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedExtraBold.ttf" },
+        "NotoSansThaiLooped-CondensedExtraLight.ttf": { "axes": { "wdth": 75, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-CondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedExtraLight.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedExtraLight.ttf" },
+        "NotoSansThaiLooped-CondensedLight.ttf": { "axes": { "wdth": 75, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-CondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedLight.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedLight.ttf" },
+        "NotoSansThaiLooped-CondensedMedium.ttf": { "axes": { "wdth": 75, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-CondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedMedium.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedMedium.ttf" },
+        "NotoSansThaiLooped-CondensedSemiBold.ttf": { "axes": { "wdth": 75, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-CondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedSemiBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedSemiBold.ttf" },
+        "NotoSansThaiLooped-CondensedThin.ttf": { "axes": { "wdth": 75, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-CondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedThin.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-CondensedThin.ttf" },
+        "NotoSansThaiLooped-ExtraBold.ttf": { "axes": { "wdth": 100, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraBold.ttf" },
+        "NotoSansThaiLooped-ExtraCondensed.ttf": { "axes": { "wdth": 62.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensed.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensed.ttf" },
+        "NotoSansThaiLooped-ExtraCondensedBlack.ttf": { "axes": { "wdth": 62.5, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraCondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedBlack.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedBlack.ttf" },
+        "NotoSansThaiLooped-ExtraCondensedBold.ttf": { "axes": { "wdth": 62.5, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraCondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedBold.ttf" },
+        "NotoSansThaiLooped-ExtraCondensedExtraBold.ttf": { "axes": { "wdth": 62.5, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraCondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedExtraBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedExtraBold.ttf" },
+        "NotoSansThaiLooped-ExtraCondensedExtraLight.ttf": { "axes": { "wdth": 62.5, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraCondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedExtraLight.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedExtraLight.ttf" },
+        "NotoSansThaiLooped-ExtraCondensedLight.ttf": { "axes": { "wdth": 62.5, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraCondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedLight.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedLight.ttf" },
+        "NotoSansThaiLooped-ExtraCondensedMedium.ttf": { "axes": { "wdth": 62.5, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraCondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedMedium.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedMedium.ttf" },
+        "NotoSansThaiLooped-ExtraCondensedSemiBold.ttf": { "axes": { "wdth": 62.5, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraCondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedSemiBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedSemiBold.ttf" },
+        "NotoSansThaiLooped-ExtraCondensedThin.ttf": { "axes": { "wdth": 62.5, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraCondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedThin.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraCondensedThin.ttf" },
+        "NotoSansThaiLooped-ExtraLight.ttf": { "axes": { "wdth": 100, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraLight.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-ExtraLight.ttf" },
+        "NotoSansThaiLooped-Light.ttf": { "axes": { "wdth": 100, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Light.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Light.ttf" },
+        "NotoSansThaiLooped-Medium.ttf": { "axes": { "wdth": 100, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Medium.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Medium.ttf" },
+        "NotoSansThaiLooped-Regular.ttf": { "axes": { "wdth": 100, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Regular.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Regular.ttf" },
+        "NotoSansThaiLooped-SemiBold.ttf": { "axes": { "wdth": 100, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiBold.ttf" },
+        "NotoSansThaiLooped-SemiCondensed.ttf": { "axes": { "wdth": 87.5, "wght": 400.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-SemiCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensed.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensed.ttf" },
+        "NotoSansThaiLooped-SemiCondensedBlack.ttf": { "axes": { "wdth": 87.5, "wght": 900.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-SemiCondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedBlack.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedBlack.ttf" },
+        "NotoSansThaiLooped-SemiCondensedBold.ttf": { "axes": { "wdth": 87.5, "wght": 700.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-SemiCondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedBold.ttf" },
+        "NotoSansThaiLooped-SemiCondensedExtraBold.ttf": { "axes": { "wdth": 87.5, "wght": 800.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-SemiCondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedExtraBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedExtraBold.ttf" },
+        "NotoSansThaiLooped-SemiCondensedExtraLight.ttf": { "axes": { "wdth": 87.5, "wght": 200.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-SemiCondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedExtraLight.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedExtraLight.ttf" },
+        "NotoSansThaiLooped-SemiCondensedLight.ttf": { "axes": { "wdth": 87.5, "wght": 300.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-SemiCondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedLight.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedLight.ttf" },
+        "NotoSansThaiLooped-SemiCondensedMedium.ttf": { "axes": { "wdth": 87.5, "wght": 500.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-SemiCondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedMedium.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedMedium.ttf" },
+        "NotoSansThaiLooped-SemiCondensedSemiBold.ttf": { "axes": { "wdth": 87.5, "wght": 600.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-SemiCondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedSemiBold.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedSemiBold.ttf" },
+        "NotoSansThaiLooped-SemiCondensedThin.ttf": { "axes": { "wdth": 87.5, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-SemiCondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedThin.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-SemiCondensedThin.ttf" },
+        "NotoSansThaiLooped-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansThaiLooped-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Thin.ttf", "zippath": "NotoSansThaiLooped/full/ttf/NotoSansThaiLooped-Thin.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/thai/releases/download/NotoSansThaiLooped-v2.000/NotoSansThaiLooped-v2.000.zip",
+    "siteurl": "https://github.com/notofonts/thai/releases/tag/NotoSansThaiLooped-v2.000",
+    "source": "Google",
+    "status": "current",
+    "version": "2.000",
+    "ziproot": "NotoSansThaiLooped"
 },
 "notosanstibetan": {
     "distributable": true,
@@ -6670,6 +7217,27 @@
     "status": "current",
     "version": "2.001",
     "ziproot": "NotoSansVai"
+},
+"notosansvithkuqi": {
+    "defaults": {
+        "ttf": "NotoSansVithkuqi-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Sans Vithkuqi",
+    "familyid": "notosansvithkuqi",
+    "files": {
+        "NotoSansVithkuqi-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSansVithkuqi-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansVithkuqi/full/ttf/NotoSansVithkuqi-Bold.ttf", "zippath": "NotoSansVithkuqi/full/ttf/NotoSansVithkuqi-Bold.ttf" },
+        "NotoSansVithkuqi-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSansVithkuqi-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansVithkuqi/full/ttf/NotoSansVithkuqi-Medium.ttf", "zippath": "NotoSansVithkuqi/full/ttf/NotoSansVithkuqi-Medium.ttf" },
+        "NotoSansVithkuqi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansVithkuqi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansVithkuqi/full/ttf/NotoSansVithkuqi-Regular.ttf", "zippath": "NotoSansVithkuqi/full/ttf/NotoSansVithkuqi-Regular.ttf" },
+        "NotoSansVithkuqi-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSansVithkuqi-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansVithkuqi/full/ttf/NotoSansVithkuqi-SemiBold.ttf", "zippath": "NotoSansVithkuqi/full/ttf/NotoSansVithkuqi-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/vithkuqi/releases/download/NotoSansVithkuqi-v1.001/NotoSansVithkuqi-v1.001.zip",
+    "siteurl": "https://github.com/notofonts/vithkuqi/releases/tag/NotoSansVithkuqi-v1.001",
+    "source": "Google",
+    "status": "current",
+    "version": "1.001",
+    "ziproot": "NotoSansVithkuqi"
 },
 "notosanswancho": {
     "defaults": {
@@ -6825,6 +7393,24 @@
     "version": "2.008",
     "ziproot": "NotoSerifArmenian"
 },
+"notoserifbalinese": {
+    "defaults": {
+        "ttf": "NotoSerifBalinese-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Balinese",
+    "familyid": "notoserifbalinese",
+    "files": {
+        "NotoSerifBalinese-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifBalinese-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifBalinese/full/ttf/NotoSerifBalinese-Regular.ttf", "zippath": "NotoSerifBalinese/full/ttf/NotoSerifBalinese-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/balinese/releases/download/NotoSerifBalinese-v2.007/NotoSerifBalinese-v2.007.zip",
+    "siteurl": "https://github.com/notofonts/balinese/releases/tag/NotoSerifBalinese-v2.007",
+    "source": "Google",
+    "status": "current",
+    "version": "2.007",
+    "ziproot": "NotoSerifBalinese"
+},
 "notoserifbengali": {
     "defaults": {
         "ttf": "NotoSerifBengali-Regular.ttf"
@@ -6930,6 +7516,35 @@
     "status": "current",
     "version": "2.006",
     "ziproot": "NotoSerifDevanagari"
+},
+"notoserifdisplay": {
+    "distributable": true,
+    "family": "Noto Serif Display",
+    "familyid": "notoserifdisplay",
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSerifDisplay-v2.009/NotoSerifDisplay-v2.009.zip",
+    "siteurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/tag/NotoSerifDisplay-v2.009",
+    "source": "Google",
+    "status": "current",
+    "version": "2.009"
+},
+"notoserifdivesakuru": {
+    "defaults": {
+        "ttf": "NotoSerifDivesAkuru-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Dives Akuru",
+    "familyid": "notoserifdivesakuru",
+    "files": {
+        "NotoSerifDivesAkuru-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifDivesAkuru-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifDivesAkuru/full/ttf/NotoSerifDivesAkuru-Regular.ttf", "zippath": "NotoSerifDivesAkuru/full/ttf/NotoSerifDivesAkuru-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/dives-akuru/releases/download/NotoSerifDivesAkuru-v2.000/NotoSerifDivesAkuru-v2.000.zip",
+    "siteurl": "https://github.com/notofonts/dives-akuru/releases/tag/NotoSerifDivesAkuru-v2.000",
+    "source": "Google",
+    "status": "current",
+    "version": "2.000",
+    "ziproot": "NotoSerifDivesAkuru"
 },
 "notoserifdogra": {
     "defaults": {
@@ -7055,6 +7670,24 @@
     "version": "2.003",
     "ziproot": "NotoSerifGeorgian"
 },
+"notoserifgrantha": {
+    "defaults": {
+        "ttf": "NotoSerifGrantha-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Grantha",
+    "familyid": "notoserifgrantha",
+    "files": {
+        "NotoSerifGrantha-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifGrantha-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifGrantha/full/ttf/NotoSerifGrantha-Regular.ttf", "zippath": "NotoSerifGrantha/full/ttf/NotoSerifGrantha-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/grantha/releases/download/NotoSerifGrantha-v2.005/NotoSerifGrantha-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/grantha/releases/tag/NotoSerifGrantha-v2.005",
+    "source": "Google",
+    "status": "current",
+    "version": "2.005",
+    "ziproot": "NotoSerifGrantha"
+},
 "notoserifgujarati": {
     "defaults": {
         "ttf": "NotoSerifGujarati-Regular.ttf"
@@ -7160,6 +7793,30 @@
     "version": "2.004",
     "ziproot": "NotoSerifHebrew"
 },
+"notoserifhentaigana": {
+    "defaults": {
+        "ttf": "NotoSerifHentaigana-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Hentaigana",
+    "familyid": "notoserifhentaigana",
+    "files": {
+        "NotoSerifHentaigana-Black.ttf": { "axes": { "wght": 900.0 }, "packagepath": "full/ttf/NotoSerifHentaigana-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-Black.ttf", "zippath": "NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-Black.ttf" },
+        "NotoSerifHentaigana-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifHentaigana-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-Bold.ttf", "zippath": "NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-Bold.ttf" },
+        "NotoSerifHentaigana-ExtraLight.ttf": { "axes": { "wght": 200.0 }, "packagepath": "full/ttf/NotoSerifHentaigana-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-ExtraLight.ttf", "zippath": "NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-ExtraLight.ttf" },
+        "NotoSerifHentaigana-Light.ttf": { "axes": { "wght": 300.0 }, "packagepath": "full/ttf/NotoSerifHentaigana-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-Light.ttf", "zippath": "NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-Light.ttf" },
+        "NotoSerifHentaigana-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifHentaigana-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-Medium.ttf", "zippath": "NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-Medium.ttf" },
+        "NotoSerifHentaigana-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifHentaigana-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-Regular.ttf", "zippath": "NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-Regular.ttf" },
+        "NotoSerifHentaigana-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifHentaigana-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-SemiBold.ttf", "zippath": "NotoSerifHentaigana/full/ttf/NotoSerifHentaigana-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/hentaigana/releases/download/NotoSerifHentaigana-v1.000/NotoSerifHentaigana-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/hentaigana/releases/tag/NotoSerifHentaigana-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSerifHentaigana"
+},
 "notoserifjp": {
     "distributable": true,
     "family": "Noto Serif JP",
@@ -7264,6 +7921,25 @@
     "status": "current",
     "version": "2.004",
     "ziproot": "NotoSerifKhmer"
+},
+"notoserifkhojki": {
+    "defaults": {
+        "ttf": "NotoSerifKhojki-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Khojki",
+    "familyid": "notoserifkhojki",
+    "files": {
+        "NotoSerifKhojki-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifKhojki-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifKhojki/full/ttf/NotoSerifKhojki-Bold.ttf", "zippath": "NotoSerifKhojki/full/ttf/NotoSerifKhojki-Bold.ttf" },
+        "NotoSerifKhojki-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifKhojki-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifKhojki/full/ttf/NotoSerifKhojki-Regular.ttf", "zippath": "NotoSerifKhojki/full/ttf/NotoSerifKhojki-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/khojki/releases/download/NotoSerifKhojki-v2.005/NotoSerifKhojki-v2.005.zip",
+    "siteurl": "https://github.com/notofonts/khojki/releases/tag/NotoSerifKhojki-v2.005",
+    "source": "Google",
+    "status": "current",
+    "version": "2.005",
+    "ziproot": "NotoSerifKhojki"
 },
 "notoserifkr": {
     "distributable": true,
@@ -7461,6 +8137,45 @@
     "status": "current",
     "version": "1.004",
     "ziproot": "NotoSerifOldUyghur"
+},
+"notoseriforiya": {
+    "defaults": {
+        "ttf": "NotoSerifOriya-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Oriya",
+    "familyid": "notoseriforiya",
+    "files": {
+        "NotoSerifOriya-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifOriya-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifOriya/full/ttf/NotoSerifOriya-Bold.ttf", "zippath": "NotoSerifOriya/full/ttf/NotoSerifOriya-Bold.ttf" },
+        "NotoSerifOriya-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifOriya-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifOriya/full/ttf/NotoSerifOriya-Medium.ttf", "zippath": "NotoSerifOriya/full/ttf/NotoSerifOriya-Medium.ttf" },
+        "NotoSerifOriya-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifOriya-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifOriya/full/ttf/NotoSerifOriya-Regular.ttf", "zippath": "NotoSerifOriya/full/ttf/NotoSerifOriya-Regular.ttf" },
+        "NotoSerifOriya-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifOriya-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifOriya/full/ttf/NotoSerifOriya-SemiBold.ttf", "zippath": "NotoSerifOriya/full/ttf/NotoSerifOriya-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/oriya/releases/download/NotoSerifOriya-v1.051/NotoSerifOriya-v1.051.zip",
+    "siteurl": "https://github.com/notofonts/oriya/releases/tag/NotoSerifOriya-v1.051",
+    "source": "Google",
+    "status": "current",
+    "version": "1.051",
+    "ziproot": "NotoSerifOriya"
+},
+"notoserifottomansiyaq": {
+    "defaults": {
+        "ttf": "NotoSerifOttomanSiyaq-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Ottoman Siyaq",
+    "familyid": "notoserifottomansiyaq",
+    "files": {
+        "NotoSerifOttomanSiyaq-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifOttomanSiyaq-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifOttomanSiyaq/full/ttf/NotoSerifOttomanSiyaq-Regular.ttf", "zippath": "NotoSerifOttomanSiyaq/full/ttf/NotoSerifOttomanSiyaq-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/ottoman-siyaq-numbers/releases/download/NotoSerifOttomanSiyaq-v1.006/NotoSerifOttomanSiyaq-v1.006.zip",
+    "siteurl": "https://github.com/notofonts/ottoman-siyaq-numbers/releases/tag/NotoSerifOttomanSiyaq-v1.006",
+    "source": "Google",
+    "status": "current",
+    "version": "1.006",
+    "ziproot": "NotoSerifOttomanSiyaq"
 },
 "notoserifsc": {
     "distributable": true,
@@ -7664,6 +8379,25 @@
     "version": "2.005",
     "ziproot": "NotoSerifTelugu"
 },
+"notoseriftest": {
+    "defaults": {
+        "ttf": "NotoSerifTest-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Test",
+    "familyid": "notoseriftest",
+    "files": {
+        "NotoSerifTest-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifTest-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTest/full/ttf/NotoSerifTest-Bold.ttf", "zippath": "NotoSerifTest/full/ttf/NotoSerifTest-Bold.ttf" },
+        "NotoSerifTest-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifTest-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTest/full/ttf/NotoSerifTest-Regular.ttf", "zippath": "NotoSerifTest/full/ttf/NotoSerifTest-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/test/releases/download/NotoSerifTest-v1.000/NotoSerifTest-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/test/releases/tag/NotoSerifTest-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSerifTest"
+},
 "notoserifthai": {
     "defaults": {
         "ttf": "NotoSerifThai-Regular.ttf"
@@ -7743,6 +8477,24 @@
     "version": "2.103",
     "ziproot": "NotoSerifTibetan"
 },
+"notoseriftodhri": {
+    "defaults": {
+        "ttf": "NotoSerifTodhri-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Todhri",
+    "familyid": "notoseriftodhri",
+    "files": {
+        "NotoSerifTodhri-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifTodhri-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifTodhri/full/ttf/NotoSerifTodhri-Regular.ttf", "zippath": "NotoSerifTodhri/full/ttf/NotoSerifTodhri-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/todhri/releases/download/NotoSerifTodhri-v1.000/NotoSerifTodhri-v1.000.zip",
+    "siteurl": "https://github.com/notofonts/todhri/releases/tag/NotoSerifTodhri-v1.000",
+    "source": "Google",
+    "status": "current",
+    "version": "1.000",
+    "ziproot": "NotoSerifTodhri"
+},
 "notoseriftoto": {
     "defaults": {
         "ttf": "NotoSerifToto-Regular.ttf"
@@ -7763,6 +8515,27 @@
     "status": "current",
     "version": "2.002",
     "ziproot": "NotoSerifToto"
+},
+"notoserifvithkuqi": {
+    "defaults": {
+        "ttf": "NotoSerifVithkuqi-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Serif Vithkuqi",
+    "familyid": "notoserifvithkuqi",
+    "files": {
+        "NotoSerifVithkuqi-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifVithkuqi-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifVithkuqi/full/ttf/NotoSerifVithkuqi-Bold.ttf", "zippath": "NotoSerifVithkuqi/full/ttf/NotoSerifVithkuqi-Bold.ttf" },
+        "NotoSerifVithkuqi-Medium.ttf": { "axes": { "wght": 500.0 }, "packagepath": "full/ttf/NotoSerifVithkuqi-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifVithkuqi/full/ttf/NotoSerifVithkuqi-Medium.ttf", "zippath": "NotoSerifVithkuqi/full/ttf/NotoSerifVithkuqi-Medium.ttf" },
+        "NotoSerifVithkuqi-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSerifVithkuqi-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifVithkuqi/full/ttf/NotoSerifVithkuqi-Regular.ttf", "zippath": "NotoSerifVithkuqi/full/ttf/NotoSerifVithkuqi-Regular.ttf" },
+        "NotoSerifVithkuqi-SemiBold.ttf": { "axes": { "wght": 600.0 }, "packagepath": "full/ttf/NotoSerifVithkuqi-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifVithkuqi/full/ttf/NotoSerifVithkuqi-SemiBold.ttf", "zippath": "NotoSerifVithkuqi/full/ttf/NotoSerifVithkuqi-SemiBold.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/vithkuqi/releases/download/NotoSerifVithkuqi-v1.005/NotoSerifVithkuqi-v1.005.zip",
+    "siteurl": "https://github.com/notofonts/vithkuqi/releases/tag/NotoSerifVithkuqi-v1.005",
+    "source": "Google",
+    "status": "current",
+    "version": "1.005",
+    "ziproot": "NotoSerifVithkuqi"
 },
 "notoserifyezidi": {
     "defaults": {
@@ -7804,6 +8577,24 @@
     "status": "current",
     "version": "2.003",
     "ziproot": "NotoTraditionalNushu"
+},
+"notoznamennymusicalnotation": {
+    "defaults": {
+        "ttf": "NotoZnamennyMusicalNotation-Regular.ttf"
+    },
+    "distributable": true,
+    "family": "Noto Znamenny Musical Notation",
+    "familyid": "notoznamennymusicalnotation",
+    "files": {
+        "NotoZnamennyMusicalNotation-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoZnamennyMusicalNotation-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoZnamennyMusicalNotation/full/ttf/NotoZnamennyMusicalNotation-Regular.ttf", "zippath": "NotoZnamennyMusicalNotation/full/ttf/NotoZnamennyMusicalNotation-Regular.ttf" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/notofonts/znamenny/releases/download/NotoZnamennyMusicalNotation-v1.003/NotoZnamennyMusicalNotation-v1.003.zip",
+    "siteurl": "https://github.com/notofonts/znamenny/releases/tag/NotoZnamennyMusicalNotation-v1.003",
+    "source": "Google",
+    "status": "current",
+    "version": "1.003",
+    "ziproot": "NotoZnamennyMusicalNotation"
 },
 "nuosusil": {
     "defaults": {
