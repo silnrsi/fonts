@@ -4,10 +4,10 @@
     "family": "Busra",
     "familyid": "busra",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/busra/Busra-9.100.zip",
+    "packageurl": "https://software.sil.org/downloads/r/busra/Busra-9.200.zip",
     "siteurl": "https://software.sil.org/busra/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "Busra-9.100"
+    "ziproot": "Busra-9.200"
 }
 }

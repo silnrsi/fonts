@@ -26,6 +26,6 @@
         "Busra-SemiBold.woff": { "altfamily": "Busra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Busra-SemiBold.woff" },
         "Busra-SemiBold.woff2": { "altfamily": "Busra SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/Busra-SemiBold.woff2" }
     },
-    "version": "9.100"
+    "version": "9.200"
 }
 }

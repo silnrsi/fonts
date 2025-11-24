@@ -10,6 +10,9 @@ The Busra fonts (https://software.sil.org/busra/) provide Unicode support for la
 
 ## ChangeLog
 
+### 24 November 2025 (SIL WSTech Team) Busra version 9.200
+- OpenType fixes for particular character sequences
+
 ### 7 October 2025 (SIL WSTech Team) Busra version 9.100
 - OpenType fixes for particular character sequences
 - Improved diacritic positioning
