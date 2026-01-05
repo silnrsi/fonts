@@ -1,0 +1,103 @@
+/*
+Idiqlat-webfont-example.css
+This file is part of Idiqlat font family (https://software.sil.org/idiqlat)
+and is Copyright (c) 2025 SIL Global (https://www.sil.org/),
+with Reserved Font Names "Idiqlat" and "SIL". This Font Software is licensed
+under the SIL Open Font License, Version 1.1. You should have received a copy
+of the license along with this Font Software. If this is not the case, go to
+(https://openfontlicense.org/) for all the details including a FAQ.
+*/
+
+/* use Idiqlat - Regular in .woff format */
+@font-face {
+  font-family: IdiqlatR;
+  src: url(Idiqlat-Regular.woff2);
+}
+@font-face {
+  font-family: IdiqlatL;
+  src: url(Idiqlat-Light.woff2);
+}
+@font-face {
+  font-family: IdiqlatEL;
+  src: url(Idiqlat-ExtraLight.woff2);
+}
+/* set body to use Idiqlat in .woff format */
+body {
+  font-family: IdiqlatR, sans-serif; text-align: left; font-size: 100%;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+
+h1 {
+  font-family: IdiqlatR, sans-serif; text-align: left; font-size: 150%; color: #1434A4;
+}
+h2 {
+  font-family: IdiqlatR, sans-serif; text-align: left; font-size: 130%; color: #1434A4;
+}
+h3 {
+  font-family: IdiqlatR, sans-serif; text-align: left; font-size: 120%; color: #1434A4;
+}
+.rtl {
+  font-family: IdiqlatR, sans-serif; font-size: 100%; direction: rtl; text-align: right;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}	
+.rtl_l {
+  font-family: IdiqlatL, sans-serif; font-size: 100%; direction: rtl; text-align: right;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}	
+
+.Reg {
+  font-family: IdiqlatR;
+  font-size: 100%; direction: rtl; text-align: right;
+}
+.ExtL {
+  font-family: IdiqlatEL;
+  font-size: 100%; direction: rtl; text-align: right;
+}
+.Lit {
+  font-family: IdiqlatL;
+  font-size: 100%; direction: rtl; text-align: right;
+}
+.ss01 {
+  font-family: IdiqlatR;
+  font-feature-settings: "ss01" 1;
+  -moz-font-feature-settings: "ss01" 1;
+  -webkit-font-feature-settings: "ss01" 1;
+  font-size: 100%; direction: rtl; text-align: right;
+}
+.ss02 {
+  font-family: IdiqlatR;
+  font-feature-settings: "ss02" 1;
+  -moz-font-feature-settings: "ss02" 1;
+  -webkit-font-feature-settings: "ss02" 1;
+  font-size: 100%; direction: rtl; text-align: right;
+}
+.ss03 {
+  font-family: IdiqlatR;
+  font-feature-settings: "ss03" 1;
+  -moz-font-feature-settings: "ss03" 1;
+  -webkit-font-feature-settings: "ss03" 1;
+  font-size: 100%; direction: rtl; text-align: right;
+}
+.ss04 {
+  font-family: IdiqlatR;
+  font-feature-settings: "ss04" 1;
+  -moz-font-feature-settings: "ss04" 1;
+  -webkit-font-feature-settings: "ss04" 1;
+  font-size: 100%; direction: rtl; text-align: right;
+}
+.ss05 {
+  font-family: IdiqlatR;
+  font-feature-settings: "ss05" 1;
+  -moz-font-feature-settings: "ss05" 1;
+  -webkit-font-feature-settings: "ss05" 1;
+  font-size: 100%; direction: rtl; text-align: right;
+}
+.ss16 {
+  font-family: IdiqlatR; 
+  font-feature-settings: "ss16" 1;
+  -moz-font-feature-settings: "ss16" 1;
+  -webkit-font-feature-settings: "ss16" 1;
+  font-size: 100%; direction: rtl; text-align: right;
+}
+
+	

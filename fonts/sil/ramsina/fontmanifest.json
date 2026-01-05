@@ -1,0 +1,16 @@
+{
+"ramsina": {
+    "defaults": {
+        "ttf": "Ramsina-Regular.ttf",
+        "woff": "Ramsina-Regular.woff",
+        "woff2": "Ramsina-Regular.woff2"
+    },
+    "family": "Ramsina",
+    "files": {
+        "Ramsina-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Ramsina-Regular.ttf" },
+        "Ramsina-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Ramsina-Regular.woff" },
+        "Ramsina-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Ramsina-Regular.woff2" }
+    },
+    "version": "2.000"
+}
+}

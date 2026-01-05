@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+Ramsina-webfont-example.html
+This file is part of Ramsina font family and is Copyright (c) 2025 SIL Global (https://www.sil.org/),
+with Reserved Font Names "Ramsina" and "SIL". This Font Software is licensed
+under the SIL Open Font License, Version 1.1. You should have received a copy
+of the license along with this Font Software. If this is not the case, go to
+(https://openfontlicense.org/) for all the details including a FAQ.
+-->
+<head>
+	<link rel="stylesheet" href="Ramsina-webfont-example.css" type="text/css">
+	<meta charset="utf-8">
+	<meta name="description" content="An example of using Ramsina on your web page via WOFF2">
+	<meta name="author" content="SIL Global: software.sil.org/wstech">
+
+</head>
+<body>
+
+<h1>Using Ramsina webfonts</h1>
+
+<p>The page demonstrates how to use the WOFF2 version of Ramsina for web pages, using local copies of the .woff2 files in this archive. For more information on this technique
+	 - and how to use the normal TrueType version as a web font - see <a href="https://software.sil.org/fonts/webfonts">Using SIL Fonts on Web Pages</a>.</p>
+
+<p>The body of this document is styled using an external stylesheet, with Ramsina set as the default font, and loaded directly as a WOFF2 file using the @font-face rule. 
+	If you're seeing a serif font here then it is working. Otherwise the text will be in a sans-serif or your browser default. 
+	This technique has been tested in Firefox, Chrome, Safari, and Edge.</p>
+	
+<p>To see specifically how these techniques are specified in the CSS and HTML view the source to this page and the accompanying CSS file.</p>
+
+<h2>Test General behavior of Syriac script in webfonts</h2>
+
+<p>Regular</p>
+<p class=rtl>ܐܒ݂ܗܐ ܐܝܬܠܗܘܢ ܗܩܘܬܐ ܠܓܒܝܬܐ ܝܘܠܦܢܐ ܩܐ ܝܗܠܝܗܝ.</p>
+
+<h2>Test Character Variants of ligatures in Syriac script in webfonts</h2>
+
+<h3>taw-alaph ligature</h3>
+<p class=rtl>&#x072C;&#x0710; &#x0712;&#x072C;&#x0710; </p>
+<p class=ss01>&#x072C;&#x0710; &#x0712;&#x072C;&#x0710; [ss01=1]</p>
+<p class=ss02>&#x072C;&#x0710; &#x0712;&#x072C;&#x0710; [ss02=1]</p>
+
+<h3>he-yudh ligature</h3>
+<p class=rtl>&#x0717;&#x071D; &#x0712;&#x0717;&#x071D; </p>
+<p class=ss03>&#x0717;&#x071D; &#x0712;&#x0717;&#x071D; [ss03=1]</p>
+
+<h3>sadhe-nun ligature</h3>
+<p class=rtl>&#x0728;&#x0722; &#x0712;&#x0728;&#x0722; </p>
+<p class=ss04>&#x0728;&#x0722; &#x0712;&#x0728;&#x0722; [ss04=1]</p>
+
+
+<h3>taw-yudh ligature</h3>
+<p class=rtl>&#x072C;&#x071D; &#x0712;&#x072C;&#x071D; </p>
+<p class=ss05>&#x072C;&#x071D; &#x0712;&#x072C;&#x071D; [ss05=1]</p>
+
+<h3>Kaph Mim Nun alternates</h3>
+<p class=rtl>&#x071F; &#x0721; &#x0722; </p>
+<p class=ss16>&#x071F; &#x0721; &#x0722; [ss16=1]</p>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+"idiqlat": {
+    "defaults": {
+        "ttf": "Idiqlat-Regular.ttf",
+        "woff": "Idiqlat-Regular.woff",
+        "woff2": "Idiqlat-Regular.woff2"
+    },
+    "family": "Idiqlat",
+    "files": {
+        "Idiqlat-ExtraLight.ttf": { "altfamily": "Idiqlat ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "Idiqlat-ExtraLight.ttf" },
+        "Idiqlat-ExtraLight.woff": { "altfamily": "Idiqlat ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "web/Idiqlat-ExtraLight.woff" },
+        "Idiqlat-ExtraLight.woff2": { "altfamily": "Idiqlat ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "packagepath": "web/Idiqlat-ExtraLight.woff2" },
+        "Idiqlat-Light.ttf": { "altfamily": "Idiqlat Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "Idiqlat-Light.ttf" },
+        "Idiqlat-Light.woff": { "altfamily": "Idiqlat Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/Idiqlat-Light.woff" },
+        "Idiqlat-Light.woff2": { "altfamily": "Idiqlat Light", "axes": { "ital": 0, "wght": 300.0 }, "packagepath": "web/Idiqlat-Light.woff2" },
+        "Idiqlat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "Idiqlat-Regular.ttf" },
+        "Idiqlat-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Idiqlat-Regular.woff" },
+        "Idiqlat-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Idiqlat-Regular.woff2" }
+    },
+    "version": "2.000"
+}
+}

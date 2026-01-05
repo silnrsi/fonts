@@ -1,0 +1,19 @@
+/*
+This file is from the SIL Fontdocs project (https://github.com/silnrsi/fontdocs).
+Copyright (c) 2025 SIL Global (https://www.sil.org/). This Font Software is
+released under the MIT license (https://opensource.org/licenses/MIT).
+*/
+@font-face {
+    font-family: Idiqlat-R;
+    src: url("../../../web/Idiqlat-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: Idiqlat-L;
+    src: url("../../../web/Idiqlat-ExtraLight.woff2") format("woff2");
+}
+
+.idiqlat-R { font-family: Idiqlat-R; direction: rtl; text-align: right;}
+.idiqlatL-R { font-family: Idiqlat-R; direction: ltr; text-align: left;}
+.idiqlat-L { font-family: Idiqlat-L; direction: rtl; text-align: right;}
+.idiqlatL-L { font-family: Idiqlat-L; direction: ltr; text-align: left;}
+

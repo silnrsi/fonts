@@ -2317,6 +2317,34 @@
     "version": "4.400",
     "ziproot": "Harmattan-4.400"
 },
+"idiqlat": {
+    "defaults": {
+        "ttf": "Idiqlat-Regular.ttf",
+        "woff": "Idiqlat-Regular.woff",
+        "woff2": "Idiqlat-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Idiqlat",
+    "familyid": "idiqlat",
+    "files": {
+        "Idiqlat-ExtraLight.ttf": { "altfamily": "Idiqlat ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/idiqlat/Idiqlat-ExtraLight.ttf", "packagepath": "Idiqlat-ExtraLight.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/idiqlat/Idiqlat-ExtraLight.ttf", "zippath": "Idiqlat-2.000/Idiqlat-ExtraLight.ttf" },
+        "Idiqlat-ExtraLight.woff": { "altfamily": "Idiqlat ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/idiqlat/web/Idiqlat-ExtraLight.woff", "packagepath": "web/Idiqlat-ExtraLight.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/idiqlat/web/Idiqlat-ExtraLight.woff", "zippath": "Idiqlat-2.000/web/Idiqlat-ExtraLight.woff" },
+        "Idiqlat-ExtraLight.woff2": { "altfamily": "Idiqlat ExtraLight", "axes": { "ital": 0, "wght": 200.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/idiqlat/web/Idiqlat-ExtraLight.woff2", "packagepath": "web/Idiqlat-ExtraLight.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/idiqlat/web/Idiqlat-ExtraLight.woff2", "zippath": "Idiqlat-2.000/web/Idiqlat-ExtraLight.woff2" },
+        "Idiqlat-Light.ttf": { "altfamily": "Idiqlat Light", "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/idiqlat/Idiqlat-Light.ttf", "packagepath": "Idiqlat-Light.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/idiqlat/Idiqlat-Light.ttf", "zippath": "Idiqlat-2.000/Idiqlat-Light.ttf" },
+        "Idiqlat-Light.woff": { "altfamily": "Idiqlat Light", "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/idiqlat/web/Idiqlat-Light.woff", "packagepath": "web/Idiqlat-Light.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/idiqlat/web/Idiqlat-Light.woff", "zippath": "Idiqlat-2.000/web/Idiqlat-Light.woff" },
+        "Idiqlat-Light.woff2": { "altfamily": "Idiqlat Light", "axes": { "ital": 0, "wght": 300.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/idiqlat/web/Idiqlat-Light.woff2", "packagepath": "web/Idiqlat-Light.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/idiqlat/web/Idiqlat-Light.woff2", "zippath": "Idiqlat-2.000/web/Idiqlat-Light.woff2" },
+        "Idiqlat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/idiqlat/Idiqlat-Regular.ttf", "packagepath": "Idiqlat-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/idiqlat/Idiqlat-Regular.ttf", "zippath": "Idiqlat-2.000/Idiqlat-Regular.ttf" },
+        "Idiqlat-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/idiqlat/web/Idiqlat-Regular.woff", "packagepath": "web/Idiqlat-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/idiqlat/web/Idiqlat-Regular.woff", "zippath": "Idiqlat-2.000/web/Idiqlat-Regular.woff" },
+        "Idiqlat-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/idiqlat/web/Idiqlat-Regular.woff2", "packagepath": "web/Idiqlat-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/idiqlat/web/Idiqlat-Regular.woff2", "zippath": "Idiqlat-2.000/web/Idiqlat-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/idiqlat/Idiqlat-2.000.zip",
+    "siteurl": "https://software.sil.org/idiqlat/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.000",
+    "ziproot": "Idiqlat-2.000"
+},
 "japasansoriya": {
     "defaults": {
         "ttf": "JapaSansOriya-Regular.ttf",
@@ -8730,6 +8758,28 @@
     "familyid": "raavi",
     "license": "proprietary",
     "source": "Microsoft"
+},
+"ramsina": {
+    "defaults": {
+        "ttf": "Ramsina-Regular.ttf",
+        "woff": "Ramsina-Regular.woff",
+        "woff2": "Ramsina-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "Ramsina",
+    "familyid": "ramsina",
+    "files": {
+        "Ramsina-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ramsina/Ramsina-Regular.ttf", "packagepath": "Ramsina-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ramsina/Ramsina-Regular.ttf", "zippath": "Ramsina-2.000/Ramsina-Regular.ttf" },
+        "Ramsina-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ramsina/web/Ramsina-Regular.woff", "packagepath": "web/Ramsina-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ramsina/web/Ramsina-Regular.woff", "zippath": "Ramsina-2.000/web/Ramsina-Regular.woff" },
+        "Ramsina-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/ramsina/web/Ramsina-Regular.woff2", "packagepath": "web/Ramsina-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/ramsina/web/Ramsina-Regular.woff2", "zippath": "Ramsina-2.000/web/Ramsina-Regular.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://github.com/silnrsi/font-ramsina/releases/download/v2.000/Ramsina-2.000.zip",
+    "siteurl": "https://github.com/silnrsi/font-ramsina/",
+    "source": "SIL",
+    "status": "current",
+    "version": "2.000",
+    "ziproot": "Ramsina-2.000"
 },
 "ruwudu": {
     "defaults": {

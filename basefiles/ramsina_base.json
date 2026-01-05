@@ -1,0 +1,13 @@
+{
+"ramsina": {
+    "distributable": true,
+    "family": "Ramsina",
+    "familyid": "ramsina",
+    "license": "OFL",
+    "packageurl": "https://github.com/silnrsi/font-ramsina/releases/download/v2.000/Ramsina-2.000.zip",
+    "siteurl": "https://github.com/silnrsi/font-ramsina/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "Ramsina-2.000"
+}
+}
