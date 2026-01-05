@@ -3767,11 +3767,11 @@
         "NotoSansBengali-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "full/ttf/NotoSansBengali-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansBengali/full/ttf/NotoSansBengali-Thin.ttf", "zippath": "NotoSansBengali/full/ttf/NotoSansBengali-Thin.ttf" }
     },
     "license": "OFL",
-    "packageurl": "https://github.com/notofonts/bengali/releases/download/NotoSansBengali-v3.000/NotoSansBengali-v3.000.zip",
-    "siteurl": "https://github.com/notofonts/bengali/releases/tag/NotoSansBengali-v3.000",
+    "packageurl": "https://github.com/notofonts/bengali/releases/download/NotoSansBengali-v3.010/NotoSansBengali-v3.010.zip",
+    "siteurl": "https://github.com/notofonts/bengali/releases/tag/NotoSansBengali-v3.010",
     "source": "Google",
     "status": "current",
-    "version": "3.000",
+    "version": "3.010",
     "ziproot": "NotoSansBengali"
 },
 "notosansbhaiksuki": {
