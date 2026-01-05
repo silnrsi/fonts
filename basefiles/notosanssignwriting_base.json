@@ -4,7 +4,7 @@
         "ttf": "NotoSansSignWriting-Regular.ttf"
     },
     "distributable": true,
-    "family": "Noto Sans SignWriting",
+    "family": "Noto Sans Sign Writing",
     "familyid": "notosanssignwriting",
     "files": {
         "NotoSansSignWriting-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSignWriting-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSignWriting/full/ttf/NotoSansSignWriting-Regular.ttf" }

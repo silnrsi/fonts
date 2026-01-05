@@ -6402,7 +6402,7 @@
         "ttf": "NotoSansSignWriting-Regular.ttf"
     },
     "distributable": true,
-    "family": "Noto Sans SignWriting",
+    "family": "Noto Sans Sign Writing",
     "familyid": "notosanssignwriting",
     "files": {
         "NotoSansSignWriting-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSignWriting-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSignWriting/full/ttf/NotoSansSignWriting-Regular.ttf", "zippath": "NotoSansSignWriting/full/ttf/NotoSansSignWriting-Regular.ttf" }
@@ -6589,15 +6589,18 @@
         "ttf": "NotoSansSymbols2-Regular.ttf"
     },
     "distributable": true,
-    "family": "Noto Sans Symbols 2",
+    "family": "Noto Sans Symbols2",
     "familyid": "notosanssymbols2",
     "files": {
-        "NotoSansSymbols2-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSymbols2-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols2/full/ttf/NotoSansSymbols2-Regular.ttf" }
+        "NotoSansSymbols2-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "full/ttf/NotoSansSymbols2-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansSymbols2/full/ttf/NotoSansSymbols2-Regular.ttf", "zippath": "NotoSansSymbols2/full/ttf/NotoSansSymbols2-Regular.ttf" }
     },
     "license": "OFL",
+    "packageurl": "https://github.com/notofonts/symbols/releases/download/NotoSansSymbols2-v2.008/NotoSansSymbols2-v2.008.zip",
+    "siteurl": "https://github.com/notofonts/symbols/releases/tag/NotoSansSymbols2-v2.008",
     "source": "Google",
     "status": "current",
-    "version": "2.008"
+    "version": "2.008",
+    "ziproot": "NotoSansSymbols2"
 },
 "notosanssyriac": {
     "defaults": {
@@ -8132,7 +8135,7 @@
         "ttf": "NotoSerifNPHmong-Regular.ttf"
     },
     "distributable": true,
-    "family": "Noto Serif NP Hmong",
+    "family": "Noto Serif NPHmong",
     "familyid": "notoserifnphmong",
     "files": {
         "NotoSerifNPHmong-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifNPHmong-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifNPHmong/full/ttf/NotoSerifNPHmong-Bold.ttf", "zippath": "NotoSerifNPHmong/full/ttf/NotoSerifNPHmong-Bold.ttf" },

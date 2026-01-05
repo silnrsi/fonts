@@ -4,7 +4,7 @@
         "ttf": "NotoSerifNPHmong-Regular.ttf"
     },
     "distributable": true,
-    "family": "Noto Serif NP Hmong",
+    "family": "Noto Serif NPHmong",
     "familyid": "notoserifnphmong",
     "files": {
         "NotoSerifNPHmong-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "full/ttf/NotoSerifNPHmong-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSerifNPHmong/full/ttf/NotoSerifNPHmong-Bold.ttf" },
