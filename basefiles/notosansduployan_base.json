@@ -1,13 +1,21 @@
 {
 "notosansduployan": {
+    "defaults": {
+        "ttf": "NotoSansDuployan-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Duployan",
     "familyid": "notosansduployan",
+    "files": {
+        "NotoSansDuployan-Bold.ttf": { "axes": { "wght": 700.0 }, "packagepath": "hinted/ttf/NotoSansDuployan-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansDuployan/hinted/ttf/NotoSansDuployan-Bold.ttf" },
+        "NotoSansDuployan-Regular.ttf": { "axes": { "wght": 400.0 }, "packagepath": "hinted/ttf/NotoSansDuployan-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansDuployan/hinted/ttf/NotoSansDuployan-Regular.ttf" }
+    },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/duployan/releases/download/NotoSansDuployan-v3.002/NotoSansDuployan-v3.002.zip",
     "siteurl": "https://github.com/notofonts/duployan/releases/tag/NotoSansDuployan-v3.002",
     "source": "Google",
     "status": "current",
-    "version": "3.002"
+    "version": "3.002",
+    "ziproot": "NotoSansDuployan"
 }
 }

@@ -98,22 +98,28 @@ def doit(args):
                 data['version'] = info['latest_release'].get('version', 'v').replace('v', '')
             files = {}
             allaxes = set()
-            for furl in info.get('files', []):
-                if 'full/ttf' not in furl:
-                    continue
-                b = furl.split("/")
-                i = b.index("full")
-                data['ziproot'] = "/".join(b[i-1:i])
-                ppath = "/".join(b[i:])
-                axes = calc_axes(furl)
-                allaxes.update([k for k, v in axes.items() if v != default_axes.get(k, None)])
-                frecord = {
-                    'packagepath': ppath,
-                    'url': 'https://github.com/notofonts/notofonts.github.io/raw/main/' + furl,
-                    #'zippath': f"{data['ziproot']}/{ppath}" if len(data['ziproot']) else ppath,
-                    'axes': axes,
-                }
-                files[os.path.basename(furl)] = frecord
+
+            # Ideally we want to use the 'full' configuration the fonts,
+            # as they have Latin characters added to them.
+            # But for some families (such as the Latin fonts and some others)
+            # there is no 'full' configuration, so we use the 'hinted' configuration instead.
+            for configuration in ['hinted', 'full']:
+                for furl in info.get('files', []):
+                    if f'/{configuration}/ttf' not in furl:
+                        continue
+                    b = furl.split("/")
+                    i = b.index(configuration)
+                    data['ziproot'] = "/".join(b[i-1:i])
+                    ppath = "/".join(b[i:])
+                    axes = calc_axes(furl)
+                    allaxes.update([k for k, v in axes.items() if v != default_axes.get(k, None)])
+                    frecord = {
+                        'packagepath': ppath,
+                        'url': 'https://github.com/notofonts/notofonts.github.io/raw/main/' + furl,
+                        #'zippath': f"{data['ziproot']}/{ppath}" if len(data['ziproot']) else ppath,
+                        'axes': axes,
+                    }
+                    files[os.path.basename(furl)] = frecord
             allaxes.update(['wght'])
             if files:
                 for k, v in files.items():

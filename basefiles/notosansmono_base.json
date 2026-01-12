@@ -1,13 +1,55 @@
 {
 "notosansmono": {
+    "defaults": {
+        "ttf": "NotoSansMono-Regular.ttf"
+    },
     "distributable": true,
     "family": "Noto Sans Mono",
     "familyid": "notosansmono",
+    "files": {
+        "NotoSansMono-Black.ttf": { "axes": { "wdth": 100, "wght": 900.0 }, "packagepath": "hinted/ttf/NotoSansMono-Black.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-Black.ttf" },
+        "NotoSansMono-Bold.ttf": { "axes": { "wdth": 100, "wght": 700.0 }, "packagepath": "hinted/ttf/NotoSansMono-Bold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-Bold.ttf" },
+        "NotoSansMono-Condensed.ttf": { "axes": { "wdth": 75, "wght": 400.0 }, "packagepath": "hinted/ttf/NotoSansMono-Condensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-Condensed.ttf" },
+        "NotoSansMono-CondensedBlack.ttf": { "axes": { "wdth": 75, "wght": 900.0 }, "packagepath": "hinted/ttf/NotoSansMono-CondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-CondensedBlack.ttf" },
+        "NotoSansMono-CondensedBold.ttf": { "axes": { "wdth": 75, "wght": 700.0 }, "packagepath": "hinted/ttf/NotoSansMono-CondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-CondensedBold.ttf" },
+        "NotoSansMono-CondensedExtraBold.ttf": { "axes": { "wdth": 75, "wght": 800.0 }, "packagepath": "hinted/ttf/NotoSansMono-CondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-CondensedExtraBold.ttf" },
+        "NotoSansMono-CondensedExtraLight.ttf": { "axes": { "wdth": 75, "wght": 200.0 }, "packagepath": "hinted/ttf/NotoSansMono-CondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-CondensedExtraLight.ttf" },
+        "NotoSansMono-CondensedLight.ttf": { "axes": { "wdth": 75, "wght": 300.0 }, "packagepath": "hinted/ttf/NotoSansMono-CondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-CondensedLight.ttf" },
+        "NotoSansMono-CondensedMedium.ttf": { "axes": { "wdth": 75, "wght": 500.0 }, "packagepath": "hinted/ttf/NotoSansMono-CondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-CondensedMedium.ttf" },
+        "NotoSansMono-CondensedSemiBold.ttf": { "axes": { "wdth": 75, "wght": 600.0 }, "packagepath": "hinted/ttf/NotoSansMono-CondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-CondensedSemiBold.ttf" },
+        "NotoSansMono-CondensedThin.ttf": { "axes": { "wdth": 75, "wght": 100.0 }, "packagepath": "hinted/ttf/NotoSansMono-CondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-CondensedThin.ttf" },
+        "NotoSansMono-ExtraBold.ttf": { "axes": { "wdth": 100, "wght": 800.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraBold.ttf" },
+        "NotoSansMono-ExtraCondensed.ttf": { "axes": { "wdth": 62.5, "wght": 400.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraCondensed.ttf" },
+        "NotoSansMono-ExtraCondensedBlack.ttf": { "axes": { "wdth": 62.5, "wght": 900.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraCondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraCondensedBlack.ttf" },
+        "NotoSansMono-ExtraCondensedBold.ttf": { "axes": { "wdth": 62.5, "wght": 700.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraCondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraCondensedBold.ttf" },
+        "NotoSansMono-ExtraCondensedExtraBold.ttf": { "axes": { "wdth": 62.5, "wght": 800.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraCondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraCondensedExtraBold.ttf" },
+        "NotoSansMono-ExtraCondensedExtraLight.ttf": { "axes": { "wdth": 62.5, "wght": 200.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraCondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraCondensedExtraLight.ttf" },
+        "NotoSansMono-ExtraCondensedLight.ttf": { "axes": { "wdth": 62.5, "wght": 300.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraCondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraCondensedLight.ttf" },
+        "NotoSansMono-ExtraCondensedMedium.ttf": { "axes": { "wdth": 62.5, "wght": 500.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraCondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraCondensedMedium.ttf" },
+        "NotoSansMono-ExtraCondensedSemiBold.ttf": { "axes": { "wdth": 62.5, "wght": 600.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraCondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraCondensedSemiBold.ttf" },
+        "NotoSansMono-ExtraCondensedThin.ttf": { "axes": { "wdth": 62.5, "wght": 100.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraCondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraCondensedThin.ttf" },
+        "NotoSansMono-ExtraLight.ttf": { "axes": { "wdth": 100, "wght": 200.0 }, "packagepath": "hinted/ttf/NotoSansMono-ExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-ExtraLight.ttf" },
+        "NotoSansMono-Light.ttf": { "axes": { "wdth": 100, "wght": 300.0 }, "packagepath": "hinted/ttf/NotoSansMono-Light.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-Light.ttf" },
+        "NotoSansMono-Medium.ttf": { "axes": { "wdth": 100, "wght": 500.0 }, "packagepath": "hinted/ttf/NotoSansMono-Medium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-Medium.ttf" },
+        "NotoSansMono-Regular.ttf": { "axes": { "wdth": 100, "wght": 400.0 }, "packagepath": "hinted/ttf/NotoSansMono-Regular.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-Regular.ttf" },
+        "NotoSansMono-SemiBold.ttf": { "axes": { "wdth": 100, "wght": 600.0 }, "packagepath": "hinted/ttf/NotoSansMono-SemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-SemiBold.ttf" },
+        "NotoSansMono-SemiCondensed.ttf": { "axes": { "wdth": 87.5, "wght": 400.0 }, "packagepath": "hinted/ttf/NotoSansMono-SemiCondensed.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-SemiCondensed.ttf" },
+        "NotoSansMono-SemiCondensedBlack.ttf": { "axes": { "wdth": 87.5, "wght": 900.0 }, "packagepath": "hinted/ttf/NotoSansMono-SemiCondensedBlack.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-SemiCondensedBlack.ttf" },
+        "NotoSansMono-SemiCondensedBold.ttf": { "axes": { "wdth": 87.5, "wght": 700.0 }, "packagepath": "hinted/ttf/NotoSansMono-SemiCondensedBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-SemiCondensedBold.ttf" },
+        "NotoSansMono-SemiCondensedExtraBold.ttf": { "axes": { "wdth": 87.5, "wght": 800.0 }, "packagepath": "hinted/ttf/NotoSansMono-SemiCondensedExtraBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-SemiCondensedExtraBold.ttf" },
+        "NotoSansMono-SemiCondensedExtraLight.ttf": { "axes": { "wdth": 87.5, "wght": 200.0 }, "packagepath": "hinted/ttf/NotoSansMono-SemiCondensedExtraLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-SemiCondensedExtraLight.ttf" },
+        "NotoSansMono-SemiCondensedLight.ttf": { "axes": { "wdth": 87.5, "wght": 300.0 }, "packagepath": "hinted/ttf/NotoSansMono-SemiCondensedLight.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-SemiCondensedLight.ttf" },
+        "NotoSansMono-SemiCondensedMedium.ttf": { "axes": { "wdth": 87.5, "wght": 500.0 }, "packagepath": "hinted/ttf/NotoSansMono-SemiCondensedMedium.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-SemiCondensedMedium.ttf" },
+        "NotoSansMono-SemiCondensedSemiBold.ttf": { "axes": { "wdth": 87.5, "wght": 600.0 }, "packagepath": "hinted/ttf/NotoSansMono-SemiCondensedSemiBold.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-SemiCondensedSemiBold.ttf" },
+        "NotoSansMono-SemiCondensedThin.ttf": { "axes": { "wdth": 87.5, "wght": 100.0 }, "packagepath": "hinted/ttf/NotoSansMono-SemiCondensedThin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-SemiCondensedThin.ttf" },
+        "NotoSansMono-Thin.ttf": { "axes": { "wdth": 100, "wght": 100.0 }, "packagepath": "hinted/ttf/NotoSansMono-Thin.ttf", "url": "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSansMono/hinted/ttf/NotoSansMono-Thin.ttf" }
+    },
     "license": "OFL",
     "packageurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSansMono-v2.014/NotoSansMono-v2.014.zip",
     "siteurl": "https://github.com/notofonts/latin-greek-cyrillic/releases/tag/NotoSansMono-v2.014",
     "source": "Google",
     "status": "current",
-    "version": "2.014"
+    "version": "2.014",
+    "ziproot": "NotoSansMono"
 }
 }
