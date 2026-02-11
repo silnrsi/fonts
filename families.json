@@ -589,12 +589,43 @@
     "version": "0.202",
     "ziproot": "Bailey-0.202"
 },
+"bjcree": {
+    "defaults": {
+        "ttf": "BJCree-Regular.ttf",
+        "woff": "BJCree-Regular.woff",
+        "woff2": "BJCree-Regular.woff2"
+    },
+    "distributable": true,
+    "family": "BJCree",
+    "familyid": "bjcree",
+    "files": {
+        "BJCree-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/BJCree-Bold.ttf", "packagepath": "BJCree-Bold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/BJCree-Bold.ttf", "zippath": "BJCree-7.000/BJCree-Bold.ttf" },
+        "BJCree-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/web/BJCree-Bold.woff", "packagepath": "web/BJCree-Bold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/web/BJCree-Bold.woff", "zippath": "BJCree-7.000/web/BJCree-Bold.woff" },
+        "BJCree-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/web/BJCree-Bold.woff2", "packagepath": "web/BJCree-Bold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/web/BJCree-Bold.woff2", "zippath": "BJCree-7.000/web/BJCree-Bold.woff2" },
+        "BJCree-Medium.ttf": { "altfamily": "BJCree Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/BJCree-Medium.ttf", "packagepath": "BJCree-Medium.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/BJCree-Medium.ttf", "zippath": "BJCree-7.000/BJCree-Medium.ttf" },
+        "BJCree-Medium.woff": { "altfamily": "BJCree Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/web/BJCree-Medium.woff", "packagepath": "web/BJCree-Medium.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/web/BJCree-Medium.woff", "zippath": "BJCree-7.000/web/BJCree-Medium.woff" },
+        "BJCree-Medium.woff2": { "altfamily": "BJCree Medium", "axes": { "ital": 0, "wght": 500.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/web/BJCree-Medium.woff2", "packagepath": "web/BJCree-Medium.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/web/BJCree-Medium.woff2", "zippath": "BJCree-7.000/web/BJCree-Medium.woff2" },
+        "BJCree-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/BJCree-Regular.ttf", "packagepath": "BJCree-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/BJCree-Regular.ttf", "zippath": "BJCree-7.000/BJCree-Regular.ttf" },
+        "BJCree-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/web/BJCree-Regular.woff", "packagepath": "web/BJCree-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/web/BJCree-Regular.woff", "zippath": "BJCree-7.000/web/BJCree-Regular.woff" },
+        "BJCree-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/web/BJCree-Regular.woff2", "packagepath": "web/BJCree-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/web/BJCree-Regular.woff2", "zippath": "BJCree-7.000/web/BJCree-Regular.woff2" },
+        "BJCree-SemiBold.ttf": { "altfamily": "BJCree SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/BJCree-SemiBold.ttf", "packagepath": "BJCree-SemiBold.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/BJCree-SemiBold.ttf", "zippath": "BJCree-7.000/BJCree-SemiBold.ttf" },
+        "BJCree-SemiBold.woff": { "altfamily": "BJCree SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/web/BJCree-SemiBold.woff", "packagepath": "web/BJCree-SemiBold.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/web/BJCree-SemiBold.woff", "zippath": "BJCree-7.000/web/BJCree-SemiBold.woff" },
+        "BJCree-SemiBold.woff2": { "altfamily": "BJCree SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/bjcree/web/BJCree-SemiBold.woff2", "packagepath": "web/BJCree-SemiBold.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/bjcree/web/BJCree-SemiBold.woff2", "zippath": "BJCree-7.000/web/BJCree-SemiBold.woff2" }
+    },
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/bjcree/BJCree-7.000.zip",
+    "siteurl": "https://software.sil.org/bjcree/",
+    "source": "SIL",
+    "status": "current",
+    "version": "7.000",
+    "ziproot": "BJCree-7.000"
+},
 "bjcree2uni": {
     "defaults": {
         "ttf": "bjcrus2.ttf"
     },
     "distributable": true,
-    "fallback": "notosanscanadianaboriginal",
+    "fallback": "bjcree",
     "family": "BJCree2 UNI",
     "familyid": "bjcree2uni",
     "files": {
@@ -602,6 +633,7 @@
     },
     "license": "shareware",
     "siteurl": "https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/",
+    "status": "deprecated",
     "version": "2.200"
 },
 "bjcreeuni": {
@@ -609,7 +641,7 @@
         "ttf": "bjcrus.ttf"
     },
     "distributable": true,
-    "fallback": "notosanscanadianaboriginal",
+    "fallback": "bjcree",
     "family": "BJCree UNI",
     "familyid": "bjcreeuni",
     "files": {
@@ -617,6 +649,7 @@
     },
     "license": "shareware",
     "siteurl": "https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/",
+    "status": "deprecated",
     "version": "2.000"
 },
 "busra": {

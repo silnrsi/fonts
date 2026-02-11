@@ -1,0 +1,13 @@
+{
+"bjcree": {
+    "distributable": true,
+    "family": "BJCree",
+    "familyid": "bjcree",
+    "license": "OFL",
+    "packageurl": "https://software.sil.org/downloads/r/bjcree/BJCree-7.000.zip",
+    "siteurl": "https://software.sil.org/bjcree/",
+    "source": "SIL",
+    "status": "current",
+    "ziproot": "BJCree-7.000"
+}
+}

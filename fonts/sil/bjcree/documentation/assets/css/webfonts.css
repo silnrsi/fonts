@@ -1,0 +1,17 @@
+/*
+This file is from the SIL Fontdocs project (https://github.com/silnrsi/fontdocs).
+Copyright (c) 2021 SIL Global (http://www.sil.org/). This Font Software is
+released under the MIT license (http://opensource.org/licenses/MIT).
+*/
+@font-face {
+    font-family: BJCree-R;
+    src: url("../../../web/BJCree-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: BJCree-B;
+    src: url("../../../web/BJCree-Bold.woff2") format("woff2");
+}
+
+.cans-R { font-family: BJCree-R; }
+.cans-B { font-family: BJCree-B; }
+

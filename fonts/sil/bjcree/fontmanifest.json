@@ -1,0 +1,25 @@
+{
+"bjcree": {
+    "defaults": {
+        "ttf": "BJCree-Regular.ttf",
+        "woff": "BJCree-Regular.woff",
+        "woff2": "BJCree-Regular.woff2"
+    },
+    "family": "BJCree",
+    "files": {
+        "BJCree-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "BJCree-Bold.ttf" },
+        "BJCree-Bold.woff": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/BJCree-Bold.woff" },
+        "BJCree-Bold.woff2": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "web/BJCree-Bold.woff2" },
+        "BJCree-Medium.ttf": { "altfamily": "BJCree Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "BJCree-Medium.ttf" },
+        "BJCree-Medium.woff": { "altfamily": "BJCree Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/BJCree-Medium.woff" },
+        "BJCree-Medium.woff2": { "altfamily": "BJCree Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "web/BJCree-Medium.woff2" },
+        "BJCree-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "BJCree-Regular.ttf" },
+        "BJCree-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/BJCree-Regular.woff" },
+        "BJCree-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/BJCree-Regular.woff2" },
+        "BJCree-SemiBold.ttf": { "altfamily": "BJCree SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "BJCree-SemiBold.ttf" },
+        "BJCree-SemiBold.woff": { "altfamily": "BJCree SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/BJCree-SemiBold.woff" },
+        "BJCree-SemiBold.woff2": { "altfamily": "BJCree SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "web/BJCree-SemiBold.woff2" }
+    },
+    "version": "7.000"
+}
+}

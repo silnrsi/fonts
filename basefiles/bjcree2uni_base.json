@@ -4,7 +4,7 @@
         "ttf": "bjcrus2.ttf"
     },
     "distributable": true,
-    "fallback": "notosanscanadianaboriginal",
+    "fallback": "bjcree",
     "family": "BJCree2 UNI",
     "familyid": "bjcree2uni",
     "files": {
@@ -13,6 +13,7 @@
     "hosturl": "https://www.eastcree.org/downloads/",
     "license": "shareware",
     "siteurl": "https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/",
+    "status": "deprecated",
     "version": "2.200"
 }
 }
