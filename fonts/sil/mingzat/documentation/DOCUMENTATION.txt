@@ -6,7 +6,7 @@ This file describes the documentation files included with the Mingzat
 font and any derivative works.
 
 Primary documentation for the Mingzat font is on the Mingzat
-website (http://software.sil.org/Mingzat).
+website (https://software.sil.org/Mingzat).
 
 The Mingzat-typesample.pdf file gives a sample of all the characters in 
 the font.

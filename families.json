@@ -3044,17 +3044,17 @@
     "family": "Mingzat",
     "familyid": "mingzat",
     "files": {
-        "Mingzat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/mingzat/Mingzat-Regular.ttf", "packagepath": "Mingzat-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/mingzat/Mingzat-Regular.ttf", "zippath": "Mingzat-1.100/Mingzat-Regular.ttf" },
-        "Mingzat-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/mingzat/web/Mingzat-Regular.woff", "packagepath": "web/Mingzat-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/mingzat/web/Mingzat-Regular.woff", "zippath": "Mingzat-1.100/web/Mingzat-Regular.woff" },
-        "Mingzat-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/mingzat/web/Mingzat-Regular.woff2", "packagepath": "web/Mingzat-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/mingzat/web/Mingzat-Regular.woff2", "zippath": "Mingzat-1.100/web/Mingzat-Regular.woff2" }
+        "Mingzat-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/mingzat/Mingzat-Regular.ttf", "packagepath": "Mingzat-Regular.ttf", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/mingzat/Mingzat-Regular.ttf", "zippath": "Mingzat-1.200/Mingzat-Regular.ttf" },
+        "Mingzat-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/mingzat/web/Mingzat-Regular.woff", "packagepath": "web/Mingzat-Regular.woff", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/mingzat/web/Mingzat-Regular.woff", "zippath": "Mingzat-1.200/web/Mingzat-Regular.woff" },
+        "Mingzat-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "flourl": "https://fonts.languagetechnology.org/fonts/sil/mingzat/web/Mingzat-Regular.woff2", "packagepath": "web/Mingzat-Regular.woff2", "url": "https://github.com/silnrsi/fonts/raw/main/fonts/sil/mingzat/web/Mingzat-Regular.woff2", "zippath": "Mingzat-1.200/web/Mingzat-Regular.woff2" }
     },
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/mingzat/Mingzat-1.100.zip",
+    "packageurl": "https://software.sil.org/downloads/r/mingzat/Mingzat-1.200.zip",
     "siteurl": "https://software.sil.org/Mingzat/",
     "source": "SIL",
     "status": "current",
-    "version": "1.100",
-    "ziproot": "Mingzat-1.100"
+    "version": "1.200",
+    "ziproot": "Mingzat-1.200"
 },
 "namdhinggo": {
     "defaults": {

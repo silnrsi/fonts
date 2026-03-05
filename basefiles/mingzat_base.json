@@ -4,10 +4,10 @@
     "family": "Mingzat",
     "familyid": "mingzat",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/mingzat/Mingzat-1.100.zip",
+    "packageurl": "https://software.sil.org/downloads/r/mingzat/Mingzat-1.200.zip",
     "siteurl": "https://software.sil.org/Mingzat/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "Mingzat-1.100"
+    "ziproot": "Mingzat-1.200"
 }
 }
