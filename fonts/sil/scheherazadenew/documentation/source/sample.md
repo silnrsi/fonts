@@ -1,6 +1,6 @@
 ---
 title: Scheherazade New - Type Sample
-fontversion: 4.400
+fontversion: 4.500
 ---
 
 This document demonstrates all of the characters in the font. It is organized by Unicode block. Alternate glyphs that are available through features are demonstrated in the [Features](features.md) document. At the end is a sample demonstrating Arabic shaping and another example of running text.
@@ -55,9 +55,9 @@ Regular:<span class='scheherazadenewL-R normal'>&#x2010; &#x2011; &#x2012; &#x20
 
 ### Currency Symbols:
 
-Regular:<span class='scheherazadenewL-R normal'> €</span>
+Regular:<span class='scheherazadenewL-R normal'>&#x20AC; &#x20C1;</span>
 
-**Bold:** <span class='scheherazadenewL-B normal'> €</span>
+**Bold:** <span class='scheherazadenewL-B normal'>&#x20AC; &#x20C1;</span>
 
 ### Letterlike Symbols, Mathematical Operators, Control Pictures, Geometric Shapes, Miscellaneous Mathematical Symbols-B: 
 

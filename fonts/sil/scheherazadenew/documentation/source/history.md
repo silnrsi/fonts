@@ -1,7 +1,22 @@
 ---
 title: Scheherazade New - Version History
-fontversion: 4.400
+fontversion: 4.500
 ---
+
+### 2026-04-15 (SIL WSTech team) Scheherazade New version 4.500
+
+#### New
+
+- Added:
+  - 20C1 SAUDI RIYAL SIGN
+
+#### Improved
+
+- Improved kerning in the context of madda above: 
+  - U+067C ARABIC LETTER TEH WITH RING
+  - U+0751 ARABIC LETTER BEH WITH DOT BELOW AND THREE DOTS ABOVE
+  - U+0754 ARABIC LETTER BEH WITH TWO DOTS BELOW AND DOT ABOVE
+  - U+08BE ARABIC LETTER PEH WITH SMALL V
 
 ### 2025-08-11 (SIL WSTech team) Scheherazade New version 4.400
 

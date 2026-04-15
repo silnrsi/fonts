@@ -1,6 +1,6 @@
 ---
 title: Scheherazade New - Developer information
-fontversion: 4.400
+fontversion: 4.500
 ---
 
 ## Welcome font developers!
@@ -19,7 +19,7 @@ Font sources are in the [UFO3](https://unifiedfontobject.org/versions/ufo3/) for
 
 The fonts are built using a completely free and open source workflow using industry-standard tools ([fonttools](https://github.com/fonttools/fonttools)), a package of custom python scripts ([pysilfont](https://github.com/silnrsi/pysilfont)), and a build and packaging system ([Smith](https://github.com/silnrsi/smith)). The whole toolchain is available as a Docker container. 
 
-Full instructions for setting up the tools and building SIL fonts are available on a dedicated web site: [SIL Font Development Guide](https://silnrsi.github.io/silfontdev/). Additional developer information specific to SIL’s Arabic fonts can be found at [font-arab-tools README](https://github.com/silnrsi/font-arab-tools/blob/master/documentation/developer/README.md).
+Full instructions for setting up the tools and building SIL fonts are available on a dedicated web site: [Building and Modifying SIL Fonts](https://writingsystems.info/topics/fonts/building-and-modifying-sil-fonts/). Additional developer information specific to SIL’s Arabic fonts can be found at [font-arab-tools README](https://github.com/silnrsi/font-arab-tools/blob/master/documentation/developer/README.md).
 
 In addition, much of the code for Scheherazade New, Harmattan, and Lateef is shared. Carefully review the [font-arab-tools developer](https://github.com/silnrsi/font-arab-tools/blob/master/documentation/developer/developer.md) documentation to see how the code is shared.
 
@@ -68,6 +68,6 @@ For more information about testing, see [font-arab-tools testing](https://github
 
 ## Contributing to the project
 
-We warmly welcome contributions to the fonts, such as new glyphs, enhanced smart font code, or bug fixes. The [brief overview of contributing changes](https://silnrsi.github.io/silfontdev/en-US/Contributing_Changes.html) is a good place to begin. The next step is to contact us by responding to an existing issue or creating an issue in the Github repository and expressing your interest. We can then work together to plan and integrate your contributions.
+We warmly welcome contributions to the fonts, such as new glyphs, enhanced smart font code, or bug fixes. The [brief overview of contributing changes](https://writingsystems.info/topics/fonts/building-and-modifying-sil-fonts/#contributing-changes) is a good place to begin. The next step is to contact us by responding to an existing issue or creating an issue in the Github repository and expressing your interest. We can then work together to plan and integrate your contributions.
 
 To enable us to accept contributions in a way that honors your contribution and respects your copyright while preserving long-term flexibility for open source licensing, you would also need to agree to the **SIL Global Contributor License Agreement for Font Software (v1.0)** prior to sending us your contribution. To read more about this requirement and find out how to submit the required form, please visit the [CLA information page](https://software.sil.org/fontcla).
