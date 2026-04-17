@@ -1,6 +1,6 @@
 ---
 title: Ramsina - Design
-fontversion: 2.000
+fontversion: 2.100
 ---
 
 Ramsina is a font family for the East Syriac script. The font was designed as a revival, or facsimile, of metal type cut in India from around 1920. This font was initially designed by Esho Marcus and named East Syriac Marcus. The font is used according to the terms of the [SIL Open Font License](https://openfontlicense.org/). The Latin letters are a subset of the [Crimson Pro](https://github.com/Fonthausen/CrimsonPro) font.

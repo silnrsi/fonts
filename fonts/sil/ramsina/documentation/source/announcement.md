@@ -1,13 +1,17 @@
 ---
 title: Ramsina - Announcement
-fontversion: 2.000
+fontversion: 2.100
 ---
 
-We are very pleased to announce the release of _Ramsina_, a new font for the East Syriac style of the Syriac script. The font was designed as a close revival, or facsimile, of metal type cut in India from around 1920.
+We are very pleased to announce a new release of Ramsina, a font for the East Syriac style of the Syriac script.
 
-The font name, _Ramsina_, is a pure Assyrian name for females adored by many. The emphasis is on the second syllable: rahm-SEE-nah.
+### Changes
 
-This font was initially designed by Esho Marcus and named East Syriac Marcus. The font is used according to the terms of the [SIL Open Font License](https://openfontlicense.org/).
+This release includes the following changes for this version:
+
+- Moved the lookup in Contextual Alternates (calt) to Required Contextual Alternates (rclt)
+
+This change allows the font to render the correct forms of _kaph_, _mim_, and _nun_ in applications which turn off the Contextual Alternates feature.
 
 Both desktop and web fonts are provided in a single, all-platforms package on the [Download page](https://github.com/silnrsi/font-ramsina/releases).
 

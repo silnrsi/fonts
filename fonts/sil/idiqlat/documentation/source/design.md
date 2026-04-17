@@ -1,6 +1,6 @@
 ---
 title: Idiqlat - Design
-fontversion: 2.000
+fontversion: 2.100
 ---
 
 The Idiqlat font supports the East Syriac style of the Syriac script. The original font on which Idiqlat was based was an [OFL](https://openfontlicense.org/)-licensed typeface called **East Syriac Marcus**, designed as a revival of metal type. However, significant design changes have been made in order to modernize and opitimize the font for web and mobile use. Additionally, the font has been resized in order to match standard point sizes in modern fonts. It also includes other weights. The Latin letters are a subset of the [Crimson Pro](https://github.com/Fonthausen/CrimsonPro) font.

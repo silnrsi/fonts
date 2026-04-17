@@ -1,27 +1,27 @@
 README
-Ramsina
+Idiqlat
 =================
 
-Thank you for your interest in the Ramsina font. We hope you find it useful!
+Thank you for your interest in the Idiqlat font. We hope you find it useful!
 
-Ramsina is a font family for the East Syriac script. The font was designed 
-as a close revival, or facsimile, of metal type cut in India from around 1920.
+Idiqlat is a font family for the East Syriac script. The font name, Idiqlat, 
+means Tigris River in ancient Akkadian/Assyrian.
 
 Font smarts are implemented using the OpenType smart font technology. 
 A number of glyph variations are accessible through font features
 available. 
 
-Ramsina is released under the SIL Open Font License.
-Ramsina is a trademark of SIL Global.
+Idiqlat is released under the SIL Open Font License.
+Idiqlat is a trademark of SIL Global.
 	
 See the OFL and OFL-FAQ for details of the SIL Open Font License.
 See the FONTLOG for information on this and previous releases.
 
 For further information about this font, including Unicode ranges
 supported, OpenType font features and how to use them, 
-and licensing, please see the documentation on Github
-(https://github.com/silnrsi/font-ramsina/tree/main/documentation) 
-or in the documentation subfolder of this font package.
+and licensing, please see the documentation on the website 
+(https://software.sil.org/idiqlat) or in the documentation 
+subfolder of this font package.
 
 TIPS
 ====
@@ -31,10 +31,9 @@ commercial level of personal technical support. The font has, however,
 been through some testing on various platforms to be sure it works in most
 situations. In particular, it has been tested and shown to work on Windows 11. 
 
-If you do find a problem, please do report it through Github issues: 
-https://github.com/silnrsi/font-ramsina/issues.
-We can't guarantee any direct response, but will try to fix reported bugs in
-future versions. 
+If you do find a problem, please do report it through the website: 
+https://software.sil.org/idiqlat/support. We can't guarantee any direct 
+response, but will try to fix reported bugs in future versions. 
 
 Many problems can be solved, or at least explained, through an understanding
 of the encoding and use of the fonts. Here are some basic hints:
@@ -76,7 +75,7 @@ OpenType.
 
 CONTACT
 ========
-For more information please visit the Ramsina Github repo: 
-https://github.com/silnrsi/font-ramsina
+For more information please visit the Idiqlat page on SIL Global's
+Computers and Writing systems website: https://software.sil.org/idiqlat/
 
-Support through the repo: https://github.com/silnrsi/font-ramsina/issues
+Support through the website: https://software.sil.org/idiqlat/support

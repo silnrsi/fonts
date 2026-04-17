@@ -4,10 +4,10 @@
     "family": "Idiqlat",
     "familyid": "idiqlat",
     "license": "OFL",
-    "packageurl": "https://software.sil.org/downloads/r/idiqlat/Idiqlat-2.000.zip",
+    "packageurl": "https://software.sil.org/downloads/r/idiqlat/Idiqlat-2.100.zip",
     "siteurl": "https://software.sil.org/idiqlat/",
     "source": "SIL",
     "status": "current",
-    "ziproot": "Idiqlat-2.000"
+    "ziproot": "Idiqlat-2.100"
 }
 }

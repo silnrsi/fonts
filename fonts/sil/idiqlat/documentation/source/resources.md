@@ -1,6 +1,6 @@
 ---
 title: Idiqlat - Resources
-fontversion: 2.000
+fontversion: 2.100
 ---
 
 ## Requirements
@@ -13,9 +13,13 @@ Install the fonts by decompressing the .zip archive and installing the fonts usi
 
 ## Keyboarding and character set support
 
-These fonts do not include keyboards or other software for entering text. To type the symbols in these fonts use the keyboarding systems provided in your OS or use a separate utility. SIL’s [Keyman](https://keyman.com/) provides keyboards for over 2000 languages and works on all major desktop and mobile platforms. For information on other keyboarding options see the overview at [Keyboards and Tools](https://writingsystems.info/topics/input/keyboards-and-tools/).
+This font package does not include keyboards or other software for entering text. To type the symbols in this font, use the keyboarding systems provided in your OS or use a separate utility. [Keyman](https://keyman.com/) is a cross-platform keyboarding system, and various Syriac keyboards are available. One keyboard is specifically designed for East Syriac:
 
-See [Character set support](charset.md) for details of the Unicode characters supported by these fonts.
+- [East Syriac (Qwerty)](https://keyman.com/keyboards/east_syriac_qwerty)
+
+Various other means may be available for different operating system platforms to create additional input methods. Some suggestions are listed here: [Keyboards and Tools](https://writingsystems.info/topics/input/keyboards-and-tools/#keyboard-tools).
+
+See [Character set support](charset.md) for details of the Unicode characters supported by this font.
 
 ## Rendering and application support
 

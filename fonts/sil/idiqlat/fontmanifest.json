@@ -17,6 +17,6 @@
         "Idiqlat-Regular.woff": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Idiqlat-Regular.woff" },
         "Idiqlat-Regular.woff2": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "web/Idiqlat-Regular.woff2" }
     },
-    "version": "2.000"
+    "version": "2.100"
 }
 }
