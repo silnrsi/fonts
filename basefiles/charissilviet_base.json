@@ -1,7 +1,7 @@
 {
 "charissilviet": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Viet",
     "familyid": "charissilviet",
     "license": "OFL",

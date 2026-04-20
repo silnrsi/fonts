@@ -1,7 +1,7 @@
 {
 "gentiumplusphon": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Phon",
     "familyid": "gentiumplusphon",
     "license": "OFL",

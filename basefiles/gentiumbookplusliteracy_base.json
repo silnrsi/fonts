@@ -4,7 +4,7 @@
         "ttf": "GentiumPlusLiteracy-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Plus Literacy",
     "familyid": "gentiumbookplusliteracy",
     "files": {

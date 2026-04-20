@@ -1,7 +1,7 @@
 {
 "gentiumplusviet": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Viet",
     "familyid": "gentiumplusviet",
     "license": "OFL",

@@ -4,7 +4,7 @@
         "ttf": "GentiumPlusMali-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Plus Mali",
     "familyid": "gentiumbookplusmali",
     "files": {

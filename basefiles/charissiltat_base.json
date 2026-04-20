@@ -4,7 +4,7 @@
         "ttf": "CharisSILTat-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Tat",
     "familyid": "charissiltat",
     "files": {

@@ -4,7 +4,7 @@
         "ttf": "GentiumPlusTat-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Plus Tat",
     "familyid": "gentiumbookplustat",
     "files": {

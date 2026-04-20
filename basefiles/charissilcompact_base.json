@@ -4,7 +4,7 @@
         "ttf": "CharisSILCompact-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Compact",
     "familyid": "charissilcompact",
     "files": {

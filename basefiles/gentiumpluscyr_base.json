@@ -1,7 +1,7 @@
 {
 "gentiumpluscyr": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Cyr",
     "familyid": "gentiumpluscyr",
     "license": "OFL",

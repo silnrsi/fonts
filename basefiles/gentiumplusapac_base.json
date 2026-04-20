@@ -1,7 +1,7 @@
 {
 "gentiumplusapac": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus APac",
     "familyid": "gentiumplusapac",
     "license": "OFL",

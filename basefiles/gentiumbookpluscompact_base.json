@@ -4,7 +4,7 @@
         "ttf": "GentiumBookPlusCompact-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Book Plus Compact",
     "familyid": "gentiumbookpluscompact",
     "files": {

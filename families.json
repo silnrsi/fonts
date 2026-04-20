@@ -468,7 +468,7 @@
 },
 "apparatussil": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Apparatus SIL",
     "familyid": "apparatussil",
     "license": "OFL",
@@ -691,7 +691,7 @@
 },
 "calibri": {
     "distributable": false,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Calibri",
     "familyid": "calibri",
     "license": "proprietary",
@@ -699,7 +699,7 @@
 },
 "cambria": {
     "distributable": false,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Cambria",
     "familyid": "cambria",
     "license": "proprietary",
@@ -781,7 +781,7 @@
 },
 "charissilafr": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Afr",
     "familyid": "charissilafr",
     "license": "OFL",
@@ -793,7 +793,7 @@
 },
 "charissilam": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Am",
     "familyid": "charissilam",
     "license": "OFL",
@@ -808,7 +808,7 @@
         "ttf": "CharisSILAmArea-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL AmArea",
     "familyid": "charissilamarea",
     "files": {
@@ -827,7 +827,7 @@
 },
 "charissilapac": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL APac",
     "familyid": "charissilapac",
     "license": "OFL",
@@ -842,7 +842,7 @@
         "ttf": "CharisSILCompact-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Compact",
     "familyid": "charissilcompact",
     "files": {
@@ -861,7 +861,7 @@
 },
 "charissilcyr": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Cyr",
     "familyid": "charissilcyr",
     "license": "OFL",
@@ -873,7 +873,7 @@
 },
 "charissilcyre": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL CyrE",
     "familyid": "charissilcyre",
     "license": "OFL",
@@ -885,13 +885,13 @@
 },
 "charissileng": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Eng",
     "familyid": "charissileng"
 },
 "charissileur": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Eur",
     "familyid": "charissileur",
     "license": "OFL",
@@ -903,13 +903,13 @@
 },
 "charissilghana": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Ghana",
     "familyid": "charissilghana"
 },
 "charissilguinea": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Guinea",
     "familyid": "charissilguinea"
 },
@@ -918,7 +918,7 @@
         "ttf": "CharisSILLiteracy-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Literacy",
     "familyid": "charissilliteracy",
     "files": {
@@ -940,7 +940,7 @@
         "ttf": "CharisSILLiteracyAmArea-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Literacy AmArea",
     "familyid": "charissilliteracyamarea",
     "files": {
@@ -962,7 +962,7 @@
         "ttf": "CharisSILLiteracyCompact-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Literacy Compact",
     "familyid": "charissilliteracycompact",
     "files": {
@@ -984,7 +984,7 @@
         "ttf": "CharisSILMali-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Mali",
     "familyid": "charissilmali",
     "files": {
@@ -1003,7 +1003,7 @@
 },
 "charissilphon": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Phon",
     "familyid": "charissilphon",
     "license": "OFL",
@@ -1018,7 +1018,7 @@
         "ttf": "CharisSILTat-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Tat",
     "familyid": "charissiltat",
     "files": {
@@ -1037,7 +1037,7 @@
 },
 "charissilviet": {
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Viet",
     "familyid": "charissilviet",
     "license": "OFL",
@@ -1049,7 +1049,7 @@
 },
 "couriernew": {
     "distributable": false,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Courier New",
     "familyid": "couriernew",
     "license": "proprietary",
@@ -1680,7 +1680,7 @@
 },
 "gentiumbasic": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Basic",
     "familyid": "gentiumbasic",
     "license": "OFL",
@@ -1735,7 +1735,7 @@
 },
 "gentiumbookbasic": {
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Book Basic",
     "familyid": "gentiumbookbasic",
     "license": "OFL",
@@ -1781,7 +1781,7 @@
         "ttf": "GentiumBookPlusAmArea-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Book Plus AmArea",
     "familyid": "gentiumbookplusamarea",
     "files": {
@@ -1807,7 +1807,7 @@
         "ttf": "GentiumBookPlusCompact-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Book Plus Compact",
     "familyid": "gentiumbookpluscompact",
     "files": {
@@ -1833,7 +1833,7 @@
         "ttf": "GentiumPlusLitAmArea-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Plus Lit AmArea",
     "familyid": "gentiumbookpluslitamarea",
     "files": {
@@ -1859,7 +1859,7 @@
         "ttf": "GentiumPlusLitComp-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Plus Lit Comp",
     "familyid": "gentiumbookpluslitcomp",
     "files": {
@@ -1885,7 +1885,7 @@
         "ttf": "GentiumPlusLiteracy-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Plus Literacy",
     "familyid": "gentiumbookplusliteracy",
     "files": {
@@ -1933,7 +1933,7 @@
         "ttf": "GentiumPlusMali-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Plus Mali",
     "familyid": "gentiumbookplusmali",
     "files": {
@@ -1959,7 +1959,7 @@
         "ttf": "GentiumPlusTat-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Plus Tat",
     "familyid": "gentiumbookplustat",
     "files": {
@@ -2013,7 +2013,7 @@
 },
 "gentiumplusafr": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Afr",
     "familyid": "gentiumplusafr",
     "license": "OFL",
@@ -2025,7 +2025,7 @@
 },
 "gentiumplusam": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Am",
     "familyid": "gentiumplusam",
     "license": "OFL",
@@ -2040,7 +2040,7 @@
         "ttf": "GentiumBookPlusAmArea-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Book Plus AmArea",
     "familyid": "gentiumplusamarea",
     "files": {
@@ -2063,7 +2063,7 @@
 },
 "gentiumplusapac": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus APac",
     "familyid": "gentiumplusapac",
     "license": "OFL",
@@ -2078,7 +2078,7 @@
         "ttf": "GentiumBookPlusCompact-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Book Plus Compact",
     "familyid": "gentiumpluscompact",
     "files": {
@@ -2101,7 +2101,7 @@
 },
 "gentiumpluscyr": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Cyr",
     "familyid": "gentiumpluscyr",
     "license": "OFL",
@@ -2113,7 +2113,7 @@
 },
 "gentiumpluscyre": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus CyrE",
     "familyid": "gentiumpluscyre",
     "license": "OFL",
@@ -2125,7 +2125,7 @@
 },
 "gentiumpluseur": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Eur",
     "familyid": "gentiumpluseur",
     "license": "OFL",
@@ -2140,7 +2140,7 @@
         "ttf": "GentiumPlusLitAmArea-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Lit AmArea",
     "familyid": "gentiumpluslitamarea",
     "files": {
@@ -2166,7 +2166,7 @@
         "ttf": "GentiumPlusLitComp-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Lit Comp",
     "familyid": "gentiumpluslitcomp",
     "files": {
@@ -2192,7 +2192,7 @@
         "ttf": "GentiumPlusLiteracy-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Literacy",
     "familyid": "gentiumplusliteracy",
     "files": {
@@ -2240,7 +2240,7 @@
         "ttf": "GentiumPlusMali-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Mali",
     "familyid": "gentiumplusmali",
     "files": {
@@ -2263,7 +2263,7 @@
 },
 "gentiumplusphon": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Phon",
     "familyid": "gentiumplusphon",
     "license": "OFL",
@@ -2278,7 +2278,7 @@
         "ttf": "GentiumPlusTat-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Tat",
     "familyid": "gentiumplustat",
     "files": {
@@ -2301,7 +2301,7 @@
 },
 "gentiumplusviet": {
     "distributable": true,
-    "fallback": "gentiumplus",
+    "fallback": "gentium",
     "family": "Gentium Plus Viet",
     "familyid": "gentiumplusviet",
     "license": "OFL",
@@ -2313,7 +2313,7 @@
 },
 "georgia": {
     "distributable": false,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Georgia",
     "familyid": "georgia",
     "license": "proprietary",

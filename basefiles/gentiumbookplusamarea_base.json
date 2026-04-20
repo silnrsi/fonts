@@ -4,7 +4,7 @@
         "ttf": "GentiumBookPlusAmArea-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Book Plus AmArea",
     "familyid": "gentiumbookplusamarea",
     "files": {

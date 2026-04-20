@@ -1,7 +1,7 @@
 {
 "gentiumbookbasic": {
     "distributable": true,
-    "fallback": "gentiumbookplus",
+    "fallback": "gentiumbook",
     "family": "Gentium Book Basic",
     "familyid": "gentiumbookbasic",
     "license": "OFL",

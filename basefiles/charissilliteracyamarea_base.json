@@ -4,7 +4,7 @@
         "ttf": "CharisSILLiteracyAmArea-Regular.ttf"
     },
     "distributable": true,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Charis SIL Literacy AmArea",
     "familyid": "charissilliteracyamarea",
     "files": {

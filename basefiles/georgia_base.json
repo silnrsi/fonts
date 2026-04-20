@@ -1,7 +1,7 @@
 {
 "georgia": {
     "distributable": false,
-    "fallback": "charissil",
+    "fallback": "charis",
     "family": "Georgia",
     "familyid": "georgia",
     "license": "proprietary",
