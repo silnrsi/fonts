@@ -1,11 +1,11 @@
 ---
 title: Annapurna SIL - Font Features
-fontversion: 2.100
+fontversion: 3.000
 ---
 
-Annapurna SIL is a Graphite and OpenType-enabled font family that supports the Devanagari script. It includes a number of optional user-selected features that may be useful or required for particular uses or languages. These Graphite and OpenType features are primarily specified using four-letter tags (e.g. 'cv04' or 'ss04') to display variant characters or specific behavior. Certain apps, such as web browsers, can also use language tags to display all the language-specific variants and behaviors.
+Annapurna SIL is an OpenType-enabled font family that supports the Devanagari script. It includes a number of optional user-selected features that may be useful or required for particular uses or languages. These OpenType features are primarily specified using four-letter tags (e.g. 'cv04' or 'ss04') to display variant characters or specific behavior. Certain apps, such as web browsers, can also use language tags to display all the language-specific variants and behaviors.
 
-This document lists all the language and user-selected features in Annapurna SIL. For more information on how to access these features in specific environments and applications, see [Using Font Features](https://software.sil.org/fonts/features). This is the preferred way of using features; however, Annapurna SIL is also available through the [TypeTuner Web](https://scripts.sil.org/ttw/fonts2go.cgi) service, which allows you to choose among the user-selected font features (shown below) and download a font with those features preset. This enables them to work in many applications that do not make use of Graphite or OpenType Stylistic Sets.
+This document lists all the language and user-selected features in Annapurna SIL. For more information on how to access these features in specific environments and applications, see [Using Font Features](https://software.sil.org/fonts/features). This is the preferred way of using features; however, Annapurna SIL is also available through the [TypeTuner Web](https://scripts.sil.org/ttw/fonts2go.cgi) service, which allows you to choose among the user-selected font features (shown below) and download a font with those features preset. This enables them to work in many applications that do not make use of OpenType Stylistic Sets.
 
 This page uses web fonts (WOFF2) to demonstrate font features and should display correctly in all modern browsers. For a more concise example of how to use Annapurna SIL as a web font see [Annapurna SIL Webfont Example](../web/AnnapurnaSIL-webfont-example.html). For detailed information see [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts).
 
@@ -16,15 +16,15 @@ This page uses web fonts (WOFF2) to demonstrate font features and should display
 
 <span class='affects'>Affects: U+091D U+096B U+096E U+096F</span>
 
-Language      | Test sequences               | OpenType/Graphite tag
+Language      | Test sequences               | OpenType lang tag
 :------------ | :--------------------------- |  :-------
 Default       | <span class='annapurna-R normal'>झ झ् झ़ झ़् झ्र झ़्र  &nbsp;&nbsp;  ५ ८ ९</span> | `none`
-Nepali        | <span class='annapurna-R normal' lang="ne">झ झ् झ़ झ़् झ्र झ़्र  &nbsp;&nbsp;  ५ ८ ९</span>  | `NEP  / ne`
-Newari        | <span class='annapurna-R normal' lang="new">झ झ् झ़ झ़् झ्र झ़्र  &nbsp;&nbsp;  ५ ८ ९</span> | `NEW  / new`
+Nepali        | <span class='annapurna-R normal' lang="ne">झ झ् झ़ झ़् झ्र झ़्र  &nbsp;&nbsp;  ५ ८ ९</span>  | `NEP or ne`
+Newari        | <span class='annapurna-R normal' lang="new">झ झ् झ़ झ़् झ्र झ़्र  &nbsp;&nbsp;  ५ ८ ९</span> | `NEW or new`
 
 ## User-selected feature list
 
-### Character Variants and Stylistic Sets
+### Stylistic Sets and Character Variants
 
 #### Jha alternates
 
@@ -32,9 +32,9 @@ Newari        | <span class='annapurna-R normal' lang="new">झ झ् झ़ �
 
 Feature    | Sample                       | Feature setting
 :--------- | :--------------------------- |  :-------
-Standard    | <span class='annapurna-R normal'>झ झ् झ़ झ़् झ्र झ़्र</span> | `cv01=0 or ss01=0`
-Nepali style| <span class='annapurna-R normal' style='font-feature-settings: "cv01" 1, "ss01" 1'>झ झ् झ़ झ़् झ्र झ़्र</span> | `cv01=1 or ss01=1`
-Newari style| <span class='annapurna-R normal' style='font-feature-settings: "cv01" 2, "ss02" 1'>झ झ् झ़ झ़् झ्र झ़्र</span> | `cv01=2 or ss02=1`
+Standard    | <span class='annapurna-R normal'>झ झ् झ़ झ़् झ्र झ़्र</span> | `ss01=0`
+Nepali style| <span class='annapurna-R normal' style='font-feature-settings: "cv01" 1, "ss01" 1'>झ झ् झ़ झ़् झ्र झ़्र</span> | `ss01=1`
+Newari style| <span class='annapurna-R normal' style='font-feature-settings: "cv01" 2, "ss02" 1'>झ झ् झ़ झ़् झ्र झ़्र</span> | `ss02=1`
 
 #### Kra alternate
 
@@ -42,8 +42,8 @@ Newari style| <span class='annapurna-R normal' style='font-feature-settings: "cv
 
 Feature    | Sample                       | Feature setting
 :--------- | :--------------------------- | :-------
-Standard   | <span class='annapurna-R normal'>क्र क़्र</span> | `cv03=0 or ss03=0`
-Open style | <span class='annapurna-R normal' style='font-feature-settings: "cv03" 1, "ss03" 1'>क्र क़्र</span> | `cv03=1 or ss03=1`
+Standard   | <span class='annapurna-R normal'>क्र क़्र</span> | `ss03=0`
+Open style | <span class='annapurna-R normal' style='font-feature-settings: "cv03" 1, "ss03" 1'>क्र क़्र</span> | `ss03=1`
 
 #### Tra alternate 
 
@@ -51,8 +51,8 @@ Open style | <span class='annapurna-R normal' style='font-feature-settings: "cv0
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard     | <span class='annapurna-R normal'>त्र त़्र</span> | `cv04=0 or ss04=0`
-Closed style | <span class='annapurna-R normal' style='font-feature-settings: "cv04" 1, "ss04" 1'>त्र त़्र</span> | `cv04=1 or ss04=1`
+Standard     | <span class='annapurna-R normal'>त्र त़्र</span> | `ss04=0`
+Closed style | <span class='annapurna-R normal' style='font-feature-settings: "cv04" 1, "ss04" 1'>त्र त़्र</span> | `ss04=1`
 
 #### Shra alternate
 
@@ -60,8 +60,8 @@ Closed style | <span class='annapurna-R normal' style='font-feature-settings: "c
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- |  :-------
-Standard  | <span class='annapurna-R normal'>श्र श़्र</span> | `cv05=0 or ss05=0`
-Sha style | <span class='annapurna-R normal' style='font-feature-settings: "cv05" 1, "ss05" 1'>श्र श़्र</span> | `cv05=1 or ss05=1`
+Standard  | <span class='annapurna-R normal'>श्र श़्र</span> | `ss05=0`
+Sha style | <span class='annapurna-R normal' style='font-feature-settings: "cv05" 1, "ss05" 1'>श्र श़्र</span> | `ss05=1`
 
 #### Ukar nukta position
 
@@ -69,8 +69,8 @@ Sha style | <span class='annapurna-R normal' style='font-feature-settings: "cv05
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- |  :-------
-Standard | <span class='annapurna-R normal'>कु़ कू़ क्कु़ क्कू़</span> | `cv06=0 or ss06=0`
-Outside  | <span class='annapurna-R normal' style='font-feature-settings: "cv06" 1, "ss06" 1'>कु़ कू़ क्कु़ क्कू़</span> | `cv06=1 or ss06=1`
+Standard | <span class='annapurna-R normal'>कु़ कू़ क्कु़ क्कू़</span> | `ss06=0`
+Outside  | <span class='annapurna-R normal' style='font-feature-settings: "cv06" 1, "ss06" 1'>कु़ कू़ क्कु़ क्कू़</span> | `ss06=1`
 
 #### Ekar nukta position
 
@@ -78,8 +78,8 @@ Outside  | <span class='annapurna-R normal' style='font-feature-settings: "cv06"
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard | <span class='annapurna-R normal'>के़</span> | `cv07=0 or ss07=0`
-Above bar| <span class='annapurna-R normal' style='font-feature-settings: "cv07" 1, "ss07" 1'>के़</span> | `cv07=1 or ss07=1`
+Standard | <span class='annapurna-R normal'>के़</span> | `ss07=0`
+Above bar| <span class='annapurna-R normal' style='font-feature-settings: "cv07" 1, "ss07" 1'>के़</span> | `ss07=1`
 
 #### Digit five alternate
 
@@ -87,8 +87,8 @@ Above bar| <span class='annapurna-R normal' style='font-feature-settings: "cv07"
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard    | <span class='annapurna-R normal'>५</span> | `cv08=0 or ss08=0`
-Nepali style| <span class='annapurna-R normal' style='font-feature-settings: "cv08" 1, "ss08" 1'>५</span> | `cv08=1 or ss08=1`
+Standard    | <span class='annapurna-R normal'>५</span> | `ss08=0`
+Nepali style| <span class='annapurna-R normal' style='font-feature-settings: "cv08" 1, "ss08" 1'>५</span> | `ss08=1`
 
 #### Digit eight alternate
 
@@ -96,8 +96,8 @@ Nepali style| <span class='annapurna-R normal' style='font-feature-settings: "cv
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard     | <span class='annapurna-R normal'>८</span> | `cv09=0 or ss09=0`
-Nepali style | <span class='annapurna-R normal' style='font-feature-settings: "cv09" 1, "ss09" 1'>८</span> | `cv09=1 or ss09=1`
+Standard     | <span class='annapurna-R normal'>८</span> | `ss09=0`
+Nepali style | <span class='annapurna-R normal' style='font-feature-settings: "cv09" 1, "ss09" 1'>८</span> | `ss09=1`
 
 #### Digit nine alternates
 
@@ -105,9 +105,9 @@ Nepali style | <span class='annapurna-R normal' style='font-feature-settings: "c
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard     | <span class='annapurna-R normal'>९</span> | `cv10=0 or ss10=0`
-Nepali style | <span class='annapurna-R normal' style='font-feature-settings: "cv10" 1, "ss10" 1'>९</span> | `cv10=1 or ss10=1`
-Newari style | <span class='annapurna-R normal' style='font-feature-settings: "cv10" 2, "ss11" 1'>९</span> | `cv10=2 or ss11=1`
+Standard     | <span class='annapurna-R normal'>९</span> | `ss10=0`
+Nepali style | <span class='annapurna-R normal' style='font-feature-settings: "cv10" 1, "ss10" 1'>९</span> | `ss10=1`
+Newari style | <span class='annapurna-R normal' style='font-feature-settings: "cv10" 2, "ss11" 1'>९</span> | `ss11=1`
 
 #### Visarga with connecting bar
 
@@ -115,8 +115,8 @@ Newari style | <span class='annapurna-R normal' style='font-feature-settings: "c
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard | <span class='annapurna-R normal'>&nbsp;ः</span> | `cv12=0 or ss12=0`
-With bar | <span class='annapurna-R normal' style='font-feature-settings: "cv12" 1, "ss12" 1'>&nbsp;ः</span> | `cv12=1 or ss12=1`
+Standard | <span class='annapurna-R normal'>&nbsp;ः</span> | `ss12=0`
+With bar | <span class='annapurna-R normal' style='font-feature-settings: "cv12" 1, "ss12" 1'>&nbsp;ः</span> | `ss12=1`
 
 #### Glottal stop - no connecting bar
 
@@ -124,8 +124,8 @@ With bar | <span class='annapurna-R normal' style='font-feature-settings: "cv12"
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard | <span class='annapurna-R normal'>ॽ</span> | `cv13=0 or ss13=0`
-No bar   | <span class='annapurna-R normal' style='font-feature-settings: "cv13" 1, "ss13" 1'>ॽ</span> | `cv13=1 or ss13=1`
+Standard | <span class='annapurna-R normal'>ॽ</span> | `ss13=0`
+No bar   | <span class='annapurna-R normal' style='font-feature-settings: "cv13" 1, "ss13" 1'>ॽ</span> | `ss13=1`
 
 #### Dya and Hya alternates
 
@@ -133,8 +133,8 @@ No bar   | <span class='annapurna-R normal' style='font-feature-settings: "cv13"
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard       | <span class='annapurna-R normal'>द्य द्य्&zwj; द्य़ द्य़्&zwj; द्य्र द्य़्र &nbsp;&nbsp; ह्य ह्य्&zwj; ह्य़ ह्य़्&zwj; ह्य्र ह्य़्र</span> | `cv14=0 or ss14=0`
-Open Ya | <span class='annapurna-R normal' style='font-feature-settings: "cv14" 1, "ss14" 1'>द्य द्य्&zwj; द्य़ द्य़्&zwj; द्य्र द्य़्र &nbsp;&nbsp; ह्य ह्य्&zwj; ह्य़ ह्य़्&zwj; ह्य्र ह्य़्र</span> | `cv14=1 or ss14=1`
+Standard       | <span class='annapurna-R normal'>द्य द्य्&zwj; द्य़ द्य़्&zwj; द्य्र द्य़्र &nbsp;&nbsp; ह्य ह्य्&zwj; ह्य़ ह्य़्&zwj; ह्य्र ह्य़्र</span> | `ss14=0`
+Open Ya | <span class='annapurna-R normal' style='font-feature-settings: "cv14" 1, "ss14" 1'>द्य द्य्&zwj; द्य़ द्य़्&zwj; द्य्र द्य़्र &nbsp;&nbsp; ह्य ह्य्&zwj; ह्य़ ह्य़्&zwj; ह्य्र ह्य़्र</span> | `ss14=1`
 
 #### Archaic forms
 
@@ -142,8 +142,8 @@ Open Ya | <span class='annapurna-R normal' style='font-feature-settings: "cv14" 
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard      | <span class='annapurna-R normal'>अ आ ओ औ ण ण्&zwj; क्ष क्ष्&zwj;</span> | `cv15=0 or ss15=0`
-Archaic form | <span class='annapurna-R normal' style='font-feature-settings: "cv15" 1, "ss15" 1'>अ आ ओ औ ण ण्&zwj; क्ष क्ष्&zwj;</span> | `cv15=1 or ss15=1`
+Standard      | <span class='annapurna-R normal'>अ आ ओ औ ण ण्&zwj; क्ष क्ष्&zwj;</span> | `ss15=0`
+Archaic form | <span class='annapurna-R normal' style='font-feature-settings: "cv15" 1, "ss15" 1'>अ आ ओ औ ण ण्&zwj; क्ष क्ष्&zwj;</span> | `ss15=1`
 
 #### Ra Ukar with Nukta ligatures
 
@@ -151,8 +151,8 @@ Archaic form | <span class='annapurna-R normal' style='font-feature-settings: "c
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard | <span class='annapurna-R normal'>रु़ ऱु़ &nbsp;&nbsp; रू़ ऱू़</span> | `cv16=0 or ss16=0`
-Ligature form| <span class='annapurna-R normal' style='font-feature-settings: "cv16" 1, "ss16" 1'>रु़ ऱु़ &nbsp;&nbsp; रू़ ऱू़</span> | `cv16=1 or ss16=1`
+Standard | <span class='annapurna-R normal'>रु़ ऱु़ &nbsp;&nbsp; रू़ ऱू़</span> | `ss16=0`
+Ligature form| <span class='annapurna-R normal' style='font-feature-settings: "cv16" 1, "ss16" 1'>रु़ ऱु़ &nbsp;&nbsp; रू़ ऱू़</span> | `ss16=1`
 
 #### Cha alternate
 
@@ -160,8 +160,17 @@ Ligature form| <span class='annapurna-R normal' style='font-feature-settings: "c
 
 Feature  | Sample                       | Feature setting
 :------- | :--------------------------- | :-------
-Standard | <span class='annapurna-R normal'>छ छ् छ्क</span> | `cv17=0 or ss17=0`
-With tail or no stem| <span class='annapurna-R normal' style='font-feature-settings: "cv17" 1, "ss17" 1'>छ छ् छ्क</span> | `cv17=1 or ss17=1`
+Standard | <span class='annapurna-R normal'>छ छ् छ्क</span> | `ss17=0`
+With tail or no stem| <span class='annapurna-R normal' style='font-feature-settings: "cv17" 1, "ss17" 1'>छ छ् छ्क</span> | `ss17=1`
+
+#### Sha alternate
+
+<span class='affects'>Affects: U+0936</span>
+
+Feature  | Sample                       | Feature setting
+:------- | :--------------------------- | :-------
+Standard | <span class='annapurna-R normal'>श शृं</span> | `ss18=0`
+As a loop| <span class='annapurna-R normal' style='font-feature-settings: "cv18" 1, "ss18" 1'>श शृं</span> | `ss18=1`
 
 #### Headstroke alternates
 

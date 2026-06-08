@@ -6,8 +6,10 @@
     "family": "Annapurna SIL Nepal",
     "files": {
         "AnnapurnaSILNepal-Bold.ttf": { "axes": { "ital": 0, "wght": 700.0 }, "packagepath": "AnnapurnaSILNepal-Bold.ttf" },
-        "AnnapurnaSILNepal-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AnnapurnaSILNepal-Regular.ttf" }
+        "AnnapurnaSILNepal-Medium.ttf": { "altfamily": "Annapurna SIL Nepal Medium", "axes": { "ital": 0, "wght": 500.0 }, "packagepath": "AnnapurnaSILNepal-Medium.ttf" },
+        "AnnapurnaSILNepal-Regular.ttf": { "axes": { "ital": 0, "wght": 400.0 }, "packagepath": "AnnapurnaSILNepal-Regular.ttf" },
+        "AnnapurnaSILNepal-SemiBold.ttf": { "altfamily": "Annapurna SIL Nepal SemiBold", "axes": { "ital": 0, "wght": 600.0 }, "packagepath": "AnnapurnaSILNepal-SemiBold.ttf" }
     },
-    "version": "2.100"
+    "version": "3.000"
 }
 }

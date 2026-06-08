@@ -7,13 +7,13 @@ We hope you find it useful!
 
 Annapurna SIL provides glyphs for a wide range of Devanagari and Latin.
 For further information about this font, including Unicode ranges
-supported, Graphite and OpenType font features and how to use them, 
+supported, OpenType font features and how to use them, 
 and licensing, please see the documentation on the website 
 (https://software.sil.org/annapurna) or in the documentation 
 subfolder of this font package. 
 
 Annapurna SIL is released under the SIL Open Font License.
-Annapurna SIL is a trademark of SIL International.
+Annapurna SIL is a trademark of SIL Global.
 	
 See the OFL and OFL-FAQ for details of the SIL Open Font License.
 See the FONTLOG for information on this and previous releases.
@@ -25,8 +25,7 @@ TIPS
 As this font is distributed at no cost, we are unable to provide a 
 commercial level of personal technical support. The font has, however, 
 been through some testing on various platforms to be sure it works in most
-situations. In particular, it has been tested and shown to work on 
-Windows 10 and 11.
+situations. In particular, it has been tested and shown to work on Windows 11.
 
 If you do find a problem, please do report it through the website: 
 https://software.sil.org/annapurna/support/. 
@@ -58,10 +57,9 @@ palette that shows all the glyphs (symbols) in a font and allow you to enter
 them by clicking on the glyph you want.
 
 Rendering:
-This font is designed to work with two advanced font technologies, 
-Graphite and OpenType. To take advantage of the advanced typographic 
-capabilities of this font, you must be using applications that provide an
-adequate level of support for Graphite or OpenType.
+This font is designed to work with OpenType. To take advantage of the advanced 
+typographic capabilities of this font, you must be using applications that 
+provide an adequate level of support for OpenType.
 
 
 INSTALLATION AND CONFIGURATION
@@ -75,5 +73,5 @@ at https://software.sil.org/fonts/installation.
 
 CONTACT
 ========
-For more information please visit the Annapurna SIL page on SIL International's 
+For more information please visit the Annapurna SIL page on SIL Global's 
 software website: https://software.sil.org/annapurna.

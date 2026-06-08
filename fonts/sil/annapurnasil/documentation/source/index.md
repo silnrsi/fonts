@@ -1,13 +1,13 @@
 ---
 title: Annapurna SIL - Documentation
-fontversion: 2.100
+fontversion: 3.000
 ---
 
 Thank you for your interest in the Annapurna SIL fonts. This font family supports over 200 writing systems that use the Devanagari script. The design is optimized for high readability at a wide range of sizes and resolutions, making it ideal for a large corpus of text. 
 
 This documentation is a set of HTML pages that can be viewed in any modern web browser. PDF versions of these pages are also provided. This content, plus download links and a contact form, are available from the [Annapurna SIL site](https://software.sil.org/annapurna/).
 
-- [About](about.md) — Information about this project and SIL International
+- [About](about.md) — Information about this project and SIL Global
 - [Resources](resources.md) — Help with installation and use
 - [FAQ](faq.md) — Common questions and answers
 - [Design](design.md) — History and background of the design
