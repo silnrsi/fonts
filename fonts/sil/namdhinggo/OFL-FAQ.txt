@@ -1,4 +1,4 @@
-﻿OFL FAQ - Frequently Asked Questions about the SIL Open Font License (OFL)
+OFL FAQ - Frequently Asked Questions about the SIL Open Font License (OFL)
 Version 1.1-update7 - November 2023
 The OFL FAQ is Copyright (c) 2005-2023, SIL International (https://www.sil.org)
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.

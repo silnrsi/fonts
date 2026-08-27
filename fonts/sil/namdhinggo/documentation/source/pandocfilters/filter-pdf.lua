@@ -12,11 +12,6 @@ function Link(el)
 end
 
 function Image(el)
-  el.src = string.gsub(el.src, "(.+)", "../../%0")
-  return el
-end
-
-function CodeBlock(el)
-  el.text = string.gsub(el.text, "(.+)", "    %0")
+  el.src = string.gsub(el.src, "../assets", "../../assets")
   return el
 end

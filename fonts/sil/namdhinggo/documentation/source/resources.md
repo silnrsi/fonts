@@ -1,6 +1,6 @@
 ---
 title: Namdhinggo - Resources
-fontversion: 3.100
+fontversion: 3.200
 ---
 
 ## Requirements
@@ -17,21 +17,22 @@ These fonts do not include keyboards or other software for entering text. To typ
 
 Two separate Keyman keyboards for Limbu script are available.
 
-- [Limbu Phonetic (SIL)](]https://keyman.com/keyboards/sil_limbu_phonetic) keyboard uses a Romanized layout, where the Limbu characters are located on the corresponding Latin keys (Limbu U+1901 LIMBU LETTER KA is on the 'k' key, etc.).
+- [Limbu Phonetic (SIL)](https://keyman.com/keyboards/sil_limbu_phonetic) keyboard uses a Romanized layout, where the Limbu characters are located on the corresponding Latin keys (Limbu U+1901 LIMBU LETTER KA is on the 'k' key, etc.).
 - The [Limbu Typewriter (SIL)](https://keyman.com/keyboards/sil_limbu_typewriter) is the "Typewriter" layout, which roughly matches the layout of a manual Devanagari typewriter.
 
-For information on other keyboarding options see the overview at [Keyboard Systems Overview (ScriptSource)](https://scriptsource.org/entry/ytr8g8n6sw).
+For information on other keyboarding options see the overview at [Keyboard and Tools (Writing Systems Technical Resources)](https://writingsystems.info/topics/input/keyboards-and-tools/).
 
 See [Character set support](charset.md) for details of the Unicode characters supported by these fonts.
 
 ## Rendering and application support
 
-- The font will work in applications that use HarfBuzz (such as Firefox, Chrome, Android, and LibreOffice) and InDesign (2020 and later).
-- The font will not work in DirectWrite applications (such as Microsoft Word on Windows) prior to Windows 11, which contains a fix for Limbu script shaping.
+Complex typographic issues such as the placement of combining marks or the formation of conjuncts and ligatures are handled by the font, provided you are running an application that provides an adequate level of support for OpenType shaping.
+
+Some applications have problems when displaying Limbu script, including with the Namdhinggo font. For details, see the [FAQ](faq.md).
 
 ## Web fonts
 
-Web font versions of these fonts (in WOFF and WOFF2 formats) are available in the `web` folder. These can be copied to a web server and used as fonts on web pages. A very basic HTML/CSS demo page is also included. For more information on the options and techniques available for using these fonts on web pages see [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts).
+Web font versions of these fonts (in WOFF and WOFF2 formats) are available in the `web` folder. These can be copied to a web server and used as fonts on web pages. A very basic HTML/CSS demo page is also included. For more information on the options and techniques available for using these fonts on web pages see [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts/).
 
 ## Text conversion
 

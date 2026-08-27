@@ -1,9 +1,12 @@
 ---
 title: Namdhinggo - Character Set Support
-fontversion: 3.100
+fontversion: 3.200
 ---
 
-Namdhinggo supports the Limbu script, the double danda from Devanagari, and a basic set of Latin characters.
+Namdhinggo supports the Limbu script, the dandas from Devanagari, and a basic set of Latin characters.
+A selection of characters from the General Punctuation block
+(such as various-sized spaces, dashes and quotes) are also supported.
+
 Inclusion of a basic Latin repertoire is provided as a convenience, e.g., for use in menus or for displaying markup in text files.
 These fonts are not intended for extensive Latin script use.
 
@@ -35,5 +38,4 @@ Variation Selectors|U+FE00..U+FE0F
 Arabic Presentation Forms B|U+FEFF
 Specials|U+FFFC..U+FFFD
 
-The Devanagari "bit" is set in this font to prevent unwarranted font switching when U+0965 DEVANAGARI DOUBLE DANDA or U+0964 DEVANAGARI DANDA is used.
-However, U+0964 and U+0965 are the only characters from the Devanagari block in this font.
+U+0964 and U+0965 are the only characters from the Devanagari block in this font.

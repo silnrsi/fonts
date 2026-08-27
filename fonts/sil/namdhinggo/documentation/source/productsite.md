@@ -1,6 +1,6 @@
 ---
 title: Namdhinggo - Product Site
-fontversion: 3.100
+fontversion: 3.200
 ---
 
 ![Namdhinggo - Banner](assets/images/Limbu_banner.png){.fullsize}
@@ -48,9 +48,13 @@ These fonts are licensed under the [SIL Open Font License (OFL)](https://openfon
 
 [sil_download style="table" sort="name" where="info.type == 'font'"]
 
-#### Release Notes for v3.100
+#### Release Notes for v3.200
 
-- Add single danda (U+0964)
+- The soft hyphen (used for with automatic hyphenation) can now be shown with a double form (similar to an equal sign) with some publishing software. A stylistic set (`ss18`) has been added to enable this form.
+- Two other stylistic sets have been added to change the display of digits.
+  - `ss19` Show European digits as Limbu script digits. This feature can be useful for getting the desired form of page numbers (for example) when publishing.
+  - `ss20` Show Limbu script as European digits digits.
+- Improved shaping for Adobe InDesign when using Lipika shaping engine
 
 ### Previous Versions
 
@@ -67,7 +71,7 @@ These fonts are licensed under the [SIL Open Font License (OFL)](https://openfon
 
 We welcome contributions to this font project, such as new glyphs, enhanced smart font code, or bug fixes. The best way to begin the process is to file an issue in the [Github Namdhinggo project](https://github.com/silnrsi/font-namdhinggo) or respond to an existing issue and express your interest. Then we can begin to correspond with you regarding what all might be required and discuss how to best submit your contributions.
 
-To enable us to accept contributions in a way that honors your contribution and respects your copyright while preserving long-term flexibility for open source licensing, you would also need to agree to the SIL International Contributor License Agreement for Font Software (v1.0) prior to sending us your contribution. To read more about this requirement and find out how to submit the required form, please visit the [CLA information page](https://software.sil.org/fontcla).
+To enable us to accept contributions in a way that honors your contribution and respects your copyright while preserving long-term flexibility for open source licensing, you would also need to agree to the SIL Global Contributor License Agreement for Font Software (v1.1) prior to sending us your contribution. To read more about this requirement and find out how to submit the required form, please visit the [CLA information page](https://software.sil.org/fontcla).
 
 [top]
 

@@ -1,7 +1,12 @@
 ---
 title: Namdhinggo - Version History
-fontversion: 3.100
+fontversion: 3.200
 ---
+
+### 10 Aug 2026 (SIL WSTech Team) Namdhinggo version 3.200
+- Added an option of a double hyphen for the soft hyphen
+- Added stylistic sets for use in publishing
+- Improved shaping for Adobe InDesign when using Lipika shaping engine
 
 ### 21 Dec 2023 (SIL WSTech Team) Namdhinggo version 3.100
 - Add single danda (U+0964)
