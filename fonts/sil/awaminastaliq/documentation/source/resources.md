@@ -1,6 +1,6 @@
 ---
 title: Awami Nastaliq - Resources
-fontversion: 3.400
+fontversion: 3.500
 ---
 
 The SIL Arabic script fonts are encoded according to Unicode, so your application must support Unicode text in order to access letters other than the standard ANSI characters. Most applications now provide basic Unicode support. You will, however, need some way of entering Unicode text into your document.
@@ -44,7 +44,7 @@ On Windows 10/11: see [Use the On-Screen Keyboard (OSK) to type](https://support
 
 The Awami Nastaliq font requires software enabled with the very latest [Graphite](https://graphite.sil.org/) engine (version 1.3.4+) in order to render correctly. The font does not support OpenType rendering. **It will not work with standard software such as Microsoft Office**. 
 
-Currently, the only software that can render Awami Nastaliq are the [Firefox web browser](https://www.mozilla.org/firefox), the [LibreOffice suite](https://www.libreoffice.org/), [XeTeX/XeLaTeX](https://www.tug.org/texlive/), and linguistic software such as [FieldWorks](https://software.sil.org/fieldworks/), [Paratext](https://paratext.org/), [PTXprint](https://software.sil.org/ptxprint/), and [Bloom](https://bloomlibrary.org/).
+Currently, the only software that can render Awami Nastaliq are the [Firefox web browser](https://www.mozilla.org/firefox), the [LibreOffice suite](https://www.libreoffice.org/), [XeTeX/XeLaTeX](https://www.tug.org/texlive/), and linguistic software such as [FieldWorks](https://software.sil.org/fieldworks/), [Paratext](https://paratext.org/), and [PTXprint](https://software.sil.org/ptxprint/).
 
 If a developer wishes to add support for Graphite, the Graphite engine is available [here](https://github.com/silnrsi/graphite/releases/).
 
@@ -120,7 +120,7 @@ One common type of data conversion is from Roman script to Arabic script. Cross-
 
 One page that may prove helpful is: [Roman Script to Arabic Script Conversion](https://software.sil.org/arabicfonts/rs-to-as-conversion/).
 
-Other suggestions are listed here: [Introduction to Text Conversion and Transliteration](https://scriptsource.org/entry/xlzd6n5aqt).
+Other suggestions are listed here: [Encoding Conversion](http://writingsystems.info/topics/encoding/encoding-conversion/).
 
 See also: [Arabic Fonts -- Resources](https://software.sil.org/arabicfonts/resources/).
 

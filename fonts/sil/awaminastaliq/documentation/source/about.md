@@ -1,10 +1,7 @@
 ---
 title: Awami Nastaliq - About
-fontversion: 3.400
+fontversion: 3.500
 ---
-
-## About this project
-
 
 *Awami Nastaliq* is a Nastaliq-style Arabic script font supporting a wide variety of languages of South Asia, including but not limited to Urdu. This font is aimed at minority language support. This makes it unique among Nastaliq fonts.
 
@@ -37,7 +34,7 @@ You can subscribe using either of the two following options.
 
 ## Supporting the project
 
-These fonts are provided at no cost; however, they are expensive to produce and maintain. Please consider donating to SIL’s font development efforts to support future development. Go to [SIL’s Give Direct page](https://give.sil.org/campaign/725115/donate). **Thank you!** 
+These fonts are provided at no cost; however, they are expensive to produce and maintain. Please consider donating to SIL’s font development efforts to support future development. Go to the [WSTech donation page](https://give.sil.org/campaign/725115/donate). **Thank you!** 
 
 ## About SIL Global
 
